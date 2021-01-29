@@ -22,7 +22,7 @@ jobs:
       - name: Build bib
         run: |
           pip3 install -U academic
-          academic import --bibtex publications.bib
+          ~/.local/bin/academic import --bibtex publications.bib
 
       - name: Build
         run: hugo
