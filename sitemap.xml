@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ldbc.github.io/</loc>
+    <lastmod>2021-01-28T21:55:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/categories/</loc>
+    <lastmod>2021-01-28T21:55:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/categories/hugo-website/</loc>
+    <lastmod>2021-01-28T21:55:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/posts/my-first-post/</loc>
+    <lastmod>2021-01-28T21:55:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/posts/</loc>
+    <lastmod>2021-01-28T21:55:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/</loc>
+    <lastmod>2021-01-28T21:55:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/test/</loc>
+    <lastmod>2021-01-28T21:55:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
