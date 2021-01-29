@@ -19,6 +19,11 @@ jobs:
         with:
           hugo-version: '0.80.0'
 
+      - name: Build bib
+        run: |
+          pip3 install -U academic
+          academic import --bibtex publications.bib
+
       - name: Build
         run: hugo
 
