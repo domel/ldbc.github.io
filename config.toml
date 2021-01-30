@@ -1,6 +1,6 @@
 #baseURL = "https://ldbcouncil.org"
 baseURL = "https://ldbc.github.io"
-title = "LDBCouncil"
+title = "Linked Data Benchmark Council"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
 theme = "hugo.386"
