@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on LDBCouncil</title>
+    <title>Posts on Linked Data Benchmark Council</title>
     <link>https://ldbc.github.io/posts/</link>
-    <description>Recent content in Posts on LDBCouncil</description>
+    <description>Recent content in Posts on Linked Data Benchmark Council</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 28 Jan 2021 21:55:18 -0500</lastBuildDate><atom:link href="https://ldbc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
