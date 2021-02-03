@@ -17,6 +17,186 @@
     </item>
     
     <item>
+      <title>A Distributed Path Query Engine for Temporal Property Graphs</title>
+      <link>https://ldbc.github.io/publication/ccgrid-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/ccgrid-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An analysis of the SIGMOD 2014 Programming Contest: Complex queries on the LDBC social network graph</title>
+      <link>https://ldbc.github.io/publication/dblp-journalscorrabs-2010-12243/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalscorrabs-2010-12243/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Evaluation of an Edge Concurrency Control Protocol for Distributed Graph Databases</title>
+      <link>https://ldbc.github.io/publication/ezhilchelvan-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/ezhilchelvan-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elle: Inferring Isolation Anomalies from Experimental Observations</title>
+      <link>https://ldbc.github.io/publication/dblp-journalscorrabs-2003-10554/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalscorrabs-2003-10554/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Generators: State of the Art and Open Challenges</title>
+      <link>https://ldbc.github.io/publication/dblp-journalscsur-bonifati-hps-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalscsur-bonifati-hps-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GraphQL</title>
+      <link>https://ldbc.github.io/publication/graph-ql/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/graph-ql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hermitage: Testing transaction isolation levels</title>
+      <link>https://ldbc.github.io/publication/hermitage/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/hermitage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jepsen Analyses</title>
+      <link>https://ldbc.github.io/publication/kingsbury/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/kingsbury/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maintaining Acyclic Foreign-Key Joins under Updates</title>
+      <link>https://ldbc.github.io/publication/dblp-confsigmod-wang-y-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confsigmod-wang-y-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preserving Reciprocal Consistency in Distributed Graph Databases</title>
+      <link>https://ldbc.github.io/publication/waudby-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/waudby-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying TPC-H Choke Points and Their Optimizations</title>
+      <link>https://ldbc.github.io/publication/dblp-journalspvldb-dreseler-bru-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalspvldb-dreseler-bru-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raphtory: Streaming analysis of distributed temporal graphs</title>
+      <link>https://ldbc.github.io/publication/dblp-journalsfgcs-steer-cc-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalsfgcs-steer-cc-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting Dynamic Graphs and Temporal Entity Deletions in the LDBC Social Network Benchmark&#39;s Data Generator</title>
+      <link>https://ldbc.github.io/publication/dblp-confsigmod-waudby-sps-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confsigmod-waudby-sps-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Gremlin Graph Traversal Machine and Language</title>
+      <link>https://ldbc.github.io/publication/gremlin/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/gremlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The LDBC Graphalytics Benchmark</title>
+      <link>https://ldbc.github.io/publication/dblp-journalscorrabs-2011-15028/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalscorrabs-2011-15028/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The LDBC Social Network Benchmark</title>
+      <link>https://ldbc.github.io/publication/dblp-journalscorrabs-2001-02299/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalscorrabs-2001-02299/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ubiquity of large graphs and surprising challenges of graph processing: Extended survey</title>
+      <link>https://ldbc.github.io/publication/sahu-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/sahu-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Testing ACID Compliance in the LDBC Social Network Benchmark</title>
+      <link>https://ldbc.github.io/publication/tpctc-acid/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/tpctc-acid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and Benchmarking the Impact of GDPR on Database Systems</title>
+      <link>https://ldbc.github.io/publication/dblp-journalspvldb-shastri-bwkc-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalspvldb-shastri-bwkc-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Which is your favorite music genre? A validity comparison of Facebook data and survey data</title>
+      <link>https://ldbc.github.io/publication/dblp-journalscorrabs-2002-00501/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalscorrabs-2002-00501/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://ldbc.github.io/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
@@ -37,38 +217,1046 @@ Hugo makes use of a variety of open source projects including:
     </item>
     
     <item>
-      <title>IncQuery-D: A Distributed Incremental Model Query Framework in the Cloud</title>
-      <link>https://ldbc.github.io/publication/dblp-confmodels-szarnyas-irhbv-14/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <title>Collapse of an online social network: Burning social capital to create it?</title>
+      <link>https://ldbc.github.io/publication/lorincz-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ldbc.github.io/publication/dblp-confmodels-szarnyas-irhbv-14/</guid>
+      <guid>https://ldbc.github.io/publication/lorincz-2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>MONDO-SAM: A Framework to Systematically Assess MDE Scalability</title>
-      <link>https://ldbc.github.io/publication/dblp-confstaf-izso-srv-14/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <title>Demystifying Graph Databases: Analysis and Taxonomy of Data Organization, System Designs, and Graph Queries</title>
+      <link>https://ldbc.github.io/publication/besta-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ldbc.github.io/publication/dblp-confstaf-izso-srv-14/</guid>
+      <guid>https://ldbc.github.io/publication/besta-2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Movie Database Case: An EMF-IncQuery Solution</title>
-      <link>https://ldbc.github.io/publication/dblp-confstaf-szarnyas-sidhub-14/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <title>Mining Bursting Communities in Temporal Graphs</title>
+      <link>https://ldbc.github.io/publication/dblp-journalscorrabs-1911-02780/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ldbc.github.io/publication/dblp-confstaf-szarnyas-sidhub-14/</guid>
+      <guid>https://ldbc.github.io/publication/dblp-journalscorrabs-1911-02780/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>IncQuery-D: Incremental graph search in the cloud</title>
-      <link>https://ldbc.github.io/publication/dblp-confstaf-izso-srv-13/</link>
+      <title>Practice of Streaming and Dynamic Graphs: Concepts, Models, Systems, and Parallelism</title>
+      <link>https://ldbc.github.io/publication/dblp-journalscorrabs-1912-12740/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalscorrabs-1912-12740/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TPC Benchmark DS, revision 2.11.0</title>
+      <link>https://ldbc.github.io/publication/tpcds/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/tpcds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TPC Pricing Specification, revision 2.5.0</title>
+      <link>https://ldbc.github.io/publication/tpc-pricing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/tpc-pricing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TPC-DS</title>
+      <link>https://ldbc.github.io/publication/dblp-referencebdt-poess-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-referencebdt-poess-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TPC-H</title>
+      <link>https://ldbc.github.io/publication/dblp-referencebdt-poess-19-a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-referencebdt-poess-19-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and Benchmarking the Impact of GDPR on Database Systems</title>
+      <link>https://ldbc.github.io/publication/shastri-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/shastri-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Updating Graph Databases with Cypher</title>
+      <link>https://ldbc.github.io/publication/green-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/green-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A graph solver for the automated generation of consistent domain-specific models</title>
+      <link>https://ldbc.github.io/publication/dblp-conficse-semerath-nv-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-conficse-semerath-nv-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey of Benchmarks for Graph-Processing Systems</title>
+      <link>https://ldbc.github.io/publication/dblp-bookssp-18-bonifati-fhi-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-bookssp-18-bonifati-fhi-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An early look at the LDBC Social Network Benchmark&#39;s Business Intelligence workload</title>
+      <link>https://ldbc.github.io/publication/dblp-confgrades-szarnyas-pampkeb-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confgrades-szarnyas-pampkeb-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Macrobenchmarks: Microbenchmark-based Graph Database Evaluation</title>
+      <link>https://ldbc.github.io/publication/dblp-journalspvldb-lissandrini-bv-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalspvldb-lissandrini-bv-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BG: A scalable benchmark for interactive social networking actions</title>
+      <link>https://ldbc.github.io/publication/dblp-journalsfgcs-alabdulkarim-bg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalsfgcs-alabdulkarim-bg-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Birds of a feather scam together: Trustworthiness homophily in a business network</title>
+      <link>https://ldbc.github.io/publication/dblp-journalssocnet-barone-c-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalssocnet-barone-c-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cypher: An Evolving Query Language for Property Graphs</title>
+      <link>https://ldbc.github.io/publication/dblp-confsigmod-francis-ggllmprs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confsigmod-francis-ggllmprs-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fair Benchmarking Considered Difficult: Common Pitfalls In Database Performance Testing</title>
+      <link>https://ldbc.github.io/publication/dblp-confsigmod-raasveldt-hgm-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confsigmod-raasveldt-hgm-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G-CORE: A Core for Future Graph Query Languages</title>
+      <link>https://ldbc.github.io/publication/dblp-confsigmod-angles-abbfglpps-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confsigmod-angles-abbfglpps-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GraphTides: A framework for evaluating stream-based graph processing platforms</title>
+      <link>https://ldbc.github.io/publication/dblp-confgrades-erb-mkscmp-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confgrades-erb-mkscmp-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hornet: An Efficient Data Structure for Dynamic Sparse Graphs and Matrices on GPUs</title>
+      <link>https://ldbc.github.io/publication/dblp-confhpec-busato-gbb-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confhpec-busato-gbb-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Cypher style guide</title>
+      <link>https://ldbc.github.io/publication/cypher-style-guide/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/cypher-style-guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Train Benchmark: Cross-technology performance evaluation of continuous model queries</title>
+      <link>https://ldbc.github.io/publication/dblp-journalssosym-szarnyas-irv-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalssosym-szarnyas-irv-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Updating Dynamic Random Hyperbolic Graphs in Sublinear Time</title>
+      <link>https://ldbc.github.io/publication/dblp-journalsjea-looz-m-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalsjea-looz-m-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of TPC-DS: the first standard benchmark for SQL-based big data systems</title>
+      <link>https://ldbc.github.io/publication/dblp-confcloud-poess-rj-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confcloud-poess-rj-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Byelaws of the Linked Data Benchmark Council v1.1</title>
+      <link>https://ldbc.github.io/publication/ldbc-byelaws/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/ldbc-byelaws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do We Need Specialized Graph Databases? Benchmarking Real-Time Social Networking Applications</title>
+      <link>https://ldbc.github.io/publication/dblp-confgrades-pacaci-zlo-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confgrades-pacaci-zlo-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examining the TPC Pricing Specification 2.0.0</title>
+      <link>https://ldbc.github.io/publication/pricing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/pricing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal validation of domain-specific languages with derived features and well-formedness constraints</title>
+      <link>https://ldbc.github.io/publication/dblp-journalssosym-semerath-bhsv-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalssosym-semerath-bhsv-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foundations of Modern Query Languages for Graph Databases</title>
+      <link>https://ldbc.github.io/publication/dblp-journalscsur-angles-abhrv-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalscsur-angles-abhrv-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gMark: Schema-Driven Generation of Graphs and Queries</title>
+      <link>https://ldbc.github.io/publication/g-mark/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/g-mark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LDBC SNB Datagen: Under the hood</title>
+      <link>https://ldbc.github.io/publication/datagen/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/datagen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSPLab: RDF Stream Processing Benchmarking Made Easy</title>
+      <link>https://ldbc.github.io/publication/dblp-confsemweb-tommasini-vmb-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confsemweb-tommasini-vmb-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seeing is Believing: A Client-Centric Specification of Database Isolation</title>
+      <link>https://ldbc.github.io/publication/dblp-confpodc-crooks-pac-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confpodc-crooks-pac-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TPC Benchmark H, revision 2.18.0</title>
+      <link>https://ldbc.github.io/publication/tpch/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/tpch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trinity Graph Engine and its Applications</title>
+      <link>https://ldbc.github.io/publication/dblp-journalsdebu-shao-lwx-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalsdebu-shao-lwx-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An RDF Dataset Generator for the Social Network Benchmark with Real-World Coherence</title>
+      <link>https://ldbc.github.io/publication/dblp-confsemweb-spasic-jp-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confsemweb-spasic-jp-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmarking RDF Query Engines: The LDBC Semantic Publishing Benchmark</title>
+      <link>https://ldbc.github.io/publication/dblp-confsemweb-kotsev-mpefk-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confsemweb-kotsev-mpefk-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LDBC Graphalytics: A Benchmark for Large-Scale Graph Analysis on Parallel and Distributed Platforms</title>
+      <link>https://ldbc.github.io/publication/dblp-journalspvldb-iosup-hnhpmccsat-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalspvldb-iosup-hnhpmccsat-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LDBC Graphalytics: A Benchmark for Large-Scale Graph Analysis on Parallel and Distributed Platforms</title>
+      <link>https://ldbc.github.io/publication/iosup-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/iosup-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PGQL: a property graph query language</title>
+      <link>https://ldbc.github.io/publication/dblp-confgrades-rest-hkmc-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confgrades-rest-hkmc-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Atomic Visibility with RAMP Transactions</title>
+      <link>https://ldbc.github.io/publication/dblp-journalstods-bailis-fghs-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalstods-bailis-fghs-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What&#39;s Really New with NewSQL?</title>
+      <link>https://ldbc.github.io/publication/dblp-journalssigmod-pavlo-a-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalssigmod-pavlo-a-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Framework for Transactional Consistency Models with Atomic Visibility</title>
+      <link>https://ldbc.github.io/publication/dblp-confconcur-cerone-0-g-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confconcur-cerone-0-g-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GraphBIG: Understanding graph computing in the context of industrial solutions</title>
+      <link>https://ldbc.github.io/publication/dblp-confsc-nai-xtkl-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confsc-nai-xtkl-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large scale graph processing systems: Survey and an experimental evaluation</title>
+      <link>https://ldbc.github.io/publication/dblp-journalscluster-batarfi-sfnbbs-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalscluster-batarfi-sfnbbs-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LDBC SNB Benchmark Auditing</title>
+      <link>https://ldbc.github.io/publication/auditing/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/auditing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific benchmarking of parallel computing systems: Twelve ways to tell the masses when reporting performance results</title>
+      <link>https://ldbc.github.io/publication/dblp-confsc-hoefler-b-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confsc-hoefler-b-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The LDBC Social Network Benchmark: Interactive Workload</title>
+      <link>https://ldbc.github.io/publication/dblp-confsigmod-erling-alcgppb-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confsigmod-erling-alcgppb-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TPC Benchmark E, revision 1.14.0</title>
+      <link>https://ldbc.github.io/publication/tpce/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/tpce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>https://github.com/ldbc/ldbc_driver</title>
+      <link>https://ldbc.github.io/publication/test-driver/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/test-driver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmark design for navigational pattern matching benchmarking</title>
+      <link>https://ldbc.github.io/publication/ldbc-deliverable/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/ldbc-deliverable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversified Stress Testing of RDF Data Management Systems</title>
+      <link>https://ldbc.github.io/publication/dblp-confsemweb-aluc-hod-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confsemweb-aluc-hod-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph database benchmarking on cloud environments with XGDBench</title>
+      <link>https://ldbc.github.io/publication/dblp-journalsase-dayarathna-s-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalsase-dayarathna-s-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How community-like is the structure of synthetically generated graphs?</title>
+      <link>https://ldbc.github.io/publication/dblp-confsigmod-prat-d-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confsigmod-prat-d-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LDBC Benchmark Auditing Policies</title>
+      <link>https://ldbc.github.io/publication/ldbc-auditing-policies-deliverable/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/ldbc-auditing-policies-deliverable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameter Curation for Benchmark Queries</title>
+      <link>https://ldbc.github.io/publication/dblp-conftpctc-gubichev-b-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-conftpctc-gubichev-b-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The bursty dynamics of the Twitter information network</title>
+      <link>https://ldbc.github.io/publication/dblp-confwww-myers-l-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confwww-myers-l-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Linked Data Benchmark Council: A graph and RDF industry benchmarking effort</title>
+      <link>https://ldbc.github.io/publication/dblp-journalssigmod-angles-blf-0-enmkt-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalssigmod-angles-blf-0-enmkt-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YCSB&#43;T: Benchmarking web-scale transactional databases</title>
+      <link>https://ldbc.github.io/publication/dblp-conficde-dey-fnr-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-conficde-dey-fnr-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An evaluation study of BigData frameworks for graph processing</title>
+      <link>https://ldbc.github.io/publication/dblp-confbigdataconf-elser-m-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://ldbc.github.io/publication/dblp-confstaf-izso-srv-13/</guid>
+      <guid>https://ldbc.github.io/publication/dblp-confbigdataconf-elser-m-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BG: A Benchmark to Evaluate Interactive Social Networking Actions</title>
+      <link>https://ldbc.github.io/publication/dblp-confcidr-barahmand-g-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confcidr-barahmand-g-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decremental maintenance of strongly connected components</title>
+      <link>https://ldbc.github.io/publication/dblp-confsoda-roditty-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confsoda-roditty-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direction-optimizing breadth-first search</title>
+      <link>https://ldbc.github.io/publication/dblp-journalssp-beamer-ap-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalssp-beamer-ap-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Highly Available Transactions: Virtues and Limitations</title>
+      <link>https://ldbc.github.io/publication/dblp-journalspvldb-bailis-dfghs-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalspvldb-bailis-dfghs-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limiting, leaving, and (re)lapsing: An exploration of Facebook non-use practices and experiences</title>
+      <link>https://ldbc.github.io/publication/dblp-confchi-baumer-aklssw-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confchi-baumer-aklssw-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LinkBench: A database benchmark based on the Facebook social graph</title>
+      <link>https://ldbc.github.io/publication/dblp-confsigmod-armstrong-pbc-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confsigmod-armstrong-pbc-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Network Intelligence BenchMark</title>
+      <link>https://ldbc.github.io/publication/sib/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/sib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TPC-H Analyzed: Hidden Messages and Lessons Learned from an Influential Benchmark</title>
+      <link>https://ldbc.github.io/publication/dblp-conftpctc-boncz-ne-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-conftpctc-boncz-ne-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tweets are forever: a large-scale quantitative analysis of deleted tweets</title>
+      <link>https://ldbc.github.io/publication/dblp-confcscw-almuhimedi-wlsa-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confcscw-almuhimedi-wlsa-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Execution of Top-K SPARQL Queries</title>
+      <link>https://ldbc.github.io/publication/dblp-confsemweb-magliacane-bv-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confsemweb-magliacane-bv-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G-SPARQL: a hybrid engine for querying large attributed graphs</title>
+      <link>https://ldbc.github.io/publication/dblp-confcikm-sakr-eh-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confcikm-sakr-eh-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GRAIL: a scalable index for reachability queries in very large graphs</title>
+      <link>https://ldbc.github.io/publication/dblp-journalsvldb-yildirim-cz-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalsvldb-yildirim-cz-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S3G2: A Scalable Structure-Correlated Social Graph Generator</title>
+      <link>https://ldbc.github.io/publication/dblp-conftpctc-pham-be-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-conftpctc-pham-be-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S3G2: A Scalable Structure-Correlated Social Graph Generator</title>
+      <link>https://ldbc.github.io/publication/pham-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/pham-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DBpedia SPARQL Benchmark - Performance Assessment with Real Queries on Real Data</title>
+      <link>https://ldbc.github.io/publication/dblp-confsemweb-morsey-lan-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confsemweb-morsey-lan-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DBpedia SPARQL benchmark: Performance Assessment with Real Queries on Real Data</title>
+      <link>https://ldbc.github.io/publication/d-bpedia/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/d-bpedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DEX: A high-performance graph database management system</title>
+      <link>https://ldbc.github.io/publication/dblp-conficde-martinez-bazan-ge-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-conficde-martinez-bazan-ge-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Anatomy of the Facebook Social Graph</title>
+      <link>https://ldbc.github.io/publication/facebook-anatomy/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/facebook-anatomy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical analysis of web-based user-object bipartite networks</title>
+      <link>https://ldbc.github.io/publication/shang-2010/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/shang-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TPC Benchmark C, revision 5.11</title>
+      <link>https://ldbc.github.io/publication/tpcc/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/tpcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Framework for Reasoning about Share Equivalence and Its Integration into a Plan Generator</title>
+      <link>https://ldbc.github.io/publication/dblp-confbtw-neumann-m-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confbtw-neumann-m-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantics and complexity of SPARQL</title>
+      <link>https://ldbc.github.io/publication/dblp-journalstods-perez-ag-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalstods-perez-ag-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SP(^mbox2)Bench: A SPARQL Performance Benchmark</title>
+      <link>https://ldbc.github.io/publication/dblp-booksspvirgilio-09-schmidt-hmpl-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-booksspvirgilio-09-schmidt-hmpl-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SP2Bench: A SPARQL Performance Benchmark</title>
+      <link>https://ldbc.github.io/publication/sp-2-bench/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/sp-2-bench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Art of Building a Good Benchmark</title>
+      <link>https://ldbc.github.io/publication/dblp-conftpctc-huppler-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-conftpctc-huppler-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Berlin SPARQL Benchmark</title>
+      <link>https://ldbc.github.io/publication/bsbm/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/bsbm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Berlin SPARQL Benchmark</title>
+      <link>https://ldbc.github.io/publication/dblp-journalsijswis-bizer-s-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalsijswis-bizer-s-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microscopic evolution of social networks</title>
+      <link>https://ldbc.github.io/publication/dblp-confkdd-leskovec-bkt-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confkdd-leskovec-bkt-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The End of an Architectural Era (It&#39;s Time for a Complete Rewrite)</title>
+      <link>https://ldbc.github.io/publication/dblp-confvldb-stonebraker-mahhh-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confvldb-stonebraker-mahhh-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Making of TPC-DS</title>
+      <link>https://ldbc.github.io/publication/dblp-confvldb-othayoth-p-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confvldb-othayoth-p-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Implementation of the HPCS Graph Analysis Benchmark on Symmetric Multiprocessors</title>
+      <link>https://ldbc.github.io/publication/dblp-confhipc-bader-m-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confhipc-bader-m-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphs over time: Densification laws, shrinking diameters and possible explanations</title>
+      <link>https://ldbc.github.io/publication/dblp-confkdd-leskovec-kf-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confkdd-leskovec-kf-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LUBM: A Benchmark for OWL Knowledge Base Systems</title>
+      <link>https://ldbc.github.io/publication/lubm/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/lubm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LUBM: A benchmark for OWL knowledge base systems</title>
+      <link>https://ldbc.github.io/publication/dblp-journalsws-guo-ph-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalsws-guo-ph-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making snapshot isolation serializable</title>
+      <link>https://ldbc.github.io/publication/dblp-journalstods-fekete-loos-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalstods-fekete-loos-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Dynamic Shortest Paths Problems</title>
+      <link>https://ldbc.github.io/publication/dblp-confesa-roditty-z-04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confesa-roditty-z-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Maintenance for Non-Distributive Aggregate Functions</title>
+      <link>https://ldbc.github.io/publication/dblp-confvldb-palpanas-scp-02/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confvldb-palpanas-scp-02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TPC-DS, taking decision support benchmarking to the next level</title>
+      <link>https://ldbc.github.io/publication/dblp-confsigmod-poss-skl-02/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confsigmod-poss-skl-02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Birds of a feather: Homophily in social networks</title>
+      <link>https://ldbc.github.io/publication/mcpherson-2001-birds/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/mcpherson-2001-birds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New TPC Benchmarks for Decision Support and Web Commerce</title>
+      <link>https://ldbc.github.io/publication/dblp-journalssigmod-poess-f-00/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalssigmod-poess-f-00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL: Introduction and Concepts</title>
+      <link>https://ldbc.github.io/publication/postgre-sql/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/postgre-sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Optimization of Top N Queries</title>
+      <link>https://ldbc.github.io/publication/dblp-confvldb-donjerkovic-r-99/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confvldb-donjerkovic-r-99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weak consistency: A generalized theory and optimistic implementations for distributed transactions</title>
+      <link>https://ldbc.github.io/publication/adya-1999-weak/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/adya-1999-weak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Small Materialized Aggregates: A Light Weight Index Structure for Data Warehousing</title>
+      <link>https://ldbc.github.io/publication/dblp-confvldb-moerkotte-98/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confvldb-moerkotte-98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals</title>
+      <link>https://ldbc.github.io/publication/dblp-journalsdatamine-gray-cblrvpp-97/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalsdatamine-gray-cblrvpp-97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Grammars with Negative Application Conditions</title>
+      <link>https://ldbc.github.io/publication/dblp-journalsfuin-habel-ht-96/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalsfuin-habel-ht-96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Critique of ANSI SQL Isolation Levels</title>
+      <link>https://ldbc.github.io/publication/dblp-confsigmod-berenson-bgmoo-95/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confsigmod-berenson-bgmoo-95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ANSI/ISO SQL-92 Specification</title>
+      <link>https://ldbc.github.io/publication/sqlfound-51-online/</link>
+      <pubDate>Mon, 01 Aug 1994 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/sqlfound-51-online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Query Evaluation Techniques for Large Databases</title>
+      <link>https://ldbc.github.io/publication/dblp-journalscsur-graefe-93/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalscsur-graefe-93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Benchmark Handbook for Database and Transaction Systems</title>
+      <link>https://ldbc.github.io/publication/gray-benchmark-book/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/gray-benchmark-book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Wisconsin Benchmark: Past, Present, and Future</title>
+      <link>https://ldbc.github.io/publication/wisconsin/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/wisconsin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Not To Lie With Statistics: The Correct Way To Summarize Benchmark Results</title>
+      <link>https://ldbc.github.io/publication/dblp-journalscacm-fleming-w-86/</link>
+      <pubDate>Wed, 01 Jan 1986 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalscacm-fleming-w-86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmarking Database Systems A Systematic Approach</title>
+      <link>https://ldbc.github.io/publication/dblp-confvldb-bitton-dt-83/</link>
+      <pubDate>Sat, 01 Jan 1983 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confvldb-bitton-dt-83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maintaining Knowledge about Temporal Intervals</title>
+      <link>https://ldbc.github.io/publication/dblp-journalscacm-allen-83/</link>
+      <pubDate>Sat, 01 Jan 1983 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-journalscacm-allen-83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Granularity of Locks and Degrees of Consistency in a Shared Data Base</title>
+      <link>https://ldbc.github.io/publication/dblp-confds-gray-lpt-76/</link>
+      <pubDate>Thu, 01 Jan 1976 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/publication/dblp-confds-gray-lpt-76/</guid>
       <description></description>
     </item>
     
