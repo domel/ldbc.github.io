@@ -5,16 +5,7 @@
     <link>https://ldbc.github.io/categories/</link>
     <description>Recent content in Categories on Linked Data Benchmark Council</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 21:55:18 -0500</lastBuildDate><atom:link href="https://ldbc.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>hugo-website</title>
-      <link>https://ldbc.github.io/categories/hugo-website/</link>
-      <pubDate>Thu, 28 Jan 2021 21:55:18 -0500</pubDate>
-      
-      <guid>https://ldbc.github.io/categories/hugo-website/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright LDBC 2021</copyright><atom:link href="https://ldbc.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
