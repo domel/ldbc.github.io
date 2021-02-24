@@ -1,0 +1,3 @@
+[submodule "themes/bexer-hugo"]
+	path = themes/bexer-hugo
+	url = https://github.com/imbur/bexer-hugo
