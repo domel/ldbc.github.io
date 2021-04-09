@@ -4,10 +4,10 @@ slider:
   slider_item:
     # slider item
     - title : "Welcome to LDBC Website"
-      subtitle : "We are here to"
+      subtitle : "On this website, you can find information on benchmark specifications and results, on how the LDBC organization works, the motivation for LDBC, and benchmarking resources for the graph and RDF developer community."
       # content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       # bg_image_webp : "images/slider/banner-1.webp"
-      color : "white"
+      # color : "white"
       bg_image : "images/slide-image-1.jpg"
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
       button:
@@ -27,6 +27,33 @@ slider:
         enable : true
         label : "Read More"
         link : "public"
+        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
+
+    # slider item
+    - title : "Benchmarks"
+      subtitle : "Here you may find the results for different benchmarks, i.e. the Social Network Benchmark (SNB) and the Semantic Publishing Benchmark (SPB), their definitions and best practices, the repositories where to find the data generators and the query implementations, an access to the intranet for the LDBC industry partners and a list of the LDBC member vendors."
+      # content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      # bg_image_webp : "images/slider/banner-2.webp"
+      bg_image : "images/slide-image-3.jpg"
+      animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
+      button:
+        enable : true
+        label : "Read More"
+        link : "benchmarks"
+        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
+
+
+    # slider item
+    - title : "Industry"
+      subtitle : "On these pages, we provide information on the LDBC organization and it members, inclusive information on how to become a member."
+      # content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      # bg_image_webp : "images/slider/banner-2.webp"
+      bg_image : "images/slide-image-4.jpg"
+      animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
+      button:
+        enable : true
+        label : "Read More"
+        link : "industry"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
 
     # # slider item
