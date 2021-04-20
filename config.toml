@@ -14,7 +14,7 @@ summaryLength = "10"
 # disqus short name
 disqusShortname = "bexer" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = [] # desable language from here
+disableLanguages = [] # disable language from here
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
@@ -106,42 +106,6 @@ name = "Privacy Policy"
 url = "privacy-policy"
 weight = 2
 
-########################### Default parameters ######################
-
-# The name to display as main title in the home page
-#    mainpagetitle = "LDBC"
-
-# The subtitle to display under the title in the home page
-#    mainpagesubtitle = "TODO: add main page subtitle here" 
-
-# The description of your website. It will be displayed in the home page
-#    mainpagedesc = "TODO: add main page description"
-
-# The name to display in the copyright section in the footer
-#    copyrightname = " Copyright LDBC 2021"
-
-# The url to use as link in the copyright name in the footer. Leave empty to use none.
-#    copyrighturl = ""
-
-# Show the "built on Hugo" disclaimer
-#    showhugo = true
-
-# Urls for social networks
-# facebook = "https://facebook.com"
-# twitter = "https://twitter.com"
-#linkedin = "https://linkedin.com"
-# github = "https://github.com"
-#gitlab = "https://gitlab.com"
-
-# Enables or disables the loading animations. false activates them. Default is false.
-#    loadfastload = false
-
-# Sets the speed for the page loading effect. Default is 1.0.
-#    loadspeedfactor = 1.0
-
-# Enables or disables the second flyby cursor. Default is false.
-#    loadonepass = true
-
 [params.copyright]
 name = "LDBC"
 
@@ -153,8 +117,6 @@ prefix = ""
 
 # Text to go between copyright and hugo disclaimer (if enabled)
 suffix = "Prototype site - under construction"
-
-
 
 [params]
 logo = "images/ldbc-title.png"
@@ -187,7 +149,7 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
@@ -231,3 +193,4 @@ copyright = "&copy; Copyright LDBC 2021"
 #category = "categories"
 #tag = "tags"
 
+date_format = "Jan 2, 2006"

@@ -45,7 +45,7 @@ slider:
 
     # slider item
     - title : "Industry"
-      subtitle : "On these pages, we provide information on the LDBC organization and it members, inclusive information on how to become a member."
+      subtitle : "On these pages, we provide information on the LDBC organization and its members, inclusive information on how to become a member."
       # content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       # bg_image_webp : "images/slider/banner-2.webp"
       bg_image : "images/slide-image-4.jpg"

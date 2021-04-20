@@ -23,7 +23,7 @@ jobs:
       - name: Build bib
         run: |
           pip3 install -U academic
-          find ./bibs/ -iname "*bib" -exec ~/.local/bin/academic import --bibtex {} \;
+          find ./bibs/ -iname "*bib" -exec ~/.local/bin/academic import --overwrite --publication-dir=english/publication --verbose --bibtex {} \;
 
       - name: Build
         run: hugo
