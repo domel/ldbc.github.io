@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Linked Data Benchmark Council</title>
+    <link>https://ldbc.github.io/posts/</link>
+    <description>Recent content in Posts on Linked Data Benchmark Council</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright LDBC 2021</copyright>
+    <lastBuildDate>Thu, 28 Jan 2021 21:55:18 -0500</lastBuildDate><atom:link href="https://ldbc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://ldbc.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 28 Jan 2021 21:55:18 -0500</pubDate>
+      
+      <guid>https://ldbc.github.io/posts/my-first-post/</guid>
+      <description>This is a test post.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ldbc.github.io/posts/testpost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/posts/testpost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ldbc.github.io/posts/testpost2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/posts/testpost2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
