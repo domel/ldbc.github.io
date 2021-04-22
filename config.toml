@@ -11,13 +11,14 @@ preserveTaxonomyNames = true
 paginate = "6"
 # post excerpt
 summaryLength = "10"
-# disqus short name
-disqusShortname = "bexer" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # disable language from here
 
+btn_pdf = "PDF"
+
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+
 
 ############################### Plugins #################################
 # CSS Plugins
@@ -51,27 +52,27 @@ link = "plugins/search/fuse.min.js"
 link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
-
+# [[params.plugins.js]]
+# link = "plugins/wowchemy/wowchemy.js"
 
 ########################### navigation ################################
-
 
 [[menu.main]]
 identifier = "about" # An unique identifier for the button
 name = "About" # A display name for the button
-url = "/about/" # The path to the content. It can lead to a single page (like here)
+url = "about" # The path to the content. It can lead to a single page (like here)
 weight = 10 # A number to order the buttons in the navbar
 
 [[menu.main]]
-identifier = "posts"
-name = "All posts"
-url = "/posts/" # The path can lead to a content folder too.
+identifier = "post"
+name = "Posts"
+url = "post" # The path can lead to a content folder too.
 weight = 20
 
 [[menu.main]]
 identifier = "publication" # An unique identifier for the button
 name = "Publications" # A display name for the button
-url = "/publication/" # The path to the content. It can lead to a single page (like here)
+url = "publication" # The path to the content. It can lead to a single page (like here)
 weight = 30 # A number to order the buttons in the navbar
 
 [[menu.main]]
@@ -122,6 +123,8 @@ suffix = "Prototype site - under construction"
 logo = "images/ldbc-title.png"
 logo_footer = "images/ldbc.png"
 hide_title = false
+# order is important here due to dependencies
+custom_js = ["js/isotope.pkgd.min.js", "js/wowchemy.js"]
 
 # top header
 top_header = false
@@ -187,7 +190,6 @@ home = "Home"
 footer_content = "LDBC came out of an EU FP7 project and is now a non-profit organization sustained by its members. Contact us at info AT ldbcouncil DOT org."
 # copyright
 copyright = "&copy; Copyright LDBC 2021"
-
 
 #[taxonomies]
 #category = "categories"
