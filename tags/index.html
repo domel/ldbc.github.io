@@ -32,6 +32,11 @@
   <link rel="shortcut icon" href="https://ldbc.github.io/images/favicon.png " type="image/x-icon">
   <link rel="icon" href="https://ldbc.github.io/images/favicon.png " type="image/x-icon">
 
+
+
+  <!-- Custom js -->
+  <script type="module" type="text/javascript" src="https://ldbc.github.io/js/isotope.pkgd.min.js"></script><script type="module" type="text/javascript" src="https://ldbc.github.io/js/wowchemy.js"></script>
+
 </head><body>
 <!-- preloader start -->
 <div class="preloader">
@@ -78,19 +83,19 @@
             
             
             <li class="nav-item">
-              <a class="nav-link" href="/about/">About</a>
+              <a class="nav-link" href="/about">About</a>
             </li>
             
             
             
             <li class="nav-item">
-              <a class="nav-link" href="/posts/">All posts</a>
+              <a class="nav-link" href="/post">Posts</a>
             </li>
             
             
             
             <li class="nav-item">
-              <a class="nav-link" href="/publication/">Publications</a>
+              <a class="nav-link" href="/publication">Publications</a>
             </li>
             
             
@@ -114,19 +119,17 @@
   <div class="container">
     <div class="row">
       <div class="col-12">
+        
         <h2 class="text-white mb-3">Tags</h2>
         <!-- breadcrumb -->
-        <nav aria-label="breadcrumb">
-          <ol class="breadcrumb bg-transparent p-0">
-            <li class="breadcrumb-item font-weight-semebold"><a class="text-white" href="/">Home</a></li>
-            <li class="breadcrumb-item font-weight-semebold active text-primary" aria-current="page">Tags</li>
-          </ol>
-        </nav>
+        
+        
       </div>
     </div>
   </div>
 </section>
 <!-- /page title -->
+
 
 <!-- blog -->
 <section class="section">
@@ -164,16 +167,10 @@
   <!-- categories -->
   <div class="bg-white px-4 py-5 box-shadow mb-5">
     <h4 class="mb-4"></h4>
-    <ul class="list-styled style-circle">
-      <li class="border-bottom border-color"><a href="/categories/hugo-website" class="text-color d-block pb-3 mt-3 text-decoration-none">Hugo website</a></li>
-    </ul>
   </div>
   <!-- tags -->
   <div class="bg-white px-4 py-5 box-shadow mb-5">
     <h4 class="mb-4"></h4>
-    <ul class="list-inline tag-list">
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/test">Test</a></li>
-    </ul>
   </div>
 </aside>
 <!-- /sidebar -->
@@ -290,6 +287,34 @@
 <script src="https://ldbc.github.io/js/script.min.js"></script>
 
 <!-- google analitycs -->
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          
+          COPY
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          
+          DOWNLOAD
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
 
 </body>
 

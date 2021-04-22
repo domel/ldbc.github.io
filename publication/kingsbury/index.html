@@ -32,6 +32,11 @@
   <link rel="shortcut icon" href="https://ldbc.github.io/images/favicon.png " type="image/x-icon">
   <link rel="icon" href="https://ldbc.github.io/images/favicon.png " type="image/x-icon">
 
+
+
+  <!-- Custom js -->
+  <script type="module" type="text/javascript" src="https://ldbc.github.io/js/isotope.pkgd.min.js"></script><script type="module" type="text/javascript" src="https://ldbc.github.io/js/wowchemy.js"></script>
+
 </head><body>
 <!-- preloader start -->
 <div class="preloader">
@@ -78,19 +83,19 @@
             
             
             <li class="nav-item">
-              <a class="nav-link" href="/about/">About</a>
+              <a class="nav-link" href="/about">About</a>
             </li>
             
             
             
             <li class="nav-item">
-              <a class="nav-link" href="/posts/">All posts</a>
+              <a class="nav-link" href="/post">Posts</a>
             </li>
             
             
             
             <li class="nav-item">
-              <a class="nav-link" href="/publication/">Publications</a>
+              <a class="nav-link" href="/publication">Publications</a>
             </li>
             
             
@@ -115,13 +120,28 @@
 
 
 
-  
-  
-
 
 <div class="pub">
 
-  
+  <!-- page title -->
+<section class="section bg-cover overlay"> 
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        
+        <h2 class="text-white mb-3">Publications</h2>
+        
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /page title -->
+
+  <section class="section">
+
+
+  <div class="container">
+  <div class="section-subheading article-title col-lg-12 mb-0 mt-0"><a href="/publication/kingsbury/">Jepsen Analyses</a>
 
 
 
@@ -140,7 +160,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Jepsen Analyses</h1>
+  
 
   
 
@@ -152,25 +172,29 @@
 
   
   
-  
-  
-  <div>
-    
-
-  
-  </div>
-  
-  
-
-  
-  <span class="article-date">
     
     
+    <div >
       
+
+
+<span>
+
+
+
+Kyle Kingsbury.
+
+</span>
+
+
+
+
+    </div>
+          
+          <div></div>
     
-    January, 2020
-  </span>
   
+
 
   
 
@@ -204,6 +228,7 @@
 
 
 
+
   
 
 
@@ -211,8 +236,9 @@
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/kingsbury/cite.bib">
+        data-filename="/publication/kingsbury/cite.bib" style="color: var(--blue) !important;">
   
+  CITE
 </a>
 
 
@@ -236,15 +262,14 @@
 </div>
 
 
+  </div>
+  <div class="col-lg-12 mb-0 mt-0">
+    <a href="/publication">&lt; Back to Publications <i class='fas fa-info'></i> </a>
+  </div>
+  </div>
+  </section>
 
-  <div class="article-container">
 
-    
-
-    
-    
-
-    
 
     <div class="space-below"></div>
 
@@ -395,6 +420,34 @@
 <script src="https://ldbc.github.io/js/script.min.js"></script>
 
 <!-- google analitycs -->
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          
+          COPY
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          
+          DOWNLOAD
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
 
 </body>
 
