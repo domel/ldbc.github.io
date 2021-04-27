@@ -1,0 +1,1 @@
+This file is here so that Hugo generates the member page.

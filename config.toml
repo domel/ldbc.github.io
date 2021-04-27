@@ -14,8 +14,6 @@ summaryLength = "10"
 # disable language
 disableLanguages = [] # disable language from here
 
-btn_pdf = "PDF"
-
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 
@@ -58,9 +56,9 @@ link = "plugins/search/search.js"
 ########################### navigation ################################
 
 [[menu.main]]
-identifier = "about" # An unique identifier for the button
-name = "About" # A display name for the button
-url = "about" # The path to the content. It can lead to a single page (like here)
+identifier = "members" # An unique identifier for the button
+name = "Members" # A display name for the button
+url = "members" # The path to the content. It can lead to a single page (like here)
 weight = 10 # A number to order the buttons in the navbar
 
 [[menu.main]]
@@ -123,14 +121,14 @@ suffix = "Prototype site - under construction"
 logo = "images/ldbc-title.png"
 logo_footer = "images/ldbc.png"
 hide_title = false
-# order is important here due to dependencies
+# Order is important here due to dependencies
 custom_js = ["js/isotope.pkgd.min.js", "js/wowchemy.js"]
-
-# top header
+# Top header
 top_header = false
 # Meta data
 description = "Linked Data Benchmark Council Website"
 author = "LDBC"
+
 
 # contact info
 #address = "9567 Turner Trace Apt. BC C3G8A4"

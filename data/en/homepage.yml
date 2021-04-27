@@ -2,12 +2,8 @@
 slider:
   enable : true
   slider_item:
-    # slider item
     - title : "Welcome to LDBC Website"
       subtitle : "On this website, you can find information on benchmark specifications and results, on how the LDBC organization works, the motivation for LDBC, and benchmarking resources for the graph and RDF developer community."
-      # content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      # bg_image_webp : "images/slider/banner-1.webp"
-      # color : "white"
       bg_image : "images/slide-image-1.jpg"
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
       button:
@@ -15,222 +11,111 @@ slider:
         label : "Read More"
         link : "developer"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-        
-    # slider item
+  
     - title : "Public"
       subtitle : "LDBC brings industry and users together for developing benchmarks whereby the state-of-the-art and advances in graph database technologies can be assessed and directed. Read More to find out how the LDBC might help you."
-      # content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      # bg_image_webp : "images/slider/banner-2.webp"
       bg_image : "images/slide-image-2.jpg"
-      animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
+      animation : "fadeInRight"
       button:
         enable : true
         label : "Read More"
         link : "public"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
+        animation : "zoomIn"
 
-    # slider item
     - title : "Benchmarks"
       subtitle : "Here you may find the results for different benchmarks, i.e. the Social Network Benchmark (SNB) and the Semantic Publishing Benchmark (SPB), their definitions and best practices, the repositories where to find the data generators and the query implementations, an access to the intranet for the LDBC industry partners and a list of the LDBC member vendors."
-      # content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      # bg_image_webp : "images/slider/banner-2.webp"
       bg_image : "images/slide-image-3.jpg"
-      animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
+      animation : "fadeInRight"
       button:
         enable : true
         label : "Read More"
         link : "benchmarks"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
+        animation : "zoomIn"
 
-
-    # slider item
     - title : "Industry"
       subtitle : "On these pages, we provide information on the LDBC organization and its members, inclusive information on how to become a member."
-      # content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      # bg_image_webp : "images/slider/banner-2.webp"
       bg_image : "images/slide-image-4.jpg"
-      animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
+      animation : "fadeInRight"
       button:
         enable : true
         label : "Read More"
         link : "industry"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-
-    # # slider item
-    # - subtitle : "We are here to"
-    #   title : "Planning Business"
-    #   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    #   bg_image_webp : "images/slider/banner-2.webp"
-    #   bg_image : "images/slider/banner-2.jpg"
-    #   animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
-    #   button:
-    #     enable : true
-    #     label : "more details"
-    #     link : "about"
-    #     animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-        
-    # # slider item
-    # - subtitle : "We are here to"
-    #   title : "Planning Business"
-    #   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    #   bg_image_webp : "images/slider/banner-3.webp"
-    #   bg_image : "images/slider/banner-3.jpg"
-    #   animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
-    #   button:
-    #     enable : true
-    #     label : "more details"
-    #     link : "about"
-    #     animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-
-################################## banner feature ############################
-# banner_feature:
-#   enable : true
-#   # Max use 4 item
-#   feature_item:
-#     # banner feature item loop
-#     - name : "LDBC official benchmarks for industry"
-#       image: "static/cube-full.png"
-#       # icon : "fa-diamond" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-#       content : "TODO Semantic Publishing Benchmark (SPB)​ Social Network Benchmark (SNB)"
-      
-#     # # banner feature item loop
-#     # - name : "Market Research"
-#     #   icon : "fa-bar-chart" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-#     #   content : "Lorem ipsum dolor sit amet constur adipelit sed."
-      
-#     # # banner feature item loop
-#     # - name : "Business Strategy"
-#     #   icon : "fa-lightbulb-o" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-#     #   content : "Lorem ipsum dolor sit amet constur adipelit sed."
-      
-#     # # banner feature item loop
-#     # - name : "Speed Optimization"
-#     #   icon : "fa-dashboard" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-#     #   content : "Lorem ipsum dolor sit amet constur adipelit sed."
-
-
-# ################################## about ####################################
-# about:
-#   enable : true
-#   subtitle : "About Us"
-#   title : "We Are Dynamic Team and Business Agency"
-#   content : "Excepteur sint occaecat cupidatat non proident sunt iculpa qui officia deserunt mollit anim est. laborum sed perspiciatis unde omnis natus error sit voluptatem accusantium."
-#   # bg_image : "images/backgrounds/about-us-bg.png"
-#   # image_webp : "images/about/about-us.webp"
-#   # image : "images/about/about-us.png"
-#   button:
-#     enable : true;
-#     label : "more service"
-#     link : "service"
-
-# ################################## funfacts ###############################
-# # funfacts :
-# #   enable : true
-# #   funfacts_item :
-# #     # fanfacts item loop
-# #     - name : "project done"
-# #       count : "50"
-# #       icon : "fa-bullseye" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-      
-# #     # fanfacts item loop
-# #     - name : "Years Experience"
-# #       count : "25"
-# #       icon : "fa-calendar" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-      
-# #     # fanfacts item loop
-# #     - name : "Awards Win"
-# #       count : "250"
-# #       icon : "fa-trophy" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-      
-# #     # fanfacts item loop
-# #     - name : "Happy Coustomers"
-# #       count : "500"
-# #       icon : "fa-smile-o" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-
-
-# ################################# feature ############################################
-# feature:
-#   enable : true
-#   subtitle : "Why Choose Us"
-#   title : "Why They Choose Bexar"
-#   # image_webp : "images/feature/feature.webp"
-#   # image : "images/feature/feature.jpg"
-#   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius tempor incididunt ut labore."
-#   feature_item:
-#     # feature item loop
-#     - name : "Creative Design"
-#       icon : "fa-snowflake-o" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-#       content : "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia."
-      
-#     # feature item loop
-#     - name : "Pixel Perfect Coding"
-#       icon : "fa-code" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-#       content : "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia."
-
-# ################################# service ############################################
-# service:
-#   enable : true
-#   subtitle : "Best Service"
-#   title : "Service We Provide"
-#   # service item comes from "content/*/service" folder
-
-# ################################# team ##############################################
-# team:
-#   enable : true
-#   subtitle : "Our Team"
-#   title : "We Are Dynamic Team and <br> Business Agency"
-#   # team member comes from "content/*/team" folder
-
-# ################################# project ############################################
-# project:
-#   enable : true
-#   subtitle : "Case Study"
-#   title : "Bexar Case Studies"
-#   button:
-#     enable : true
-#     label : "more projects"
-#     link : "project"
-#   # project item comes from "content/*/project" folder
-
-# ################################# testimonial #########################################
-# # testimonial:
-# #   enable : true
-# #   subtitle : "Testimonials"
-# #   title : "What Clients Are Say?"
-# #   testimonial_item:
-# #     # testimonial item loop
-# #     - client_image : "images/testimonial/client-1.jpg"
-# #       name : "Dominic Allen"
-# #       designation : "Designer"
-# #       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt ut labore dolore magna aliqua.enim ad minim veniam.quis nostrud exercitation ullamco laboris nis aliquip ex ea commodo consequat. duis aute irure dolor in reprehen."
-      
-# #     # testimonial item loop
-# #     - client_image : "images/testimonial/client-2.jpg"
-# #       name : "Alex Pitt"
-# #       designation : "Designer"
-# #       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt ut labore dolore magna aliqua.enim ad minim veniam.quis nostrud exercitation ullamco laboris nis aliquip ex ea commodo consequat. duis aute irure dolor in reprehen."
-
-# #     # testimonial item loop
-# #     - client_image : "images/testimonial/client-3.jpg"
-# #       name : "John Doe"
-# #       designation : "Designer"
-# #       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt ut labore dolore magna aliqua.enim ad minim veniam.quis nostrud exercitation ullamco laboris nis aliquip ex ea commodo consequat. duis aute irure dolor in reprehen."
-
+        animation : "zoomIn"
 
 # ################################# blog ################################################
-# cta:
-#   enable : true
-#   title : "Bexar give the smart solution for your business"
-#   # bg_image_webp : "images/backgrounds/cta-lg.webp"
-#   # bg_image : "images/backgrounds/cta-lg.jpg"
-#   button:
-#     enable : true
-#     label : "get a quote"
-#     link : "contact"
-
-# ################################# blog ################################################
-# blog:
-#   enable : true
+post:
+  enable : true
 #   subtitle : "Latest News"
 #   title : "Learn From Bexar"
 #   # blog post comes from "content/*/blog" folder
+
+# ################################# members ################################################
+members:
+  enable: true
+  title: "Hello"
+  sponsors_title: "Sponsor Companies:"
+  sponsors:
+    - name: "Ant Group"
+      logo: "images/members/antgroup.png"
+      link: "https://www.antgroup.com/en"
+    - name: "Oracle Labs"
+      logo: "images/members/oracle-labs.jpg"
+      link: "https://www.oracle.com/"
+  companies_title: "Companies (in alphabetical order):"
+  # The template automatically does the alphabetical ordering based on the name of the company
+  companies:
+    - name: "ArangoDB"
+      logo: "images/members/arangodb.png"
+      link: "https://www.arangodb.com/"
+    - name: "AWS"
+      logo: "images/members/aws.png"
+      link: "https://aws.amazon.com/"
+    - name: "Intel"
+      logo: "images/members/intel.png"
+      link: "http://www.intel.com/"
+    - name: "JCC Consulting Inc."
+      logo: "images/members/jcc.png"
+      link: "www.jcc.com"
+    - name: "Katana graph"
+      logo: "images/members/katana-graph.jpg"
+      link: "https://katanagraph.com/"
+    - name: "Memgraph"
+      logo: "images/members/memgraph.png"
+      link: "https://memgraph.com/"
+    - name: "Neo4j"
+      logo: "images/members/neo4j.png"
+      link: "https://neo4j.com/"
+    - name: "Chorograph"
+      logo: "images/members/chorograph.png"
+      link: "https://chorograph.com/"
+    - name: "Ontotext"
+      logo: "images/members/ontotext.jpg"
+      link: "https://www.ontotext.com/"
+    - name: "Sparsity"
+      logo: "images/members/sparsity.png"
+      link: "http://www.sparsity-technologies.com/"
+    - name: "TigerGraph"
+      logo: "images/members/tigergraph.png"
+      link: "https://www.tigergraph.com"
+  nonprofits_title: "Non-Profit Organizations:"
+  nonprofits:
+    - name: "ENS"
+      logo: "images/members/ens-paris.png"
+      link: "https://www.ens.psl.eu/en"
+    - name: "Forth"
+      logo: "images/members/forth.png"
+      link: "https://www.forth.gr/"
+    - name: "University of Edinburgh"
+      logo: "images/members/uedinburgh.png"
+      link: "https://www.ed.ac.uk/"
+  steering_title: "Steering Committee (info@ldbcouncil.org):"
+  steering_committee_members:
+    - name: "Prof. Dr. Peter Boncz (chair)"
+      picture: "images/steering-committee-pictures/peter.jpeg" 
+      homepage: "https://www.cwi.nl/people/peter-boncz"
+    - name: "Alastair Green (vice-chair)"
+      picture: "images/steering-committee-pictures/photo_2.600x0.jpg" 
+      homepage: "https://www.linkedin.com/in/alastair-green-65a861a7/"
+    - name: "Gábor Szárnyas"
+      picture: "images/steering-committee-pictures/szarnyasg-700.png"
+      homepage: "https://www.cwi.nl/people/gabor-szarnyas"
