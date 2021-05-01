@@ -6,13 +6,7 @@ For up-to-date build instructions, please consult the [GitHub Actions workflow c
 
 ## Publications
 
-Publications are generated using [`hugo-academic-cli`](https://github.com/wowchemy/hugo-academic-cli):
-
-```bash
-pip3 install -U academic
-academic import --bibtex publications.bib
-```
-
+Publications are generated using [`hugo-academic-cli`](https://github.com/wowchemy/hugo-academic-cli). Follow the instructions used in the GitHub Actions configuration.
 ## Posts
 
 Create a new markdown file with the title as the filename under _content/english/post_ to create a new post. You can use the skeleton below to help you fill out post metadata (also include the closing and opening `+++` character sequence):
@@ -37,3 +31,8 @@ hugo new post/my-post.md
 ```
 This command will create the _my-post.md_ under _content/english/post_ with an initial template.
 
+## Serving the page locally
+
+```bash
+hugo server
+```
