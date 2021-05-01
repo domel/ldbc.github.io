@@ -57,9 +57,19 @@ link = "plugins/search/search.js"
 
 [[menu.main]]
 identifier = "members" # An unique identifier for the button
-name = "Members" # A display name for the button
-url = "members" # The path to the content. It can lead to a single page (like here)
-weight = 10 # A number to order the buttons in the navbar
+name = "Membership" # A display name for the button
+weight = 9 # A number to order the buttons in the navbar
+hasChildren = true
+    [[menu.main]]
+    parent = "members"
+    name = "Current Members"
+    url = "current-members" # the path to the content. it can lead to a single page (like here)
+    weight = 1
+    [[menu.main]]
+    parent = "members"
+    name = "Becoming a Member"
+    url = "becoming-a-member" # the path to the content. it can lead to a single page (like here)
+    weight = 5
 
 [[menu.main]]
 identifier = "post"
@@ -75,20 +85,21 @@ weight = 30 # A number to order the buttons in the navbar
 
 [[menu.main]]
 weight = 8
+identifier = "benchmarks"
 name = "Benchmarks"
 hasChildren = true
     [[menu.main]]
-    parent = "Benchmarks"
+    parent = "benchmarks"
     name = "Graphalytics Benchmark"
     url = "benchmark-graphalytics"
     weight = 1
     [[menu.main]]
-    parent = "Benchmarks"
+    parent = "benchmarks"
     name = "Semantic Publishing Benchmark"
     url = "benchmark-spb"
     weight = 2
     [[menu.main]]
-    parent = "Benchmarks"
+    parent = "benchmarks"
     name = "Social Network Benchmark"
     url = "benchmark-snb"
     weight = 3
