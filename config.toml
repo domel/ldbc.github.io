@@ -107,14 +107,14 @@ hasChildren = true
 
 ## footer menu
 [[menu.footer]]
-name = "Terms of Service"
-url = "terms"
+name = "LDBC Byelaws Document"
+url = "docs/LDBC.Byelaws.1.3.ADOPTED.2021-01-14.pdf"
 weight = 1
 
-[[menu.footer]]
-name = "Privacy Policy"
-url = "privacy-policy"
-weight = 2
+# [[menu.footer]]
+# name = "Privacy Policy"
+# url = "privacy-policy"
+# weight = 2
 
 [params.copyright]
 name = "LDBC"
