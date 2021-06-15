@@ -2,7 +2,7 @@
 slider:
   enable : true
   slider_item:
-    - title : "Welcome to LDBC Website"
+    - title : "Welcome to the LDBC Website"
       subtitle : "On this website, you can find information on benchmark specifications and results, on how the LDBC organization works, the motivation for LDBC, and benchmarking resources for the graph and RDF developer community."
       bg_image : "images/slide-image-1.jpg"
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
