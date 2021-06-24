@@ -2,13 +2,11 @@
 
 [![](https://github.com/ldbc/ldbc.github.io/workflows/github%20pages/badge.svg)](https://github.com/ldbc/ldbc.github.io/actions)
 
-The website is built using the [Hugo](https://gohugo.io/) site generator. To build it, run:
+The website is built using the [Hugo](https://gohugo.io/) site generator. To build and serve the site at <http://localhost:1313> it, run:
 
 ```bash
-hugo
+hugo serve
 ```
-
-The root of the website is the `public/index.html` file.
 
 For detailed build instructions, please consult the [GitHub Actions workflow configuration](.github/workflows/gh-pages.yml).
 
