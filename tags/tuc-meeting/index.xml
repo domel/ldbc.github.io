@@ -9,13 +9,40 @@
     <copyright>&amp;copy; Copyright LDBC 2021</copyright>
     <lastBuildDate>Fri, 05 Jul 2019 08:30:00 +0100</lastBuildDate><atom:link href="https://ldbc.github.io/tags/tuc-meeting/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>12th TUC Meeting at SIGMOD 2019 Amsterdam</title>
-      <link>https://ldbc.github.io/event/12th-tuc-meeting-at-sigmod-2019-amsterdam/</link>
+      <title>Twelfth TUC Meeting at SIGMOD 2019 Amsterdam</title>
+      <link>https://ldbc.github.io/event/twelfth-tuc-meeting-at-sigmod-2019-amsterdam/</link>
       <pubDate>Fri, 05 Jul 2019 08:30:00 +0100</pubDate>
       
-      <guid>https://ldbc.github.io/event/12th-tuc-meeting-at-sigmod-2019-amsterdam/</guid>
+      <guid>https://ldbc.github.io/event/twelfth-tuc-meeting-at-sigmod-2019-amsterdam/</guid>
       <description>Read more information and how to register HERE [CLOSED]
 CALL FOR CONTRIBUTIONS:</description>
+    </item>
+    
+    <item>
+      <title>Third TUC Meeting</title>
+      <link>https://ldbc.github.io/event/third-tuc-meeting/</link>
+      <pubDate>Tue, 19 Nov 2013 08:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/event/third-tuc-meeting/</guid>
+      <description>Introduction Agenda Logistics LDBC/TUC Background  Social Network Benchmark Semantic Publishing Benchmark     The LDBC consortium is pleased to announce the third Technical User Community (TUC) meeting!</description>
+    </item>
+    
+    <item>
+      <title>Second TUC Meeting</title>
+      <link>https://ldbc.github.io/event/second-tuc-meeting/</link>
+      <pubDate>Mon, 22 Apr 2013 10:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/event/second-tuc-meeting/</guid>
+      <description>Created by Josep Larriba Pey, last modified by Peter Bonczon Apr 25, 2013</description>
+    </item>
+    
+    <item>
+      <title>First TUC Meeting</title>
+      <link>https://ldbc.github.io/event/first-tuc-meeting/</link>
+      <pubDate>Mon, 19 Nov 2012 09:00:00 +0100</pubDate>
+      
+      <guid>https://ldbc.github.io/event/first-tuc-meeting/</guid>
+      <description>The LDBC consortium are pleased to announce the first Technical User Community (TUC) meeting.</description>
     </item>
     
   </channel>
