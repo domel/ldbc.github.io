@@ -163,7 +163,7 @@
       <div class="col-lg-8">
         <!-- post thumb -->
         
-        <div class="card-meta text-uppercase mb-2">by <strong class="text-color"><a href="https://www.linkedin.com/in/dszakallas/">Dávid Szakállas</a></strong>/ on <strong class="text-dark">24 Jun 2021</strong></div>
+        <div class="card-meta text-uppercase mb-2">by <strong class="text-color"><a href="https://www.linkedin.com/in/dszakallas/">Dávid Szakállas</a></strong> / on <strong class="text-dark">12 Jun 2020</strong></div>
         
         
           <i>Guest post.</i>
@@ -174,7 +174,7 @@
           
         </div>
         <div class="content">
-          <p>LDBC&rsquo;s <a href="#snb">Social Network Benchmark</a> (LDBC SNB) is an industrial and
+          <p>LDBC&rsquo;s <a href="#references">Social Network Benchmark [4]</a> (LDBC SNB) is an industrial and
 academic initiative, formed by principal actors in the field of
 graph-like data management. Its goal is to define a framework where
 different graph-based technologies can be fairly tested and compared,
@@ -204,11 +204,11 @@ people make friends, post in forums, comment or like each others posts,
 etc. In contrast, the static component contains related attributes such
 as countries, universities and organizations and are fixed values. For
 the detailed specifications of the benchmark and the Datagen component,
-see <a href="#References">References</a>.</p>
+see <a href="#references">References</a>.</p>
 <p>Datasets are generated in a multi-stage process captured as a sequence
 of MapReduce steps (shown in the diagram below).</p>
-<p><img src="/post/speeding-up-ldbc-snb-datagen/datagen_flow.png" alt=""></p>
-<p><em>Figure 1. LDBC SNB Datagen Process on Hadoop</em></p>
+<p><img src="datagen_flow.png" alt=""><br>
+<em>Figure 1. LDBC SNB Datagen Process on Hadoop</em></p>
 <p>In the initialization phase dictionaries are populated and distributions
 are initialized. In the first generation phase persons are synthesized,
 then relationships are wired between them along 3 dimensions
@@ -223,7 +223,7 @@ when the data dependencies would allow for parallelization.</em></p>
 POJOs in memory and as sequence files on disk. Most entities follow a
 shallow representation, i.e foreign keys (in relational terms) are
 mapped to integer ids, which makes serialization
-straightforward.<a href="#fn1">^1^</a> A notable exception is the Knows edge which
+straightforward.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> A notable exception is the Knows edge which
 contains only the target vertex, and is used as a navigation property on
 the source Person. The target Person is replaced with only the foreign
 key augmented with some additional information in order to keep the
@@ -234,7 +234,7 @@ with a flat join table.</p>
 generates properties drawn from several random distributions using
 mutable pRNGs. Determinism is achieved by initializing the pRNGs to
 seeds that are fully defined by the configuration with constants, and
-otherwise having no external state in the logic.<a href="#fn2">^2^</a></p>
+otherwise having no external state in the logic.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
 <p>Serialization is done by hand-written serializers for the supported
 output formats (e.g. CSV) and comprises just a bit less than one third
 of the main codebase. Most of the output is created by directly
@@ -322,7 +322,7 @@ the output. These only surfaced when the parallelization level was
 set greater than 1. This indicated the presence of potential race
 conditions. Thread-safety wasn&rsquo;t a concern in the original
 implementation due to the fact that MapReduce doesn&rsquo;t use
-thread-based parallelization for mappers and reducers.<a href="#fn3">^3^</a> In
+thread-based parallelization for mappers and reducers.<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> In
 Spark however, tasks are executed by parallel threads in the same
 JVM application, so the code is required to be thread-safe. After
 some debugging, a bug was discovered originating from the shared use
@@ -335,7 +335,7 @@ easily resolved by making it an instance variable. In another case a
 shared context variable was used, which was resolved by passing
 dedicated instances as function arguments. Sadly, the Java language
 has the same syntax for accessing locals, fields and statics,
-<a href="#fn4">^4^</a> which makes it somewhat harder to find potential
+<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> which makes it somewhat harder to find potential
 unguarded shared variables.</p>
 </li>
 </ul>
@@ -344,12 +344,11 @@ unguarded shared variables.</p>
 ranking step required some thought. The goal of this step is to organize
 persons so that similar ones appear close to each other in a
 deterministic order. This provides a scalable way to cluster persons
-according to a similarity metric, as introduced in the <a href="#s3g2">S3G2
-paper</a>.</p>
+according to a similarity metric, as introduced in the <a href="#references">S3G2
+paper [3]</a>.</p>
 <h3 id="the-original-mapreduce-version">The original MapReduce version</h3>
-<p><br>
-<img src="http://ldbcouncil.org/sites/default/files/person_ranking.svg" alt=""></p>
-<p><em>Figure 2. Diagram of the MapReduce code for ranking persons</em></p>
+<p><img src="person_ranking.svg" alt=""><br>
+<em>Figure 2. Diagram of the MapReduce code for ranking persons</em></p>
 <p>The implementation, shown in pseudocode above, works as follows:</p>
 <ol>
 <li>The equivalence keys are mapped to each person and fed into
@@ -403,35 +402,128 @@ implementation. Of course, for the purpose of faithful comparison the
 corresponding code was removed from the MapReduce version as well before
 executing the benchmarks. This explains a 10% reduction from the
 expected size. The rest can be attributed to incorrectly tuned
-parameters.<a href="#fn5">^5^</a> The MapReduce results were as follows:</p>
-<p>SF    workers   Platform    Instance Type   runtime (min)   runtime * worker/SF (min)</p>
-<hr>
-<p>10    1         MapReduce   i3.xlarge       16              1.60
-30    1         MapReduce   i3.xlarge       34              1.13
-100   3         MapReduce   i3.xlarge       40              1.20
-300   9         MapReduce   i3.xlarge       44              1.32</p>
+parameters.<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup> The MapReduce results were as follows:</p>
+<table>
+<thead>
+<tr>
+<th>SF</th>
+<th>workers</th>
+<th>Platform</th>
+<th>Instance Type</th>
+<th>runtime (min)</th>
+<th>runtime * worker/SF (min)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10</td>
+<td>1</td>
+<td>MapReduce</td>
+<td>i3.xlarge</td>
+<td>16</td>
+<td>1.60</td>
+</tr>
+<tr>
+<td>30</td>
+<td>1</td>
+<td>MapReduce</td>
+<td>i3.xlarge</td>
+<td>34</td>
+<td>1.13</td>
+</tr>
+<tr>
+<td>100</td>
+<td>3</td>
+<td>MapReduce</td>
+<td>i3.xlarge</td>
+<td>40</td>
+<td>1.20</td>
+</tr>
+<tr>
+<td>300</td>
+<td>9</td>
+<td>MapReduce</td>
+<td>i3.xlarge</td>
+<td>44</td>
+<td>1.32</td>
+</tr>
+</tbody>
+</table>
 <p>It can be observed that the runtime per scale factor only increases
 slowly, which is good. The metric charts show an underutilized, bursty
 CPU. The bursts are supposedly interrupted by the disk I/O parts when
 the node is writing the results of a completed job. It can also be seen
 that the memory only starts to get consumed after 10 minutes of the run
 have passed.</p>
-<p><br>
-<img src="http://ldbcouncil.org/sites/default/files/mr_sf100_cpu_load.png" alt=""></p>
-<p><em>Figure 3. CPU Load for the Map Reduce cluster is bursty and less than
+<p><img src="mr_sf100_cpu_load.png" alt=""><br>
+<em>Figure 3. CPU Load for the Map Reduce cluster is bursty and less than
 50% on average (SF100, 2nd graph shows master)</em></p>
-<p><em><img src="http://ldbcouncil.org/sites/default/files/mr_sf100_mem_free.png" alt=""></em></p>
-<p><em>Figure 4. The job only starts to consume memory when already 10 minutes
+<p><img src="mr_sf100_mem_free.png" alt=""><br>
+<em>Figure 4. The job only starts to consume memory when already 10 minutes
 into the run (SF100, 2nd graph shows master)</em></p>
 <p>Let&rsquo;s see how Spark fares.</p>
-<p>SF     workers   Platform   Instance Type   runtime (min)   runtime * worker/SF (min)</p>
-<hr>
-<p>10     1         Spark      i3.xlarge       10              1.00
-30     1         Spark      i3.xlarge       21              0.70
-100    3         Spark      i3.xlarge       27              0.81
-300    9         Spark      i3.xlarge       36              1.08
-1000   30        Spark      i3.xlarge       47              1.41
-3000   90        Spark      i3.xlarge       47              1.41</p>
+<table>
+<thead>
+<tr>
+<th>SF</th>
+<th>workers</th>
+<th>Platform</th>
+<th>Instance Type</th>
+<th>runtime (min)</th>
+<th>runtime * worker/SF (min)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10</td>
+<td>1</td>
+<td>Spark</td>
+<td>i3.xlarge</td>
+<td>10</td>
+<td>1.00</td>
+</tr>
+<tr>
+<td>30</td>
+<td>1</td>
+<td>Spark</td>
+<td>i3.xlarge</td>
+<td>21</td>
+<td>0.70</td>
+</tr>
+<tr>
+<td>100</td>
+<td>3</td>
+<td>Spark</td>
+<td>i3.xlarge</td>
+<td>27</td>
+<td>0.81</td>
+</tr>
+<tr>
+<td>300</td>
+<td>9</td>
+<td>Spark</td>
+<td>i3.xlarge</td>
+<td>36</td>
+<td>1.08</td>
+</tr>
+<tr>
+<td>1000</td>
+<td>30</td>
+<td>Spark</td>
+<td>i3.xlarge</td>
+<td>47</td>
+<td>1.41</td>
+</tr>
+<tr>
+<td>3000</td>
+<td>90</td>
+<td>Spark</td>
+<td>i3.xlarge</td>
+<td>47</td>
+<td>1.41</td>
+</tr>
+</tbody>
+</table>
 <p>A similar trend here, however the run times are around 70% of the
 MapReduce version. It can be seen that the larger scale factors (SF1000
 and SF3000) yielded a long runtime than expected. On the metric charts
@@ -447,25 +539,70 @@ fact, the OOM errors encountered when running SF3000 supports this
 hypothesis even further. It was thus proposed to scale up the RAM in the
 instances. The CPU utilization hints that adding some extra vCPUs as
 well can further yield speedup.</p>
-<p><br>
-<img src="http://ldbcouncil.org/sites/default/files/spark_sf100_cpu_load.png" alt=""></p>
-<p><em>Figure 5. Full CPU utilization for Spark (SF100, last graph shows
+<p><img src="spark_sf100_cpu_load.png" alt=""><br>
+<em>Figure 5. Full CPU utilization for Spark (SF100, last graph shows
 master)</em></p>
-<p><br>
-<img src="http://ldbcouncil.org/sites/default/files/spark_sf100_mem_free.png" alt=""></p>
-<p><em>Figure 6. Spark eats up memory fast (SF100, 2nd graph shows master)</em></p>
+<p><img src="spark_sf100_mem_free.png" alt=""><br>
+<em>Figure 6. Spark eats up memory fast (SF100, 2nd graph shows master)</em></p>
 <p>i3.2xlarge would have been the most straightforward option for scaling
 up the instances, however the humongous 1.9 TB disk of this image is
 completely unnecessary for the job. Instead the cheaper r5d.2xlarge
 instance was utilised, largely identical to i3.2xlarge, except it <em>only</em>
 has a 300 GB SSD.</p>
-<p>SF      workers   Platform   Instance Type   runtime (min)   runtime * worker/SF (min)</p>
-<hr>
-<p>100     3         Spark      r5d.2xlarge     16              0.48
-300     9         Spark      r5d.2xlarge     21              0.63
-1000    30        Spark      r5d.2xlarge     26              0.78
-3000    90        Spark      r5d.2xlarge     25              0.75
-10000   303       Spark      r5d.2xlarge     25              0.75</p>
+<table>
+<thead>
+<tr>
+<th>SF</th>
+<th>workers</th>
+<th>Platform</th>
+<th>Instance Type</th>
+<th>runtime (min)</th>
+<th>runtime * worker/SF (min)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>100</td>
+<td>3</td>
+<td>Spark</td>
+<td>r5d.2xlarge</td>
+<td>16</td>
+<td>0.48</td>
+</tr>
+<tr>
+<td>300</td>
+<td>9</td>
+<td>Spark</td>
+<td>r5d.2xlarge</td>
+<td>21</td>
+<td>0.63</td>
+</tr>
+<tr>
+<td>1000</td>
+<td>30</td>
+<td>Spark</td>
+<td>r5d.2xlarge</td>
+<td>26</td>
+<td>0.78</td>
+</tr>
+<tr>
+<td>3000</td>
+<td>90</td>
+<td>Spark</td>
+<td>r5d.2xlarge</td>
+<td>25</td>
+<td>0.75</td>
+</tr>
+<tr>
+<td>10000</td>
+<td>303</td>
+<td>Spark</td>
+<td>r5d.2xlarge</td>
+<td>25</td>
+<td>0.75</td>
+</tr>
+</tbody>
+</table>
 <p>The last column clearly demonstrates our ability to keep the cost per
 scale factor unit constant.</p>
 <h2 id="next-steps">Next steps</h2>
@@ -483,7 +620,7 @@ be implemented with the new serializers.</p>
 <p>The Spark migration also serves as an important building block for the
 next generation of LDBC benchmarks. As part of extending the SNB
 benchmark suite, the SNB task force has recently extended Datagen with
-support for <a href="#deletes">generating delete operations</a>. The next step for
+support for <a href="#references">generating delete operations [1]</a>. The next step for
 the task force is to fine-tune the temporal distributions of these
 deletion operations to ensure that the emerging sequence of events is
 realistic, i.e. the emerging distribution resembles what a database
@@ -493,32 +630,45 @@ system would experience when serving a real social network.</p>
 Steer, Jack Waudby and other LDBC contributors. Thanks for your help and
 feedback!</p>
 <h2 id="references">References</h2>
-<ul>
-<li>[]{#deletes}<a href="http://ldbcouncil.org/sites/default/files/datagen-deletions-grades-nda-2020.pdf">Supporting Dynamic Graphs and Temporal Entity Deletions
+<p>[1] <a href="http://ldbcouncil.org/sites/default/files/datagen-deletions-grades-nda-2020.pdf">Supporting Dynamic Graphs and Temporal Entity Deletions
 in the LDBC Social Network Benchmark&rsquo;s Data
-Generator</a></li>
-<li>[]{#datagen}<a href="https://www.youtube.com/watch?v=ZQOLuCOOpSI">9th TUC Meeting &ndash; LDBC SNB Datagen Update &ndash; Arnau
+Generator</a><br>
+[2] <a href="https://www.youtube.com/watch?v=ZQOLuCOOpSI">9th TUC Meeting &ndash; LDBC SNB Datagen Update &ndash; Arnau
 Prat (UPC)</a> -
-<a href="http://wiki.ldbcouncil.org/pages/viewpage.action?pageId=59277315&amp;preview=/59277315/75431942/datagen_in_depth.pdf">slides</a></li>
-<li>[]{#s3g2}<a href="https://research.vu.nl/en/publications/s3g2-a-scalable-structure-correlated-social-graph-generator">S3G2: a Scalable Structure-correlated Social Graph
-Generator</a></li>
-<li>[]{#snb}<a href="https://arxiv.org/abs/2001.02299">The LDBC Social Network
-Benchmark</a></li>
-<li><a href="http://www.ldbcouncil.org/">LDBC</a> - <a href="https://github.com/ldbc">LDBC GitHub
-organization</a></li>
-</ul>
-<p>[^1^]{#fn1} Also makes it easier to map to a tabular format thus it is a
-SQL friendly representation.</p>
-<p>[^2^]{#fn2} It&rsquo;s hard to imagine this done declaratively in SQL.</p>
-<p>[^3^]{#fn3} Instead, multiple YARN containers have to be used if you
-want to parallelize on the same machine.</p>
-<p>[^4^]{#fn4} Although editors usually render these using different font
-styles.</p>
-<p>[^5^]{#fn5} With the addition of deletes, entities often get inserted
+<a href="http://wiki.ldbcouncil.org/pages/viewpage.action?pageId=59277315&amp;preview=/59277315/75431942/datagen_in_depth.pdf">slides</a><br>
+[3] <a href="https://research.vu.nl/en/publications/s3g2-a-scalable-structure-correlated-social-graph-generator">S3G2: a Scalable Structure-correlated Social Graph
+Generator</a><br>
+[4] <a href="https://arxiv.org/abs/2001.02299">The LDBC Social Network
+Benchmark</a><br>
+[5] <a href="http://www.ldbcouncil.org/">LDBC</a> - <a href="https://github.com/ldbc">LDBC GitHub
+organization</a></p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>Also makes it easier to map to a tabular format thus it is a
+SQL friendly representation. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p>It&rsquo;s hard to imagine this done declaratively in SQL. <a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3" role="doc-endnote">
+<p>Instead, multiple YARN containers have to be used if you
+want to parallelize on the same machine. <a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4" role="doc-endnote">
+<p>Although editors usually render these using different font
+styles. <a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:5" role="doc-endnote">
+<p>With the addition of deletes, entities often get inserted
 and deleted during the simulation (which is normal in a social network).
 During serialization, we check for such entities and omit them. However
 we forgot to calculate this when determining the output size, which we
-will amend when tuning the distributions.</p>
+will amend when tuning the distributions. <a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
 
         </div>
         <!-- tags -->
@@ -545,7 +695,7 @@ will amend when tuning the distributions.</p>
         <a href="https://ldbc.github.io/post/speeding-up-ldbc-snb-datagen/">
           <h5 class="mt-0">Speeding Up LDBC SNB Datagen</h5>
         </a>
-        24 Jun 2021
+        12 Jun 2020
       </div>
       
       
