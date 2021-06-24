@@ -433,5 +433,32 @@ CALL FOR CONTRIBUTIONS:</description>
  Access to the internal LDBC information via its wiki and mailing lists, which includes access to discussion documents, graph user scenario&amp;rsquo;s, datasets, draft benchmark specifications and software, results and discussions.</description>
     </item>
     
+    <item>
+      <title>Graphalytics</title>
+      <link>https://ldbc.github.io/benchmarks/graphalytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/benchmarks/graphalytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LDBC Social Network Benchmark (LDBC-SNB)</title>
+      <link>https://ldbc.github.io/benchmarks/snb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/benchmarks/snb/</guid>
+      <description>The Social Network Benchmark consists in fact of three distinct benchmarks on a common dataset, since there are three different workloads.</description>
+    </item>
+    
+    <item>
+      <title>SPB</title>
+      <link>https://ldbc.github.io/benchmarks/spb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/benchmarks/spb/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

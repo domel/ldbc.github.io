@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+
+<html lang="en-us"><head>
+  <meta charset="utf-8">
+  <title>LDBC Social Network Benchmark (LDBC-SNB)</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="Linked Data Benchmark Council Website">
+  
+  <meta name="author" content="LDBC">
+  <meta name="generator" content="Hugo 0.80.0" />
+
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://ldbc.github.io/plugins/bootstrap/bootstrap.min.css">
+  
+  <link rel="stylesheet" href="https://ldbc.github.io/plugins/slick/slick.css">
+  
+  <link rel="stylesheet" href="https://ldbc.github.io/plugins/fontawesome/font-awesome.min.css">
+  
+  <link rel="stylesheet" href="https://ldbc.github.io/plugins/animate/animate.css">
+  
+  <link rel="stylesheet" href="https://ldbc.github.io/plugins/venobox/venobox.css">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="https://ldbc.github.io/scss/style.min.css" media="screen">
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="https://ldbc.github.io/images/favicon.png " type="image/x-icon">
+  <link rel="icon" href="https://ldbc.github.io/images/favicon.png " type="image/x-icon">
+
+
+
+  <!-- Custom js -->
+  <script type="module" type="text/javascript" src="https://ldbc.github.io/js/isotope.pkgd.min.js"></script><script type="module" type="text/javascript" src="https://ldbc.github.io/js/wowchemy.js"></script>
+
+</head><body>
+<!-- preloader start -->
+<div class="preloader">
+  
+</div>
+<!-- preloader end -->
+<!-- header -->
+<header>
+  
+
+  <!-- navigation -->
+  <div class="navigation bg-white position-relative">
+    <div class="container">
+      <nav class="navbar navbar-expand-lg navbar-light bg-white">
+        <a class="navbar-brand" href="/"><img class="img-fluid pb-lg-3" src="https://ldbc.github.io/images/ldbc-title.png" alt="Linked Data Benchmark Council"></a>
+        <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation"
+          aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse text-center" id="navigation">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="/">Home</a>
+            </li>
+            
+            
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+                aria-expanded="false">
+                Benchmarks
+              </a>
+              <div class="dropdown-menu" >
+                
+                <a class="dropdown-item" href="/benchmarks/graphalytics">Graphalytics Benchmark</a>
+                
+                <a class="dropdown-item" href="/benchmarks/spb">Semantic Publishing Benchmark</a>
+                
+                <a class="dropdown-item" href="/benchmarks/snb">Social Network Benchmark</a>
+                
+              </div>
+            </li>
+            
+            
+            
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+                aria-expanded="false">
+                Membership
+              </a>
+              <div class="dropdown-menu" >
+                
+                <a class="dropdown-item" href="/current-members">Current Members</a>
+                
+                <a class="dropdown-item" href="/becoming-a-member">Becoming a Member</a>
+                
+              </div>
+            </li>
+            
+            
+            
+            <li class="nav-item">
+              <a class="nav-link" href="/event">Events</a>
+            </li>
+            
+            
+            
+            <li class="nav-item">
+              <a class="nav-link" href="/post">Posts</a>
+            </li>
+            
+            
+            
+            <li class="nav-item">
+              <a class="nav-link" href="/publication">Publications</a>
+            </li>
+            
+            
+          </ul>
+
+          
+          
+
+          
+          
+        </div>
+      </nav>
+    </div>
+  </div>
+  <!-- /navigation -->
+</header>
+<!-- /header -->
+
+<!-- page title -->
+<section class="section bg-cover overlay"> 
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        
+        
+        <h2 class="text-white mb-3">LDBC Social Network Benchmark (LDBC-SNB)</h2>
+        
+        <!-- breadcrumb -->
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb bg-transparent p-0">
+            <li class="breadcrumb-item font-weight-semebold"><a class="text-white" href="/">Home</a></li>
+        
+            <li class="breadcrumb-item font-weight-semebold active text-primary" aria-current="page">LDBC Social Network Benchmark (LDBC-SNB)</li>
+        
+          </ol>
+        </nav>
+        
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /page title -->
+
+
+<!-- Becoming a member details -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="content">
+          <p>The Social Network Benchmark consists in fact of three distinct
+benchmarks on a common dataset, since there
+are <strong>three different workloads</strong>.
+Each workload produces a single metric for performance at the given
+scale and a price/performance metric at the scale.  The full
+disclosure further breaks down the composition of the metric into its
+constituent parts, e.g. single query execution
+times.</p>
+<ul>
+<li><strong>The Social Network Benchmark's Interactive workload</strong>, a
+benchmark focusing on transactional graph processing with complex
+read queries that access the neighbourhood of a given node in the
+graph and update operations that continuously insert new data in the
+graph.</li>
+<li><strong>The Social Network Benchmark's Business Intelligence workload</strong>,
+a benchmark that focuses on aggregation- and join-heavy complex
+queries touching a large portion of the graph with microbatches of
+insert/delete update operations. This workload is not yet
+finalized.</li>
+</ul>
+<h4 id="social-network-benchmark-interactive-version-032httpsarxivorgpdf200102299pdf-audited-results">Social Network Benchmark Interactive (<a href="https://arxiv.org/pdf/2001.02299.pdf">version 0.3.2</a>) audited results</h4>
+<h5 id="tugraph">TuGraph</h5>
+<p>TuGraph was audited in July 2020. TuGraph is owned by <a href="https://www.antgroup.com/en">Ant
+Group</a> now.</p>
+<table>
+<thead>
+<tr>
+<th><strong>SF</strong></th>
+<th><strong>Throughput (ops/sec)</strong></th>
+<th><strong>Cost</strong></th>
+<th><strong>Software</strong></th>
+<th><strong>Hardware</strong></th>
+<th><strong>Test Sponsor</strong></th>
+<th><strong>Date</strong></th>
+<th><strong>Full Disclosure Report</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>30</td>
+<td>5,436.47</td>
+<td>$280,650</td>
+<td><a href="https://fma-ai.cn/">TuGraph 1.10</a></td>
+<td>AWS r5d.12xlarge instance, 48*Intel Xeon Platinum 8175M @ 2.5GHz, 374GB RAM</td>
+<td><a href="https://fma-ai.cn/">FMA</a></td>
+<td>2020/07/26</td>
+<td><a href="LDBC_SNB_I_20200726_SF30-100-300_tugraph.pdf">Full Disclosure Report</a></td>
+</tr>
+<tr>
+<td>100</td>
+<td>5,010.77</td>
+<td>$280,650</td>
+<td><a href="https://fma-ai.cn/">TuGraph 1.10</a></td>
+<td>AWS r5d.12xlarge instance, 48*Intel Xeon Platinum 8175M @ 2.5GHz, 374GB RAM</td>
+<td><a href="https://fma-ai.cn/">FMA</a></td>
+<td>2020/07/26</td>
+<td><a href="LDBC_SNB_I_20200726_SF30-100-300_tugraph.pdf">Full Disclosure Report</a></td>
+</tr>
+<tr>
+<td>300</td>
+<td>4,855.52</td>
+<td>$280,650</td>
+<td><a href="https://fma-ai.cn/">TuGraph 1.10</a></td>
+<td>AWS r5d.12xlarge instance, 48*Intel Xeon Platinum 8175M @ 2.5GHz, 374GB RAM</td>
+<td><a href="https://fma-ai.cn/">FMA</a></td>
+<td>2020/07/26</td>
+<td><a href="LDBC_SNB_I_20200726_SF30-100-300_tugraph.pdf">Full Disclosure Report</a></td>
+</tr>
+</tbody>
+</table>
+<p>Supplementary material for the TuGraph audits:</p>
+<ul>
+<li><a href="LDBC_SNB_I_20200726_SF30-100-300_tugraph-executive_summary.pdf">Executive summary</a></li>
+<li><a href="LDBC_SNB_I_20200726_SF30-100-300_tugraph-signatures.pdf">Signatures</a></li>
+<li><a href="https://drive.google.com/file/d/198UrkL7_vduOm5MTneVniiYBG8U2a8x9/view?usp=sharing">Attachments</a></li>
+</ul>
+<h4 id="social-network-benchmark-interactive-version-022httpsgithubcomldbcldbc_snb_docsblob8d325657069b444dd79fe21c770ecc9d88cc2c53ldbc_snb_v022pdf-audited-results">Social Network Benchmark Interactive (<a href="https://github.com/ldbc/ldbc_snb_docs/blob/8d325657069b444dd79fe21c770ecc9d88cc2c53/LDBC_SNB_v0.2.2.pdf">version 0.2.2</a>) audited results</h4>
+<table>
+<thead>
+<tr>
+<th><strong>SF</strong></th>
+<th><strong>Throughput (ops/sec)</strong></th>
+<th><strong>Cost</strong></th>
+<th><strong>Software</strong></th>
+<th><strong>Hardware</strong></th>
+<th><strong>Test Sponsor</strong></th>
+<th><strong>Date</strong></th>
+<th><strong>Full Disclosure Report</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10</td>
+<td>101.20</td>
+<td>€30,427</td>
+<td>Sparksee 5.1.1</td>
+<td>2*Xeon 2630v3 8-core 2.4GHz, 256GB RAM</td>
+<td><a href="http://www.sparsity-technologies.com">Sparsity Technologies SA</a></td>
+<td>2015/04/27</td>
+<td><a href="LDBC_SNB_I_20150427_SF10_sparksee.pdf">Full Disclosure Report</a></td>
+</tr>
+<tr>
+<td>30</td>
+<td>1287.17</td>
+<td>€20,212</td>
+<td>Virtuoso 07.50.3213 <a href="https://github.com/v7fasttrack/virtuoso-opensource">v7fasttrack</a></td>
+<td>2*Xeon2630 6-core 2.4GHz, 192GB RAM</td>
+<td><a href="http://www.openlinksw.com">OpenLink Software</a></td>
+<td>2015/04/27</td>
+<td><a href="LDBC_SNB_I_20150427_SF30_virtuoso.pdf">Full Disclosure Report</a></td>
+</tr>
+<tr>
+<td>30</td>
+<td>86.50</td>
+<td>€30,427</td>
+<td>Sparksee 5.1.1</td>
+<td>2*Xeon 2630v3 8-core 2.4GHz, 256GB RAM</td>
+<td><a href="http://www.sparsity-technologies.com">Sparsity Technologies SA</a></td>
+<td>2015/04/27</td>
+<td><a href="LDBC_SNB_I_20150427_SF30_sparksee.pdf">Full Disclosure Report</a></td>
+</tr>
+<tr>
+<td>100</td>
+<td>1200.00</td>
+<td>€20,212</td>
+<td>Virtuoso 07.50.3213 <a href="https://github.com/v7fasttrack/virtuoso-opensource">v7fasttrack</a></td>
+<td>2*Xeon2630 6-core 2.4GHz, 192GB RAM</td>
+<td><a href="http://www.openlinksw.com">OpenLink Software</a></td>
+<td>2015/04/27</td>
+<td><a href="LDBC_SNB_I_20150427_SF100_virtuoso.pdf">Full Disclosure Report</a></td>
+</tr>
+<tr>
+<td>100</td>
+<td>81.70</td>
+<td>€37,927</td>
+<td>Sparksee 5.1.1</td>
+<td>2*Xeon 2630v3 8-core 2.4GHz, 256GB RAM</td>
+<td><a href="http://www.sparsity-technologies.com">Sparsity Technologies SA</a></td>
+<td>2015/04/27</td>
+<td><a href="LDBC_SNB_I_20150427_SF100_sparksee.pdf">Full Disclosure Report</a></td>
+</tr>
+<tr>
+<td>300</td>
+<td>635</td>
+<td>€20,212</td>
+<td>Virtuoso 07.50.3213 <a href="https://github.com/v7fasttrack/virtuoso-opensource">v7fasttrack</a></td>
+<td>2*Xeon2630 6-core 2.4GHz, 192GB RAM</td>
+<td><a href="http://www.openlinksw.com">OpenLink Software</a></td>
+<td>2015/04/27</td>
+<td><a href="LDBC_SNB_I_20150427_SF300_virtuoso.pdf">Full Disclosure Report</a></td>
+</tr>
+</tbody>
+</table>
+
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</section>
+<!-- /Becoming a member details -->
+
+
+<footer>
+  
+  <div class="section bg-secondary">
+    <div class="container">
+      <div class="row justify-content-between">
+        
+        <div class="col-lg-5 mb-5 mb-lg-0">
+          
+          <a class="mb-4 d-inline-block" href="/"><img class="img-fluid"
+              src="https://ldbc.github.io/images/ldbc.png" alt="Linked Data Benchmark Council"></a>
+          <p class="text-light mb-5">LDBC came out of an EU FP7 project and is now a non-profit organization sustained by its members. Contact us at info AT ldbcouncil DOT org.</p>
+          <h4 class="text-white mb-4"></h4>
+          
+          <ul class="list-inline social-icon-alt">
+            
+            <li class="list-inline-item">
+              <a class="hover-ripple" href="https://www.facebook.com/ldbcouncil"><i class="fa fa-facebook"></i></a>
+            </li>
+            
+            <li class="list-inline-item">
+              <a class="hover-ripple" href="https://twitter.com/LDBCouncil"><i class="fa fa-twitter"></i></a>
+            </li>
+            
+            <li class="list-inline-item">
+              <a class="hover-ripple" href="https://github.com/ldbc"><i class="fa fa-github"></i></a>
+            </li>
+            
+          </ul>
+        </div>
+        <div class="col-lg-6">
+          <div class="row">
+            
+            
+            
+            
+            <div class="col-12">
+
+  <!-- Twitter timeline -->
+  
+  
+  <a class="twitter-timeline" data-height="450" data-theme="dark"  href="https://twitter.com/LDBCouncil?ref_src=twsrc%5Etfw" style="background-color: #252d39;">Tweets by LDBCouncil</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="bg-secondary-darken py-4">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 text-center text-md-left mb-3 mb-md-0">
+          <p class="mb-0 text-white">© Copyright LDBC 2021</p>
+        </div>
+        <div class="col-md-6 text-center text-md-right">
+          <ul class="list-inline">
+            
+            <li class="list-inline-item mx-0"><a class="d-inline-block px-3 text-white" href="/docs/LDBC.Byelaws.1.3.ADOPTED.2021-01-14.pdf" class="text-white">LDBC Byelaws Document</a></li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+
+<!-- Google Map API -->
+
+
+
+
+<!-- JS Plugins -->
+
+<script src="https://ldbc.github.io/plugins/jQuery/jquery.min.js"></script>
+
+<script src="https://ldbc.github.io/plugins/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://ldbc.github.io/plugins/slick/slick.min.js"></script>
+
+<script src="https://ldbc.github.io/plugins/google-map/gmap.js"></script>
+
+<script src="https://ldbc.github.io/plugins/venobox/venobox.min.js"></script>
+
+<script src="https://ldbc.github.io/plugins/filterizr/jquery.filterizr.min.js"></script>
+
+<script src="https://ldbc.github.io/plugins/search/fuse.min.js"></script>
+
+<script src="https://ldbc.github.io/plugins/search/mark.js"></script>
+
+<script src="https://ldbc.github.io/plugins/search/search.js"></script>
+
+
+<!-- Main Script -->
+
+<script src="https://ldbc.github.io/js/script.min.js"></script>
+
+<!-- google analitycs -->
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 btn-sm js-copy-cite" href="#" target="_blank">
+          
+          COPY
+        </a>
+        <a class="btn btn-outline-primary my-1 btn-sm js-download-cite" href="#" target="_blank">
+          
+          DOWNLOAD
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</body>
+
+</html>
