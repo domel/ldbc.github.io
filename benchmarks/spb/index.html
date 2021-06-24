@@ -2,7 +2,7 @@
 
 <html lang="en-us"><head>
   <meta charset="utf-8">
-  <title>SPB</title>
+  <title>LDBC Semantic Publishing Benchmark (LDBC-SPB)</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -137,14 +137,14 @@
       <div class="col-12">
         
         
-        <h2 class="text-white mb-3">SPB</h2>
+        <h2 class="text-white mb-3">LDBC Semantic Publishing Benchmark (LDBC-SPB)</h2>
         
         <!-- breadcrumb -->
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb bg-transparent p-0">
             <li class="breadcrumb-item font-weight-semebold"><a class="text-white" href="/">Home</a></li>
         
-            <li class="breadcrumb-item font-weight-semebold active text-primary" aria-current="page">SPB</li>
+            <li class="breadcrumb-item font-weight-semebold active text-primary" aria-current="page">LDBC Semantic Publishing Benchmark (LDBC-SPB)</li>
         
           </ol>
         </nav>
@@ -162,7 +162,160 @@
     <div class="row">
       <div class="col-lg-12">
         <div class="content">
-          
+          <p>The Semantic Publishing Benchmark (SPB) is an LDBC benchmark for testing
+the performance of RDF engines inspired by the Media/Publishing
+industry. In particular, LDBC worked with British Broadcasting
+Corporation
+<a href="http://www.bbc.co.uk/blogs/internet/posts/Linked-Data-Connecting-together-the-BBCs-Online-Content">BBC</a>
+to define this benchmark, for which BBC donated
+workloads, <a href="https://github.com/ldbc/ldbc_spb_bm_2.0/tree/master/datasets_and_queries/ontologies">ontologies</a> and
+data. The publishing industry is an area where significant adoption
+of RDF is taking place.</p>
+<p>There have been many academic benchmarks for RDF but none of these are
+truly industrial-grade. The SPB  combines a set of complex queries under
+inference with continuous updates and special failover tests for systems
+implementing replication.</p>
+<p>SPB performance is measured by producing a workload of CRUD (Create,
+Read, Update, Delete) operations which are executed simultaneously. The
+benchmark offers a data generator that uses real reference data to
+produce datasets of various sizes and tests the scalability aspect
+of RDF systems. The benchmark workload consists of (a) editorial
+operations that add new data, alter or delete existing (b) aggregation
+operations that retrieve content according to various criteria. The
+benchmark also tests conformance for various rules inside
+the OWL2-RL rule-set.</p>
+<p>The <a href="https://github.com/ldbc/ldbc_spb_bm_2.0/blob/master/doc/LDBC_SPB_v2.0.docx?raw=true">SPB specification</a> contains
+the description of the benchmark and the data generator and all
+information about its software components can be found on the
+<a href="http://ldbcouncil.org/developer/spb">SPB developer page</a>.</p>
+<h4 id="semantic-publishing-benchmark-spb-audited-results-for-scale-factors-sf1--64m-sf3---256m-and-sf5---1gtriples-are-shown-below">Semantic Publishing Benchmark (SPB) Audited Results for Scale Factors SF1 - 64M, SF3 - 256M and SF5 - 1G triples are shown below. </h4>
+<table>
+<thead>
+<tr>
+<th><strong>Scale Factor</strong></th>
+<th><strong>Interactive (Q/s)</strong></th>
+<th><strong>Updates (ops/sec)</strong></th>
+<th><strong>Analytical</strong></th>
+<th><strong>Cost</strong></th>
+<th><strong>Software</strong></th>
+<th><strong>Hardware</strong></th>
+<th><strong>Test Sponsor</strong></th>
+<th><strong>Date</strong></th>
+<th><strong>Full Disclosure Report</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>100.85</td>
+<td>10.19</td>
+<td>n.a.</td>
+<td>€37,504</td>
+<td>GraphDB EE6.2</td>
+<td>Xeon1650v3 6-core 3.5Ghz 96GB RAM</td>
+<td><a href="http://www.ontotext.com/">ONTOTEXT AD</a></td>
+<td>2015/04/26</td>
+<td><a href="LDBC_SPB20_20150426_SF1_GraphDB-EE-6.2b.pdf">Full Disclosure Report</a></td>
+</tr>
+<tr>
+<td>1</td>
+<td>142.7588</td>
+<td>10.6725</td>
+<td>n.a</td>
+<td>€35,323</td>
+<td>GraphDB SE 6.3 alpha</td>
+<td>CPU Intel Xeon E5-1650 v3 3.5Ghz,15MB L3 cache, s2011</td>
+<td><a href="http://www.ontotext.com/">ONTOTEXT AD</a></td>
+<td>2015/06/10</td>
+<td><a href="LDBC-SPB-64M-GraphDB-10062015.pdf">Full Disclosure Report</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td>29.90</td>
+<td>9.50</td>
+<td>n.a.</td>
+<td>€37,504</td>
+<td>GraphDB EE6.2</td>
+<td>Xeon1650v3 6-core 3.5Ghz 96GB RAM</td>
+<td><a href="http://www.ontotext.com/">ONTOTEXT AD</a></td>
+<td>2015/04/26</td>
+<td><a href="LDBC_SPB20_20150426_SF3_GraphDB-EE-6.2b.pdf">Full Disclosure Report</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td>54.6364</td>
+<td>9.4967</td>
+<td>n.a</td>
+<td>€35,323</td>
+<td>GraphDB SE 6.3 alpha</td>
+<td>CPU Intel Xeon E5-1650 v3 3.5Ghz,15MB L3 cache, s2011</td>
+<td><a href="http://www.ontotext.com/">ONTOTEXT AD</a></td>
+<td>2015/06/10</td>
+<td><a href="LDBC-SPB-256M-GraphDB-10062015.pdf">Full Disclosure Report</a></td>
+</tr>
+<tr>
+<td>1</td>
+<td>149.0385</td>
+<td>156.8325</td>
+<td>n.a.</td>
+<td>$20,213 (€17,801 rate of 21/06/2015)</td>
+<td>Virtuoso Opensource Version 7.50.3213</td>
+<td>Intel Xeon E5-2630, 6x 2.30GHz, Sockel 2011, boxed, 192 GB RAM</td>
+<td><a href="http://www.openlinksw.com/">OpenLink Software</a></td>
+<td>2015/06/09</td>
+<td><a href="LDBC-SPB-64M-Virtuoso-09062015.pdf">Full Disclosure Report</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td>80.6158</td>
+<td>92.7072</td>
+<td>n.a.</td>
+<td>$20,213 (€17,801 rate of 21/06/2015)</td>
+<td>Virtuoso Opensource Version 7.50.3213</td>
+<td>Intel Xeon E5-2630, 6x 2.30GHz, Sockel 2011, boxed, 192 GB RAM</td>
+<td><a href="http://www.openlinksw.com/">OpenLink Software</a></td>
+<td>2015/06/09</td>
+<td><a href="LDBC-SPB-256M-Virtuoso-09062015.pdf">Full Disclosure Report</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td>115.3838</td>
+<td>109.8517</td>
+<td>n.a.</td>
+<td>$24,528 (€21,601 rate 21/06/2015)</td>
+<td>Virtuoso Opensource Version 7.50.3213</td>
+<td>Amazon EC2, r3.8xlarge</td>
+<td><a href="http://www.openlinksw.com/">OpenLink Software</a></td>
+<td>2015/06/09</td>
+<td><a href="LDBC-SPB-256M-Virtuoso-EC2-09062015.pdf">Full Disclosure Report</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td>32.2789</td>
+<td>72.7192</td>
+<td>n.a.</td>
+<td>$20,213 (€17,801 rate 21/06/2015)</td>
+<td>Virtuoso Opensource Version 7.50.3213</td>
+<td>Intel Xeon E5-2630, 6x 2.30GHz, Sockel 2011, boxed, 192 GB RAM</td>
+<td><a href="http://www.openlinksw.com/">OpenLink Software</a></td>
+<td>2015/06/09</td>
+<td><a href="LDBC-SPB-1G-Virtuoso-09062015.pdf">Full Disclosure Report</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td>45.8101</td>
+<td>55.4467</td>
+<td>n.a</td>
+<td>$24,528 (€21,601 rate 21/06/2015)</td>
+<td>Virtuoso Opensource Version 7.50.3213</td>
+<td>Amazon EC2, r3.8xlarge</td>
+<td><a href="http://www.openlinksw.com/">OpenLink Software</a></td>
+<td>2015/06/10</td>
+<td><a href="LDBC-SPB-1G-Virtuoso-EC2-10062015.pdf">Full Disclosure Report</a></td>
+</tr>
+</tbody>
+</table>
+
         </div>
       </div>
       
