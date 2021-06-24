@@ -285,7 +285,7 @@ CALL FOR CONTRIBUTIONS:</description>
       <pubDate>Tue, 19 Nov 2013 08:00:00 +0000</pubDate>
       
       <guid>https://ldbc.github.io/event/third-tuc-meeting/</guid>
-      <description>Introduction Agenda Logistics LDBC/TUC Background  Social Network Benchmark Semantic Publishing Benchmark     The LDBC consortium is pleased to announce the third Technical User Community (TUC) meeting!</description>
+      <description>The LDBC consortium is pleased to announce the third Technical User Community (TUC) meeting!</description>
     </item>
     
     <item>
@@ -294,7 +294,7 @@ CALL FOR CONTRIBUTIONS:</description>
       <pubDate>Mon, 22 Apr 2013 10:00:00 +0000</pubDate>
       
       <guid>https://ldbc.github.io/event/second-tuc-meeting/</guid>
-      <description>Created by Josep Larriba Pey, last modified by Peter Bonczon Apr 25, 2013</description>
+      <description>The LDBC consortium are pleased to announce the second Technical User Community (TUC) meeting.</description>
     </item>
     
     <item>
@@ -443,11 +443,29 @@ CALL FOR CONTRIBUTIONS:</description>
     
     <item>
       <title></title>
+      <link>https://ldbc.github.io/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/events/</guid>
+      <description>Redirecting&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://ldbc.github.io/pages/page-name/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ldbc.github.io/pages/page-name/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ldbc.github.io/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/posts/</guid>
+      <description>Redirecting&amp;hellip;</description>
     </item>
     
     <item>
