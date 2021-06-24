@@ -109,6 +109,11 @@ hasChildren = true
     name = "Social Network Benchmark"
     url = "benchmarks/snb"
     weight = 3
+    [[menu.main]]
+    parent = "benchmarks"
+    name = "Developer Community"
+    url = "developer-community"
+    weight = 4
 
 
 ## footer menu
