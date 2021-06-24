@@ -434,12 +434,12 @@ CALL FOR CONTRIBUTIONS:</description>
     </item>
     
     <item>
-      <title>Graphalytics</title>
+      <title>LDBC Graphalytics Benchmark (LDBC-Graphalytics)</title>
       <link>https://ldbc.github.io/benchmarks/graphalytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ldbc.github.io/benchmarks/graphalytics/</guid>
-      <description></description>
+      <description>The Graphalytics benchmark is an industrial-grade benchmark for graph analysis platforms such as Giraph.</description>
     </item>
     
     <item>

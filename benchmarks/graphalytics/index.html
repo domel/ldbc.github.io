@@ -2,7 +2,7 @@
 
 <html lang="en-us"><head>
   <meta charset="utf-8">
-  <title>Graphalytics</title>
+  <title>LDBC Graphalytics Benchmark (LDBC-Graphalytics)</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -137,14 +137,14 @@
       <div class="col-12">
         
         
-        <h2 class="text-white mb-3">Graphalytics</h2>
+        <h2 class="text-white mb-3">LDBC Graphalytics Benchmark (LDBC-Graphalytics)</h2>
         
         <!-- breadcrumb -->
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb bg-transparent p-0">
             <li class="breadcrumb-item font-weight-semebold"><a class="text-white" href="/">Home</a></li>
         
-            <li class="breadcrumb-item font-weight-semebold active text-primary" aria-current="page">Graphalytics</li>
+            <li class="breadcrumb-item font-weight-semebold active text-primary" aria-current="page">LDBC Graphalytics Benchmark (LDBC-Graphalytics)</li>
         
           </ol>
         </nav>
@@ -162,7 +162,110 @@
     <div class="row">
       <div class="col-lg-12">
         <div class="content">
-          
+          <p>The Graphalytics benchmark is an industrial-grade benchmark for <strong>graph
+analysis platforms</strong> such as Giraph. It consists of six core
+algorithms, standard datasets, synthetic dataset generators,
+and reference outputs, enabling the objective comparison of graph
+analysis platforms. </p>
+<p>The design of the benchmark process takes into account that
+graph-processing is impeded by three dimensions of
+diversity: <strong>platform</strong>,  <strong>algorithms</strong> and <strong>dataset</strong>. </p>
+<p>The benchmark harness consists of a core component, which is extendable
+by a driver for each different platform implementation. The choice of
+the six algorithms:</p>
+<ol>
+<li>breadth-first search,</li>
+<li>PageRank,</li>
+<li>weakly connected components,</li>
+<li>community detection using label propagation,</li>
+<li>local clustering coefficient, and</li>
+<li>single-source shortest paths</li>
+</ol>
+<p>was carefully motivated, using the LDBC TUC and extensive literature
+surveys to ensure good coverage of scenarios. The standard datasets
+include both real and synthetic datasets, which are classified into
+intuitive “T-shirt” sizes (e.g., <strong>S, M, L, XL</strong>).</p>
+<p>Each experiment set in Graphalytics consists of <strong>multiple platform
+runs</strong> (a platform executes an algorithm on a dataset), and diverse set
+of experiments are carried out to evaluate different performance
+characteristics of a system-under-test.</p>
+<p>All completed benchmarks must go through a strict <strong>validation process</strong>
+to ensure the integrity of the performance results.</p>
+<p>The Graphalytics benchmarking process is made future-proof, through a
+<strong>renewal process</strong> that takes place regularly to ensure that the
+benchmark process meets the state-of-the-art development in the field of
+graph analytics.</p>
+<p>To enhance the depth of the benchmark process, Graphalytics also
+facilitates a plugin-architecture, which allows external <strong>software
+tools</strong> to be added to the benchmark harness. For instance, it is
+possible to also use SNB <strong>Datagen</strong> (the data generator of the LDBC
+Social Network Benchmark), an advanced synthetic dataset generator to
+create synthetic graphs for custom test scenarios, or to use
+<strong>Granula</strong>, a fine-grained performance evaluation tool to obtain
+enriched performance results.</p>
+<p>The development of Graphalytics is supported by many active vendors in
+the field of large-scale graph analytics. Currently, Graphalytics
+already facilitates benchmark for a large number of graph analytics
+platforms, such as Giraph, GraphX, GraphMat, OpenG, and PGXD, allowing
+comparison of the state-of-the-art system performance of both
+community-driven and industrial-driven platforms. To get started, the
+details of the Graphalyics documentation and its software components are
+described below.</p>
+<h4 id="for-developers">For Developers</h4>
+<p>The main Graphalytics components can be found at:</p>
+<ul>
+<li><a href="github.com/ldbc/ldbc_graphalytics_docs">​</a><a href="https://github.com/tudelft-atlarge/graphalytics_docs">https://github.com/</a><a href="https://github.com/ldbc/ldbc_graphalytics_docs">ldbc</a><a href="https://github.com/ldbc/ldbc_graphalytics_docs">/</a><a href="https://github.com/ldbc/ldbc_graphalytics_docs">ldbc_graphalytics_docs</a> Graphalytics
+documents</li>
+<li><a href="https://github.com/ldbc/ldbc_graphalytics">https://github.com/ldbc/ldbc_graphalytics</a> Graphalytics
+implementation</li>
+</ul>
+<h5 id="documentation"><strong>Documentation</strong></h5>
+<p>The Graphalytics project leads to several academic publications,
+including a recent article at VLDB 2016 (available soon). The first
+draft of the Graphalytics specification document
+(<a href="https://github.com/ldbc/ldbc_graphalytics_docs">https://github.com/ldbc/ldbc_graphalytics_docs</a>) is available, which
+explains in details the benchmark specifications of Graphalytics.</p>
+<p>To start using Graphalytics, a complete guide on how to install and run
+LDBC Graphalytics (<a href="https://github.com/ldbc/ldbc_graphalytics">https://github.com/ldbc/ldbc_graphalytics</a>) can be
+found in our repositories, and there are also instructions for creating
+a new platform driver for Graphalytics
+(<a href="https://github.com/ldbc/ldbc_graphalytics/wiki/">https://github.com/ldbc/ldbc_graphalytics/wiki/</a>).</p>
+<h5 id="implementation"><strong>Implementation</strong></h5>
+<p>Our repository is currently hosted
+at <a href="https://github.com/atlarge-research">https://github.com/atlarge-research</a>, which may soon be relocated to
+the main LDBC repository. Graphalytics consists of a core implementation
+(<a href="https://github.com/ldbc/ldbc_graphalytics">https://github.com/ldbc/ldbc_graphalytics</a>), which is extendable by a
+driver implementation for each platform. Currently, Graphalytics also
+already support driver implementation of several state-of-the-art graph
+analysis platforms
+(<a href="https://github.com/atlarge-research/">https://github.com/atlarge-research/</a>​graphalytics-platforms-*), some
+of which are vendor-optimized.</p>
+<h5 id="standard-datasets-and-reference-outputs"><strong>Standard datasets and Reference outputs</strong></h5>
+<p>Graphalytics also provides standard datasets and their reference outputs
+(validated outputs for each algorithm), which can be used in the
+benchmark process. These datasets will be made available soon.</p>
+<h5 id="recommended-tools"><strong>Recommended Tools</strong></h5>
+<p>To enhance the depth and comprehensiveness of the benchmark process, the
+following software tools are integrated into Graphalytics. Usage of
+these tools is optional, but highly recommended.</p>
+<ol>
+<li>Datagen (<a href="https://github.com/ldbc/ldbc_snb_datagen">https://github.com/ldbc/ldbc_snb_datagen</a>): Graphalytics
+relies not only on real-world graphs but also on synthetically
+generated graphs, which provide a means of testing data
+configurations not always available in the form of real datasets.
+Datagen, for example, is an advanced synthetic graph generator which
+not only preserves many realistic graph features, but also supports
+graphs with tunable degree distributions and structural
+characteristics.</li>
+<li>Granula (<a href="https://github.com/atlarge-research/granula">https://github.com/atlarge-research/granula</a>): To extend
+Graphalytics with fine-grained performance evaluation, we developed
+Granula, a performance evaluation system for graph analysis
+platform, Granula consists of four main modules: the modeller, the
+monitor, the archiver, and the visualizer. By using Granula,
+enriched performance results can be obtained for each benchmark run,
+which helps in facilitating in-depth performance a</li>
+</ol>
+
         </div>
       </div>
       
