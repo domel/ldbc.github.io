@@ -211,60 +211,6 @@ comparison of the state-of-the-art system performance of both
 community-driven and industrial-driven platforms. To get started, the
 details of the Graphalyics documentation and its software components are
 described below.</p>
-<h4 id="for-developers">For Developers</h4>
-<p>The main Graphalytics components can be found at:</p>
-<ul>
-<li><a href="github.com/ldbc/ldbc_graphalytics_docs">​</a><a href="https://github.com/tudelft-atlarge/graphalytics_docs">https://github.com/</a><a href="https://github.com/ldbc/ldbc_graphalytics_docs">ldbc</a><a href="https://github.com/ldbc/ldbc_graphalytics_docs">/</a><a href="https://github.com/ldbc/ldbc_graphalytics_docs">ldbc_graphalytics_docs</a> Graphalytics
-documents</li>
-<li><a href="https://github.com/ldbc/ldbc_graphalytics">https://github.com/ldbc/ldbc_graphalytics</a> Graphalytics
-implementation</li>
-</ul>
-<h5 id="documentation"><strong>Documentation</strong></h5>
-<p>The Graphalytics project leads to several academic publications,
-including a recent article at VLDB 2016 (available soon). The first
-draft of the Graphalytics specification document
-(<a href="https://github.com/ldbc/ldbc_graphalytics_docs">https://github.com/ldbc/ldbc_graphalytics_docs</a>) is available, which
-explains in details the benchmark specifications of Graphalytics.</p>
-<p>To start using Graphalytics, a complete guide on how to install and run
-LDBC Graphalytics (<a href="https://github.com/ldbc/ldbc_graphalytics">https://github.com/ldbc/ldbc_graphalytics</a>) can be
-found in our repositories, and there are also instructions for creating
-a new platform driver for Graphalytics
-(<a href="https://github.com/ldbc/ldbc_graphalytics/wiki/">https://github.com/ldbc/ldbc_graphalytics/wiki/</a>).</p>
-<h5 id="implementation"><strong>Implementation</strong></h5>
-<p>Our repository is currently hosted
-at <a href="https://github.com/atlarge-research">https://github.com/atlarge-research</a>, which may soon be relocated to
-the main LDBC repository. Graphalytics consists of a core implementation
-(<a href="https://github.com/ldbc/ldbc_graphalytics">https://github.com/ldbc/ldbc_graphalytics</a>), which is extendable by a
-driver implementation for each platform. Currently, Graphalytics also
-already support driver implementation of several state-of-the-art graph
-analysis platforms
-(<a href="https://github.com/atlarge-research/">https://github.com/atlarge-research/</a>​graphalytics-platforms-*), some
-of which are vendor-optimized.</p>
-<h5 id="standard-datasets-and-reference-outputs"><strong>Standard datasets and Reference outputs</strong></h5>
-<p>Graphalytics also provides standard datasets and their reference outputs
-(validated outputs for each algorithm), which can be used in the
-benchmark process. These datasets will be made available soon.</p>
-<h5 id="recommended-tools"><strong>Recommended Tools</strong></h5>
-<p>To enhance the depth and comprehensiveness of the benchmark process, the
-following software tools are integrated into Graphalytics. Usage of
-these tools is optional, but highly recommended.</p>
-<ol>
-<li>Datagen (<a href="https://github.com/ldbc/ldbc_snb_datagen">https://github.com/ldbc/ldbc_snb_datagen</a>): Graphalytics
-relies not only on real-world graphs but also on synthetically
-generated graphs, which provide a means of testing data
-configurations not always available in the form of real datasets.
-Datagen, for example, is an advanced synthetic graph generator which
-not only preserves many realistic graph features, but also supports
-graphs with tunable degree distributions and structural
-characteristics.</li>
-<li>Granula (<a href="https://github.com/atlarge-research/granula">https://github.com/atlarge-research/granula</a>): To extend
-Graphalytics with fine-grained performance evaluation, we developed
-Granula, a performance evaluation system for graph analysis
-platform, Granula consists of four main modules: the modeller, the
-monitor, the archiver, and the visualizer. By using Granula,
-enriched performance results can be obtained for each benchmark run,
-which helps in facilitating in-depth performance a</li>
-</ol>
 
         </div>
       </div>
