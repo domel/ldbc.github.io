@@ -99,6 +99,12 @@
             
             
             <li class="nav-item">
+              <a class="nav-link" href="/event">Events</a>
+            </li>
+            
+            
+            
+            <li class="nav-item">
               <a class="nav-link" href="/post">Posts</a>
             </li>
             
@@ -134,7 +140,14 @@
         <h2 class="text-white mb-3"></h2>
         
         <!-- breadcrumb -->
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb bg-transparent p-0">
+            <li class="breadcrumb-item font-weight-semebold"><a class="text-white" href="/">Home</a></li>
         
+            <li class="breadcrumb-item font-weight-semebold active text-primary" aria-current="page"></li>
+        
+          </ol>
+        </nav>
         
       </div>
     </div>
@@ -173,16 +186,43 @@
 <aside class="col-lg-4 order-1 order-lg-2">
   <!-- latest post -->
   <div class="bg-white px-4 py-5 box-shadow mb-5">
-    <h4 class="mb-4"></h4>
+    <h4 class="mb-4">Latest updates</h4>
     <!-- post-item -->
+    
+    <div class="media border-bottom border-color pb-3 mb-3">
+      <div class="media-body">
+        <a href="https://ldbc.github.io/post/speeding-up-ldbc-snb-datagen/">
+          <h5 class="mt-0">Speeding Up LDBC SNB Datagen</h5>
+        </a>
+        24 Jun 2021
+      </div>
+      
+      
+    </div>
+    
+    <div class="media border-bottom border-color pb-3 mb-3">
+      <div class="media-body">
+        <a href="https://ldbc.github.io/event/12th-tuc-meeting-at-sigmod-2019-amsterdam/">
+          <h5 class="mt-0">12th TUC Meeting at SIGMOD 2019 Amsterdam</h5>
+        </a>
+        24 Jun 2021
+      </div>
+      
+      
+    </div>
     
   </div>
   <!-- tags -->
   <div class="bg-white px-4 py-5 box-shadow mb-5">
     <h4 class="mb-4"></h4>
+    <ul class="list-inline tag-list">
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/ldbc-datagen">Ldbc datagen</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/snb">Snb</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/tuc-meeting">Tuc meeting</a></li>
+    </ul>
   </div>
-  <a href="https://twitter.com/LDBCouncil?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @LDBCouncil</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  <a class="twitter-timeline" data-height="500" data-theme="light" href="https://twitter.com/LDBCouncil?ref_src=twsrc%5Etfw">Tweets by LDBCouncil</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+  
+  
 </aside>
 <!-- /sidebar -->
     </div>

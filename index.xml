@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright LDBC 2021</copyright>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ldbc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Jun 2021 00:09:34 -0400</lastBuildDate><atom:link href="https://ldbc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Speeding Up LDBC SNB Datagen</title>
+      <link>https://ldbc.github.io/post/speeding-up-ldbc-snb-datagen/</link>
+      <pubDate>Thu, 24 Jun 2021 00:09:34 -0400</pubDate>
+      
+      <guid>https://ldbc.github.io/post/speeding-up-ldbc-snb-datagen/</guid>
+      <description>LDBC&amp;rsquo;s Social Network Benchmark (LDBC SNB) is an industrial and academic initiative, formed by principal actors in the field of graph-like data management.</description>
+    </item>
+    
     <item>
       <title>An analysis of the SIGMOD 2014 Programming Contest: Complex queries on the LDBC social network graph</title>
       <link>https://ldbc.github.io/publication/dblp-journalscorrabs-2010-12243/</link>
@@ -51,6 +60,16 @@
       
       <guid>https://ldbc.github.io/publication/tpctc-acid/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>12th TUC Meeting at SIGMOD 2019 Amsterdam</title>
+      <link>https://ldbc.github.io/event/12th-tuc-meeting-at-sigmod-2019-amsterdam/</link>
+      <pubDate>Fri, 05 Jul 2019 08:30:00 +0100</pubDate>
+      
+      <guid>https://ldbc.github.io/event/12th-tuc-meeting-at-sigmod-2019-amsterdam/</guid>
+      <description>Read more information and how to register HERE [CLOSED]
+CALL FOR CONTRIBUTIONS:</description>
     </item>
     
     <item>

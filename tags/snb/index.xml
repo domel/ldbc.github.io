@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SNB on Linked Data Benchmark Council</title>
+    <link>https://ldbc.github.io/tags/snb/</link>
+    <description>Recent content in SNB on Linked Data Benchmark Council</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright LDBC 2021</copyright>
+    <lastBuildDate>Thu, 24 Jun 2021 00:09:34 -0400</lastBuildDate><atom:link href="https://ldbc.github.io/tags/snb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Speeding Up LDBC SNB Datagen</title>
+      <link>https://ldbc.github.io/post/speeding-up-ldbc-snb-datagen/</link>
+      <pubDate>Thu, 24 Jun 2021 00:09:34 -0400</pubDate>
+      
+      <guid>https://ldbc.github.io/post/speeding-up-ldbc-snb-datagen/</guid>
+      <description>LDBC&amp;rsquo;s Social Network Benchmark (LDBC SNB) is an industrial and academic initiative, formed by principal actors in the field of graph-like data management.</description>
+    </item>
+    
+  </channel>
+</rss>
