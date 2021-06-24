@@ -97,17 +97,17 @@ hasChildren = true
     [[menu.main]]
     parent = "benchmarks"
     name = "Graphalytics Benchmark"
-    url = "benchmark-graphalytics"
+    url = "benchmarks/graphalytics"
     weight = 1
     [[menu.main]]
     parent = "benchmarks"
     name = "Semantic Publishing Benchmark"
-    url = "benchmark-spb"
+    url = "benchmarks/spb"
     weight = 2
     [[menu.main]]
     parent = "benchmarks"
     name = "Social Network Benchmark"
-    url = "benchmark-snb"
+    url = "benchmarks/snb"
     weight = 3
 
 
