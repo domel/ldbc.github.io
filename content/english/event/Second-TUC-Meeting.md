@@ -18,9 +18,6 @@ tags: ["TUC Meeting"]
 # image: "event/Second-TUC-Meeting/featured.png"
 ---
 
-Created by <span class="author"> Josep Larriba Pey</span>, last modified
-by <span class="editor"> Peter Boncz</span> on Apr 25, 2013
-
 The LDBC consortium are pleased to announce the second Technical User
 Community (TUC) meeting.
 

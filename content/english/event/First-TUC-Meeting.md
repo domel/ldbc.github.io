@@ -253,8 +253,7 @@ information: ldbcgrants AT ac DOT upc DOT edu
 
  
 
-Attachments:
-------------
+### Attachments:
 
 <img src="images/icons/bullet_blue.gif" width="8" height="8" />
 [upc\_map.jpg](attachments/1671180/1933315.jpg) (image/jpeg)  

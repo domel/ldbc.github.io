@@ -17,14 +17,6 @@ tags: ["TUC Meeting"]
 # image: "event/Third-TUC-Meeting/featured.png"
 ---
 
--   [Introduction](#introduction)
--   [Agenda](#agenda)
--   [Logistics](#logistics)
--   [LDBC/TUC Background](#ldbc/tucbackground)
-    -   [Social Network Benchmark](#socialnetworkbenchmark)
-    -   [Semantic Publishing Benchmark ](#semanticpublishingbenchmark)
-
-
 The LDBC consortium is pleased to announce the third Technical User Community (TUC) meeting!
 
 This will be a one day event in London on the **19 November
@@ -55,6 +47,13 @@ benchmarks.
 
 All users of RDF and graph databases are welcome to attend. If you are
 interested, please contact: ldbc AT ac DOT upc DOT edu
+
+
+-   [Agenda](#agenda)
+-   [Logistics](#logistics)
+-   [LDBC/TUC Background](#ldbc/tucbackground)
+    -   [Social Network Benchmark](#socialnetworkbenchmark)
+    -   [Semantic Publishing Benchmark ](#semanticpublishingbenchmark)
 
 ### Agenda 
 
