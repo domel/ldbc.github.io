@@ -33,7 +33,7 @@ hugo new post/my-post.md
 ```
 This command will create the _my-post.md_ under _content/english/post_ with an initial template.
 
-To add any attachment to a post, create a folder that matches the name of the post, and all resources in that folder can be referenced from markdown using a relative URL.
+To add any attachment to a post, create a folder **with lowercase name** that matches the name of the post, and all resources in that folder can be referenced from markdown using a relative URL.
 
 
 ## Events
