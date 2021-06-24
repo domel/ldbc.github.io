@@ -72,6 +72,12 @@ hasChildren = true
     weight = 5
 
 [[menu.main]]
+identifier = "event"
+name = "Events"
+url = "event" # The path can lead to a content folder too.
+weight = 20
+
+[[menu.main]]
 identifier = "post"
 name = "Posts"
 url = "post" # The path can lead to a content folder too.
@@ -140,6 +146,7 @@ top_header = false
 description = "Linked Data Benchmark Council Website"
 author = "LDBC"
 
+sidebarContent = ["post", "event"]
 
 # contact info
 #address = "9567 Turner Trace Apt. BC C3G8A4"
@@ -200,8 +207,8 @@ footer_content = "LDBC came out of an EU FP7 project and is now a non-profit org
 # copyright
 copyright = "&copy; Copyright LDBC 2021"
 
-#[taxonomies]
-#category = "categories"
-#tag = "tags"
+[taxonomies]
+# category = "categories"
+tag = "tags"
 
 date_format = "Jan 2, 2006"
