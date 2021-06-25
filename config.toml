@@ -122,11 +122,6 @@ name = "LDBC Byelaws Document"
 url = "docs/LDBC.Byelaws.1.3.ADOPTED.2021-01-14.pdf"
 weight = 1
 
-# [[menu.footer]]
-# name = "Privacy Policy"
-# url = "privacy-policy"
-# weight = 2
-
 [params.copyright]
 name = "LDBC"
 
@@ -152,19 +147,6 @@ description = "Linked Data Benchmark Council Website"
 author = "LDBC"
 
 sidebarContent = ["post", "event"]
-
-# contact info
-#address = "9567 Turner Trace Apt. BC C3G8A4"
-#mobile = "+211234565523"
-#email = "info@bexer.com"
-# contact form action
-#contact_form_action = "#" # contact form works with https://formspree.io
-# Google Analitycs
-#google_analitycs_id = "" # your id
-# page sidebar quick contact form
-#quick_contact = true
-# search
-#search = true
 
 # Preloader
 [params.preloader]
@@ -198,6 +180,10 @@ link = "https://twitter.com/LDBCouncil"
 [[params.social]]
 icon = "fa-github"
 link = "https://github.com/ldbc"
+
+[[params.social]]
+icon = "fa-rss"
+link = "/index.xml"
 
 ################################### English language #####################################
 [Languages.en]
