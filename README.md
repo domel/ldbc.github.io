@@ -2,7 +2,7 @@
 
 [![](https://github.com/ldbc/ldbc.github.io/workflows/github%20pages/badge.svg)](https://github.com/ldbc/ldbc.github.io/actions)
 
-The website is built using the [Hugo](https://gohugo.io/) site generator. To build and serve the site at <http://localhost:1313> it, run:
+The website is built using the [Hugo](https://gohugo.io/) site generator. To serve the site without building it under _public/_ at <http://localhost:1313>, run:
 
 ```bash
 hugo serve
