@@ -5,7 +5,7 @@
 The website is built using the [Hugo](https://gohugo.io/) site generator. To serve the site without building it under _public/_ at <http://localhost:1313>, run:
 
 ```bash
-hugo serve
+hugo server
 ```
 
 For detailed build instructions, please consult the [GitHub Actions workflow configuration](.github/workflows/gh-pages.yml).
