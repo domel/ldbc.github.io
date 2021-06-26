@@ -60,12 +60,12 @@ HP\" ([Presentation](attachments/5996808/6979838.pptx) )
 12:40 - 13:00 Jakob Nelson,   \"graphbench.org on the SNB datagen\"
 
 13:00 - 14:30 Lunch Break\@Byzantine & Christian Museum
-([link](http://www.byzantinemuseum.gr/en/){.external-link})
+([link](http://www.byzantinemuseum.gr/en/))
 
 14:30 - 14:50 Olaf Hartig, \"Integrating the Property Graph and RDF data
 models\" ([Presentation](attachments/5996808/6979831.pdf))\
                      
- Documents: [arxiv/1409.3288](http://arxiv.org/abs/1409.3288){.external-link}, [arxiv/1406.3399](http://arxiv.org/abs/1406.3399){.external-link}\
+ Documents: [arxiv/1409.3288](http://arxiv.org/abs/1409.3288), [arxiv/1406.3399](http://arxiv.org/abs/1406.3399)\
       
 
 14:50 - 15:10 Maria-Esther Vidal and Maribel Acosta,\
@@ -159,7 +159,7 @@ the city center (45 euros). More information on how to move around in
 Athens from the airport can be found here: [http://www.aia.gr/traveler/](http://www.aia.gr/traveler/)
 
  
-#### Attachments: {#attachments .pageSectionTitle}
+### Attachments
 
 ![](images/icons/bullet_blue.gif){width="8" height="8"}
 [nhrf-map.gif](attachments/5996808/5964344.gif) (image/gif)\

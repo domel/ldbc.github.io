@@ -36,9 +36,7 @@ have found in current technology.
 All users of RDF and graph databases are welcome to attend. If you are
 interested, please contact: ldbc AT ac DOT upc DOT edu
 
-<!-- TODO -->
-<!-- *+++For presenters+++*: ** please limit your talks to just *+++15
-minutes+++* -->
+**For presenters please limit your talks to just 15 minutes**
 
 ### Agenda
 
@@ -228,8 +226,7 @@ Station. For details see
 
 <http://en.gvb.nl/service_en_verkoop/ov-chipkaartoverzicht/Pages/ov-chipkaart-overzicht.aspx> or <http://en.gvb.nl/ovinmamsterdam/Pages/bestdeal.aspx>\
 and\
-[<http://www.iamsterdam.com/en/placestogo/public-transport-gvb-tickets--info-desks/6688b9b9-7dba-4b3e-a01e-e7076c4d7831>]{.Object
-style="color: rgb(0,0,139);"}
+<http://www.iamsterdam.com/en/placestogo/public-transport-gvb-tickets--info-desks/6688b9b9-7dba-4b3e-a01e-e7076c4d7831>
 
 **Getting Around:** the fastest way to move in the city of Amsterdam
 generally is by bicycle. Consider renting such a device at your hotel.
@@ -266,7 +263,8 @@ attendees that are otherwise unable to fund their trip. Please contact
 us using the following email address if you would like more
 information: ldbcgrants AT ac DOT upc DOT edu
 
-## Attachments: {#attachments .pageSectionTitle}
+### Attachments
+
 ![](images/icons/bullet_blue.gif)
 [A5_Map_of_Amsterdam_Science_Park_PDF.pdf](attachments/5538064/5505820.pdf)
 (application/pdf)\

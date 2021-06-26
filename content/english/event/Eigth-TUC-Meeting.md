@@ -198,8 +198,7 @@ Analysis](attachments/40927235/52428812.pdf).
 technology to virtually integrate and search multiple diverse data
 sources](attachments/40927235/52428810.pdf).
 
-17:15 Kevin Wilkinson (Hewlett Packard Labs). [[LDBC SNB
-extensions](attachments/40927235/52428808.pdf).]{style="line-height: 1.42857;"}
+17:15 Kevin Wilkinson (Hewlett Packard Labs). [LDBC SNB extensions](attachments/40927235/52428808.pdf).
 
 17:45 - 18:15 Closing discussion
 

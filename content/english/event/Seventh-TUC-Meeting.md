@@ -209,9 +209,7 @@ Main operator: (914) 945-3000\
 Receptionist: (914) 945-1614\
 Security: (914) 945-2323
 
-The meeting will take place in the [[*Auditorium* on November 9th, and
-in Meeting Room *20-043* on November
-10th]{style="color: rgb(0,51,102);"}]{.ul}.
+The meeting will take place in the *Auditorium* on November 9th, and in Meeting Room *20-043* on November 10th
 
 ###### **Maps and situation** 
 
@@ -355,6 +353,5 @@ Contact:+1 914 2519700
 
 
 ### Attachments: 
-::: {.greybox align="left"}
 ![](images/icons/bullet_blue.gif)
 [Snip20150920_6.png](attachments/6882333/15926330.png) (image/png)
