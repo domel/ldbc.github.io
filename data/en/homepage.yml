@@ -2,8 +2,8 @@
 slider:
   enable : true
   slider_item:
-    - title : "Welcome to the LDBC Website"
-      subtitle : "On this website, you can find information on benchmark specifications and results, on how the LDBC organization works, the motivation for LDBC, and benchmarking resources for the graph and RDF developer community."
+    - title : "Welcome to the LDBC website"
+      subtitle : "On this website, you can find information on benchmark specifications and audited results, on how the LDBC organization works, and benchmarking resources."
       bg_image : "images/slide-image-1.jpg"
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
       button:
@@ -12,8 +12,8 @@ slider:
         link : "developer"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
   
-    - title : "Public"
-      subtitle : "LDBC brings industry and users together for developing benchmarks whereby the state-of-the-art and advances in graph database technologies can be assessed and directed. Read More to find out how the LDBC might help you."
+    - title : "Community engagement"
+      subtitle : "LDBC brings industry and users together for developing benchmarks whereby the state-of-the-art and advances in graph database technologies can be assessed and directed."
       bg_image : "images/slide-image-2.jpg"
       animation : "fadeInRight"
       button:
@@ -23,7 +23,7 @@ slider:
         animation : "zoomIn"
 
     - title : "Benchmarks"
-      subtitle : "Here you may find the results for different benchmarks, i.e. the Social Network Benchmark (SNB) and the Semantic Publishing Benchmark (SPB), their definitions and best practices, the repositories where to find the data generators and the query implementations, an access to the intranet for the LDBC industry partners and a list of the LDBC member vendors."
+      subtitle : "LDBC's benchmarks include the Social Network Benchmark suite, the Semantic Publishing Benchmark, and Graphalytics."
       bg_image : "images/slide-image-3.jpg"
       animation : "fadeInRight"
       button:
