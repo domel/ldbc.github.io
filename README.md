@@ -27,7 +27,7 @@ author_url:
 # short comment shon below author/date
 short_comment:
 date: {{ .Date }}
-tags: ["example tag"]
+tags: []
 # please make sure to remove image parameter if unused
 image: "post/{{ .Name }}/featured.png" 
 ---
@@ -61,7 +61,7 @@ publishDate: {{ .Date }}
 date: {{ .Date }}
 # events that are single-day events, remove date_end
 date_end: {{ .Date }}
-tags: ["example tag"]
+tags: []
 # please make sure to remove image parameter if unused
 image: "event/{{ .Name }}/featured.png"
 ---

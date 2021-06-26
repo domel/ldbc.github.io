@@ -12,9 +12,7 @@ tags: [snb, Driver]
 # image: "post/why-do-we-need-an-ldbc-snb-specific-workload-driver/featured.png" 
 ---
 
-TODO fix link below
-
-In a previous [3-part blog series](http://ldbcouncil.org/blog/tags/driver) we touched upon the difficulties of executing the LDBC SNB
+In a previous [3-part blog series](/tags/driver) we touched upon the difficulties of executing the LDBC SNB
 Interactive (SNB) workload, while achieving good performance and
 scalability. What we didn't discuss is why these difficulties were
 unique to SNB, and what aspects of the way we perform workload execution

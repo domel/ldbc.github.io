@@ -221,13 +221,11 @@ different scales. The metadata generator produces 19 statements per
 Creative Work (BBC’s slang for all sorts of media assets). The standard
 scale factor is 50 million statements.
 
-TODO links below
-
 A more technical introduction to SPB can be found in this
-[post](http://ldbcouncil.org/blog/getting-started-semantic-publishing-benchmark).
+[post](../getting-started-with-the-semantic-publishing-benchmark).
 Results from experiments with SPB on different hardware configurations,
 including AWS instances, are available in this
-[post](http://ldbcouncil.org/blog/sizing-aws-instances-semantic-publishing-benchmark).
+[post](../sizing-aws-instances-for-the-semantic-publishing-benchmark).
 An interesting discovery is that given the current state of the
 technology (particularly the GraphDB v.6.1 engine) and  today’s cloud
 infrastructure, the load of BBC’s World Cup 2010 website can be handled

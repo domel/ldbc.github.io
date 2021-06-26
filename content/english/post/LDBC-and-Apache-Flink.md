@@ -143,7 +143,7 @@ There is also a nice set of videos
 [[6]](#references) available
 from the latest Flink Forward conference.
 
-##### References
+#### References
 
 [1]
 http://flink.apache.org/

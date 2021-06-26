@@ -121,7 +121,7 @@ evaluation metrics that are dominantly employed for instance matching
 benchmarks are the standard _precision_, _recall_ and _f-measure_
 metrics.
 
-##### References
+#### References
 
 [1] Li, C., Jin, L., and Mehrotra, S. (2006) Supporting efficient
 record linkage for large data sets using mapping techniques. WWW 2006.
