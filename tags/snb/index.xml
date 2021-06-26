@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SNB on Linked Data Benchmark Council</title>
+    <title>snb on Linked Data Benchmark Council</title>
     <link>https://ldbc.github.io/tags/snb/</link>
-    <description>Recent content in SNB on Linked Data Benchmark Council</description>
+    <description>Recent content in snb on Linked Data Benchmark Council</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright LDBC 2021</copyright>
@@ -15,6 +15,61 @@
       
       <guid>https://ldbc.github.io/post/speeding-up-ldbc-snb-datagen/</guid>
       <description>LDBC&amp;rsquo;s Social Network Benchmark [4] (LDBC SNB) is an industrial and academic initiative, formed by principal actors in the field of graph-like data management.</description>
+    </item>
+    
+    <item>
+      <title>SNB and Graphs Related Presentations at GRADES &#39;15</title>
+      <link>https://ldbc.github.io/post/snb-and-graphs-related-presentations-at-grades-15/</link>
+      <pubDate>Fri, 29 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/snb-and-graphs-related-presentations-at-grades-15/</guid>
+      <description>Next 31st of May the GRADES workshop will take place in Melbourne within the ACM/SIGMOD presentation.</description>
+    </item>
+    
+    <item>
+      <title>SNB Interactive Part 2:  Modeling Choices</title>
+      <link>https://ldbc.github.io/post/snb-interactive-part-2-modeling-choices/</link>
+      <pubDate>Tue, 26 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/snb-interactive-part-2-modeling-choices/</guid>
+      <description>​SNB Interactive is the wild frontier, with very few rules. This is necessary, among other reasons, because there is no standard property graph data model, and because the contestants support a broad mix of programming models, ranging from in-process APIs to declarative query.</description>
+    </item>
+    
+    <item>
+      <title>LDBC Participates in the 36th Edition of the ACM SIGMOD/PODS Conference</title>
+      <link>https://ldbc.github.io/post/ldbc-participates-in-the-36th-edition-of-the-acm-sigmod-pods-conference/</link>
+      <pubDate>Mon, 25 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/ldbc-participates-in-the-36th-edition-of-the-acm-sigmod-pods-conference/</guid>
+      <description>LDBC is presenting two papers at the next edition of the ACM SIGMOD/PODS conference held in Melbourne from May 31st to June 4th, 2015.</description>
+    </item>
+    
+    <item>
+      <title>SNB Interactive Part 1: What Is SNB Interactive Really About?</title>
+      <link>https://ldbc.github.io/post/snb-interactive-part-1-what-is-snb-interactive-really-about/</link>
+      <pubDate>Thu, 14 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/snb-interactive-part-1-what-is-snb-interactive-really-about/</guid>
+      <description>This post is the first in a series of blogs analyzing the LDBC Social Network Benchmark Interactive workload.</description>
+    </item>
+    
+    <item>
+      <title>Why Do We Need an LDBC SNB-Specific Workload Driver?</title>
+      <link>https://ldbc.github.io/post/why-do-we-need-an-ldbc-snb-specific-workload-driver/</link>
+      <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/why-do-we-need-an-ldbc-snb-specific-workload-driver/</guid>
+      <description>TODO fix link below
+In a previous 3-part blog series we touched upon the difficulties of executing the LDBC SNB Interactive (SNB) workload, while achieving good performance and scalability.</description>
+    </item>
+    
+    <item>
+      <title>Event Driven Post Generation in Datagen</title>
+      <link>https://ldbc.github.io/post/event-driven-post-generation-in-datagen/</link>
+      <pubDate>Fri, 10 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/event-driven-post-generation-in-datagen/</guid>
+      <description>As discussed in previous posts, one of the features that makes Datagen more realistic is the fact that the activity volume of the simulated Persons is not uniform, but forms spikes.</description>
     </item>
     
   </channel>

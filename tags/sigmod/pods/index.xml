@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SIGMOD/PODS on Linked Data Benchmark Council</title>
+    <link>https://ldbc.github.io/tags/sigmod/pods/</link>
+    <description>Recent content in SIGMOD/PODS on Linked Data Benchmark Council</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright LDBC 2021</copyright><atom:link href="https://ldbc.github.io/tags/sigmod/pods/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LDBC Participates in the 36th Edition of the ACM SIGMOD/PODS Conference</title>
+      <link>https://ldbc.github.io/post/ldbc-participates-in-the-36th-edition-of-the-acm-sigmod-pods-conference/</link>
+      <pubDate>Mon, 25 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/ldbc-participates-in-the-36th-edition-of-the-acm-sigmod-pods-conference/</guid>
+      <description>LDBC is presenting two papers at the next edition of the ACM SIGMOD/PODS conference held in Melbourne from May 31st to June 4th, 2015.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -22,7 +22,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ldbc.github.io/benchmarks/spb/</guid>
-      <description>The Semantic Publishing Benchmark (SPB) is an LDBC benchmark for testing the performance of RDF engines inspired by the Media/Publishing industry.</description>
+      <description>The Semantic Publishing Benchmark (SPB) is an LDBC benchmark for testing the performance of RDF engines inspired by the Media/Publishing industry.</description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ldbc.github.io/benchmarks/snb/</guid>
-      <description>The Social Network Benchmark consists in fact of three distinct benchmarks on a common dataset, since there are three different workloads.</description>
+      <description>The Social Network Benchmark consists in fact of three distinct benchmarks on a common dataset, since there are three different workloads.</description>
     </item>
     
   </channel>

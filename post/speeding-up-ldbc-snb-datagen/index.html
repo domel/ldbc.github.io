@@ -51,7 +51,7 @@
   <div class="navigation bg-white position-relative">
     <div class="container">
       <nav class="navbar navbar-expand-lg navbar-light bg-white">
-        <a class="navbar-brand" href="/"><img class="img-fluid pb-lg-3" src="https://ldbc.github.io/images/ldbc-title.png" alt="Linked Data Benchmark Council"></a>
+        <a class="navbar-brand" href="/"><img class="img-fluid pb-lg-3" src="https://ldbc.github.io/images/ldbc-title.png" alt="Linked Data Benchmark Council" style="scale: 70%;"></a>
         <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation"
           aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -238,7 +238,7 @@ mutable pRNGs. Determinism is achieved by initializing the pRNGs to
 seeds that are fully defined by the configuration with constants, and
 otherwise having no external state in the logic.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
 <p>Serialization is done by hand-written serializers for the supported
-output formats (e.g. CSV) and comprises just a bit less than one third
+output formats (e.g. CSV) and comprises just a bit less than one third
 of the main codebase. Most of the output is created by directly
 interacting with low-level HDFS file streams. Ideally, this code should
 be migrated to higher-level writers that handle faults and give
@@ -250,7 +250,7 @@ notably Apache Spark. For this reason, it was proposed to migrate
 Datagen to Spark. The migration provides the following benefits:</p>
 <ul>
 <li>
-<p><strong>Better memory utilization:</strong> MapReduce is disk-oriented, i.e. it
+<p><strong>Better memory utilization:</strong> MapReduce is disk-oriented, i.e. it
 writes the output to disk after each reduce stage which is then read
 by the next MapReduce job. As public clouds provide virtual machines
 with sufficient RAM to encapsulate any generated dataset, time and
@@ -391,7 +391,7 @@ because of their fast NVMe SSD storage and ample amount of RAM.</p>
 <p>The application parameter hadoop.numThreads controls the number of
 reduce threads in each Hadoop job for the MapReduce version and the
 number of partitions in the serialization jobs in the Spark one. For
-MapReduce, this was set to n_nodes, i.e. the number of machines;
+MapReduce, this was set to n_nodes, i.e. the number of machines;
 experimentation yield slowdowns for higher values. The Spark version on
 the other hand, performed better with this parameter set to n_nodes *
 v_cpu. The scale factor (SF) parameter determines the output size. It
@@ -613,7 +613,7 @@ high-level writer facilities. The most compelling benefit is that it
 will make the jobs fault-tolerant, as Spark maintains the integrity of
 the output files in case the task that writes it fails. This makes
 Datagen more resilient and opens up the possibility to run on less
-reliable hardware configuration (e.g. EC2 spot nodes on AWS) for
+reliable hardware configuration (e.g. EC2 spot nodes on AWS) for
 additional cost savings. They will supposedly also yield some speedup on
 the same cluster configuration.</p>
 <p>As already mentioned, the migration of the update stream serialization
@@ -625,7 +625,7 @@ benchmark suite, the SNB task force has recently extended Datagen with
 support for <a href="#references">generating delete operations [1]</a>. The next step for
 the task force is to fine-tune the temporal distributions of these
 deletion operations to ensure that the emerging sequence of events is
-realistic, i.e. the emerging distribution resembles what a database
+realistic, i.e. the emerging distribution resembles what a database
 system would experience when serving a real social network.</p>
 <h2 id="acknowledgements">Acknowledgements</h2>
 <p>This work is based upon the work of Arnau Prat, Gábor Szárnyas, Ben
@@ -716,12 +716,14 @@ will amend when tuning the distributions. <a href="#fnref:5" class="footnote-bac
     
     <div class="media border-bottom border-color pb-3 mb-3">
       <div class="media-body">
-        <a href="https://ldbc.github.io/event/third-tuc-meeting/">
-          <h5 class="mt-0">Third TUC Meeting</h5>
+        <a href="https://ldbc.github.io/post/ldbc-is-proud-to-announce-the-new-ldbc-graphalytics-benchmark-draft-specification/">
+          <h5 class="mt-0">LDBC Is Proud to Announce the New LDBC Graphalytics Benchmark Draft Specification</h5>
         </a>
-        04 Apr 2021
+        06 Sep 2016
       </div>
       
+       
+      <a href="https://ldbc.github.io/post/ldbc-is-proud-to-announce-the-new-ldbc-graphalytics-benchmark-draft-specification/"><img class="mr-3 post-thumb-sm" src="/post/ldbc-is-proud-to-announce-the-new-ldbc-graphalytics-benchmark-draft-specification/image2.JPG" style="object-fit: contain"></a>
       
     </div>
     
@@ -730,9 +732,36 @@ will amend when tuning the distributions. <a href="#fnref:5" class="footnote-bac
   <div class="bg-white px-4 py-5 box-shadow mb-5">
     <h4 class="mb-4"></h4>
     <ul class="list-inline tag-list">
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/ldbc-datagen">Ldbc datagen</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/snb">Snb</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/tuc-meeting">Tuc meeting</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/acm">ACM</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/apache-flink">APACHE-FLINK</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/benchmarking">BENCHMARKING</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/benchmarks">BENCHMARKS</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/data-generator">DATA-GENERATOR</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/datagen">DATAGEN</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/dataset-api">DATASET-API</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/developer">DEVELOPER</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/driver">DRIVER</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/events">EVENTS</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/flink">FLINK</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/grades">GRADES</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/graphalytics">GRAPHALYTICS</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/industry">INDUSTRY</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/instance">INSTANCE</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/interactive">INTERACTIVE</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/interactive-workload">INTERACTIVE-WORKLOAD</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/ldbc-datagen">LDBC-DATAGEN</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/matching">MATCHING</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/sigmod">SIGMOD</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/sigmod/pods">SIGMOD/PODS</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/snb">SNB</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/social-network">SOCIAL-NETWORK</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/social-network-benchmark">SOCIAL-NETWORK-BENCHMARK</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/social-networks-benchmark">SOCIAL-NETWORKS-BENCHMARK</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/spb">SPB</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/tu-delft">TU-DELFT</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/tuc-meeting">TUC-MEETING</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/virtuoso">VIRTUOSO</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/workload">WORKLOAD</a></li>
     </ul>
   </div>
   
@@ -789,7 +818,7 @@ will amend when tuning the distributions. <a href="#fnref:5" class="footnote-bac
   <!-- Twitter timeline -->
   
   
-  <a class="twitter-timeline" data-height="450" data-theme="dark"  href="https://twitter.com/LDBCouncil?ref_src=twsrc%5Etfw" style="background-color: #252d39;">Tweets by LDBCouncil</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+  <a class="twitter-timeline" data-height="450" data-theme="dark"  href="https://twitter.com/LDBCouncil" style="background-color: #252d39;">Tweets by LDBCouncil</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
             </div>
           </div>
         </div>

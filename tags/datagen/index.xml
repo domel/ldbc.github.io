@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>datagen on Linked Data Benchmark Council</title>
+    <link>https://ldbc.github.io/tags/datagen/</link>
+    <description>Recent content in datagen on Linked Data Benchmark Council</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright LDBC 2021</copyright>
+    <lastBuildDate>Mon, 16 Nov 2015 14:47:00 +0000</lastBuildDate><atom:link href="https://ldbc.github.io/tags/datagen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LDBC and Apache Flink</title>
+      <link>https://ldbc.github.io/post/ldbc-and-apache-flink/</link>
+      <pubDate>Mon, 16 Nov 2015 14:47:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/ldbc-and-apache-flink/</guid>
+      <description>Apache Flink [1] is an open source platform for distributed stream and batch data processing.</description>
+    </item>
+    
+    <item>
+      <title>Event Driven Post Generation in Datagen</title>
+      <link>https://ldbc.github.io/post/event-driven-post-generation-in-datagen/</link>
+      <pubDate>Fri, 10 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/event-driven-post-generation-in-datagen/</guid>
+      <description>As discussed in previous posts, one of the features that makes Datagen more realistic is the fact that the activity volume of the simulated Persons is not uniform, but forms spikes.</description>
+    </item>
+    
+    <item>
+      <title>The LDBC Datagen Community Structure</title>
+      <link>https://ldbc.github.io/post/the-ldbc-datagen-community-structure/</link>
+      <pubDate>Sun, 15 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/the-ldbc-datagen-community-structure/</guid>
+      <description>This blog entry is about one of the features of DATAGEN that makes it different from other synthetic graph generators that can be found in the literature: the community structure of the graph.</description>
+    </item>
+    
+  </channel>
+</rss>

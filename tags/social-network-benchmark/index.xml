@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>social network benchmark on Linked Data Benchmark Council</title>
+    <link>https://ldbc.github.io/tags/social-network-benchmark/</link>
+    <description>Recent content in social network benchmark on Linked Data Benchmark Council</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright LDBC 2021</copyright>
+    <lastBuildDate>Tue, 26 May 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://ldbc.github.io/tags/social-network-benchmark/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SNB Interactive Part 2:  Modeling Choices</title>
+      <link>https://ldbc.github.io/post/snb-interactive-part-2-modeling-choices/</link>
+      <pubDate>Tue, 26 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/snb-interactive-part-2-modeling-choices/</guid>
+      <description>​SNB Interactive is the wild frontier, with very few rules. This is necessary, among other reasons, because there is no standard property graph data model, and because the contestants support a broad mix of programming models, ranging from in-process APIs to declarative query.</description>
+    </item>
+    
+    <item>
+      <title>Event Driven Post Generation in Datagen</title>
+      <link>https://ldbc.github.io/post/event-driven-post-generation-in-datagen/</link>
+      <pubDate>Fri, 10 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/event-driven-post-generation-in-datagen/</guid>
+      <description>As discussed in previous posts, one of the features that makes Datagen more realistic is the fact that the activity volume of the simulated Persons is not uniform, but forms spikes.</description>
+    </item>
+    
+    <item>
+      <title>The LDBC Datagen Community Structure</title>
+      <link>https://ldbc.github.io/post/the-ldbc-datagen-community-structure/</link>
+      <pubDate>Sun, 15 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/the-ldbc-datagen-community-structure/</guid>
+      <description>This blog entry is about one of the features of DATAGEN that makes it different from other synthetic graph generators that can be found in the literature: the community structure of the graph.</description>
+    </item>
+    
+  </channel>
+</rss>

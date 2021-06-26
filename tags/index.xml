@@ -18,7 +18,7 @@
     </item>
     
     <item>
-      <title>SNB</title>
+      <title>snb</title>
       <link>https://ldbc.github.io/tags/snb/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -32,6 +32,249 @@
       <pubDate>Fri, 05 Jul 2019 08:30:00 +0100</pubDate>
       
       <guid>https://ldbc.github.io/tags/tuc-meeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>benchmarking</title>
+      <link>https://ldbc.github.io/tags/benchmarking/</link>
+      <pubDate>Tue, 06 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/benchmarking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphalytics</title>
+      <link>https://ldbc.github.io/tags/graphalytics/</link>
+      <pubDate>Tue, 06 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/graphalytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TU Delft</title>
+      <link>https://ldbc.github.io/tags/tu-delft/</link>
+      <pubDate>Tue, 06 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/tu-delft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apache Flink</title>
+      <link>https://ldbc.github.io/tags/apache-flink/</link>
+      <pubDate>Mon, 16 Nov 2015 14:47:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/apache-flink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datagen</title>
+      <link>https://ldbc.github.io/tags/datagen/</link>
+      <pubDate>Mon, 16 Nov 2015 14:47:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/datagen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DataSet API</title>
+      <link>https://ldbc.github.io/tags/dataset-api/</link>
+      <pubDate>Mon, 16 Nov 2015 14:47:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/dataset-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flink</title>
+      <link>https://ldbc.github.io/tags/flink/</link>
+      <pubDate>Mon, 16 Nov 2015 14:47:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/flink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>benchmarks</title>
+      <link>https://ldbc.github.io/tags/benchmarks/</link>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/benchmarks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>instance</title>
+      <link>https://ldbc.github.io/tags/instance/</link>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/instance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matching</title>
+      <link>https://ldbc.github.io/tags/matching/</link>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/matching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPB</title>
+      <link>https://ldbc.github.io/tags/spb/</link>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/spb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>developer</title>
+      <link>https://ldbc.github.io/tags/developer/</link>
+      <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/developer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data generator</title>
+      <link>https://ldbc.github.io/tags/data-generator/</link>
+      <pubDate>Fri, 29 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/data-generator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>events</title>
+      <link>https://ldbc.github.io/tags/events/</link>
+      <pubDate>Fri, 29 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grades</title>
+      <link>https://ldbc.github.io/tags/grades/</link>
+      <pubDate>Fri, 29 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/grades/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGMOD</title>
+      <link>https://ldbc.github.io/tags/sigmod/</link>
+      <pubDate>Fri, 29 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/sigmod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive</title>
+      <link>https://ldbc.github.io/tags/interactive/</link>
+      <pubDate>Tue, 26 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/interactive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social network benchmark</title>
+      <link>https://ldbc.github.io/tags/social-network-benchmark/</link>
+      <pubDate>Tue, 26 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/social-network-benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtuoso</title>
+      <link>https://ldbc.github.io/tags/virtuoso/</link>
+      <pubDate>Tue, 26 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/virtuoso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workload</title>
+      <link>https://ldbc.github.io/tags/workload/</link>
+      <pubDate>Tue, 26 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/workload/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ACM</title>
+      <link>https://ldbc.github.io/tags/acm/</link>
+      <pubDate>Mon, 25 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/acm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Workload</title>
+      <link>https://ldbc.github.io/tags/interactive-workload/</link>
+      <pubDate>Mon, 25 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/interactive-workload/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social networks benchmark</title>
+      <link>https://ldbc.github.io/tags/social-networks-benchmark/</link>
+      <pubDate>Thu, 14 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/social-networks-benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Driver</title>
+      <link>https://ldbc.github.io/tags/driver/</link>
+      <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/driver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social network</title>
+      <link>https://ldbc.github.io/tags/social-network/</link>
+      <pubDate>Fri, 10 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/social-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>industry</title>
+      <link>https://ldbc.github.io/tags/industry/</link>
+      <pubDate>Tue, 03 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGMOD/PODS</title>
+      <link>https://ldbc.github.io/tags/sigmod/pods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/tags/sigmod/pods/</guid>
       <description></description>
     </item>
     

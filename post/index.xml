@@ -17,5 +17,123 @@
       <description>LDBC&amp;rsquo;s Social Network Benchmark [4] (LDBC SNB) is an industrial and academic initiative, formed by principal actors in the field of graph-like data management.</description>
     </item>
     
+    <item>
+      <title>LDBC Is Proud to Announce the New LDBC Graphalytics Benchmark Draft Specification</title>
+      <link>https://ldbc.github.io/post/ldbc-is-proud-to-announce-the-new-ldbc-graphalytics-benchmark-draft-specification/</link>
+      <pubDate>Tue, 06 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/ldbc-is-proud-to-announce-the-new-ldbc-graphalytics-benchmark-draft-specification/</guid>
+      <description>LDBC is proud to announce the new LDBC Graphalytics Benchmark draft specification.</description>
+    </item>
+    
+    <item>
+      <title>LDBC and Apache Flink</title>
+      <link>https://ldbc.github.io/post/ldbc-and-apache-flink/</link>
+      <pubDate>Mon, 16 Nov 2015 14:47:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/ldbc-and-apache-flink/</guid>
+      <description>Apache Flink [1] is an open source platform for distributed stream and batch data processing.</description>
+    </item>
+    
+    <item>
+      <title>Elements of Instance Matching Benchmarks: a Short Overview</title>
+      <link>https://ldbc.github.io/post/elements-of-instance-matching-benchmarks-a-short-overview/</link>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/elements-of-instance-matching-benchmarks-a-short-overview/</guid>
+      <description>The number of datasets published in the Web of Data as part of the Linked Data Cloud is constantly increasing.</description>
+    </item>
+    
+    <item>
+      <title>SNB Interactive Part 3: Choke Points and Initial Run on Virtuoso</title>
+      <link>https://ldbc.github.io/post/snb-interactive-part-3-choke-points-and-initial-run-on-virtuoso/</link>
+      <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/snb-interactive-part-3-choke-points-and-initial-run-on-virtuoso/</guid>
+      <description>In this post we will look at running the LDBC SNB on Virtuoso.</description>
+    </item>
+    
+    <item>
+      <title>SNB and Graphs Related Presentations at GRADES &#39;15</title>
+      <link>https://ldbc.github.io/post/snb-and-graphs-related-presentations-at-grades-15/</link>
+      <pubDate>Fri, 29 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/snb-and-graphs-related-presentations-at-grades-15/</guid>
+      <description>Next 31st of May the GRADES workshop will take place in Melbourne within the ACM/SIGMOD presentation.</description>
+    </item>
+    
+    <item>
+      <title>SNB Interactive Part 2:  Modeling Choices</title>
+      <link>https://ldbc.github.io/post/snb-interactive-part-2-modeling-choices/</link>
+      <pubDate>Tue, 26 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/snb-interactive-part-2-modeling-choices/</guid>
+      <description>​SNB Interactive is the wild frontier, with very few rules. This is necessary, among other reasons, because there is no standard property graph data model, and because the contestants support a broad mix of programming models, ranging from in-process APIs to declarative query.</description>
+    </item>
+    
+    <item>
+      <title>LDBC Participates in the 36th Edition of the ACM SIGMOD/PODS Conference</title>
+      <link>https://ldbc.github.io/post/ldbc-participates-in-the-36th-edition-of-the-acm-sigmod-pods-conference/</link>
+      <pubDate>Mon, 25 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/ldbc-participates-in-the-36th-edition-of-the-acm-sigmod-pods-conference/</guid>
+      <description>LDBC is presenting two papers at the next edition of the ACM SIGMOD/PODS conference held in Melbourne from May 31st to June 4th, 2015.</description>
+    </item>
+    
+    <item>
+      <title>SNB Interactive Part 1: What Is SNB Interactive Really About?</title>
+      <link>https://ldbc.github.io/post/snb-interactive-part-1-what-is-snb-interactive-really-about/</link>
+      <pubDate>Thu, 14 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/snb-interactive-part-1-what-is-snb-interactive-really-about/</guid>
+      <description>This post is the first in a series of blogs analyzing the LDBC Social Network Benchmark Interactive workload.</description>
+    </item>
+    
+    <item>
+      <title>Why Do We Need an LDBC SNB-Specific Workload Driver?</title>
+      <link>https://ldbc.github.io/post/why-do-we-need-an-ldbc-snb-specific-workload-driver/</link>
+      <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/why-do-we-need-an-ldbc-snb-specific-workload-driver/</guid>
+      <description>TODO fix link below
+In a previous 3-part blog series we touched upon the difficulties of executing the LDBC SNB Interactive (SNB) workload, while achieving good performance and scalability.</description>
+    </item>
+    
+    <item>
+      <title>Event Driven Post Generation in Datagen</title>
+      <link>https://ldbc.github.io/post/event-driven-post-generation-in-datagen/</link>
+      <pubDate>Fri, 10 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/event-driven-post-generation-in-datagen/</guid>
+      <description>As discussed in previous posts, one of the features that makes Datagen more realistic is the fact that the activity volume of the simulated Persons is not uniform, but forms spikes.</description>
+    </item>
+    
+    <item>
+      <title>The LDBC Datagen Community Structure</title>
+      <link>https://ldbc.github.io/post/the-ldbc-datagen-community-structure/</link>
+      <pubDate>Sun, 15 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/the-ldbc-datagen-community-structure/</guid>
+      <description>This blog entry is about one of the features of DATAGEN that makes it different from other synthetic graph generators that can be found in the literature: the community structure of the graph.</description>
+    </item>
+    
+    <item>
+      <title>Industry Relevance of the Semantic Publishing Benchmark</title>
+      <link>https://ldbc.github.io/post/industry-relevance-of-the-semantic-publishing-benchmark/</link>
+      <pubDate>Tue, 03 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/industry-relevance-of-the-semantic-publishing-benchmark/</guid>
+      <description>Publishing and media businesses are going through transformation I took this picture in June 2010 next to Union Square in San Francisco.</description>
+    </item>
+    
+    <item>
+      <title>OWL-Empowered SPARQL Query Optimization</title>
+      <link>https://ldbc.github.io/post/owl-empowered-sparql-query-optimization/</link>
+      <pubDate>Wed, 18 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/owl-empowered-sparql-query-optimization/</guid>
+      <description>The Linked Data paradigm has become the prominent enabler for sharing huge volumes of data using Semantic Web technologies, and has created novel challenges for non-relational data management systems, such as RDF and graph engines.</description>
+    </item>
+    
   </channel>
 </rss>

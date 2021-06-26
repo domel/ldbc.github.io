@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>benchmarking on Linked Data Benchmark Council</title>
+    <link>https://ldbc.github.io/tags/benchmarking/</link>
+    <description>Recent content in benchmarking on Linked Data Benchmark Council</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright LDBC 2021</copyright>
+    <lastBuildDate>Tue, 06 Sep 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://ldbc.github.io/tags/benchmarking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LDBC Is Proud to Announce the New LDBC Graphalytics Benchmark Draft Specification</title>
+      <link>https://ldbc.github.io/post/ldbc-is-proud-to-announce-the-new-ldbc-graphalytics-benchmark-draft-specification/</link>
+      <pubDate>Tue, 06 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/ldbc-is-proud-to-announce-the-new-ldbc-graphalytics-benchmark-draft-specification/</guid>
+      <description>LDBC is proud to announce the new LDBC Graphalytics Benchmark draft specification.</description>
+    </item>
+    
+  </channel>
+</rss>

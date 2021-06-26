@@ -9,7 +9,7 @@
   
   <url>
     <loc>https://ldbc.github.io/</loc>
-    <lastmod>2021-06-25T21:21:47+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:30+00:00</lastmod>
   </url>
   
   <url>
@@ -34,32 +34,32 @@
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-journalscorrabs-2010-12243/</loc>
-    <lastmod>2021-06-25T21:21:45+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:27+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/</loc>
-    <lastmod>2021-06-25T21:21:47+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:30+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsigmod-waudby-sps-20/</loc>
-    <lastmod>2021-06-25T21:21:47+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:29+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-journalscorrabs-2011-15028/</loc>
-    <lastmod>2021-06-25T21:21:45+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:27+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-journalscorrabs-2001-02299/</loc>
-    <lastmod>2021-06-25T21:21:45+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:26+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/tpctc-acid/</loc>
-    <lastmod>2021-06-25T21:21:47+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:30+00:00</lastmod>
   </url>
   
   <url>
@@ -79,117 +79,312 @@
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confgrades-szarnyas-pampkeb-18/</loc>
-    <lastmod>2021-06-25T21:21:46+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:28+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsigmod-angles-abbfglpps-18/</loc>
-    <lastmod>2021-06-25T21:21:46+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:29+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confgrades-leo-b-17/</loc>
-    <lastmod>2021-06-25T21:21:46+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:28+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confgrades-ngai-hhi-17/</loc>
-    <lastmod>2021-06-25T21:21:46+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:28+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confgrades-prat-perez-gskdb-17/</loc>
-    <lastmod>2021-06-25T21:21:46+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/benchmarking/</loc>
+    <lastmod>2016-09-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/graphalytics/</loc>
+    <lastmod>2016-09-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/post/ldbc-is-proud-to-announce-the-new-ldbc-graphalytics-benchmark-draft-specification/</loc>
+    <lastmod>2016-09-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/tu-delft/</loc>
+    <lastmod>2016-09-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsemweb-kotsev-mpefk-16/</loc>
-    <lastmod>2021-06-25T21:21:46+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:28+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-journalspvldb-iosup-hnhpmccsat-16/</loc>
-    <lastmod>2021-06-25T21:21:45+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/apache-flink/</loc>
+    <lastmod>2015-11-16T14:47:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/datagen/</loc>
+    <lastmod>2015-11-16T14:47:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/dataset-api/</loc>
+    <lastmod>2015-11-16T14:47:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/flink/</loc>
+    <lastmod>2015-11-16T14:47:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/post/ldbc-and-apache-flink/</loc>
+    <lastmod>2015-11-16T14:47:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/benchmarks/</loc>
+    <lastmod>2015-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/post/elements-of-instance-matching-benchmarks-a-short-overview/</loc>
+    <lastmod>2015-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/instance/</loc>
+    <lastmod>2015-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/matching/</loc>
+    <lastmod>2015-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/spb/</loc>
+    <lastmod>2015-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/developer/</loc>
+    <lastmod>2015-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/post/snb-interactive-part-3-choke-points-and-initial-run-on-virtuoso/</loc>
+    <lastmod>2015-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/data-generator/</loc>
+    <lastmod>2015-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/events/</loc>
+    <lastmod>2015-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/grades/</loc>
+    <lastmod>2015-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/sigmod/</loc>
+    <lastmod>2015-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/post/snb-and-graphs-related-presentations-at-grades-15/</loc>
+    <lastmod>2015-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/interactive/</loc>
+    <lastmod>2015-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/post/snb-interactive-part-2-modeling-choices/</loc>
+    <lastmod>2015-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/social-network-benchmark/</loc>
+    <lastmod>2015-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/virtuoso/</loc>
+    <lastmod>2015-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/workload/</loc>
+    <lastmod>2015-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/acm/</loc>
+    <lastmod>2015-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/interactive-workload/</loc>
+    <lastmod>2015-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/post/ldbc-participates-in-the-36th-edition-of-the-acm-sigmod-pods-conference/</loc>
+    <lastmod>2015-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/post/snb-interactive-part-1-what-is-snb-interactive-really-about/</loc>
+    <lastmod>2015-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/social-networks-benchmark/</loc>
+    <lastmod>2015-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/driver/</loc>
+    <lastmod>2015-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/post/why-do-we-need-an-ldbc-snb-specific-workload-driver/</loc>
+    <lastmod>2015-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/post/event-driven-post-generation-in-datagen/</loc>
+    <lastmod>2015-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/social-network/</loc>
+    <lastmod>2015-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/post/the-ldbc-datagen-community-structure/</loc>
+    <lastmod>2015-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/industry/</loc>
+    <lastmod>2015-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/post/industry-relevance-of-the-semantic-publishing-benchmark/</loc>
+    <lastmod>2015-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/post/owl-empowered-sparql-query-optimization/</loc>
+    <lastmod>2015-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confwww-pham-peb-15/</loc>
-    <lastmod>2021-06-25T21:21:47+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:30+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-journalsws-loizou-ag-15/</loc>
-    <lastmod>2021-06-25T21:21:45+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:27+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsigmod-erling-alcgppb-15/</loc>
-    <lastmod>2021-06-25T21:21:47+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:29+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsigmod-guisado-gamez-p-14/</loc>
-    <lastmod>2021-06-25T21:21:47+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:29+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-journalsercim-angles-pb-14/</loc>
-    <lastmod>2021-06-25T21:21:45+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:27+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-bookscrclinked-14-boncz-ep-14/</loc>
-    <lastmod>2021-06-25T21:21:45+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:27+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confedbt-gubichev-014/</loc>
-    <lastmod>2021-06-25T21:21:46+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:28+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsigmod-gubichev-t-14/</loc>
-    <lastmod>2021-06-25T21:21:47+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:29+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confwww-prat-perez-dl-14/</loc>
-    <lastmod>2021-06-25T21:21:47+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:30+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsigmod-prat-d-14/</loc>
-    <lastmod>2021-06-25T21:21:47+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:29+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-conficde-gubichev-ab-14/</loc>
-    <lastmod>2021-06-25T21:21:46+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:28+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confrweb-larriba-pey-md-14/</loc>
-    <lastmod>2021-06-25T21:21:46+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:28+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-journalsercim-pham-b-14/</loc>
-    <lastmod>2021-06-25T21:21:45+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:27+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-conftpctc-gubichev-b-14/</loc>
-    <lastmod>2021-06-25T21:21:47+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:30+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-journalssigmod-angles-blf-0-enmkt-14/</loc>
-    <lastmod>2021-06-25T21:21:45+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:27+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsigmod-martinez-bazan-d-14/</loc>
-    <lastmod>2021-06-25T21:21:47+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:29+00:00</lastmod>
   </url>
   
   <url>
@@ -204,47 +399,47 @@
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confamw-angles-br-13/</loc>
-    <lastmod>2021-06-25T21:21:46+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:27+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsigmod-angles-pdl-13/</loc>
-    <lastmod>2021-06-25T21:21:46+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:29+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsigmod-ma-wqyxz-13/</loc>
-    <lastmod>2021-06-25T21:21:47+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:29+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-journalscorrabs-1301-5121/</loc>
-    <lastmod>2021-06-25T21:21:45+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:26+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-conficde-pham-13/</loc>
-    <lastmod>2021-06-25T21:21:46+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:28+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsigmod-gubichev-bs-13/</loc>
-    <lastmod>2021-06-25T21:21:47+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:29+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-journalsdbsk-boncz-fgl-013/</loc>
-    <lastmod>2021-06-25T21:21:45+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:27+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsigmod-cattuto-qpa-13/</loc>
-    <lastmod>2021-06-25T21:21:46+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:29+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-conftpctc-boncz-ne-13/</loc>
-    <lastmod>2021-06-25T21:21:47+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:29+00:00</lastmod>
   </url>
   
   <url>
@@ -254,27 +449,27 @@
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confcikm-gubichev-n-12/</loc>
-    <lastmod>2021-06-25T21:21:46+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:27+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confedbt-tsialiamanis-sfcb-12/</loc>
-    <lastmod>2021-06-25T21:21:46+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:28+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsemweb-phuoc-dpbef-12/</loc>
-    <lastmod>2021-06-25T21:21:46+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:28+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-conftpctc-pham-be-12/</loc>
-    <lastmod>2021-06-25T21:21:47+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:30+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-journalsdebu-erling-12/</loc>
-    <lastmod>2021-06-25T21:21:45+00:00</lastmod>
+    <lastmod>2021-06-26T04:06:27+00:00</lastmod>
   </url>
   
   <url>
@@ -327,6 +522,10 @@
   
   <url>
     <loc>https://ldbc.github.io/pages/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/sigmod/pods/</loc>
   </url>
   
 </urlset>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>social networks benchmark on Linked Data Benchmark Council</title>
+    <link>https://ldbc.github.io/tags/social-networks-benchmark/</link>
+    <description>Recent content in social networks benchmark on Linked Data Benchmark Council</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright LDBC 2021</copyright>
+    <lastBuildDate>Thu, 14 May 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://ldbc.github.io/tags/social-networks-benchmark/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SNB Interactive Part 1: What Is SNB Interactive Really About?</title>
+      <link>https://ldbc.github.io/post/snb-interactive-part-1-what-is-snb-interactive-really-about/</link>
+      <pubDate>Thu, 14 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/snb-interactive-part-1-what-is-snb-interactive-really-about/</guid>
+      <description>This post is the first in a series of blogs analyzing the LDBC Social Network Benchmark Interactive workload.</description>
+    </item>
+    
+  </channel>
+</rss>

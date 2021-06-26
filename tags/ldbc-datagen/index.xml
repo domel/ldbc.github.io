@@ -17,5 +17,14 @@
       <description>LDBC&amp;rsquo;s Social Network Benchmark [4] (LDBC SNB) is an industrial and academic initiative, formed by principal actors in the field of graph-like data management.</description>
     </item>
     
+    <item>
+      <title>LDBC and Apache Flink</title>
+      <link>https://ldbc.github.io/post/ldbc-and-apache-flink/</link>
+      <pubDate>Mon, 16 Nov 2015 14:47:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/ldbc-and-apache-flink/</guid>
+      <description>Apache Flink [1] is an open source platform for distributed stream and batch data processing.</description>
+    </item>
+    
   </channel>
 </rss>

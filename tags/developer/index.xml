@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>developer on Linked Data Benchmark Council</title>
+    <link>https://ldbc.github.io/tags/developer/</link>
+    <description>Recent content in developer on Linked Data Benchmark Council</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright LDBC 2021</copyright>
+    <lastBuildDate>Wed, 10 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://ldbc.github.io/tags/developer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SNB Interactive Part 3: Choke Points and Initial Run on Virtuoso</title>
+      <link>https://ldbc.github.io/post/snb-interactive-part-3-choke-points-and-initial-run-on-virtuoso/</link>
+      <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/snb-interactive-part-3-choke-points-and-initial-run-on-virtuoso/</guid>
+      <description>In this post we will look at running the LDBC SNB on Virtuoso.</description>
+    </item>
+    
+    <item>
+      <title>OWL-Empowered SPARQL Query Optimization</title>
+      <link>https://ldbc.github.io/post/owl-empowered-sparql-query-optimization/</link>
+      <pubDate>Wed, 18 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/post/owl-empowered-sparql-query-optimization/</guid>
+      <description>The Linked Data paradigm has become the prominent enabler for sharing huge volumes of data using Semantic Web technologies, and has created novel challenges for non-relational data management systems, such as RDF and graph engines.</description>
+    </item>
+    
+  </channel>
+</rss>
