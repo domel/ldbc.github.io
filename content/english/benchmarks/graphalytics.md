@@ -7,14 +7,14 @@ aliases: [
 ---
 
 The Graphalytics benchmark is an industrial-grade benchmark for **graph
-analysis platforms** such as Giraph. It consists of six core
-algorithms, standard datasets, synthetic dataset generators,
-and reference outputs, enabling the objective comparison of graph
-analysis platforms. 
+analysis platforms** such as Giraph. It consists of six core
+algorithms, standard datasets, synthetic dataset generators,
+and reference outputs, enabling the objective comparison of graph
+analysis platforms. 
 
 The design of the benchmark process takes into account that
 graph-processing is impeded by three dimensions of
-diversity: **platform**,  **algorithms** and **dataset**. 
+diversity: **platform**,  **algorithms** and **dataset**. 
 
 The benchmark harness consists of a core component, which is extendable
 by a driver for each different platform implementation. The choice of
@@ -40,7 +40,7 @@ characteristics of a system-under-test.
 All completed benchmarks must go through a strict **validation process**
 to ensure the integrity of the performance results.
 
-The Graphalytics benchmarking process is made future-proof, through a
+The Graphalytics benchmarking process is made future-proof, through a
 **renewal process** that takes place regularly to ensure that the
 benchmark process meets the state-of-the-art development in the field of
 graph analytics.

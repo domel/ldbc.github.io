@@ -82,7 +82,7 @@ seeds that are fully defined by the configuration with constants, and
 otherwise having no external state in the logic.[^2]
 
 Serialization is done by hand-written serializers for the supported
-output formats (e.g. CSV) and comprises just a bit less than one third
+output formats (e.g. CSV) and comprises just a bit less than one third
 of the main codebase. Most of the output is created by directly
 interacting with low-level HDFS file streams. Ideally, this code should
 be migrated to higher-level writers that handle faults and give
@@ -95,7 +95,7 @@ superseded by more modern distributed batch processing platforms,
 notably Apache Spark. For this reason, it was proposed to migrate
 Datagen to Spark. The migration provides the following benefits:
 
--   **Better memory utilization:** MapReduce is disk-oriented, i.e. it
+-   **Better memory utilization:** MapReduce is disk-oriented, i.e. it
     writes the output to disk after each reduce stage which is then read
     by the next MapReduce job. As public clouds provide virtual machines
     with sufficient RAM to encapsulate any generated dataset, time and
@@ -237,7 +237,7 @@ because of their fast NVMe SSD storage and ample amount of RAM.
 The application parameter hadoop.numThreads controls the number of
 reduce threads in each Hadoop job for the MapReduce version and the
 number of partitions in the serialization jobs in the Spark one. For
-MapReduce, this was set to n\_nodes, i.e. the number of machines;
+MapReduce, this was set to n\_nodes, i.e. the number of machines;
 experimentation yield slowdowns for higher values. The Spark version on
 the other hand, performed better with this parameter set to n\_nodes \*
 v\_cpu. The scale factor (SF) parameter determines the output size. It
@@ -332,7 +332,7 @@ high-level writer facilities. The most compelling benefit is that it
 will make the jobs fault-tolerant, as Spark maintains the integrity of
 the output files in case the task that writes it fails. This makes
 Datagen more resilient and opens up the possibility to run on less
-reliable hardware configuration (e.g. EC2 spot nodes on AWS) for
+reliable hardware configuration (e.g. EC2 spot nodes on AWS) for
 additional cost savings. They will supposedly also yield some speedup on
 the same cluster configuration.
 
@@ -346,7 +346,7 @@ benchmark suite, the SNB task force has recently extended Datagen with
 support for [generating delete operations [1]](#references). The next step for
 the task force is to fine-tune the temporal distributions of these
 deletion operations to ensure that the emerging sequence of events is
-realistic, i.e. the emerging distribution resembles what a database
+realistic, i.e. the emerging distribution resembles what a database
 system would experience when serving a real social network.
 
 ## Acknowledgements

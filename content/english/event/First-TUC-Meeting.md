@@ -18,7 +18,7 @@ tags: ["TUC Meeting"]
 
 The LDBC consortium are pleased to announce the first Technical User
 Community (TUC) meeting. This will be a two day event in Barcelona on
-the **19/20th November 2012**.
+the **19/20th November 2012**.
 
 So far more than six commercial consumers of graph/RDF database
 technology have expressed an interest in attending the event and more
@@ -35,7 +35,7 @@ The exact agenda will be published here as things get finalised before
 the event.
 
 All users of RDF and graph databases are welcome to attend. If you are
-interested, please contact: ldbc AT ac DOT upc DOT edu
+interested, please contact: ldbc AT ac DOT upc DOT edu
 
 -   [Agenda](#agenda)
 -   [Slides](#slides)
@@ -65,14 +65,14 @@ results?
 14:00 User talks (cont.)  
 15:00 Use case discussions (based on questionnaire results + consortium
 proposal + user talks).  
-16:00 Task force proposals (consortium)  
+16:00 Task force proposals (consortium)  
 17:00 Finish first day
 
-20:00 Social dinner 
+20:00 Social dinner 
 
 **Day 2**
 
-10:00 Task force discussion (consortium + TUC)  
+10:00 Task force discussion (consortium + TUC)  
 11:00 Coffe break  
 11:30 Task force discussion (consortium + TUC)  
 12:30 Summaries (Task forces, use cases, ...) and actions
@@ -103,7 +103,7 @@ User stories:
     Neuer</span>](attachments/1671180/2687004.pptx)
 -   [Yale - Lec Maj](attachments/1671180/2686994.pdf)
 
- 
+ 
 
 Benchmark proposals:
 
@@ -111,11 +111,11 @@ Benchmark proposals:
     </span><span class="confluence-link">Ontotext - </span><span
     class="confluence-link">Barry
     Bishop</span>](attachments/1671180/2686991.pdf)<span
-    class="confluence-link"> </span>
+    class="confluence-link"> </span>
 -   [Social Network Benchmark Proposal - UPC -
     Larri](attachments/1671180/2687002.pdf)
 
- 
+ 
 
 #### Logistics
 
@@ -144,13 +144,13 @@ To reach the campus, there are several options, including Taxi, [Metro](http://w
 ![](attachments/1671180/1933318.jpg) \
 **Finding the meeting room**
 
- 
+ 
 
 #### Getting there
 
 **Flying:** Barcelona airport is situated 12 km from the city. There are
 several ways of getting from the airport to the centre of Barcelona, the
-cheapest of which is to take the train located outside just a few
+cheapest of which is to take the train located outside just a few
 minutes walking distance past the parking lots at terminal 2 (there is a
 free bus between terminal 1 and terminal 2, see this
 [map of the airport](http://goo.gl/maps/iJqlj).
@@ -164,7 +164,7 @@ from 6.13 a.m. to 11.40 p.m. Tickets cost around 3€ and the journey to
 the centre of Barcelona (Sants or Plaça Catalunya stations) takes 20
 minutes.
 
-**Bus:** The Aerobus leaves the airport every 12 minutes, from 6.00 a.m.
+**Bus:** The Aerobus leaves the airport every 12 minutes, from 6.00 a.m.
 to 24.00, Monday to Friday, and from 6.30 a.m. to 24.00 on Saturdays,
 Sundays and public holidays. Tickets cost 6€ and the journey ends in
 Plaça Catalunya in the centre of Barcelona.
@@ -176,10 +176,10 @@ showing LIBRE or LLIURE. The trip to Sants train station costs
 approximately €16 and trips to other destinations in the city cost
 approximately €18.
 
-**Train and bus: **Barcelona has two international train stations: Sants
+**Train and bus: **Barcelona has two international train stations: Sants
 and França. Bus companies have different points of arrival in different
-parts of the city. You can find detailed information in the following
-link: http://www.barcelona-airport.com/eng/transport_eng.htm 
+parts of the city. You can find detailed information in the following
+link: http://www.barcelona-airport.com/eng/transport_eng.htm 
 
 ![](attachments/1671180/1933316.jpg)
 
@@ -187,12 +187,12 @@ link: http://www.barcelona-airport.com/eng/transport_eng.htm 
 
 #### Accomodation
 
-The following hotels are recommended. The two first are located near the
+The following hotels are recommended. The two first are located near the
 UPC campus and they take 10-15 min by foot to reach the TUC meeting
 location. The two last are located at the city center. They require
 about 30 min (taking metro L3 at plaça Catalunya) to reach the TUC
-meeting location. You can see the hotel locations
-in [this google map](https://maps.google.es/maps/ms?msid=205398946114145535508.0004cbc8999989b0bcd43&amp;msa=0&amp;ll=41.390461,2.135639&amp;spn=0.039923,0.077162).
+meeting location. You can see the hotel locations
+in [this google map](https://maps.google.es/maps/ms?msid=205398946114145535508.0004cbc8999989b0bcd43&amp;msa=0&amp;ll=41.390461,2.135639&amp;spn=0.039923,0.077162).
 
 <span
 class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-icon"></span>
@@ -227,11 +227,11 @@ Carrer de Pelai, 3
 935 52 96 96  
 http://www.hoteljazz.com/
 
-In addition to the hotels above, there is the possibility to stay at the "Torre Girona" residence. It is the closest and cheapest option available. You can find [detailed information here](http://www.resa.es/eng/Residences/Torre-Girona/daily-accommodation/(reservas)/Diario/(sec)/full). Basically,
+In addition to the hotels above, there is the possibility to stay at the "Torre Girona" residence. It is the closest and cheapest option available. You can find [detailed information here](http://www.resa.es/eng/Residences/Torre-Girona/daily-accommodation/(reservas)/Diario/(sec)/full). Basically,
 it costs 53 euros for a single room and 60 to 88 euros for a double room
 depending if it is occupied by one or two people. Currently, there are
 20 individual and 20 double rooms free for these days. If anyone is
-interested in this option, you should send an email to torregirona@resa.es asking
+interested in this option, you should send an email to torregirona@resa.es asking
 for a reservation.
 
 
@@ -242,16 +242,16 @@ Telephone: 0034 93 390 43 00
 Fax: 0034 93 205 69 10  
 E-mail: torregirona@resa.es
 
- 
+ 
 
 #### Travel costs
 
 There is some small budget available that can be used to assist some
 attendees that are otherwise unable to fund their trip. Please contact
 us using the following email address if you would like more
-information: ldbcgrants AT ac DOT upc DOT edu
+information: ldbcgrants AT ac DOT upc DOT edu
 
- 
+ 
 
 ### Attachments:
 

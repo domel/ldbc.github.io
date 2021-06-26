@@ -17,7 +17,7 @@ tags: ["TUC Meeting"]
 
 
 Read more information and how to
-register [HERE](http://wiki.ldbcouncil.org/pages/viewpage.action?pageId=106233859) \[CLOSED\]
+register [HERE](http://wiki.ldbcouncil.org/pages/viewpage.action?pageId=106233859) \[CLOSED\]
 
 **CALL FOR CONTRIBUTIONS:**
 
@@ -35,7 +35,7 @@ Boncz (<boncz@cwi.nl>)
     -   11:05-11:45 Gabor Szarnyas (BME), Benjamin Steer (QMUL), Jack
         Waudby (Newcastle University): Business Intelligence workload:
         Progress report and roadmap
-    -   11:45-12:00 Frank McSherry (Materialize): Experiences
+    -   11:45-12:00 Frank McSherry (Materialize): Experiences
         implementing LDBC queries in a dataflow system
     -   12:00-12:25 Vasileios Trigonakis (Oracle): Evaluating a new
         distributed graph query engine with LDBC: Experiences and
@@ -52,11 +52,11 @@ Boncz (<boncz@cwi.nl>)
         extensions for the SQL standard
     -   15:15-15:40 Alin Deutsch (TigerGraph): Modern graph analytics
         support in GSQL, TigerGraph\'s query language
-    -   15:40-16:05 Jan Posiadała (Nodes and Edges, Poland): Executable
+    -   15:40-16:05 Jan Posiadała (Nodes and Edges, Poland): Executable
         semantics of graph query language.
 -   16:05-16:30 Coffee
 -   16:30-17:50 Session 3: Graph System Performance
-    -   16:30-16:50 Per Fuchs (CWI): Fast, scalable WCOJ
+    -   16:30-16:50 Per Fuchs (CWI): Fast, scalable WCOJ
         graph-pattern matching on in-memory graphs in Spark
     -   16:50-17:10 Semih Salihoglu (University of Waterloo): Optimizing
         subgraph queries with a mix of tradition and modernity

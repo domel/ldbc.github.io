@@ -33,11 +33,11 @@ The event will include:
 -   Industry discussions on the contents of the benchmarks.
 
 All users of RDF and graph databases are welcome to attend. If you are
-interested, please contact: ldbc AT ac DOT upc DOT edu
+interested, please contact: ldbc AT ac DOT upc DOT edu
 
 **News:** due to the airline strikes at Lufthansa and El Al, Herman
-Ravkin (BIG project) and Jesús Lanchas (ACCESO) and Thomas Scharrenbach
-(University of Zurich) cannot come, and Norbert Martinez will arrive
+Ravkin (BIG project) and Jesús Lanchas (ACCESO) and Thomas Scharrenbach
+(University of Zurich) cannot come, and Norbert Martinez will arrive
 only tomorrow. The schedule has been adapted, and may change again, keep
 an eye on it.
 
@@ -65,15 +65,15 @@ an eye on it.
 
 10:00 *Registration.*
 
-10:30 Josep Lluis Larriba Pey (UPC) - *Welcome and Introduction.*
+10:30 Josep Lluis Larriba Pey (UPC) - *Welcome and Introduction.*
 
 10:30 Peter Boncz (VUA): [LDBC: goals and
 status](attachments/2523698/2687373.pptx)
 
-           *Social Network Use Cases (with discussion moderated by Josep
+           *Social Network Use Cases (with discussion moderated by Josep
 Lluis Larriba Pey)*
 
-11:00 Josep Lluis Larriba Pey (UPC):  [Social Network Benchmark Task
+11:00 Josep Lluis Larriba Pey (UPC):  [Social Network Benchmark Task
 Force](attachments/2523698/2687372.pdf)
 
 <span style="font-size: 10.0pt;line-height: 13.0pt;">11:30 Gustavo
@@ -85,7 +85,7 @@ Dshini](attachments/2523698/2687365.pdf)
 
 12:30 Lunch
 
-         *Semantic Publishing Use Cases (with discussion moderated by
+         *Semantic Publishing Use Cases (with discussion moderated by
 Barry Bishop)*
 
 <span style="font-size: 10.0pt;line-height: 13.0pt;">13:30 Barry Bishop
@@ -125,27 +125,27 @@ of first day*
 
 **April 23rd**
 
-          *Industry & Hardware Aspects*
+          *Industry & Hardware Aspects*
 
-10:00 Xavier Lopez (Oracle): [Graph Database Performance an Oracle
-Perspective.pdf](attachments/2523698/2687384.pdf)  
+10:00 Xavier Lopez (Oracle): [Graph Database Performance an Oracle
+Perspective.pdf](attachments/2523698/2687384.pdf)  
 
 10:30 Pedro Trancoso (University of Cyprus): "Benchmarking and computer
 architecture: the research side"
 
-<span style="font-size: 10.0pt;line-height: 13.0pt;">11:00 </span><span
+<span style="font-size: 10.0pt;line-height: 13.0pt;">11:00 </span><span
 style="font-size: 10.0pt;line-height: 13.0pt;">coffee break</span>
 
 <span style="font-size: 10.0pt;line-height: 13.0pt;">  
 </span>
 
-<span style="font-size: 10.0pt;line-height: 13.0pt;">       
-  </span>*Future Steps and TUC feedback session*
+<span style="font-size: 10.0pt;line-height: 13.0pt;">       
+  </span>*Future Steps and TUC feedback session*
 
-11:30 Peter Boncz (VUA) moderates: "[next steps in the Social Networking
+11:30 Peter Boncz (VUA) moderates: "[next steps in the Social Networking
 Task Force](TUC-Meeting-Social-Network-Task-Force_2524095.html)"
 
-12:00 Barry Bishop (Ontotext) moderates: "next steps in the Semantic
+12:00 Barry Bishop (Ontotext) moderates: "next steps in the Semantic
 Publishing Task Force"
 
 <span style="font-size: 10.0pt;line-height: 13.0pt;">12:30 *End of
@@ -173,7 +173,7 @@ class="aui-icon aui-icon-small aui-iconfont-info confluence-information-macro-ic
 <span style="color: rgb(68,68,68);">LRZ (Leibniz-Rechenzentrum)</span>
 
 <span style="color: rgb(68,68,68);">Boltzmannstraße 1</span>  
-<span style="color: rgb(68,68,68);">85748 Garching</span>,  Germany
+<span style="color: rgb(68,68,68);">85748 Garching</span>,  Germany
 
 #### Venue
 
@@ -193,8 +193,8 @@ before ride.
 
 ##### Getting to the TUM Campus from the Munich Airport
 
-1.  (except weekends) S-Bahn S8 line in the direction of (Hauptbahnhof)
-    Munich Central Station until the third stop, Ismaning (approx. 13
+1.  (except weekends) S-Bahn S8 line in the direction of (Hauptbahnhof)
+    Munich Central Station until the third stop, Ismaning (approx. 13
     minutes). From here Bus Nr. 230 until stop MI-Building on the
     Garching Campus. Alternatively: S1 line until Neufahrn, then with
     the Bus 690, which stops at Boltzmannstraße.
@@ -224,12 +224,12 @@ called Kurzstrecke (1.30 euros) can be purchased.
 
 ![](attachments/2523698/2687269.gif)
 
- 
+ 
 
 #### Getting there
 
 **Flying: Munich** airport is located 28.5 km northeast of Munich. There
-are two ways to get from the airport to the city center: suburban train
+are two ways to get from the airport to the city center: suburban train
 (S-bahn) and Taxi.
 
 **S-Bahn:**
@@ -245,11 +245,11 @@ minutes
 **Taxi:** taxi from the airport to the city center costs approximately
 50 euros  
 
- 
+ 
 
 #### Accomodation
 
-The following hotels are recommended. The first two are located near the
+The following hotels are recommended. The first two are located near the
 TUM campus in
 [this google map](https://maps.google.com/maps/ms?msid=215046094125658833100.0004d59d7a9baeb5c11f1&amp;msa=0&amp;ll=48.240795,11.660957&amp;spn=0.115127,0.253029)
 
@@ -299,10 +299,10 @@ Tel: +49 89 360 99 0
 
 #### **Social Dinner**
 
-The social dinner will take place at 7 pm on April 22 in Hofbräuhaus
+The social dinner will take place at 7 pm on April 22 in Hofbräuhaus
 (second floor)
 
-Address: Hofbräuhaus, Platzl 9, Munich
+Address: Hofbräuhaus, Platzl 9, Munich
 
 [GoogleMaps link](https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Hofbr%C3%A4uhaus,+Platzl+9,+M%C3%BCnchen,+Germany&amp;aq=0&amp;oq=hof&amp;sll=37.0625,-95.677068&amp;sspn=53.741627,105.46875&amp;vpsrc=6&amp;ie=UTF8&amp;hq=Hofbr%C3%A4uhaus,+Platzl+9,&amp;hnear=%D0%9C%D1%8E%D0%BD%D1%85%D0%B5%D0%BD,+%D0%92%D0%B5%D1%80%D1%85%D0%BD%D1%8F%D1%8F+%D0%91%D0%B0%D0%B2%D0%B0%D1%80%D0%B8%D1%8F,+%D0%91%D0%B0%D0%B2%D0%B0%D1%80%D0%B8%D1%8F,+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F&amp;ll=48.137697,11.578436&amp;spn=0.002796,0.006437&amp;t=m&amp;z=18&amp;iwloc=A&amp;cid=12232182229576260143)
 
@@ -311,7 +311,7 @@ Address: Hofbräuhaus, Platzl 9, Munich
 There is some small budget available that can be used to assist some
 attendees that are otherwise unable to fund their trip. Please contact
 us using the following email address if you would like more
-information: ldbcgrants AT ac DOT upc DOT edu
+information: ldbcgrants AT ac DOT upc DOT edu
 
 
 ### Attachments:
