@@ -9,6 +9,41 @@
     <copyright>&amp;copy; Copyright LDBC 2021</copyright>
     <lastBuildDate>Tue, 13 Jan 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://ldbc.github.io/tags/guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Fourteenth TUC Meeting</title>
+      <link>https://ldbc.github.io/event/fourteenth-tuc-meeting/</link>
+      <pubDate>Sat, 26 Jun 2021 13:23:50 -0400</pubDate>
+      
+      <guid>https://ldbc.github.io/event/fourteenth-tuc-meeting/</guid>
+      <description>&lt;p&gt;Details to be announced in early July.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thirteenth TUC Meeting</title>
+      <link>https://ldbc.github.io/event/thirteenth-tuc-meeting/</link>
+      <pubDate>Tue, 30 Jun 2020 09:00:00 +0000</pubDate>
+      
+      <guid>https://ldbc.github.io/event/thirteenth-tuc-meeting/</guid>
+      <description>&lt;p&gt;LDBC is pleased to announce its Twelfth Technical User Community (TUC) meeting.&lt;/p&gt;
+&lt;p&gt;LDBC Technical User Community meetings serve to (1) learn about progress in the LDBC task forces on graph benchmarks and graph standards, (2) to give feedback on these, and (3) hear about user experiences with graph data management technologies or (4) learn about new graph technologies from researchers or industry – LDBC counts Oracle, IBM, Intel, Neo4j, TigerGraph and Huawei among its members.&lt;/p&gt;
+&lt;p&gt;This TUC meeting will be a two-day event hosted online. We welcome all users of RDF and Graph technologies to attend. If you are interested to attend the event, please, contact Gabor Szarnyas (BME) at szarnyasg AT gmail to register.&lt;/p&gt;
+&lt;h3 id=&#34;snb-task-force&#34;&gt;SNB Task Force&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;Progress report
+    ACID compliance test suite
+    Integrating deletions to Datagen
+    Migrating Datagen to Spark
+    Redesign of BI read queries
+    Extensions to the driver 
+Ongoing work
+    Datagen: tuning the distribution of deletes
+    Interactive 2.0 workload
+    BI 1.0 workload
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Zoom links will be sent through email.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Speeding Up LDBC SNB Datagen</title>
       <link>https://ldbc.github.io/post/speeding-up-ldbc-snb-datagen/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
@@ -513,66 +548,927 @@ will amend when tuning the distributions. &lt;a href=&#34;#fnref:5&#34; class=&#
     </item>
     
     <item>
-      <title>Twelfth TUC Meeting at SIGMOD 2019 Amsterdam</title>
-      <link>https://ldbc.github.io/event/twelfth-tuc-meeting-at-sigmod-2019-amsterdam/</link>
+      <title>Twelfth TUC Meeting</title>
+      <link>https://ldbc.github.io/event/twelfth-tuc-meeting/</link>
       <pubDate>Fri, 05 Jul 2019 08:30:00 +0100</pubDate>
       
-      <guid>https://ldbc.github.io/event/twelfth-tuc-meeting-at-sigmod-2019-amsterdam/</guid>
-      <description>&lt;p&gt;Read more information and how to
-register &lt;a href=&#34;http://wiki.ldbcouncil.org/pages/viewpage.action?pageId=106233859&#34;&gt;HERE&lt;/a&gt; [CLOSED]&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;CALL FOR CONTRIBUTIONS:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;[CLOSED] The LDBC meeting will feature updates on activities of LDBC,
-but is also seeking contributions by community members and graph
-practitioners and researchers. These proposals can be emailed to Peter
-Boncz (&lt;a href=&#34;mailto:boncz@cwi.nl&#34;&gt;boncz@cwi.nl&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;FINAL PROGRAM (UPDATED):&lt;/strong&gt;&lt;/p&gt;
+      <guid>https://ldbc.github.io/event/twelfth-tuc-meeting/</guid>
+      <description>&lt;p&gt;LDBC is pleased to announce its Twelfth Technical User Community (TUC) meeting.&lt;/p&gt;
+&lt;p&gt;LDBC Technical User Community meetings serve to (1) learn about progress
+in the LDBC task forces on graph benchmarks and graph standards, (2) to
+give feedback on these, and (3) hear about user experiences with graph
+data management technologies or (4) learn about new graph technologies
+from researchers or industry &amp;ndash; LDBC counts Oracle, IBM, Intel, Neo4j,
+TigerGraph and Huawei among its members.&lt;/p&gt;
+&lt;p&gt;This TUC meeting will be a one-day event on the last Friday
+of &lt;strong&gt;&lt;a href=&#34;https://sigmod2019.org/&#34;&gt;SIGMOD/PODS 2019&lt;/a&gt;&lt;/strong&gt; in
+Amsterdam, The Netherlands, in the conference venue of &lt;strong&gt;&lt;a href=&#34;http://sigmod2019.org/conf_venue&#34;&gt;Beurs van Berlage&lt;/a&gt;&lt;/strong&gt;. The room is the Mendes da Silva kamer. Please check its tips for &lt;strong&gt;&lt;a href=&#34;http://sigmod2019.org/accommodation&#34;&gt;accommodation in Amsterdam&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Note also that at SIGMOD/PODS in Amsterdam on Sunday, June 30, there is a research workshop on graph data management technology called &lt;a href=&#34;https://sites.google.com/site/gradesnda2019&#34;&gt;GRADES-NDA 2019&lt;/a&gt;, that
+may be of interest to our audience (this generally holds for the whole
+SIGMOD/PODS program, of course).&lt;/p&gt;
+&lt;p&gt;We welcome all users of RDF and Graph technologies to attend. If you are
+interested to attend the event, please, contact Damaris Coll (UPC)
+at &lt;a href=&#34;mailto:damaris@ac.upc.edu&#34;&gt;damaris@ac.upc.edu&lt;/a&gt; to register;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;=&amp;gt; registration is free, but required &amp;lt;=&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You need to be registered in order to get into the SIGMOD/PODS venue.
+Friday, July 5, is the final, workshop, day of SIGMOD/PODS, and the LDBC
+TUC meeting joins the other workshops for coffee and lunch.&lt;/p&gt;
+&lt;p&gt;In the agenda, there will be talks given by LDBC members and LDBC
+activities, but there will also be room for a number of short 20-minute
+talks by other participants. We are specifically interested in learning
+about new challenges in graph data management (where benchmarking would
+become useful) and on hearing about actual user stories and scenarios
+that could inspire benchmarks. Further, talks that provide feedback on
+existing benchmark (proposals) are very relevant. But nothing is
+excluded a priori if it is related to graph data management.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Talk proposals can be sent to Peter Boncz&lt;/strong&gt; (&lt;a href=&#34;mailto:boncz@cwi.nl&#34;&gt;boncz@cwi.nl&lt;/a&gt;), who is
+also the local organizer. &lt;strong&gt;Please also send your slides to this email
+for archiving on this site.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Further, we call on you if you or your colleagues would happen to have
+contacts with companies that deal with graph data management scenarios
+to also attend and possibly present. LDBC is always looking to expand
+its circle of participants in TUCs meeting, its graph technology users
+contacts but also eventually its membership base.&lt;/p&gt;
+&lt;h3 id=&#34;agenda&#34;&gt;Agenda&lt;/h3&gt;
+&lt;p&gt;In the TUC meeting, there will be:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;08:30-10:30 LDBC Board Meeting (non-public)&lt;/li&gt;
-&lt;li&gt;10:30-11:00 Coffee&lt;/li&gt;
-&lt;li&gt;11:00-12:45 Session 1: Graph Benchmarks
+&lt;li&gt;updates on progress with LDBC benchmarks, specifically the Social
+Network Benchmark (SNB) and its Interactive, Business Intelligence
+and Graphalytics workloads.&lt;/li&gt;
+&lt;li&gt;talks by data management practitioners highlighting graph data
+management challenges and products&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The morning slot (08:30-10:30) is reserved for an LDBC Board Meeting, to
+which in principle only LDBC directors are invited (that meeting will be
+held in the same room).&lt;/p&gt;
+&lt;p&gt;The  TUC meeting will start on Friday morning after the morning coffee
+break of SIGMOD/PODS 2019 (&lt;strong&gt;room: Mendes da Silva kamer&lt;/strong&gt;):&lt;/p&gt;
+&lt;p&gt;08:30-10:30 LDBC Board Meeting (non-public)&lt;/p&gt;
+&lt;p&gt;10:30-11:00 Coffee&lt;/p&gt;
+&lt;p&gt;11:00-12:45 Session 1: Graph Benchmarks&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;11:00-11:05 Welcome &amp;amp; introduction&lt;/li&gt;
-&lt;li&gt;11:05-11:45 Gabor Szarnyas (BME), Benjamin Steer (QMUL), Jack
+&lt;li&gt;
+&lt;p&gt;11:00-11:05 Welcome &amp;amp; introduction&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/106233859/112230404.pdf&#34;&gt;11:05-11:45 Gabor Szarnyas (BME), Benjamin Steer (QMUL), Jack
 Waudby (Newcastle University): Business Intelligence workload:
-Progress report and roadmap&lt;/li&gt;
-&lt;li&gt;11:45-12:00 Frank McSherry (Materialize): Experiences
-implementing LDBC queries in a dataflow system&lt;/li&gt;
-&lt;li&gt;12:00-12:25 Vasileios Trigonakis (Oracle): Evaluating a new
+Progress report and roadmap&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/106233859/111706117.pdf&#34;&gt;11:45-12:00 Frank McSherry (Materialize): Experiences implementing
+LDBC queries in a dataflow system&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ldbc.github.io/attachments/106233859/111706118.pdf&#34;&gt;12:00-12:25 Vasileios Trigonakis (Oracle): Evaluating a new
 distributed graph query engine with LDBC: Experiences and
-limitations&lt;/li&gt;
-&lt;li&gt;12:25-12:45 Ahmed Musaafir (VU Amsterdam): LDBC
-Graphalytics&lt;/li&gt;
-&lt;/ul&gt;
+limitations&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;12:45-14:00 Lunch&lt;/li&gt;
-&lt;li&gt;14:00-16:05 Session 2: Graph Query Languages
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/106233859/111706130.pdf&#34;&gt;12:25-12:45 Ahmed Musaafir (VU Amsterdam): LDBC Graphalytics&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;12:45-14:00 Lunch&lt;/p&gt;
+&lt;p&gt;14:00-16:05 Session 2: Graph Query Languages&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;14:00-14:25 Juan Sequeda (Capsenta): Property Graph Schema
-Working Group: A progress report&lt;/li&gt;
-&lt;li&gt;4:25-14:50 Stefan Plantikow (Neo4j): GQL: Scope and
-features&lt;/li&gt;
-&lt;li&gt;14:50-15:15 Vasileios Trigonakis (Oracle): Property graph
-extensions for the SQL standard&lt;/li&gt;
-&lt;li&gt;15:15-15:40 Alin Deutsch (TigerGraph): Modern graph analytics
-support in GSQL, TigerGraph&#39;s query language&lt;/li&gt;
-&lt;li&gt;15:40-16:05 Jan Posiadała (Nodes and Edges, Poland): Executable
-semantics of graph query language.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/106233859/111706120.pdf&#34;&gt;14:00-14:25 Juan Sequeda (Capsenta): Property Graph Schema Working
+Group: A progress report&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;16:05-16:30 Coffee&lt;/li&gt;
-&lt;li&gt;16:30-17:50 Session 3: Graph System Performance
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/106233859/111706121.pdf&#34;&gt;14:25-14:50 Stefan Plantikow (Neo4j): GQL: Scope and
+features&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/106233859/111706119.pdf&#34;&gt;14:50-15:15 Vasileios Trigonakis (Oracle): Property graph extensions
+for the SQL standard&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/106233859/111706129.pdf&#34;&gt;15:15-15:40 Alin Deutsch (TigerGraph): Modern graph analytics support in GSQL, TigerGraph&#39;s query language&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/106233859/112230401.pdf&#34;&gt;15:40-16:05 Jan Posiadała (Nodes and Edges, Poland): Executable
+semantics of graph query language.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;16:05-16:30 Coffee&lt;/p&gt;
+&lt;p&gt;16:30-17:50 Session 3: Graph System Performance&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;16:30-16:50 Per Fuchs (CWI): Fast, scalable WCOJ
-graph-pattern matching on in-memory graphs in Spark&lt;/li&gt;
-&lt;li&gt;16:50-17:10 Semih Salihoglu (University of Waterloo): Optimizing
-subgraph queries with a mix of tradition and modernity&lt;/li&gt;
-&lt;li&gt;17:10-17:30 Roi Lipman (RedisGraph): Evaluating Cypher queries
-and procedures as algebraic operations within RedisGraph&lt;/li&gt;
-&lt;li&gt;17:30-17:50 Alexandru Uta (VU Amsterdam): Low-latency Spark
-queries on updatable data&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/106233859/111968258.pdf&#34;&gt;16:30-16:50 Per Fuchs (CWI): Fast, scalable WCOJ
+graph-pattern matching on in-memory graphs in Spark&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ldbc.github.io/attachments/106233859/111706116.pptx&#34;&gt;16:50-17:10 Semih Salihoglu (University of Waterloo): Optimizing
+subgraph queries with a mix of tradition and modernity&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/106233859/111706128.pdf&#34;&gt;17:10-17:30 Roi Lipman (RedisGraph): Evaluating Cypher queries and
+procedures as algebraic operations within RedisGraph&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/106233859/111706133.pdf&#34;&gt;17:30-17:50 Alexandru Uta (VU Amsterdam): Low-latency Spark queries
+on updatable data&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;If there is interest, we will organize a social dinner on Friday evening
+for LDBC attendees.&lt;/p&gt;
+&lt;h3 id=&#34;attachments&#34;&gt;Attachments&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/106233859/112230404.pdf&#34;&gt;snb-benchmarks.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/106233859/111706116.pptx&#34;&gt;tuc-sigmod-2019.pptx&lt;/a&gt;
+(application/vnd.openxmlformats-officedocument.presentationml.presentation)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/106233859/111706117.pdf&#34;&gt;LDBC
+McSherry.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/106233859/111706118.pdf&#34;&gt;ldbc_tuc_2019_pgxd_ldbc_experience.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/106233859/111706119.pdf&#34;&gt;ldbc_tuc_2019_sql-pgq.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/106233859/111706120.pdf&#34;&gt;LDBC-PGSWG-progress.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/106233859/111706121.pdf&#34;&gt;GQL Scope and
+Features @ LDBC.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/106233859/111706122.pdf&#34;&gt;bne023-GQL-Scope-and-Features.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/106233859/111706124.pdf&#34;&gt;tuc-sigmod-2019.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/106233859/111706128.pdf&#34;&gt;LDBC-July-2019.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/106233859/111706129.pdf&#34;&gt;tuc-amsterdam-tigergraph (1).pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/106233859/111706130.pdf&#34;&gt;Graphalytics
+12th TUC Presentation-6 (1).pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/106233859/111706133.pdf&#34;&gt;IndexedDF_LDBC_TUC_5Jul2019.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/106233859/111968258.pdf&#34;&gt;master-thesis-presentation.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/106233859/112230401.pdf&#34;&gt;LDBC 12th TUC
+Meeting Executable Semantics of Graph Query
+Language.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/106233859/112361473.pdf&#34;&gt;snb-benchmarks.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/106233859/111706115.pdf&#34;&gt;snb-benchmarks.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+:::
+:::
+:::
+:::&lt;/p&gt;
+&lt;p&gt;::: {#footer role=&amp;ldquo;contentinfo&amp;rdquo;}
+::: {.section .footer-body}
+Document generated by Confluence on Feb 02, 2021 21:59&lt;/p&gt;
+&lt;p&gt;::: {#footer-logo}
+&lt;a href=&#34;http://www.atlassian.com/&#34;&gt;Atlassian&lt;/a&gt;
+:::
+:::
+:::
+:::&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eleventh TUC Meeting</title>
+      <link>https://ldbc.github.io/event/eleventh-tuc-meeting/</link>
+      <pubDate>Sat, 08 Jun 2019 08:30:00 -0500</pubDate>
+      
+      <guid>https://ldbc.github.io/event/eleventh-tuc-meeting/</guid>
+      <description>&lt;p&gt;LDBC Technical User Community meetings serve to (1) learn about progress
+in the LDBC task forces on graph benchmark development, (2) to give
+feedback on these, and (3) hear about user experiences with graph data
+management technologies or (4) learn about new graph technologies from
+researchers or industry &amp;ndash; LDBC counts Oracle, IBM, Intel, Neo4j and
+Huawei among its members.&lt;/p&gt;
+&lt;p&gt;This TUC meeting will be a one-day event
+preceding the &lt;a href=&#34;https://sigmod2018.org/&#34;&gt;SIGMOD/PODS 2018&lt;/a&gt; conference in Houston,
+Texas (not too far away, the whole next week). Note also that at
+SIGMOD/PODS in Houston on Sunday 10, there is a research workshop on
+graph data management technology called &lt;a href=&#34;https://sites.google.com/site/gradesnda2018/&#34;&gt;GRADES-NDA
+2018&lt;/a&gt; as
+well, so you might combine travel.&lt;/p&gt;
+&lt;p&gt;We welcome all users of RDF and Graph technologies to attend. If you are
+interested to attend the event, please, contact Damaris Coll (UPC)
+at &lt;a href=&#34;mailto:damaris@ac.upc.edu&#34;&gt;damaris@ac.upc.edu&lt;/a&gt; to register;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;=&amp;gt; registration is free, but required &amp;lt;=&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In the agenda, there will be talks given by LDBC members and LDBC
+activities, but there will also be room for a number of short 20-minute
+talks by other participants. We are specifically interested in learning
+about new challenges in graph data management (where benchmarking would
+become useful) and on hearing about actual user stories and scenarios
+that could inspire benchmarks. Further, talks that provide feedback on
+existing benchmark (proposals) are very relevant. But nothing is
+excluded a priori if it is related to graph data management. Talk
+proposals are handled by Peter Boncz (&lt;a href=&#34;mailto:boncz@cwi.nl&#34;&gt;boncz@cwi.nl&lt;/a&gt;) and Larri
+(&lt;a href=&#34;mailto:larri@ac.upc.ed&#34;&gt;larri@ac.upc.edu&lt;/a&gt;). Local
+organizer is Juan Sequeda (&lt;a href=&#34;mailto:juanfederico@gmail.com&#34;&gt;juanfederico@gmail.com&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Further, we call on you if you or your colleagues would happen to have
+contacts with companies that deal with graph data management scenarios
+to also attend and possibly present. LDBC is always looking to expand
+its circle of participants in TUCs meeting, its graph technology users
+contacts but also eventually its membership base.&lt;/p&gt;
+&lt;h3 id=&#34;agenda&#34;&gt;Agenda&lt;/h3&gt;
+&lt;p&gt;In the TUC meeting there will be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;updates on progress with LDBC benchmarks, specifically the Social
+Network Benchmark (SNB) and its interactive, business analytics and
+graphalytics workloads.&lt;/li&gt;
+&lt;li&gt;talks by data management practitioners highlighting graph data
+management challenges and products&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The  meeting will start on Friday morning,  with a program from
+10:30-17:00:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;10:30-10:35 Peter Boncz (CWI) - introduction to the LDBC TUC
+meeting&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/91422722/99090478.pdf&#34;&gt;10:35-11:00 Juan Sequeda (Capsenta) - Announcing: gra.fo&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;11:00-11:30 coffee break&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/91422722/99090466.pdf&#34;&gt;11:30-11:55 Gabor Szarnyas (BME) - LDBC benchmarks: three
+aspects of graph processing&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/91422722/99090463.pdf&#34;&gt;11:55-12:20 Peter Boncz (CWI) - G-CORE: a composable graph query
+language by LDBC&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/91422722/99090472.pdf&#34;&gt;12:20-12:45 Yinglong Xia (Huawei) - Graph Engine for Cloud AI&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;12:45-14:00 lunch&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/91422722/99090474.pdf&#34;&gt;14:00-14:25 Stefan Plantikow (Neo4j) - Composable Graph Queries and
+Multiple Named Graphs in Cypher for Apache Spark&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/91422722/99090481.pdf&#34;&gt;14:25-14:50 Oskar van Rest (Oracle) - Analyzing Stack
+Exchange data using Property Graph in Oracle&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/91422722/99090485.pdf&#34;&gt;14:50-15:15 Brad Bebee (Amazon) - Neptune: the AWS graph management service&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;15:15-15:40 coffee break&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/91422722/99811329.pdf&#34;&gt;15:40-16:05 Bryon Jacob (data.world): Broadening the Semantic Web&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/91422722/99287041.pdf&#34;&gt;16:05-16:30 Jason Plurad (IBM) - Graph Computing with JanusGraph&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/91422722/99745793.pdf&#34;&gt;16:30-16:55 Arthur Keen (Cambridge Semantics): AnzoGraph&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://relational.ai/&#34;&gt;16:55-17:20 Molham Aref (relational.ai)&lt;/a&gt;) - Introducing.. &lt;a href=&#34;attachments/91422722/99418113.pdf&#34;&gt;relational.ai&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;18:00 - 20:00 social dinner in Austin (sponsored by Intel Corp.).
+Coopers BBQ. 217 Congress Ave, Austin, TX 78701&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;location&#34;&gt;Location&lt;/h3&gt;
+&lt;p&gt;The TUC will be held at the &lt;a href=&#34;https://www.cs.utexas.edu/&#34;&gt;University of Texas at Austin, Department of Computer Science&lt;/a&gt; in the
+&lt;a href=&#34;https://www.google.com/maps/place/The+University+of+Texas:+Department+of+Computer+Science/@30.2860955,-97.737582,18z/data=!4m5!3m4!1s0x0:0x12edecc8226b3241!8m2!3d30.2862279!4d-97.7365348&#34;&gt;Gates Dell Complex (GDC): 2317 Speedway, Austin TX,
+78712&lt;/a&gt; Room: GDC 6.302&lt;/p&gt;
+&lt;p&gt;The GDC building has a North and a South building. GDC 6.302 is in the
+North building. When you enter the main
+entrance, the North building is on the left and it is served by a pair
+of elevators. You can take or the
+elevator to the 6th floor. Exit the
+elevator on the 6th floor. Turn left, right, left. &lt;/p&gt;
+&lt;h3 id=&#34;hotel&#34;&gt;Hotel&lt;/h3&gt;
+&lt;p&gt;The following are hotels walking distance from the UT Austin. &lt;/p&gt;
+&lt;p&gt;Hostels &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://drifterjackshostel.com/&#34;&gt; Drifter Jack&amp;rsquo;s
+Hostel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Motels&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/maps/place/Days+Inn+Austin%2FUniversity%2FDowntown/@30.2911871,-97.7368567,14z/data=!4m15!1m6!2m5!1shotels+near+UT+austin!5m3!5m2!1s2018-06-07!2i2!3m7!1s0x8644b58d82473cc9:0xbda334f2e2e9cf63!5m2!1s2018-06-07!2i2!8m2!3d30.2887452!4d-97.7227825&#34;&gt;Days
+Inn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/maps/place/Rodeway+Inn+University%2FDowntown/@30.2911871,-97.7368567,14z/data=!4m15!1m6!2m5!1shotels+near+UT+austin!5m3!5m2!1s2018-06-07!2i2!3m7!1s0x8644b581d949d2a9:0xe71e74fe2ba199bd!5m2!1s2018-06-07!2i2!8m2!3d30.2874899!4d-97.7250302&#34;&gt;Rodeway
+Inn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hotels &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/maps/place/Hotel+Ella/@30.2837423,-97.7425673,15.1z/data=!4m15!1m6!2m5!1shotels+near+UT+austin!5m3!5m2!1s2018-06-07!2i2!3m7!1s0x8644b576ebc1faf7:0x2a92b14da34198f5!5m2!1s2018-06-07!2i2!8m2!3d30.2830336!4d-97.7455491&#34;&gt;Hotel
+Ella&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/maps/place/AT%26T+Executive+Education+and+Conference+Center/@30.2837423,-97.7425673,15.1z/data=!4m15!1m6!2m5!1shotels+near+UT+austin!5m3!5m2!1s2018-06-07!2i2!3m7!1s0x8644b59de7f3c8cf:0x7ef52b1ad3321879!5m2!1s2018-06-07!2i2!8m2!3d30.2819959!4d-97.7406326&#34;&gt;AT&amp;amp;T Executive
+Center&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/maps/place/Hampton+Inn+%26+Suites+Austin+at+The+University%2FCapitol/@30.2837423,-97.7425673,15.1z/data=!4m15!1m6!2m5!1shotels+near+UT+austin!5m3!5m2!1s2018-06-07!2i2!3m7!1s0x8644b59e300c5aff:0xd62f0808502f227c!5m2!1s2018-06-07!2i2!8m2!3d30.279587!4d-97.740815&#34;&gt;Hampton
+Inn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Downtown Austin has many hotels (mainly high end hotels at $200+ a
+night) and it will be a ~30 min walk to GDC. A rideshare (Uber/Lyft)
+would cost approximately $10 USD. &lt;/p&gt;
+&lt;h3 id=&#34;from-austin-to-sigmodpods-houston-on-saturday-june-9&#34;&gt;From Austin to SIGMOD/PODS (Houston) on Saturday June 9&lt;/h3&gt;
+&lt;p&gt;Many of the attendees will be going to SIGMOD/PODS which will be held in
+Houston.&lt;/p&gt;
+&lt;h4 id=&#34;bus&#34;&gt;Bus&lt;/h4&gt;
+&lt;p&gt;One option is to take a &lt;a href=&#34;https://us.megabus.com/journey-planner/journeys?days=1&amp;amp;concessionCount=0&amp;amp;departureDate=2018-06-09&amp;amp;destinationId=318&amp;amp;inboundOtherDisabilityCount=0&amp;amp;inboundPcaCount=0&amp;amp;inboundWheelchairSeated=0&amp;amp;nusCount=0&amp;amp;originId=320&amp;amp;otherDisabilityCount=0&amp;amp;pcaCount=0&amp;amp;totalPassengers=1&amp;amp;wheelchairSeated=0&#34;&gt;MegaBus that departs from downtown Austin and
+arrives at downtown
+Houston&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;There is a bus that departs at 12:00PM and arrives at 3:00pm. Cost is
+$20 (as of April 23).&lt;/p&gt;
+&lt;p&gt;If you want to spend the day in Austin, there is a bus that departs at
+9:55PM and arrives at 12:50am. Cost is $5 (as of April 23).&lt;/p&gt;
+&lt;h4 id=&#34;share-your-car-rental&#34;&gt;Share your Car Rental&lt;/h4&gt;
+&lt;p&gt;If you have rented a car to drive from Houston to Austin and you are
+planning to drive back to Houston, please add your name to this list and
+state how many open spaces you have&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;...&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;attachments&#34;&gt;Attachments:&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/91422722/99090463.pdf&#34;&gt;g-core-sigmod.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/91422722/99090466.pdf&#34;&gt;tuc11-benchmarks.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/91422722/99090472.pdf&#34;&gt;Xia-GraphAI_LDBC-Austin-20180608.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/91422722/99090470.pdf&#34;&gt;Xia-GraphAI_LDBC-Austin-20180608.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/91422722/99090474.pdf&#34;&gt;LDBC TUC 2018 -
+Towards GQL Composable Graph Queries and Multiple Named Graphs in Cypher
+for Apache Spark.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/91422722/99090476.pdf&#34;&gt;ldbc_tuc_2018_v2.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/91422722/99090478.pdf&#34;&gt;Capsenta_Grafo_LDBC_June2018_Public.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/91422722/99090481.pdf&#34;&gt;ldbc_tuc_2018_v3.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/91422722/99090485.pdf&#34;&gt;amazon_neptune_ldbc_20180608.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/91422722/99287041.pdf&#34;&gt;ldbc_tuc_janusgraph.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/91422722/99418113.pdf&#34;&gt;Introducing
+Relational AI - 20180608 - LDBC 2018
+(public).pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/91422722/99581953.pdf&#34;&gt;ldbc 15min
+talk.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/91422722/99745793.pdf&#34;&gt;ldbc 15min talk
+format 4.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/91422722/99811329.pdf&#34;&gt;Broadening the
+Semantic Web.pdf&lt;/a&gt; (application/pdf)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tenth TUC Meeting</title>
+      <link>https://ldbc.github.io/event/tenth-tuc-meeting/</link>
+      <pubDate>Fri, 01 Sep 2017 10:30:00 +0100</pubDate>
+      
+      <guid>https://ldbc.github.io/event/tenth-tuc-meeting/</guid>
+      <description>&lt;p&gt;This will be a one-day event at the &lt;a href=&#34;http://www.vldb.org/2017&#34;&gt;VLDB 2017&lt;/a&gt; conference in
+Munich, Germany on September 1, 2017.&lt;/p&gt;
+&lt;p&gt;Topics and activities of interest in these TUC meetings are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presentation on graph data management usage
+scenarios.&lt;/li&gt;
+&lt;li&gt;Presentation of the benchmarking results for the different
+benchmarks, as well as the graph query language task force.&lt;/li&gt;
+&lt;li&gt;Interaction with the new LDBC Board of Directors and the LDBC
+organisation officials.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We welcome all users of RDF and Graph technologies to attend. If you are
+interested to attend the event, please, contact Adrian Diaz (UPC) at
+&lt;a href=&#34;mailto:adiaz@ac.upc.edu&#34;&gt;adiaz@ac.upc.edu&lt;/a&gt; to register; registration is free, but required.&lt;/p&gt;
+&lt;p&gt;In the agenda, there will be talks given by LDBC members and LDBC
+activities, but there will also be room for a number of short 20-minute
+talks by other participants. We are specifically interested in learning
+about new challenges in graph data management (where benchmarking would
+become useful) and on hearing about actual user stories and scenarios
+that could inspire benchmarks. Further, talks that provide feedback on
+existing benchmark (proposals) are very relevant. But nothing is
+excluded a priori if it is related to graph data management. Talk
+proposals are handled by Peter Boncz (&lt;a href=&#34;mailto:boncz@cwi.nl&#34;&gt;boncz@cwi.nl&lt;/a&gt;) and Larri
+(&lt;a href=&#34;mailto:larri@ac.upc.ed&#34;&gt;larri@ac.upc.edu&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Further, we call on you if you or your colleagues would happen to have
+contacts with companies that deal with graph data management scenarios
+to also attend and possibly present. LDBC is always looking to expand
+its circle of participants in TUCs meeting, its graph technology users
+contacts but also eventually its membership base.&lt;/p&gt;
+&lt;h3 id=&#34;agenda&#34;&gt;Agenda&lt;/h3&gt;
+&lt;p&gt;In the TUC meeting there will be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;updates on progress with LDBC benchmarks, specifically the Social
+Network Benchmark (SNB) and its interactive, business analytics and
+graphalytics workloads.&lt;/li&gt;
+&lt;li&gt;talks by data management practitioners highlighting graph data
+management challenges&lt;/li&gt;
+&lt;li&gt;selected scientific talks on graph data management technology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The  meeting will start on Friday morning, with a program from 10:30-17:00&lt;/p&gt;
+&lt;p&gt;10:30-12:00:  TUC session (public)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;attachments/81920005/87588865.pdf&#34;&gt;Peter Boncz (CWI) : GraphQL task force update - the GCore
+proposal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;attachments/81920005/86868008.pdf&#34;&gt;Gabor Szarnyas (Budapest University of Technology and Economics Hungarian Academy of Sciences): Updates on the Social Network
+Benchmark BI Workload&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;attachments/81920005/86868013.pdf&#34;&gt;Alexandru Iosup, Wing Lung Ngai (VU/TU Delft): Graphalytics,
+Graphalytics Global Competition and Graphalytics Custom&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;attachments/81920005/86868014.pdf&#34;&gt;(Attachment 2)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;12:00-13:30:  lunch break&lt;/p&gt;
+&lt;p&gt;13:30-15:00:  TUC session (public)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;attachments/81920005/86868024.pdf&#34;&gt;Arnau Prat (UPC): Datasynth: Democratizing property graph generation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;attachments/81920005/86868026.pdf&#34;&gt;Marcus Paradies (SAP): SAP HANA GraphScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;attachments/81920005/87031809.pdf&#34;&gt;Yinglong Xia (Huawei): The EYWA Graph Engine in a Cloud AI Platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Gaétan HAINS (Huawei): Cost semantics for graph queries &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;15:00-15:30:  break&lt;br&gt;
+15:30-17:00:  TUC session (public)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;attachments/81920005/87031812.pdf&#34;&gt;Petra Selmer and Stefan Plantikow (neo4j): openCypher Developments
+in 2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;attachments/81920005/87195650.pdf&#34;&gt;Markus Kaindl (Springer): SN SciGraph &amp;ndash; Building a Linked Data
+Knowledge Graph for the Scholarly Publishing Domain&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Irini Fundulaki (FORTH): The HOBBIT Link Discovery and Versioning
+Benchmarks&lt;/li&gt;
+&lt;li&gt;Ghislain Atemezing (Mondeca): Benchmarking Enterprise RDF stores
+with Publications Office Dataset&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Speakers should aim for a &lt;strong&gt;20-minute talk.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Further:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;on Friday evening (19:00-21:00) there will be a &lt;strong&gt;social dinner&lt;/strong&gt; at
+&lt;a href=&#34;https://www.loewenbraeukeller.com/en/pub-and-beer-garden/&#34;&gt;Löwenbräukeller&lt;/a&gt;,
+sponsored and arranged by LDBC member Huawei (who have their
+European Research Center in Munich).&lt;/li&gt;
+&lt;li&gt;on Friday morning (8:30-10:30) there will be a meeting of the LDBC
+board of directors, but this meeting is not public.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;
+&lt;p&gt;The Technical University of Munich (TUM) is hosting that week the &lt;a href=&#34;http://www.vldb.org/2017&#34;&gt;VLDB
+conference&lt;/a&gt;; on the day of the
+TUC meeting the main conference will have finished, but there will be a
+number of co-located workshops ongoing, and the TUC participants will
+blend in with that crowd for the breaks and lunch.&lt;/p&gt;
+&lt;p&gt;The TUC meeting will be held in in &lt;strong&gt;Room
+2607&lt;/strong&gt; alongside the VLDB workshops that
+day (MATES, ADMS, DMAH, DBPL and BOSS).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;address: Technische Universität München (TUM), Arcisstraße 21, 80333
+München&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.google.nl/maps/place/Technische+Universit%C3%A4t+M%C3%BCnchen/@48.14966,11.5656715,17z/data=!3m1!4b1!4m5!3m4!1s0x479e7261336d8c11:0x79a04d44dc5bf19d!8m2!3d48.14966!4d11.5678602?hl=en&#34;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;attachments/81920005/81920002.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;attachments/81920005/81920003.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;hotels&#34;&gt;Hotels&lt;/h3&gt;
+&lt;p&gt;The Munich city center has many accomodation options (so you may check
+the
+&lt;a href=&#34;https://www.booking.com/hotel/de/hotelkoenigswache.nl.html?aid=304142;label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmaKkBiAEBmAEcwgEKd2luZG93cyAxMMgBDNgBAegBAfgBC5ICAXmoAgM;sid=43185e9fb030a42f50348cce2b9a2c4e;atlas_nodate=1;atlas_src=sr_iw_title;dist=0;group_adults=2;room1=A%2CA;sb_price_type=total;type=total&amp;amp;&#34;&gt;usual&lt;/a&gt; &lt;a href=&#34;https://www.expedia.com/Munich-Hotels-Ruby-Lilly-Hotel-Munich.h17354946.Hotelinfo?chkin=31-08-2017&amp;amp;chkout=01-09-2017&amp;amp;rm1=a1&amp;amp;regionId=0&amp;amp;hwrqCacheKey=a333a92d-54de-4922-9f6d-4b703ed714f8HWRQ1498723352280&amp;amp;vip=false&amp;amp;c=66d5b259-4345-468f-9e94-a2c25a3b390f&amp;amp;&amp;amp;exp_dp=85&amp;amp;exp_ts=1498723352191&amp;amp;exp_curr=EUR&amp;amp;exp_pg=HSR&#34;&gt;hotel&lt;/a&gt;
+&lt;a href=&#34;https://www.hotels.com/ho444780/?q-check-out=2017-09-01&amp;amp;FPQ=2&amp;amp;q-check-in=2017-08-31&amp;amp;WOE=5&amp;amp;WOD=4&amp;amp;q-room-0-children=0&amp;amp;tab=description&amp;amp;JHR=1&amp;amp;q-room-0-adults=1&amp;amp;YGF=14&amp;amp;MGT=1&amp;amp;ZSX=0&amp;amp;SYE=3&#34;&gt;sites&lt;/a&gt;).
+You may also check the &lt;a href=&#34;http://www.vldb.org/2017/conference_venue_and_accommodations.php&#34;&gt;VLDB Accommodation
+Suggestions&lt;/a&gt;. &lt;/p&gt;
+&lt;h3 id=&#34;attachments&#34;&gt;Attachments:&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/81920005/81920002.jpg&#34;&gt;Gelaendeplan_TUM_V1.jpg&lt;/a&gt;
+(image/jpeg)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/81920005/81920007.jpg&#34;&gt;Raumplan_Theresianum_V1.jpg&lt;/a&gt;
+(image/jpeg)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/81920005/81920004.png&#34;&gt;TUM.png&lt;/a&gt; (image/png)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/81920005/81920003.jpg&#34;&gt;Raumplan_Theresianum_V1.jpg&lt;/a&gt;
+(image/jpeg)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/81920005/86868018.pptx&#34;&gt;g-core.pptx&lt;/a&gt;
+(application/vnd.openxmlformats-officedocument.presentationml.presentation)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/81920005/86868008.pdf&#34;&gt;tuc10-bi.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/81920005/86868013.pdf&#34;&gt;2017-09-01_Graphalytics_v0-9.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/81920005/86868014.pdf&#34;&gt;2017-09-01_Graphalytics17tuc-vldb_format-16-9_out.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/81920005/86868004.pptx&#34;&gt;g-core.pptx&lt;/a&gt;
+(application/vnd.openxmlformats-officedocument.presentationml.presentation)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/81920005/86868017.html&#34;&gt;Tenth TUC
+Meeting, TU Munich at VLDB2017 - Technical User Community - LDBC
+Confluence.html&lt;/a&gt; (text/html)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/81920005/86868024.pdf&#34;&gt;TUC-1Sep-2017.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/81920005/86868026.pdf&#34;&gt;ldbc_saphana_graphscript.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/81920005/87031809.pdf&#34;&gt;Xia-EYWAonCloud_LDBC-20170901_public.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/81920005/87031812.pdf&#34;&gt;openCypher
+developments- 2017.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/81920005/87195650.pdf&#34;&gt;20170901_SpringerNature_SciGraph_short.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/81920005/87588865.pdf&#34;&gt;g-core.pdf&lt;/a&gt; (application/pdf)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ninth TUC Meeting</title>
+      <link>https://ldbc.github.io/event/ninth-tuc-meeting/</link>
+      <pubDate>Thu, 09 Feb 2017 15:07:18 -0400</pubDate>
+      
+      <guid>https://ldbc.github.io/event/ninth-tuc-meeting/</guid>
+      <description>&lt;p&gt;LDBC is pleased to announce its Ninth Technical User Community (TUC) meeting.&lt;/p&gt;
+&lt;p&gt;This will be a two-day event
+at &lt;a href=&#34;https://websmp201.sap-ag.de/~sapidp/011000358700001204882013E.pdf&#34;&gt;SAP Headquarters&lt;/a&gt; in
+Walldorf, Germany on February 9+10, 2017&lt;/p&gt;
+&lt;p&gt; This will be the third TUC meeting after the finalisation of the LDBC
+FP7 EC funded project. The event will basically set the following
+aspects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Two day event with one day devoted to User&#39;s experiences and one
+day devoted to benchmarking
+experiences.&lt;/li&gt;
+&lt;li&gt;Presentation of the benchmarking results for the different
+benchmarks.&lt;/li&gt;
+&lt;li&gt;Interaction with the new LDBC Board of Directors and the LDBC
+organisation
+officials. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We welcome all users of RDF and Graph technologies to attend. If you are
+interested, please, contact Damaris Coll (UPC) at &lt;a href=&#34;mailto:damaris@ac.upc.edu&#34;&gt;damaris@ac.upc.edu&lt;/a&gt;;&lt;/p&gt;
+&lt;p&gt;In the agenda, there will be talks given by LDBC members and LDBC
+activities, but there will also be room for a number of short 20-minute
+talks by other participants. We are specifically interested in learning
+about new challenges in graph data management (where benchmarking would
+become useful) and on hearing about actual user stories and scenarios
+that could inspire benchmarks. Further, talks that provide feedback on
+existing benchmark (proposals) are very relevant. But nothing is
+excluded a priori if it is related to graph data management. Talk
+proposals can be forwarded to Damaris as well and will be handled by
+Peter Boncz (&lt;a href=&#34;mailto:boncz@cwi.nl&#34;&gt;boncz@cwi.nl&lt;/a&gt;) and Larri
+(&lt;a href=&#34;mailto:larri@ac.upc.ed&#34;&gt;larri@ac.upc.edu&lt;/a&gt;{.external-link}).&lt;/p&gt;
+&lt;p&gt;Further, we call on you if you or your colleagues would happen to have
+contacts with companies that deal with graph data management scenarios
+to also attend and possibly present. LDBC is always looking to expand
+its circle of participants in TUCs meeting, its graph technology users
+contacts but also eventually its membership base.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;agenda&#34;&gt;Agenda&lt;/h3&gt;
+&lt;p&gt;In the TUC meeting there will be&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;updates on progress with LDBC benchmarks, specifically the Social
+Network Benchmark (SNB) and its interactive, business analytics and
+graphalytics workloads.&lt;/li&gt;
+&lt;li&gt;talks by data management practitioners highlighting graph data
+management challenges&lt;/li&gt;
+&lt;li&gt;selected scientific talks on graph data management technology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The  meeting will start on Thursday morning,  with a program from
+09:00-18:00, interrupted by a lunch break.&lt;/p&gt;
+&lt;p&gt;Thursday evening (19:00-21:00) there will be a &lt;strong&gt;social dinner&lt;/strong&gt; in
+Heidelberg.&lt;/p&gt;
+&lt;p&gt;Friday morning the event resumes from 9:00-12:00. In the afternoon,
+there is a (closed) LDBC Board of Directors meeting (13:00-16:30) at the
+same venue.&lt;/p&gt;
+&lt;h4 id=&#34;social-dinner&#34;&gt;Social Dinner&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;attachments/59277315/75235334.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/59277315/76021761.pdf&#34;&gt;walldorf17.pdf&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Address: Hauptstraße 217, 69117 Heidelberg&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Time: 19:00 / 7pm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(See attachments at the bottom of the page)&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Thursday&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;9:00&lt;/td&gt;
+&lt;td&gt;welcome and logistics - Marcus Paradies (SAP)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9:10&lt;/td&gt;
+&lt;td&gt;Intro + state of the LDBC - Josep Lluis Larriba Pey (UPC)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9:20&lt;/td&gt;
+&lt;td&gt;LDBC Graph QL task force - Hannes Voigt (TU Dresden)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9:40&lt;/td&gt;
+&lt;td&gt;PGQL Status Update and Comparison to LDBC&amp;rsquo;s Graph QL proposals - Oskar van Rest (Oracle Labs)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:00&lt;/td&gt;
+&lt;td&gt;Adding shortest-paths to MonetDB - Dean de Leo (CWI)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:20&lt;/td&gt;
+&lt;td&gt;coffee&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:50&lt;/td&gt;
+&lt;td&gt;Evolving Cypher for processing multiple graphs - Stefan Plantikow (Neo Technology)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:10&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;Standardizing Graph Database Functionality - An Invitation to Collaborate - Jan Michels (ISO/ANSI SQL, Oracle)&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:30&lt;/td&gt;
+&lt;td&gt;Dgraph: Graph database for production environment - Tomasz Zdybal (Dgraph.io)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:00&lt;/td&gt;
+&lt;td&gt;lunch&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:00&lt;/td&gt;
+&lt;td&gt;&amp;ldquo;LDBC Graphalytics: Current Capabilities, Upcoming Features, and Long-Term Roadmap - Alexandru Iosup (TU Delft)&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:20&lt;/td&gt;
+&lt;td&gt;LDBC Graphalytics: Demo of the Live Archive and Competition Features - Tim Hegeman (TU Delft)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:40&lt;/td&gt;
+&lt;td&gt;LDBC SNB Datagen Update - Arnau Prat (UPC)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:00&lt;/td&gt;
+&lt;td&gt;LDBC SNB - BI workload - Arnau Prat (UPC)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:20&lt;/td&gt;
+&lt;td&gt;LDBC Benchmark Cost Specification (+discussion) - Moritz Kaufmann (TU Munich)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:40 15:50&lt;/td&gt;
+&lt;td&gt;coffee&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:10 16:10&lt;/td&gt;
+&lt;td&gt;EYWA: the Distributed Graph Engine in Huawei MIND Platform (Yinglong Xia)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:30 16:30&lt;/td&gt;
+&lt;td&gt;Graph Processing in SAP HANA - Marcus Paradies (SAP)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:50 16:50&lt;/td&gt;
+&lt;td&gt;Distributed Graph Analytics with Gradoop - Martin Junghanns (Univ Leipzig)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:10 17:10&lt;/td&gt;
+&lt;td&gt;Distributed graph flows: Cypher on Flink and Gradoop - Max Kießling (Neo Technology)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16:30 17:30&lt;/td&gt;
+&lt;td&gt;closing - Peter Boncz&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17:30&lt;/td&gt;
+&lt;td&gt;end&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Friday&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9:00&lt;/td&gt;
+&lt;td&gt;welcome - Peter Boncz&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9:20&lt;/td&gt;
+&lt;td&gt;Graph processing in obi4wan - Frank Smit (OBI4WAN)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9:40&lt;/td&gt;
+&lt;td&gt;Graph problems in the space domain - Albrecht Schmidt (ESA)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:00&lt;/td&gt;
+&lt;td&gt;Medical Ontologies for Healthcare - Michael Neumann (SAP)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:20&lt;/td&gt;
+&lt;td&gt;coffee&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:50&lt;/td&gt;
+&lt;td&gt;The Train Benchmark: Cross-Technology Performance Evaluation of Continuous Model Queries - Gabor Szarnyas (BME)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:10&lt;/td&gt;
+&lt;td&gt;Efficient sparse matrix computations and their generalization to graph computing applications - Albert-Jan Yzelman (Huawei)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:30&lt;/td&gt;
+&lt;td&gt;Experiments on Semantic Publishing Benchmark with large scale real news and LOD data at FactForge - Atanas Kyriakov (Ontotext)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:00&lt;/td&gt;
+&lt;td&gt;lunch&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:00&lt;/td&gt;
+&lt;td&gt;LDBC Board of Directors Meeting&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;17:00&lt;/td&gt;
+&lt;td&gt;end&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;logistics&#34;&gt;Logistics&lt;/h3&gt;
+&lt;h5 id=&#34;important-things-to-know&#34;&gt;&lt;strong&gt;Important things to know&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;The following PDF guide provides additional information, such as
+recommended restaurants as well as sightseeing spots.
+[&lt;a href=&#34;https://websmp201.sap-ag.de/~sapidp/011000358700001204882013E.pdf&#34;&gt;Link&lt;/a&gt;]&lt;/p&gt;
+&lt;h5 id=&#34;venue&#34;&gt;&lt;strong&gt;Venue&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;The TUC meeting will be held in the &lt;a href=&#34;https://websmp201.sap-ag.de/~sapidp/011000358700001204882013E.pdf&#34;&gt;SAP
+Headquarters&lt;/a&gt; at
+the SAP Guesthouse Kalipeh (&lt;a href=&#34;https://www.kalipeh.com&#34;&gt;https://www.kalipeh.com&lt;/a&gt;). The address is:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;WDF 44 / SAP Guesthouse Kalipeh&lt;br&gt;
+Dietmar-Hopp-Allee 15&lt;br&gt;
+69190 Walldorf&lt;br&gt;
+Germany&lt;/strong&gt;&lt;/p&gt;
+&lt;h6 id=&#34;maps-and-situation&#34;&gt;&lt;strong&gt;Maps and situation&lt;/strong&gt;&lt;/h6&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/maps/place/SAP+Guesthouse+Kalipeh/@49.2951903,8.6436224,17z/data=!3m1!4b1!4m5!3m4!1s0x4797bea343a566af:0xd70698f3503ab74b!8m2!3d49.2951868!4d8.6458111&#34;&gt;Google Maps
+link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;attachments/59277315/69042180.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;getting-there&#34;&gt;&lt;strong&gt;Getting there&lt;/strong&gt;&lt;/h4&gt;
+&lt;h5 id=&#34;by-plane&#34;&gt;&lt;strong&gt;By plane&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;There are two airports close to SAP&amp;rsquo;s headquarter: Frankfurt Airport
+(FRA) and Stuttgart-Echterdingen Airport (STR). The journey from
+Frankfurt Airport to SAP headquarters takes&lt;br&gt;
+about one hour by car, while it takes slightly longer from Stuttgart-
+Echterdingen Airport. Concerning airfare, flights to Frankfurt are
+usually somewhat more expensive than to Stuttgart.&lt;/p&gt;
+&lt;p&gt;When booking flights to Frankfurt, you should be aware of Frankfurt-Hahn
+Airport (HHN), which serves low-cost carriers but is not connected to
+Frankfurt Airport. Frankfurt Hahn is ap-&lt;br&gt;
+proximately one hour from the Frankfurt main airport by car.&lt;/p&gt;
+&lt;p&gt;The journey from Frankfurt Airport to SAP headquarters takes about one
+hour by car (95 kilometers, or 59 miles).&lt;/p&gt;
+&lt;p&gt;Journey time from Stuttgart-Echterdingen Airport to SAP headquarters
+takes about 1 hour and 15 minutes by car (115 kilometers, or 71 miles).&lt;/p&gt;
+&lt;h6 id=&#34;driving-directions&#34;&gt;&lt;strong&gt;Driving directions&lt;/strong&gt;&lt;/h6&gt;
+&lt;p&gt;&lt;strong&gt;Traveling from Frankfurt Airport (FRA) to SAP Headquarters&lt;/strong&gt;&lt;br&gt;
+Directions to SAP headquarters:&lt;br&gt;
+• When leaving the airport, follow the highway symbol onto
+&amp;ldquo;A3/Würzburg/A5/Kassel/Basel/Frankfurt.&amp;quot;&lt;br&gt;
+• Follow the A5 to &amp;ldquo;Basel/Karlsruhe/Heidelberg.&amp;quot;&lt;br&gt;
+• Take exit 39 &amp;ndash; &amp;ldquo;Walldorf/Wiesloch.&amp;quot;&lt;br&gt;
+• Turn left onto B291.&lt;br&gt;
+• Turn right onto Dietmar-Hopp-Allee.&lt;br&gt;
+(Should you use a navigational system which does not recognize the
+street name &amp;lsquo;Dietmar-Hopp-Allee&amp;rsquo; please use &amp;lsquo;Neurottstrasse&amp;rsquo; instead.)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Traveling from Stuttgart-Echterdingen Airport (STR) to SAP
+Headquarters&lt;/strong&gt;&lt;br&gt;
+To get to SAP headquarters by car, there are two possible routes to
+take. The first leads you via Heilbronn and the second via Karlsruhe.
+The route via Karlsruhe is a bit shorter yet may be more congested.&lt;/p&gt;
+&lt;p&gt;Directions to SAP headquarters:&lt;br&gt;
+• When leaving the airport, follow the highway symbol onto
+&amp;ldquo;A8/Stuttgart/B27.&amp;quot;&lt;br&gt;
+• Stay on A8 and follow the sign for &amp;ldquo;Karlsruhe/Heilbronn/Singen/A8.&amp;quot;&lt;br&gt;
+• Follow A8 to Karlsruhe.&lt;br&gt;
+• Take exit 41 &amp;ndash; &amp;ldquo;Dreieck Karlsruhe&amp;rdquo; to merge onto A5 toward
+&amp;ldquo;Frankfurt/Mannheim/Karlsruhe/Landau (Pfalz).&amp;quot;&lt;br&gt;
+• Take exit 39 &amp;ndash; &amp;ldquo;Walldorf/Wiesloch.&amp;quot;&lt;br&gt;
+• Turn left onto B291.&lt;br&gt;
+• Turn right onto Dietmar-Hopp-Allee.&lt;/p&gt;
+&lt;h6 id=&#34;parking&#34;&gt;&lt;strong&gt;Parking&lt;/strong&gt;&lt;/h6&gt;
+&lt;p&gt;The closest parking lot to the event location is P7 (see figure above).&lt;/p&gt;
+&lt;h5 id=&#34;by-train&#34;&gt;&lt;strong&gt;By Train&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;As the infrastructure is very well developed in Europe, and in Germany
+in particular, taking the train is a great and easy way of traveling.
+Furthermore, the trains usually run on time, so this mode of travel is
+very convenient, especially for a group of people on longer journeys to
+major cities.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;From Frankfurt Airport (FRA) to SAP Headquarters&lt;/strong&gt;&lt;br&gt;
+Directions to SAP headquarters:&lt;br&gt;
+• Go to Terminal 1, level T (see overview in Appendix).&lt;br&gt;
+• Go to the AIRail Terminal &amp;ndash; &amp;ldquo;Fernbahnhof&amp;rdquo; (long-distance trains).&lt;br&gt;
+• Choose a connection with the destination train station
+&amp;ldquo;Wiesloch&amp;ndash;Walldorf&amp;rdquo;.&lt;br&gt;
+• From station &amp;ldquo;Wiesloch&amp;ndash;Walldorf,&amp;rdquo; take bus number 707 or 721 toward
+&amp;ldquo;Industriegebiet Walldorf, SAP.&amp;rdquo; It is a 10-minute ride to reach bus
+stop &amp;lsquo;SAP headquarters&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;From Stuttgart-Echterdingen Airport (STR) to SAP Headquarters&lt;/strong&gt;&lt;br&gt;
+Directions to SAP headquarters:&lt;br&gt;
+• Go to the S-Bahn station in the airport, following the sign (station
+is called &amp;ldquo;Stuttgart Flughafen/Messe&amp;rdquo;).&lt;br&gt;
+• Take train number S2 or S3 to &amp;ldquo;Stuttgart Hauptbahnhof&amp;rdquo; (main
+station).&lt;br&gt;
+• From Stuttgart Hauptbahnhof choose a connection with the destination
+train station &amp;ldquo;Wiesloch&amp;ndash;Walldorf&amp;rdquo;.&lt;br&gt;
+• From station &amp;ldquo;Wiesloch&amp;ndash;Walldorf,&amp;rdquo; take bus number 707 or 721 toward
+&amp;ldquo;Industriegebiet Walldorf, SAP&amp;rdquo;. It is a 10-minute ride to reach bus
+stop &amp;lsquo;SAP headquarters&amp;rsquo;.&lt;/p&gt;
+&lt;h4 id=&#34;attachments&#34;&gt;Attachments:&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/59277315/71499784.png&#34;&gt;location.png&lt;/a&gt; (image/png)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/59277315/69042180.png&#34;&gt;location.png&lt;/a&gt; (image/png)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/59277315/75235329.pdf&#34;&gt;TUC-SAP-2017.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/59277315/75235334.png&#34;&gt;map.png&lt;/a&gt; (image/png)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/59277315/75235335.pdf&#34;&gt;ninth_ldbc_tuc_pgql.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/59277315/75235338.pdf&#34;&gt;LDBC GraphQL
+TaskForce - Status.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/59277315/75235346.pdf&#34;&gt;Standardizing
+Graph support in ISO 20170209.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/59277315/75628548.pdf&#34;&gt;dgraph.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/59277315/75235341.pdf&#34;&gt;Standardizing
+Graph support in ISO 20170209.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/59277315/75431939.pdf&#34;&gt;LDBC Talk -
+Evolving Cypher for processing multiple
+graphs.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/59277315/75431942.pdf&#34;&gt;datagen_in_depth.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/59277315/75431943.pdf&#34;&gt;chokepoint_analysis.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/59277315/75431945.pdf&#34;&gt;2017-02-09_Graphalytics17tuc-sap_format-16-9.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/59277315/75431947.pdf&#34;&gt;LDBCPricing2.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/59277315/75431949.pdf&#34;&gt;Graph
+Processing in SAP HANA.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/59277315/75628546.pdf&#34;&gt;de Leo
+presentation 2017-02-09__pdf.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/59277315/75235343.pdf&#34;&gt;dgraph.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/59277315/75628563.pdf&#34;&gt;20170209-LDBC-Gradoop.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/59277315/75792387.pdf&#34;&gt;OTS_Graph_Workshop_01.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/59277315/76021761.pdf&#34;&gt;walldorf17.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/59277315/76152833.pdf&#34;&gt;Presentatie
+LDBC OBI4wan.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/59277315/76152834.pdf&#34;&gt;20170209-LDBC-CypherOnGradoop.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/59277315/76152837.pdf&#34;&gt;LDBC-SPB-News-Monitoring-Experiment.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/59277315/76316673.pdf&#34;&gt;Xia-EYWAEngine_LDBC-20170209.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/59277315/76447745.pdf&#34;&gt;ldbc-tuc2017-train-benchmark.pdf&lt;/a&gt;
+(application/pdf)\&lt;/p&gt;
 </description>
     </item>
     
@@ -601,6 +1497,299 @@ the PVLDB paper, download the software and try running it.&lt;/p&gt;
 Graphalytics.&lt;/p&gt;
 &lt;p&gt;Learn more: &lt;a href=&#34;http://ldbcouncil.org/ldbc-graphalytics&#34;&gt;http://ldbcouncil.org/ldbc-graphalytics&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;GitHub: &lt;a href=&#34;https://github.com/tudelft-atlarge/graphalytics&#34;&gt;https://github.com/tudelft-atlarge/graphalytics&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eighth TUC Meeting</title>
+      <link>https://ldbc.github.io/event/eigth-tuc-meeting/</link>
+      <pubDate>Wed, 22 Jun 2016 14:45:20 -0400</pubDate>
+      
+      <guid>https://ldbc.github.io/event/eigth-tuc-meeting/</guid>
+      <description>&lt;p&gt;The LDBC consortium is pleased to announce its Eighth Technical User
+Community (TUC) meeting.&lt;/p&gt;
+&lt;p&gt;This will be a two-day event at &lt;a href=&#34;http://www.oracle.com/technetwork/database/rdb/hqcc-dir-134199.pdf&#34;&gt;Oracle Conference
+Center&lt;/a&gt; in Redwood Shores facility on &lt;strong&gt;Wednesday and Thursday June 22-23/06, 2016.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This will be the second TUC meeting after the finalisation of the LDBC
+FP7 EC funded project. The event will basically set the following
+aspects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Two day event with one day devoted to User&#39;s experiences and one
+day devoted to benchmarking
+experiences.&lt;/li&gt;
+&lt;li&gt;Presentation of the benchmarking results for the different
+benchmarks.&lt;/li&gt;
+&lt;li&gt;Interaction with the new LDBC Board of Directors and the  LDBC
+organisation
+officials. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We welcome all users of RDF and Graph technologies to attend. If you are
+interested, please, contact Damaris Coll (UPC) at  &lt;a href=&#34;mailto:damaris@ac.upc.edu&#34;&gt;damaris@ac.upc.edu&lt;/a&gt;;
+in order to notify Oracle security in advance, registration requests
+need to be in by &lt;strong&gt;June 12&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;In the agenda, there will be talks given by LDBC members and LDBC
+activities, but there will also be room for a number of short 20-minute
+talks by other participants. We are specifically interested in learning
+about new challenges in graph data management (where benchmarking would
+become useful) and on hearing about actual user stories and scenarios
+that could inspire benchmarks. Further, talks that provide feedback on
+existing benchmark (proposals) are very relevant. But nothing is
+excluded a priori if it is graph data management related. Talk proposals
+can be forwarded to Damaris as well and will be handled by Peter Boncz
+(&lt;a href=&#34;mailto:boncz@cwi.nl&#34;&gt;boncz@cwi.nl&lt;/a&gt;) and Larri
+(&lt;a href=&#34;mailto:larri@ac.upc.ed&#34;&gt;larri@ac.upc.edu&lt;/a&gt;}).&lt;/p&gt;
+&lt;p&gt;Further, we call on you if you or your colleagues would happen to have
+contacts with companies that deal with graph data management scenarios
+to also attend and possibly present. LDBC is always looking to expand
+its circle of participants in TUCs meeting, its graph technology users
+contacts but also eventually its membership base.&lt;/p&gt;
+&lt;p&gt;In this page, you&#39;ll find information about the following items:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#agenda&#34;&gt;Agenda &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#logistics&#34;&gt;Logistics&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#date&#34;&gt;Date&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#venue&#34;&gt;Venue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#gettingthere&#34;&gt;Getting
+there&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#accommodation&#34;&gt;Accommodation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;agenda&#34;&gt;Agenda&lt;/h3&gt;
+&lt;p&gt;On Wednesday, lunch is provided for all attendees at 12 pm. The TUC
+Meeting will start at 1 pm.&lt;/p&gt;
+&lt;h6 id=&#34;wednesday-22th-of-june-2016-room-203&#34;&gt;&lt;strong&gt;Wednesday, 22th of June 2016 (&lt;strong&gt;Room 203)&lt;/strong&gt;&lt;/strong&gt;&lt;/h6&gt;
+&lt;p&gt;(full morning: LDBC Board of Directors meeting)&lt;/p&gt;
+&lt;p&gt;12:00 - 13:00 Lunch (provided)&lt;/p&gt;
+&lt;p&gt;13:00 - 13:30 Hassan Chafi (Oracle) and Josep L. Larriba-Pey (Sparsity)
+Registration and welcome.&lt;/p&gt;
+&lt;p&gt;13:30 - 14:00 Peter Boncz (CWI) &lt;a href=&#34;attachments/40927235/52133891.pdf&#34;&gt;LDBC introduction and status
+update&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;14:00 - 15:00 Details on the progress of LDBC Task Forces 1 (chair Josep
+L. Larriba-Pey)&lt;/p&gt;
+&lt;p&gt;14:00 Arnau Prat (DAMA-UPC). &lt;a href=&#34;attachments/40927235/52133902.pdf&#34;&gt;Social Network Benchmark, Interactive
+workload&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;14:30 Tim Hegeman (TU Delft). &lt;a href=&#34;attachments/40927235/52133893.pdf&#34;&gt;Social Network Benchmark, Analytics
+workload&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;15:00 - 15:30 Coffee break&lt;/p&gt;
+&lt;p&gt;15:30 - 17:00 Applications and use of Graph Technologies (chair Hassan
+Chafi)&lt;/p&gt;
+&lt;p&gt;[15:30 Martin Zand (University of Rochester Clinical and Translational
+Science Institute). &lt;a href=&#34;attachments/40927235/52133897.pdf&#34;&gt;Graphing Healthcare Networks: Data, Analytics, and
+Use
+Cases.&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;16:00 David Meibusch, Nathan Hawes (Oracle Labs Australia). &lt;a href=&#34;attachments/40927235/52133901.pdf&#34;&gt;Frappé:
+Querying and managing evolving code dependency
+graphs&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;16:30 Jerven Bolleman (SIB Swiss Institute of Bioinformatics/UniProt
+consortium). &lt;a href=&#34;attachments/40927235/52133895.pdf&#34;&gt;UniProt: challenges of a public SPARQL
+endpoint.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;17:00 - 18:30 Graph Technologies (chair Peter Boncz)&lt;/p&gt;
+&lt;p&gt;17:00 Eugene I. Chong (Oracle USA). &lt;a href=&#34;attachments/40927235/52133904.pdf&#34;&gt;Balancing Act to improve RDF Query
+Performance in Oracle Database&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;17:30 Lijun Chang (University of New South Wales). &lt;a href=&#34;attachments/40927235/52133906.pdf&#34;&gt;Efficient Subgraph
+Matching by Postponing Cartesian
+Products&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;18:00 Weining Qian (East China Normal University). &lt;a href=&#34;attachments/40927235/52133908.pdf&#34;&gt;On Statistical
+Characteristics of Real-Life Knowledge
+Graphs&lt;/a&gt;.&lt;/p&gt;
+&lt;h6 id=&#34;thursday-23th-of-june-2016-room-203&#34;&gt;&lt;strong&gt;Thursday, 23th of June 2016 (&lt;strong&gt;Room 203)&lt;/strong&gt;&lt;/strong&gt;&lt;/h6&gt;
+&lt;p&gt;08:00 - 09:00 Breakfast (provided)&lt;/p&gt;
+&lt;p&gt;09:00 - 10:00 Details on the progress of LDBC Task Forces 2 (chair Josep
+L. Larriba-Pey)&lt;/p&gt;
+&lt;p&gt;09:00 Peter Boncz (CWI). &lt;a href=&#34;attachments/40927235/52133896.pdf&#34;&gt;Query Language Task Force
+status&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;09:45 Marcus Paradies (SAP). &lt;a href=&#34;attachments/40927235/52297729.pdf&#34;&gt;Social Network Benchmark, Business
+Intelligence workload&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;10:00 - 12:00 Graph Technologies and Benchmarking (chair Oskar van Rest)&lt;/p&gt;
+&lt;p&gt;10:00 Sergey Edunov (Facebook). &lt;a href=&#34;attachments/40927235/52297731.pdf&#34;&gt;Generating realistic trillion-edge
+graphs&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;10:30 George Fletcher (TU Eindhoven). &lt;a href=&#34;attachments/40927235/52297733.pdf&#34;&gt;An open source framework for
+schema-driven graph instance and graph query workload
+generation&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;11:00 Yinglong Xia (Huawei Research America): &lt;a href=&#34;attachments/40927235/52297735.pdf&#34;&gt;An Efficient Big Graph
+Analytics Platform&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;11:30 Zhe Wu (Oracle USA). &lt;a href=&#34;attachments/40927235/52297737.pdf&#34;&gt;Bridging RDF Graph and Property Graph Data
+Models&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;12:00 - 13:30 Lunch (provided)&lt;/p&gt;
+&lt;p&gt;13:30 - 15:30 Graph Technologies (chair Arnau Prat)&lt;/p&gt;
+&lt;p&gt;13:30 Tobias Lindaaker (Neo Technology). &lt;a href=&#34;attachments/40927235/52297740.pdf&#34;&gt;An open standard for graph
+queries: the Cypher contribution&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;14:00 Arash Termehchy (Oregon State University). &lt;a href=&#34;attachments/40927235/52297742.pdf&#34;&gt;Toward Representation
+Independent Graph Querying &amp;amp;
+Analytics&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;14:30 Jerven Bolleman (SIB Swiss Institute of Bioinformatics/UniProt
+consortium). &lt;a href=&#34;attachments/40927235/52297745.pdf&#34;&gt;In the service of the
+federation&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;15:00 Nandish Jayaram (Pivotal). &lt;a href=&#34;attachments/40927235/52297747.pdf&#34;&gt;Orion: Enabling Suggestions in a
+Visual Query Builder for Ultra-Heterogeneous
+Graphs&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;15:30 - 16:00 Coffee break&lt;/p&gt;
+&lt;p&gt;16:00 - 17:15 Applications and use of Graph Technologies (chair Hassan
+Chafi)&lt;/p&gt;
+&lt;p&gt;16:00 Jans Aasman (Franz Inc.). &lt;a href=&#34;attachments/40927235/52428806.pdf&#34;&gt;Semantic Data Lake for
+Healthcare&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;16:15 Kevin Madden (Tom Sawyer Software). &lt;a href=&#34;attachments/40927235/52428812.pdf&#34;&gt;Dismantling Criminal Networks
+with Graph and Spatial Visualization and
+Analysis&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;16:45 Juan Sequeda (Capsenta). &lt;a href=&#34;attachments/40927235/52428810.pdf&#34;&gt;Using graph representation and semantic
+technology to virtually integrate and search multiple diverse data
+sources&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;17:15 Kevin Wilkinson (Hewlett Packard Labs). [&lt;a href=&#34;attachments/40927235/52428808.pdf&#34;&gt;LDBC SNB
+extensions&lt;/a&gt;.]{style=&amp;ldquo;line-height: 1.42857;&amp;quot;}&lt;/p&gt;
+&lt;p&gt;17:45 - 18:15 Closing discussion&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h6 id=&#34;friday-24th-of-june-2016-room-105&#34;&gt;&lt;strong&gt;Friday, 24th of June 2016 (Room 105)&lt;/strong&gt;&lt;/h6&gt;
+&lt;p&gt;At the same venue: the fourth international workshop on Graph Data
+Management, Experience and Systems (&lt;strong&gt;GRADES16&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;Please register at: &lt;a href=&#34;http://event.cwi.nl/grades/&#34;&gt;http://event.cwi.nl/grades/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;18:30 social dinner for GRADES registrants (place to be announced)&lt;/p&gt;
+&lt;h3 id=&#34;logistics&#34;&gt;Logistics&lt;/h3&gt;
+&lt;h6 id=&#34;date&#34;&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;/h6&gt;
+&lt;p&gt;22nd and 23rd June 2016&lt;/p&gt;
+&lt;h6 id=&#34;venue&#34;&gt;&lt;strong&gt;Venue&lt;/strong&gt;&lt;/h6&gt;
+&lt;p&gt;The TUC meeting will be held in the &lt;a href=&#34;http://www.oracle.com/technetwork/database/rdb/hqcc-dir-134199.pdf&#34;&gt;Oracle Conference
+Center&lt;/a&gt;{.external-link}.
+The address is:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Room 203 (Wed-Thu) &amp;amp; Room 105 (Fri)&lt;/strong&gt;
+&lt;strong&gt;Oracle Conference Center&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;350 Oracle Parkway&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Redwood City, CA 94065, USA&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Telephone numbers:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(Phone) 650-633-8300&lt;br&gt;
+(Fax) 650-633-8399 &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maps and situation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/maps/place/Oracle+Conference+Center/@37.5322827,-122.2667034,17z/data=!3m1!4b1!4m2!3m1!1s0x808f98b5450e8ca3:0xdc75e8b1c02bbb91&#34;&gt;Google Maps
+link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Oracle Campus map:&lt;br&gt;
+&lt;img src=&#34;attachments/40927235/40927234.jpg&#34; alt=&#34;&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h5 id=&#34;getting-there&#34;&gt;&lt;strong&gt;Getting there&lt;/strong&gt;&lt;/h5&gt;
+&lt;h6 id=&#34;driving-directions&#34;&gt;&lt;strong&gt;Driving directions&lt;/strong&gt;&lt;/h6&gt;
+&lt;ul&gt;
+&lt;li&gt;[Southbound] &lt;strong&gt;-&lt;/strong&gt; Take Highway 101 South (toward San Jose) to
+the Ralston Ave./Marine World Parkway exit. Take Marine World
+Parkway east which will loop you back over the freeway. Make a left
+at the first light onto Oracle Parkway. 350 Oracle Parkway will be
+on the right.&lt;/li&gt;
+&lt;li&gt;[Northbound] &lt;strong&gt;-&lt;/strong&gt; Take Highway 101 North (toward San
+Francisco) to the Ralston Ave./Marine World Parkway exit. Take the
+first exit ramp onto Marine World Parkway. Make a left at the first
+light onto Oracle Parkway. 350 Oracle Parkway will be on the right.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;parking&#34;&gt;&lt;strong&gt;Parking&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;The Conference Center has a designated parking lot located directly
+across from the building. If the lot is filled there is also additional
+parking in any of the parking garages located near by. No parking
+permits are needed.&lt;/p&gt;
+&lt;h5 id=&#34;public-transport&#34;&gt;&lt;strong&gt;Public transport&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;Take the Caltrain to either San Carlos or Hillsdale and take the free
+Oracle shuttle from there. Get off the Oracle shuttle at 100 Oracle
+Parkway (second stop) and walk 5 minutes to get to the Conference
+Center.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Caltrain
+timetables: &lt;a href=&#34;http://www.caltrain.com/schedules/weekdaytimetable.html&#34;&gt;http://www.caltrain.com/schedules/weekdaytimetable.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Oracle Shuttle
+timetables: &lt;a href=&#34;http://www.caltrain.com/schedules/weekdaytimetable.html&#34;&gt;http://www.caltrain.com/schedules/Shuttles/Oracle_Shuttle.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can also take the Caltrain to Belmont and walk 23 min, instead of
+taking the Oracle shuttle.&lt;/p&gt;
+&lt;p&gt;Alternatively, SamTrans (San Mateo County&#39;s Transit Agency) provides
+public bus service between the Millbrae BART station and Palo Alto with
+three stops on Oracle Parkway - one of which is directly in front of
+the Oracle Conference Center. &lt;/p&gt;
+&lt;h4 id=&#34;accommodation&#34;&gt;Accommodation&lt;/h4&gt;
+&lt;p&gt;Hotels in the area run out very quickly, sometimes even weeks in
+advance. Therefore, book as early as possible.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Extended Stay America - Belmont&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;http://booking.com/2d2f57dc9195864&#34;&gt;http://booking.com/2d2f57dc9195864&lt;/a&gt;&lt;br&gt;
+4 min drive, 15 min walk&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sofitel San Francisco Bay - Redwood City&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;http://booking.com/c22b433bf27e5&#34;&gt;http://booking.com/c22b433bf27e5&lt;/a&gt;&lt;br&gt;
+5 min drive, 22 min walk&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Courtyard by Marriott - Foster City&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;http://booking.com/4bb9d6610c081&#34;&gt;http://booking.com/4bb9d6610c081&lt;/a&gt;&lt;br&gt;
+11 min drive&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fairfield Inn &amp;amp; Suites by Marriott - San Carlos&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;http://booking.com/a10a7eab8bff758&#34;&gt;http://booking.com/a10a7eab8bff758&lt;/a&gt;&lt;br&gt;
+7 min drive&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hotel San Carlos - San Carlos&lt;/strong&gt;&lt;br&gt;
+&lt;a href=&#34;http://booking.com/96d26465a8b9d&#34;&gt;http://booking.com/96d26465a8b9d&lt;/a&gt;&lt;br&gt;
+7 min drive&lt;/p&gt;
+&lt;h4 id=&#34;attachments&#34;&gt;Attachments:&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/40927235/40927234.jpg&#34;&gt;locationGRADES2016.jpg&lt;/a&gt;
+(image/jpeg)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/40927235/52133891.pdf&#34;&gt;ldbc_tuc_22_june_2016.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/40927235/52133893.pdf&#34;&gt;2016-06-21_graphalytics-tuc-oracle.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/40927235/52133895.pdf&#34;&gt;LDBC-TUC8-22Billion-Bolleman-SIB.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/40927235/52133896.pdf&#34;&gt;graphql_tuc_23_june_2016.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/40927235/52133897.pdf&#34;&gt;ZAND_LDBC_TUC8.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/40927235/52133901.pdf&#34;&gt;ldbc-2016.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/40927235/52133902.pdf&#34;&gt;ArnauPrat_snb_interactive_2016.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/40927235/52133904.pdf&#34;&gt;tuc-oracle-rdf-2.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/40927235/52133906.pdf&#34;&gt;paper2016_20mins.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/40927235/52133908.pdf&#34;&gt;LDBCTUC2016.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/40927235/52297729.pdf&#34;&gt;LDBC Social
+Network Benchmark BI.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/40927235/52297731.pdf&#34;&gt;darwini.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/40927235/52297733.pdf&#34;&gt;fletcher-ldbc.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/40927235/52297735.pdf&#34;&gt;Xia_GraphPlatform_LDBC-TUC_20160623_2.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/40927235/52297737.pdf&#34;&gt;ldbc_2016_06_Zhe_Wu_Bridging_RDF_Property_Graph.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/40927235/52297740.pdf&#34;&gt;LDBC TUCm June
+2016 - openCypher - Lindaaker.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/40927235/52297742.pdf&#34;&gt;ArashTermehchy.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/40927235/52297745.pdf&#34;&gt;LDBC-TUC8-Federation-Bolleman-SIB.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/40927235/52297747.pdf&#34;&gt;Nandish-LDBC-talk.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/40927235/52428806.pdf&#34;&gt;jans
+aasman.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/40927235/52428808.pdf&#34;&gt;LDBC-SNB-extensions.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/40927235/52428810.pdf&#34;&gt;LDBC -
+Integrating Data using Graphs and Semantics -
+JuanFSequeda.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/40927235/52428812.pdf&#34;&gt;TomSawyerVisualizationLDBC.pdf&lt;/a&gt;
+(application/pdf)\&lt;/p&gt;
 </description>
     </item>
     
@@ -740,6 +1929,259 @@ from the latest Flink Forward conference.&lt;/p&gt;
 &lt;a href=&#34;https://ci.apache.org/projects/flink/flink-docs-release-0.10/&#34;&gt;https://ci.apache.org/projects/flink/flink-docs-release-0.10/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[6]
 &lt;a href=&#34;https://www.youtube.com/channel/UCY8_lgiZLZErZPF47a2hXMA&#34;&gt;https://www.youtube.com/channel/UCY8_lgiZLZErZPF47a2hXMA&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seventh TUC Meeting</title>
+      <link>https://ldbc.github.io/event/seventh-tuc-meeting/</link>
+      <pubDate>Mon, 09 Nov 2015 14:17:30 -0400</pubDate>
+      
+      <guid>https://ldbc.github.io/event/seventh-tuc-meeting/</guid>
+      <description>&lt;p&gt;The LDBC consortium is pleased to announce its Seventh Technical User
+Community (TUC) meeting.&lt;/p&gt;
+&lt;p&gt;This will be a two-day event at &lt;a href=&#34;http://www.research.ibm.com/labs/watson&#34;&gt;IBM&#39;s TJ
+Watson&lt;/a&gt;
+facility on &lt;strong&gt;Monday and Tuesday November 9/10, 2015.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This will be the first TUC meeting after the finalisation of the LDBC
+FP7 EC funded project. The event will basically set the following
+aspects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Two day event with one day devoted to User&#39;s experiences and one
+day devoted to benchmarking
+experiences.&lt;/li&gt;
+&lt;li&gt;Presentation of the benchmarking results for the different
+benchmarks.&lt;/li&gt;
+&lt;li&gt;Interaction with the new LDBC Board of Directors and the  LDBC
+organisation
+officials.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We welcome all users of RDF and Graph technologies to attend. If you
+are interested, please, contact Damaris Coll (UPC) at
+ &lt;a href=&#34;mailto:damaris@ac.upc.edu&#34;&gt;damaris@ac.upc.edu&lt;/a&gt;; in order to notify IBM security in advance,
+registration requests need to be in by Nov
+1.&lt;/p&gt;
+&lt;p&gt;In the agenda, there will be talks given by LDBC members and LDBC
+activities, but there will also be room for a number of short 20-minute
+talks by
+other participants. We
+are specifically interested in learning about new challenges in graph
+data management (where benchmarking would become useful) and on hearing
+about actual user stories and scenarios that could inspire benchmarks.
+Further, talks that provide feedback on existing benchmark (proposals)
+are very relevant. But nothing is excluded a priori if it is graph data
+management related. Talk proposals can be forwarded to Damaris as well
+and will be handled by Peter Boncz (&lt;a href=&#34;mailto:boncz@cwi.nl&#34;&gt;boncz@cwi.nl&lt;/a&gt;) and Larri
+(&lt;a href=&#34;mailto:larri@ac.upc.ed&#34;&gt;larri@ac.upc.edu&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Further, we call on you if you or your colleagues would happen to have
+contacts with companies that deal with graph data management scenarios
+to also attend and possibly present. LDBC is always looking to expand
+its circle of participants in TUCs meeting, its graph technology users
+contacts but also eventually its membership
+base.&lt;/p&gt;
+&lt;p&gt;In this page, you&#39;ll find information about the following
+items:}&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#agenda&#34;&gt;Agenda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#attachments&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#logistics&#34;&gt;Logistics&lt;/a&gt;:
+Date, Venue, Maps and Situation, and Getting there.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#accomodation&#34;&gt;Accommodation
+information&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;agenda&#34;&gt;Agenda&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Monday, 9th of November 2015&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;8:45 - 9:15 Registration and welcome (Yinglong Xia and Josep L. Larriba
+Pey)&lt;/p&gt;
+&lt;p&gt;9:15 - 9:30 LDBC introduction and status update (Josep L. Larriba-Pey)&lt;/p&gt;
+&lt;p&gt;9:30 - 10:30 Details on the progress of LDBC Task Forces 1 (chair Josep
+L. Larriba-Pey)&lt;/p&gt;
+&lt;p&gt;9:30 Arnau Prat (DAMA-UPC). Social Network Benchmark, Interactive
+workload, &lt;/p&gt;
+&lt;p&gt;10:00 Orri Erling (OpenLink Software). Social Network Benchmark,
+Business Intelligence workload.&lt;/p&gt;
+&lt;p&gt;10:30-11:00 Coffee
+break&lt;/p&gt;
+&lt;p&gt;11:00 - 12:30 Details on the progress of LDBC Task Forces 2 (chair
+Yinglong
+Xia)&lt;/p&gt;
+&lt;p&gt;11:00 Alexandru Iosup (TU
+Delft). Social
+Network Benchmark, Analytics
+workload.&lt;/p&gt;
+&lt;p&gt;11:30 Claudio Gutierrez (U Chile). Query Language Task Force status. &lt;/p&gt;
+&lt;p&gt;12:00 Atanas Kiryakov (Ontotext). Semantic Publishing Benchmark status&lt;/p&gt;
+&lt;p&gt;12:30 - 14:00 Lunch break&lt;/p&gt;
+&lt;p&gt;14:00 - 16:00 Technologies and benchmarking (chair Hassan Chafi)&lt;/p&gt;
+&lt;p&gt;14:00 Molham Aref (LogicBlox). Graph Data Management with LogicBlox&lt;/p&gt;
+&lt;p&gt;14:30 Peter Kogge (Notre Dame). BFS as in Graph500 on today&#39;s
+architectures&lt;/p&gt;
+&lt;p&gt;15:00 Ching-Yung Lin (IBM). Status and Demo of IBM System
+G&lt;/p&gt;
+&lt;p&gt;15:30-16:00 Coffee break&lt;/p&gt;
+&lt;p&gt;16:00 - 17:00 Technologies (chair Irini Fundulaki)&lt;/p&gt;
+&lt;p&gt;16:00 Kavitha Srinivas (IBM). SQLGraph: An efficient relational based
+property graph store&lt;/p&gt;
+&lt;p&gt;16:30  David Ediger (GeorgiaTech). STINGER &lt;/p&gt;
+&lt;p&gt;17:00 Gary King (Franz Inc.). AllegroGraph&#39;s SPARQL implementation
+with Social Network Analytics
+abilities using Magic
+Properties&lt;/p&gt;
+&lt;p&gt;17:30 Manoj Kumar (IBM). Linear Algebra Formulation for Large Graph
+Analytics&lt;/p&gt;
+&lt;p&gt;18:00 Reihaneh Amini (Wright State University) Linked Data in the
+GeoLink
+Usecase&lt;/p&gt;
+&lt;p&gt;19:00 Social dinner at X&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tuesday 10th November
+2015&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;9:00 - 10:30 Technology, Applications and Benchmarking (chair Alexandru
+Iosup)&lt;/p&gt;
+&lt;p&gt;9:00 Philip Rathle (Neo). On openCypher&lt;/p&gt;
+&lt;p&gt;9:20 Morteza Shahriari (University of Florida). Multi-modal
+Probabilistic Knowledge Base for Remote Sensing Species Identification&lt;/p&gt;
+&lt;p&gt;9:50 Peter Kogge (Notre Dame). Challenging problems with Lexis Nexis
+Risk
+Solutions&lt;/p&gt;
+&lt;p&gt;10:10 Arnau Prat (DAMA-UPC). DATAGEN, status and perspectives for
+synthetic data generation&lt;/p&gt;
+&lt;p&gt;10:30 - 11:00 Coffee break&lt;/p&gt;
+&lt;p&gt;11:00 - 12:45 Applications and use of Graph Technologies (chair Atanas
+Kiryakov)&lt;/p&gt;
+&lt;p&gt;11:00 [Hassan Chafi (Oracle). Status and characteristics of
+PGQL]&lt;/p&gt;
+&lt;p&gt;11:20 David Guedalia (TAGIIO). Multi-tier distributed mobile
+applications and how they split their workload,&lt;/p&gt;
+&lt;p&gt;11:40 [ ]Guojing Cong (IBM). Algorithmic technique and
+architectural support for fast graph analysis&lt;/p&gt;
+&lt;p&gt;12:00 Josep Lluis Larriba-Pey. Conclusions for the TUC meeting and
+future perspectives&lt;/p&gt;
+&lt;p&gt;12:30 - 14:00 Lunch break&lt;/p&gt;
+&lt;p&gt;14:00  LDBC Board of Directors&lt;/p&gt;
+&lt;h3 id=&#34;logistics&#34;&gt;Logistics&lt;/h3&gt;
+&lt;h6 id=&#34;date&#34;&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;/h6&gt;
+&lt;p&gt;9th and 10th November 2015&lt;/p&gt;
+&lt;h6 id=&#34;venue&#34;&gt;&lt;strong&gt;Venue&lt;/strong&gt;&lt;/h6&gt;
+&lt;p&gt;The TUC meeting will be held in the IBM Thomas J Watson Research Center.
+The address is:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IBM Thomas J Watson Research Center&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;1101 Kitchawan Rd,&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Yorktown Heights, NY 10598, USA&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you are using a &lt;em&gt;GPS system&lt;/em&gt;, please enter &amp;quot;&lt;strong&gt;200 Aqueduct Road,
+Ossining NY, 10562&lt;/strong&gt;&amp;quot; for accurate directions to the lab entrance. You
+may also want to check the routing online.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Telephone numbers:&lt;/strong&gt;&lt;br&gt;
+Main operator: (914) 945-3000&lt;br&gt;
+Receptionist: (914) 945-1614&lt;br&gt;
+Security: (914) 945-2323&lt;/p&gt;
+&lt;p&gt;The meeting will take place in the [[&lt;em&gt;Auditorium&lt;/em&gt; on November 9th, and
+in Meeting Room &lt;em&gt;20-043&lt;/em&gt; on November
+10th]{style=&amp;ldquo;color: rgb(0,51,102);&amp;quot;}]{.ul}.&lt;/p&gt;
+&lt;h6 id=&#34;maps-and-situation&#34;&gt;&lt;strong&gt;Maps and situation&lt;/strong&gt;&lt;/h6&gt;
+&lt;p&gt;You are highly suggested to &lt;strong&gt;rent a car&lt;/strong&gt; for your convenience, since
+the public transportation system does not cover this area very well.
+Besides, there is no hotel within walkable distance to the IBM T.J.
+Watson Research Center. Feel free to find carpool with other attendees.
+You may find car rental and hotels through
+&lt;a href=&#34;http://www.orbitz.com&#34;&gt;www.orbitz.com&lt;/a&gt;,
+or &lt;a href=&#34;http://www.expedia.com.&#34;&gt;www.expedia.com.&lt;/a&gt; Feel free
+to email &lt;a href=&#34;mailto:yxia@us.ibm.com&#34;&gt;yxia@us.ibm.com&lt;/a&gt; for any questions.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;attachments/6882333/15926330.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h6 id=&#34;getting-there&#34;&gt;&lt;strong&gt;Getting there&lt;/strong&gt;&lt;/h6&gt;
+&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Upper and Eastern New England&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Route I-84 west to Route I-684, south to Exit 6, west on Route 35 to
+Route 100, south to Route 134, west 2.5 miles. IBM is on the left.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New Haven and Connecticut Shores&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Merritt Parkway or New England Thruway (Route I-95) west to Route I-287,
+west to Exit 3, north on Sprain Brook Parkway, which merges into Taconic
+State Parkway, north to Ossining/Route 134 exit. Turn right and proceed
+east on Route 134 several hundred yards. IBM is on the right.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New Jersey&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Take New York State Thruway (Route I-87) east across the Tappan Zee
+Bridge and follow signs to the Saw Mill Parkway north. Proceed north on
+Saw Mill River Parkway to Taconic State Parkway exit, north to
+Ossining/Route 134 exit. Turn right and proceed east on Route 134
+several hundred yards. IBM is on the right.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Upstate New York&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Route I-84 east across Newburgh-Beacon Bridge to Exit 16-S. Taconic
+State Parkway south to Route 134 East exit. Turn right and proceed east
+on Route 134 several hundred yards. IBM is on the right.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New York City (Manhattan)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Henry Hudson Parkway north, which becomes Saw Mill River Parkway, north
+to Taconic State Parkway exit. North on Taconic State Parkway to
+Ossining/Route 134 exit. Turn right and proceed east on Route 134
+several hundred yards. IBM is on the right.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;John F. Kennedy International Airport&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;North on Van Wyck Expressway to the Whitestone Expressway and continue
+north across the Bronx-Whitestone Bridge to the Hutchinson River Parkway
+north to the Cross County Parkway exit and proceed west to the Bronx
+River Parkway. North on the Bronx River Parkway to the Sprain Brook
+Parkway, which merges into the Taconic State Parkway. Continue north to
+Ossining/Route 134 exit. Turn right and proceed east on Route 134
+several hundred yards. IBM is on the right.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LaGuardia Airport&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;East on the Grand Central Parkway, north on the Whitestone Expressway,
+and continue north across the Bronx-Whitestone Bridge. Continue with
+instructions from John F. Kennedy International Airport, above.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Newark International Airport&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;North on the New Jersey Turnpike (Route I-95). Stay in local lanes and
+take Exit 72 for Palisades Interstate Parkway. North on the Palisades
+Interstate Parkway to the New York State Thruway, Route I-87, and east
+across the Tappan Zee Bridge. Continue with instructions from New
+Jersey, above.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stewart International Airport&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Route 207 east to Route I-84, east across Newburgh-Beacon Bridge to
+Taconic State Parkway, south. Continue with instructions from Upstate
+New York, above.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Westchester County Airport&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Right on Route 120, north. Turn left where Route 120 merges with Route
+133. Continue on Route 120. Cross Route 100 and continue straight on
+Shingle House Road to Pines Bridge Road. Turn right and proceed several
+hundred yards. IBM is on the left.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Public Transportation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Metropolitan Transportation Authority (MTA) train stations nearest to
+the Yorktown Heights location are the Croton-Harmon and White Plains
+stations. Taxi service is available at both locations.&lt;/p&gt;
+&lt;h3 id=&#34;accommodation&#34;&gt;Accommodation&lt;/h3&gt;
+&lt;p&gt;Please note that there is no decent hotel within walkable distance to
+IBM T.J. Watson Research Center. For your convenience, if you can drive,
+you may want to &lt;strong&gt;rent a car&lt;/strong&gt;. You may find car rentals and hotels
+through &lt;a href=&#34;http://www.orbitz.com&#34;&gt;www.orbitz.com&lt;/a&gt;,
+or &lt;a href=&#34;http://www.expedia.com.&#34;&gt;www.expedia.com.&lt;/a&gt; Feel free
+to email &lt;a href=&#34;mailto:yxia@us.ibm.com&#34;&gt;yxia@us.ibm.com&lt;/a&gt; for any questions.&lt;/p&gt;
+&lt;p&gt;Here are a few hotels just FYI. You can find plenty hotels at various
+prices in the White Plains area or so using the above websites, or
+simply through Google Maps / Microsoft Bing Maps.
+:::&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Holiday Inn&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1 Holiday Inn Dr, Mount Kisco, NY 10549, United States ]}
+&lt;br&gt;
+Contact: +1 914 2412600
+&lt;a href=&#34;https://hoteldirectory.lanyon.com/Directory_Hotel_Details.aspx?hid=3462&#34;&gt;&lt;br&gt;
+http://www.holidayinn.com/mtkiscony&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hampton Inn White Plains/Tarrytown&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;200 West Main St, Elmsford, NY 10523, United States
+&lt;br&gt;
+contact: +1 914 5925680
+&lt;a href=&#34;hilton.com&#34;&gt;&lt;br&gt;
+http://www.hilton.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Marriott Westchester&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;670 White Plains Rd, Tarrytown, NY 10591, United States
+&lt;br&gt;
+Contact: +1 914 6312200
+&lt;br&gt;
+&lt;a href=&#34;http://marriott.com/NYCWE%5D&#34;&gt;http://marriott.com/NYCWE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;**HYATT house White Plains **&lt;/p&gt;
+&lt;p&gt;101 Corporate Park Dr, White Plains, NY 10604, United States
+&lt;br&gt;
+Contact:+1 914 2519700
+&lt;br&gt;
+&lt;a href=&#34;http://whiteplains.house.hyatt.com&#34;&gt;http://whiteplains.house.hyatt.com&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;attachments&#34;&gt;Attachments:&lt;/h3&gt;
+&lt;p&gt;::: {.greybox align=&amp;ldquo;left&amp;rdquo;}
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/6882333/15926330.png&#34;&gt;Snip20150920_6.png&lt;/a&gt; (image/png)&lt;/p&gt;
 </description>
     </item>
     
@@ -1668,6 +3110,228 @@ real world events.&lt;/p&gt;
 &lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
 &lt;p&gt;[1] Jure Leskovec, Lars Backstrom, Jon M. Kleinberg: Meme-tracking and
 the dynamics of the news cycle. KDD 2009: 497-506&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sixth TUC Meeting</title>
+      <link>https://ldbc.github.io/event/sixth-tuc-meeting/</link>
+      <pubDate>Thu, 19 Mar 2015 13:53:33 -0400</pubDate>
+      
+      <guid>https://ldbc.github.io/event/sixth-tuc-meeting/</guid>
+      <description>&lt;p&gt;The LDBC consortium are pleased to announce its Sixth Technical User
+Community (TUC) meeting.&lt;/p&gt;
+&lt;p&gt;This will be a two-day event at Universitat Politècnica de Catalunya,
+Barcelona on &lt;strong&gt;Thursday and Friday March 19/20, 2015.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The LDBC FP7 EC funded project is reaching its finalisation, and this
+will be the last event sponsored directly by the project. However, tasks
+within LDBC will continue based on the LDBC independent organisation.
+The event will basically set the following
+aspects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Two day event with one day devoted to User&#39;s experiences and one
+day devoted to benchmarking
+experiences.&lt;/li&gt;
+&lt;li&gt;Presentation of the first benchmarking results for the different
+benchmarks.&lt;/li&gt;
+&lt;li&gt;Interaction with the new LDBC Board of Directors and the whole new
+LDBC organisation
+officials.&lt;/li&gt;
+&lt;li&gt;Pre-event with the 3rd Graph-TA workshop organised on March 18th at
+the same premises, with a lot of interaction and interesting
+research
+presentations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We welcome all users of RDF and Graph technologies to attend. If you
+are interested, please, contact
+damaris@ac.upc.edu.&lt;/p&gt;
+&lt;p&gt;[In this page, you&#39;ll find information about the following
+items:]&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#SixthTUCMeeting,Barcelona,March19-20,2015-Agenda&#34;&gt;Agenda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#SixthTUCMeeting,Barcelona,March19-20,2015-Slides&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#SixthTUCMeeting,Barcelona,March19-20,2015-Logistics&#34;&gt;Logistics&lt;/a&gt;:
+Date, Venue, Maps and Situation, and Getting there.&lt;/li&gt;
+&lt;li&gt;Accomodation
+information&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#SixthTUCMeeting,Barcelona,March19-20,2015-Travelcosts&#34;&gt;Travel
+costs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;agenda&#34;&gt;Agenda&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Thursday 19th March&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;11:00 - 11:30 Registration, coffee break and welcome (Josep Larriba Pey)&lt;/p&gt;
+&lt;p&gt;11:30 - 12:00 LDBC introduction and status update (Peter Boncz)
+&lt;a href=&#34;attachments/6881717/6981131.pdf&#34;&gt;slides&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;12:00 - 13:30 Technology and benchmarking (chair Peter Boncz)&lt;/p&gt;
+&lt;p&gt;12:00 Venelin Kotsev (Ontotext). Semantic Publishing Benchmark v2.0.
+&lt;a href=&#34;attachments/6881717/6981137.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;12:30 Nina Saveta (FORTH). SPIMBENCH: A Scalable, Schema-Aware, Instance
+Matching Benchmark for the Semantic Publishing Domain&lt;/p&gt;
+&lt;p&gt;12:50 Tomer Sagi (HP). Titan DB on LDBC SNB Interactive&lt;/p&gt;
+&lt;p&gt;13:10 Claudio Martella (VUA): Giraph and Lighthouse &lt;/p&gt;
+&lt;p&gt;13:30 - 14:30 Lunch break&lt;/p&gt;
+&lt;p&gt;14:30 - 16:00 Applications and use of Graph Technologies (chair Hassan
+Chafi)&lt;/p&gt;
+&lt;p&gt;14:30 Jerven Bolleman (Swiss Institute of Bioinformatics): 20 billion
+triples in production &lt;a href=&#34;attachments/6881717/6981132.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;14:50 Mark Wilkinson (Universidad Politécnica de Madrid): Design
+principles for Linked-Data-native Semantic Web
+Services &lt;a href=&#34;attachments/6881717/6981133.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;15:10 Peter Haase (Metaphacts, Systap LLC): Querying the Wikidata
+Knowledge Graph &lt;a href=&#34;attachments/6881717/6981139.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;15:30 Esteban Sota (GNOSS): Human Interaction with Faceted Searching
+Systems for big or complex graphs&lt;/p&gt;
+&lt;p&gt;18:30 - 20:00 Cultural visit Barcelona city center. Meet at Plaça
+Catalunya.&lt;/p&gt;
+&lt;p&gt;20:00 Social dinner at &lt;a href=&#34;http://www.bastaix.com&#34;&gt;Bastaix
+Restaurant&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Friday 20th March&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;9:30 - 11:00 Technology and Benchmarking (chair Josep L. Larriba-Pey)&lt;/p&gt;
+&lt;p&gt;9:30 Yinglong Xia (IBM): Towards Temporal Graph Management and Analytics&lt;/p&gt;
+&lt;p&gt;9:50 Alexandru Iosup (TU Delft). Graphalytics: A big data benchmark for
+graph-processing platforms&lt;/p&gt;
+&lt;p&gt;10:10 John Snelson (MarkLogic): Introduction to MarkLogic&lt;/p&gt;
+&lt;p&gt;10:30 Arnau Prat (UPC-Sparsity Technologies) and Alex Averbuch (Neo):
+Social Network Benchmark, Interactive Workload&lt;/p&gt;
+&lt;p&gt;10:50 Moritz Kaufmann. The auditing experience&lt;/p&gt;
+&lt;p&gt;[11:15 - 11:45 Coffee
+break]&lt;/p&gt;
+&lt;p&gt;11:45 - 12:45 Applications and use of Graph Technologies (chair Atanas
+Kiryakov)&lt;/p&gt;
+&lt;p&gt;11:45 Boris Motik (Oxford University): Parallel and Incremental
+Materialisation of RDF/Datalog in RDFox&lt;/p&gt;
+&lt;p&gt;12:05 Andreas Both (Unister): E-Commerce and Graph-driven Applications:
+Experiences and Optimizations while moving to Linked
+Data[ ]&lt;/p&gt;
+&lt;p&gt;12:25 Smrati Gupta (CA Technologies). Modaclouds Decision Support System
+in multicloud environments&lt;/p&gt;
+&lt;p&gt;12:45 Peter Boncz. Conclusions for the LDBC project and future
+perspectives. &lt;a href=&#34;attachments/6881717/6981138.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;13:30 - 14:30 Lunch break&lt;/p&gt;
+&lt;p&gt;15:00  LDBC Board of Directors&lt;/p&gt;
+&lt;h3 id=&#34;logistics&#34;&gt;Logistics&lt;/h3&gt;
+&lt;h6 id=&#34;date&#34;&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;/h6&gt;
+&lt;p&gt;19th and 20th March 2015&lt;/p&gt;
+&lt;h6 id=&#34;venue&#34;&gt;&lt;strong&gt;Venue&lt;/strong&gt;&lt;/h6&gt;
+&lt;p&gt;The TUC meeting will be held at &amp;ldquo;Aula Master&amp;rdquo; at A3 building located
+inside the &amp;ldquo;Campus Nord UPC&amp;rdquo; in Barcelona. The address is:&lt;/p&gt;
+&lt;p&gt;Aula Master&lt;br&gt;
+Edifici A3, Campus Nord UPC&lt;br&gt;
+C. Jordi Girona, 1-3&lt;br&gt;
+08034 Barcelona, Spain&lt;/p&gt;
+&lt;h5 id=&#34;maps-and-situation&#34;&gt;&lt;strong&gt;Maps and situation&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;To reach the campus, there are several options, including
+Taxi, &lt;a href=&#34;http://www.tmb.cat/ca/c/document_library/get_file?uuid=c8996f6c-8ad5-4d21-b59b-faf9fceebd80&amp;amp;groupId=10168&#34;&gt;Metro&lt;/a&gt; and &lt;a href=&#34;http://www.tmb.cat/ca/c/document_library/get_file?uuid=5e6af5e2-7677-4ce8-85bb-8e63f2b086f1&amp;amp;groupId=10168&#34;&gt;Bus&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;attachments/1671180/1933315.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;finding-upc&#34;&gt;&lt;strong&gt;Finding UPC&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;attachments/1671180/1933318.jpg&#34; alt=&#34;&#34;&gt;
+]&lt;/p&gt;
+&lt;h5 id=&#34;finding-the-meeting-room&#34;&gt;&lt;strong&gt;Finding the meeting room&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h5 id=&#34;getting-there&#34;&gt;Getting there&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;Flying:&lt;/strong&gt; Barcelona airport is situated 12 km from the city. There are
+several ways of getting from the airport to the centre of Barcelona, the
+cheapest of which is to take the train located outside just a few
+minutes walking distance past the parking lots at terminal 2 (there is a
+free bus between terminal 1 and terminal 2, see this &lt;a href=&#34;http://goo.gl/maps/iJqlj&#34;&gt;map of the
+airport&lt;/a&gt;). It is possible to
+buy 10 packs of train tickets which makes it cheaper. Taking the bus to
+the centre of town is more convenient as they leave directly from
+terminal 1 and 2, however it is more expensive than the train.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rail:&lt;/strong&gt; The Renfe commuter train leaves the airport every 30 minutes
+from 6.13 a.m. to 11.40 p.m. Tickets cost around 3€ and the journey to
+the centre of Barcelona (Sants or Plaça Catalunya stations) takes 20
+minutes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bus:&lt;/strong&gt; The Aerobus leaves the airport every 12 minutes, from 6.00 a.m.
+to 24.00, Monday to Friday, and from 6.30 a.m. to 24.00 on Saturdays,
+Sundays and public holidays. Tickets cost 6€ and the journey ends in
+Plaça Catalunya in the centre of Barcelona.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Taxi:&lt;/strong&gt; From the airport, you can take one of Barcelona&#39;s typical
+black and yellow taxis. Taxis may not take more than four passengers.
+Unoccupied taxis display a green light and have a clearly visible sign
+showing LIBRE or LLIURE. The trip to Sants train station costs
+approximately €20 and trips to other destinations in the city cost
+approximately €25-30.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Train and bus:&lt;/strong&gt; Barcelona has two international train stations: Sants
+and França. Bus companies have different points of arrival in different
+parts of the city. You can find detailed information in the following
+link: &lt;a href=&#34;http://www.barcelona-airport.com/eng/transport_eng.htm&#34;&gt;http://www.barcelona-airport.com/eng/transport_eng.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;attachments/1671180/1933316.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;the-locations-of-the-airport-and-the-city-centre&#34;&gt;&lt;strong&gt;The locations of the airport and the city centre&lt;/strong&gt;&lt;/h5&gt;
+&lt;h4 id=&#34;accomodation&#34;&gt;Accomodation&lt;/h4&gt;
+&lt;p&gt;The following hotels are recommended. The two first are located near the
+UPC campus and they take 10-15 min by foot to reach the TUC meeting
+location. The two last are located at the city center. They require
+about 30 min (taking metro L3 at plaça Catalunya) to reach the TUC
+meeting location. You can see the hotel locations in &lt;a href=&#34;https://maps.google.es/maps/ms?msid=205398946114145535508.0004cbc8999989b0bcd43&amp;amp;msa=0&amp;amp;ll=41.390461,2.135639&amp;amp;spn=0.039923,0.077162&#34;&gt;this google
+map&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hotel Husa Pedralbes&lt;/strong&gt;
+&lt;br&gt;
+Fontcoberta, 4&lt;br&gt;
+8034 Barcelona&lt;br&gt;
+932 037 112&lt;br&gt;
+&lt;a href=&#34;http://www.hotelhusapedralbes.com/&#34;&gt;www.hotelhusapedralbes.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hotel Bonanova Park&lt;/strong&gt;
+&lt;br&gt;
+Capita Arenas, 51&lt;br&gt;
+08034 Barcelona&lt;br&gt;
+932 04 09 00&lt;br&gt;
+&lt;a href=&#34;http://www.hotelbonanovapark.com/&#34;&gt;www.hotelbonanovapark.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hotel Inglaterra Barcelona&lt;/strong&gt;
+&lt;br&gt;
+Carrer de Pelai, 14&lt;br&gt;
+08001 Barcelona&lt;br&gt;
+935 05 11 00&lt;br&gt;
+&lt;a href=&#34;http://www.hotel-inglaterra.com/&#34;&gt;www.hotel-inglaterra.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hotel Jazz&lt;/strong&gt;
+&lt;br&gt;
+Carrer de Pelai, 3&lt;br&gt;
+08001 Barcelona&lt;br&gt;
+935 52 96 96&lt;br&gt;
+&lt;a href=&#34;http://www.hoteljazz.com/&#34;&gt;www.hoteljazz.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;In addition to the hotels above, there is the possibility to stay at the
+&amp;quot;Torre Girona&amp;quot; residence. It is the closest and cheapest option
+available. You can find &lt;a href=&#34;http://www.resa.es/eng/Residences/Torre-Girona/daily-accommodation/(reservas)/Diario/(sec)/full&#34;&gt;detailed information
+here&lt;/a&gt;. Basically,
+it costs 53 euros for a single room and 60 to 88 euros for a double room
+depending if it is occupied by one or two people. If anyone is
+interested in this option, you should send an email
+to &lt;a href=&#34;mailto:torregirona@resa.es&#34;&gt;torregirona@resa.es&lt;/a&gt; asking for a reservation.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Torre Girona Residence Hall&lt;/strong&gt;&lt;br&gt;
+Passeig dels Til·lers, 19&lt;br&gt;
+08034 Barcelona&lt;br&gt;
+Telephone: 0034 93 390 43 00&lt;br&gt;
+Fax: 0034 93 205 69 10&lt;br&gt;
+E-mail: &lt;a href=&#34;mailto:torregirona@resa.es&#34;&gt;torregirona@resa.es&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;travel-costs&#34;&gt;Travel costs&lt;/h4&gt;
+&lt;p&gt;There is a small budget available that can be used to assist some
+attendees that are otherwise unable to fund their trip. Please contact
+us using the following email address if you would like more
+information: ldbcgrants AT ac DOT upc DOT edu&lt;/p&gt;
+&lt;h3 id=&#34;attachments&#34;&gt;Attachments:&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/6881717/6981131.pdf&#34;&gt;LDBC_TUC6_Boncz.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/6881717/6981132.pdf&#34;&gt;LDBC-TUC6-20Billion.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/6881717/6981133.pdf&#34;&gt;LDBC TUC
+Meeting, Barcelona.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/6881717/6981137.pdf&#34;&gt;LDBC-SPB 2.0
+evolution.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/6881717/6981138.pdf&#34;&gt;LDBC_TUC6_conclusions.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/6881717/6981139.pdf&#34;&gt;20150319 LDBC
+Haase Wikidata.pdf&lt;/a&gt; (application/pdf)\&lt;/p&gt;
 </description>
     </item>
     
@@ -3886,6 +5550,161 @@ workload.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Fifth TUC Meeting</title>
+      <link>https://ldbc.github.io/event/fifth-tuc-meeting/</link>
+      <pubDate>Fri, 14 Nov 2014 12:32:22 -0400</pubDate>
+      
+      <guid>https://ldbc.github.io/event/fifth-tuc-meeting/</guid>
+      <description>&lt;p&gt;The LDBC consortium are pleased to announce its fifth Technical User
+Community (TUC) meeting.&lt;/p&gt;
+&lt;p&gt;This will be a one-day event at the National Hellenic Research Institute
+ in Athens, Greece on &lt;strong&gt;Friday November 14, 2014&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;agenda&#34;&gt;Agenda&lt;/h3&gt;
+&lt;p&gt;10:30 - 11:00 Coffee
+Break&lt;/p&gt;
+&lt;p&gt;11:00 - 11:10 Peter Boncz (VUA)  Welcome &amp;amp; LDBC project status update
+(&lt;a href=&#34;attachments/5996808/6979841.pptx&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;11:10 - 11:25 Venelin Kotsev (ONTO) Semantic Publishing Benchmark:Short
+Presentation of SPB and  Status,\&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Feedback &amp;amp; Roadmap for SPB &amp;amp; OWLIM
+(&lt;a href=&#34;attachments/5996808/6979839.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;11:25 - 11:30 Orri Erling (OGL) Status, Feedback &amp;amp; Roadmap for SPB &amp;amp;
+Virtuoso (&lt;a href=&#34;attachments/5996808/6979828.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;11:30 - 11:45 Alex Averbuch (NEO) Social Network Benchmark: Short
+Presentation of SNB and  Status,&lt;br&gt;
+                      Feedback &amp;amp; Roadmap for SNB &amp;amp; Neo4J
+(&lt;a href=&#34;attachments/5996808/6979830.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;11:45 - 12:00 Orri Erling (OGL) Status, Feedback &amp;amp; Roadmap for SNB &amp;amp;
+Virtuoso (&lt;a href=&#34;attachments/5996808/6979829.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;12:00 - 12:20 Arnau Prat (UPC) &amp;amp; Andrey Gubichev Status,&lt;br&gt;
+                      Feedback &amp;amp; Roadmap for SNB Interactive &amp;amp;
+Sparksee (&lt;a href=&#34;attachments/5996808/6979836.pdf&#34;&gt;Presentation&lt;/a&gt; ) and Business
+Intelligence  (&lt;a href=&#34;attachments/5996808/6979837.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;12:20 - 12:40 Tomer Sagi,  &amp;quot;Experience with SNB and TitanDB at
+HP&amp;quot; (&lt;a href=&#34;attachments/5996808/6979838.pptx&#34;&gt;Presentation&lt;/a&gt; )&lt;/p&gt;
+&lt;p&gt;12:40 - 13:00 Jakob Nelson,   &amp;quot;graphbench.org on the SNB datagen&amp;quot;&lt;/p&gt;
+&lt;p&gt;13:00 - 14:30 Lunch Break@Byzantine &amp;amp; Christian Museum
+(&lt;a href=&#34;http://www.byzantinemuseum.gr/en/&#34;&gt;link&lt;/a&gt;{.external-link})&lt;/p&gt;
+&lt;p&gt;14:30 - 14:50 Olaf Hartig, &amp;quot;Integrating the Property Graph and RDF data
+models&amp;quot; (&lt;a href=&#34;attachments/5996808/6979831.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;br&gt;
+                     
+ Documents: &lt;a href=&#34;http://arxiv.org/abs/1409.3288&#34;&gt;arxiv/1409.3288&lt;/a&gt;{.external-link}, &lt;a href=&#34;http://arxiv.org/abs/1406.3399&#34;&gt;arxiv/1406.3399&lt;/a&gt;{.external-link}&lt;br&gt;
+      &lt;/p&gt;
+&lt;p&gt;14:50 - 15:10 Maria-Esther Vidal and Maribel Acosta,&lt;br&gt;
+                      &amp;quot;Challenges to be addressed during Benchmarking
+SPARQL Federated Engines&amp;quot;
+(&lt;a href=&#34;attachments/5996808/6979842.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;15:10 - 15:30 Evaggelia Pitoura, &amp;quot;Historical Queries on Graphs&amp;quot;
+(&lt;a href=&#34;attachments/5996808/6979835.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;15:30 - 16:00 Coffe Break&lt;/p&gt;
+&lt;p&gt;16:00 - 16:20 Manolis Terrovitis, Giannis Liagos, George
+Papastefanatos,&lt;br&gt;
+                      &amp;quot;Efficient Identification of Implicit Facts in
+Incomplete OWL2-EL Knowledge Bases&amp;quot;
+(&lt;a href=&#34;attachments/5996808/6979843.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;16:20 - 16:40 Gunes Aluc, &amp;quot;WatDiv: How to Tune-up your RDF Data
+Management System&amp;quot; (&lt;a href=&#34;attachments/5996808/6979832.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;16:40 - 17:00 Giorgos Kollias, Yannis Smaragdakis,
+&amp;quot;Benchmarking @LogicBlox&amp;quot;
+(&lt;a href=&#34;attachments/5996808/6979840.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;17:00 - 17:15 Hassan Chafi, &amp;quot;Oracle Labs Graph Strategy&amp;quot; &lt;/p&gt;
+&lt;p&gt;17:15 - 17:25 Yinglong Xia, &amp;quot;Property Graphs for Industry Solution at
+IBM&amp;quot;
+(&lt;a href=&#34;attachments/5996808/6979834.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;17:25 - 17:30 Arthur Keen, &amp;quot;Short Introduction to SPARQLcity&amp;quot;
+(tentative)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;20:30  Dinner @ Konservokouti &lt;a href=&#34;https://plus.google.com/114240752029716758955/about?gl=gr&amp;amp;hl=en&#34;&gt;(link)&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Get a Taxi, and go to Ippokratous 148, Athens, Neapoli Exarheion&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&#34;logistics&#34;&gt;Logistics&lt;/h4&gt;
+&lt;p&gt;The meeting will be held at the &lt;a href=&#34;http://www.eie.gr/index-en.html&#34;&gt;National Hellenic Research
+Foundation&lt;/a&gt; located in
+&lt;a href=&#34;http://www.eie.gr/location-en.html&#34;&gt;downtown Athens&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[&lt;img src=&#34;attachments/5996808/5964344.gif&#34; alt=&#34;&#34;&gt;
+]&lt;/p&gt;
+&lt;h5 id=&#34;hotel-accommodation&#34;&gt;Hotel Accommodation&lt;/h5&gt;
+&lt;p&gt;The National Hellenic Research Foundation (NHRF) is located in the
+Athens&#39; city centre.Various
+hotels are
+found
+in walking
+distance from the meeting&#39;s
+location. We
+provide here a list of these hotels, but you
+can find
+much more from booking
+websites. When
+looking for hotels close to NHRF you can use as close by Points of
+Interest Byzantine
+Museum, War Museum, National
+Gallery.&lt;/p&gt;
+&lt;p&gt;1. &lt;strong&gt;Hilton Athens,&lt;/strong&gt; &lt;a href=&#34;http://www.hiltonathens.gr/en/home.html&#34;&gt;http://www.hiltonathens.gr/en/home.html&lt;/a&gt; (5
+stars)&lt;br&gt;
+2. &lt;strong&gt;Divani Caravel,&lt;/strong&gt; &lt;a href=&#34;http://www.divanis.com/caravel/default-el.html&#34;&gt;http://www.divanis.com/caravel/default-el.html&lt;/a&gt;
+(5 stars)&lt;br&gt;
+3. &lt;strong&gt;Best Western Ilisia Hotel&lt;/strong&gt; &lt;a href=&#34;http://www.ilisiahotel.gr/&#34;&gt;http://www.ilisiahotel.gr/&lt;/a&gt;(4 stars)&lt;br&gt;
+4. &lt;strong&gt;Periscope&lt;/strong&gt; (4 stars), &lt;a href=&#34;http://periscope.athenshotels.it/&#34;&gt;http://periscope.athenshotels.it/&lt;/a&gt; (4
+stars)&lt;/p&gt;
+&lt;p&gt;5.
+&lt;strong&gt;Delice&lt;/strong&gt; &lt;a href=&#34;http://www.booking.com/hotel/gr/appartements-delice.nl.html&#34;&gt;http://www.booking.com/hotel/gr/appartements-delice.en.html&lt;/a&gt;}&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h4 id=&#34;travel&#34;&gt;Travel&lt;/h4&gt;
+&lt;p&gt;Athens, Greece&amp;rsquo;s capital city, is easily accessible by air. Travelers on
+flights to Athens will land at Athens Eleftherios Venizelos
+International Airport.&lt;br&gt;
+To arrive in the city center, you can take the metro from the airport
+(Line #3) and stop at either stop Evangelismos  (ΕΥΑΓΓΕΛΙΣΜΟΣ) or at
+Syntagma (ΣΥΝΤΑΓΜΑ) stations. You can also take express Bus X95 and stop
+again at either Evangelismos  (ΕΥΑΓΓΕΛΙΣΜΟΣ) or at Syntagma (ΣΥΝΤΑΓΜΑ)
+stations (the latter is the terminus for the bus).&lt;br&gt;
+You can also take a taxi from the airport that runs on a fixed price for
+the city center (45 euros). More information on how to move around in
+Athens from the airport can be found here: &lt;a href=&#34;http://www.aia.gr/traveler/&#34;&gt;http://www.aia.gr/traveler/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h4 id=&#34;attachments&#34; class=&#34;pageSectionTitle&#34;&gt;Attachments:&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;{width=&amp;ldquo;8&amp;rdquo; height=&amp;ldquo;8&amp;rdquo;}
+&lt;a href=&#34;attachments/5996808/5964344.gif&#34;&gt;nhrf-map.gif&lt;/a&gt; (image/gif)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5996808/6979828.pdf&#34;&gt;Orri_SPB.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5996808/6979829.pdf&#34;&gt;Orri_SNB.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5996808/6979830.pdf&#34;&gt;neo.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5996808/6979831.pdf&#34;&gt;Olaf.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5996808/6979833.pdf&#34;&gt;watdiv-ldbc.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5996808/6979832.pdf&#34;&gt;watdiv-ldbc.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5996808/6979834.pdf&#34;&gt;TUCmeeting_GraphAtIBM_yxia.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5996808/6979835.pdf&#34;&gt;pitoura-tuc.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5996808/6979836.pdf&#34;&gt;ArnauPrat.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5996808/6979837.pdf&#34;&gt;BI.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5996808/6979838.pptx&#34;&gt;HP_Labs_Overview_11_2014.pptx&lt;/a&gt;
+(application/vnd.openxmlformats-officedocument.presentationml.presentation)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/5996808/6979839.pdf&#34;&gt;LDBC Semantic
+Publishing Benchmark.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5996808/6979840.pdf&#34;&gt;ldbc_tuc_george_kollias.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5996808/6979841.pptx&#34;&gt;LDBC_TUC5.pptx&lt;/a&gt;
+(application/vnd.openxmlformats-officedocument.presentationml.presentation)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5996808/6979842.pdf&#34;&gt;LDBC_talk.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5996808/6979843.pdf&#34;&gt;OWL2ELV2.pdf&lt;/a&gt; (application/pdf)\&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Getting Started With the Semantic Publishing Benchmark</title>
       <link>https://ldbc.github.io/post/getting-started-with-the-semantic-publishing-benchmark/</link>
       <pubDate>Sun, 09 Nov 2014 00:00:00 +0000</pubDate>
@@ -5096,6 +6915,299 @@ store’s capabilities for conformance to the rules in OWL2-RL rule-set by
 executing a number of INSERT/ASK queries specific for each rule. The
 result of that phase is a list of all rules that have been passed or
 failed which is very useful for regression testing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fourth TUC meeting</title>
+      <link>https://ldbc.github.io/event/fourth-tuc-meeting/</link>
+      <pubDate>Thu, 03 Apr 2014 12:32:22 -0400</pubDate>
+      
+      <guid>https://ldbc.github.io/event/fourth-tuc-meeting/</guid>
+      <description>&lt;p&gt;The LDBC consortium are pleased to announce the fourth Technical User
+Community (TUC) meeting.&lt;/p&gt;
+&lt;p&gt;This will be a one-day event at CWI in Amsterdam on &lt;em&gt;Thursday April 3,
+2014&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The event will include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to the objectives and progress of the LDBC project.&lt;/li&gt;
+&lt;li&gt;Description of the progress of the benchmarks being evolved through
+Task Forces.&lt;/li&gt;
+&lt;li&gt;Users explaining their use-cases and describing the limitations they
+have found in current technology.&lt;/li&gt;
+&lt;li&gt;Industry discussions on the contents of the benchmarks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All users of RDF and graph databases are welcome to attend. If you are
+interested, please contact: ldbc AT ac DOT upc DOT edu&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;agenda&#34;&gt;Agenda&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;April 3rd&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;10:00 Peter Boncz (VUA) &lt;a href=&#34;attachments/5538064/5506371.pptx&#34;&gt;pptx&lt;/a&gt;,
+&lt;a href=&#34;https://www.youtube.com/watch?v=JYWVgrP1kVY&#34;&gt;video&lt;/a&gt;
+&lt;em&gt;LDBC project status
+update&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;10:20 Norbert Martinez
+(UPC) &lt;a href=&#34;attachments/5538064/5506375.pdf&#34;&gt;pdf&lt;/a&gt;,
+&lt;a href=&#34;https://www.youtube.com/watch?v=4yREJQ3yDr0&#34;&gt;video&lt;/a&gt;
+&lt;em&gt;Status update on the LDBC Social  Network Benchmark (SNB) task
+forc&lt;/em&gt;e.&lt;/li&gt;
+&lt;li&gt;[:50 Alexandru Iosup (TU Delft)
+&lt;a href=&#34;attachments/5538064/5506363.ppt&#34;&gt;ppt&lt;/a&gt;,
+&lt;a href=&#34;https://www.youtube.com/watch?v=ulT-RFwKpOE&#34;&gt;video&lt;/a&gt;
+&lt;em&gt;Towards Benchmarking Graph-Processing
+Platforms&lt;/em&gt; &lt;/li&gt;
+&lt;li&gt;11:10 Mike Bryant (Kings
+College) &lt;a href=&#34;attachments/5538064/5506364.pptx&#34;&gt;pptx&lt;/a&gt;,
+&lt;a href=&#34;https://www.youtube.com/watch?v=KiHRTu9xx0A&#34;&gt;video&lt;/a&gt; EHRI Project: Archival Integration with Neo4j&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;11:30 coffee&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;11:50 Thilo Muth (University of
+Magdeburg) &lt;a href=&#34;attachments/5538064/5506369.pptx&#34;&gt;pptx&lt;/a&gt;&lt;strong&gt;,&lt;/strong&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=5xH3UDLP6Oc&#34;&gt;video&lt;/a&gt; MetaProteomeAnalyzer:
+a graph database backed software for functional and taxonomic
+protein data analysis. &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;12:10 Davy Suvee (Janssen Pharmaceutica / Johnson &amp;amp; Johnson)
+&lt;a href=&#34;attachments/5538064/5506403.crdownload&#34;&gt;pdf&lt;/a&gt;,
+&lt;a href=&#34;https://www.youtube.com/watch?v=XN3LRJUfJIU&#34;&gt;video&lt;/a&gt;:
+&lt;em&gt;Euretos
+Brain -  Experiences on using a graph database to analyse data
+stored as a scientific knowledge
+graph&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;12:30 Yongming Luo (TU Eindhoven)
+&lt;a href=&#34;attachments/5538064/5506366.pdf&#34;&gt;pdf&lt;/a&gt;&lt;em&gt;,&lt;/em&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=g_my3tBB2_s&#34;&gt;video&lt;/a&gt;}:
+&lt;em&gt;Regularities and dynamics in bisimulation reductions of big
+graphs&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;12:50 Christopher Davis (TU
+Delft) &lt;a href=&#34;attachments/5538064/5506370.pdf&#34;&gt;pdf&lt;/a&gt;,
+&lt;a href=&#34;https://www.youtube.com/channel/UC6HbzfJ4016Vez-2HKNeDag&#34;&gt;video&lt;/a&gt;:
+&lt;em&gt;Enipedia -
+Enipedia is an active exploration into the applications of wikis and
+the semantic web for energy and industry issues&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;strong&gt;13:10 - 14:30 lunch @ restaurant Polder&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;14:30 Venelin Kotsev (ONTOTEXT)
+&lt;a href=&#34;attachments/5538064/5506365.pptx&#34;&gt;pptx&lt;/a&gt;,
+&lt;a href=&#34;https://www.youtube.com/watch?v=u_1TPCKYvBo&#34;&gt;video&lt;/a&gt;: &lt;em&gt;Status
+update on the LDBC Semantic Publishing (SPB) task force&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;15:00 Bastiaan Bijl
+(Sysunite) &lt;a href=&#34;attachments/5538064/5506373.pdf&#34;&gt;pdf&lt;/a&gt;,
+&lt;a href=&#34;https://www.youtube.com/watch?v=TsCeKDHShMY&#34;&gt;video&lt;/a&gt;: &lt;em&gt;Using
+a semantic approach for monitoring applications in large engineering
+projects&lt;/em&gt; &lt;/li&gt;
+&lt;li&gt;15:20 Frans Knibbe
+(Geodan) &lt;a href=&#34;attachments/5538064/5506372.pptx&#34;&gt;pptx&lt;/a&gt;,
+&lt;a href=&#34;https://www.youtube.com/watch?v=uAX-m4OewPM&#34;&gt;video&lt;/a&gt;: &lt;em&gt;Benchmarks
+for geographical data&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;15:40 Armando Stellato (University of Rome, Tor Vergata &amp;amp; UN Food
+and Agriculture
+Organization) &lt;a href=&#34;attachments/5538064/5506374.pptx&#34;&gt;pptx&lt;/a&gt;,
+&lt;a href=&#34;https://www.youtube.com/watch?v=mfA4csAs72Y&#34;&gt;video&lt;/a&gt;: &lt;em&gt;VocBench2.0,
+a Collaborative Environment for SKOS/SKOS-XL Management: scalability
+and (inter)operatibility challenges&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;16:00 coffee&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;16:20 Ralph Hodgson
+(TopQuadrant) &lt;a href=&#34;attachments/5538064/5506367.pdf&#34;&gt;pdf&lt;/a&gt;,
+&lt;a href=&#34;https://www.youtube.com/watch?v=ZUDnVw9P_Rc&#34;&gt;video&lt;/a&gt;:
+&lt;em&gt;Customer experiences in implementing SKOS-based vocabulary
+management systems&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;16:40 Simon Jupp (European Bioinformatics
+Institute) &lt;a href=&#34;attachments/5538064/5506368.pdf&#34;&gt;pdf&lt;/a&gt;,
+&lt;a href=&#34;https://www.youtube.com/watch?v=CgTuOGK92W8&#34;&gt;video&lt;/a&gt;: &lt;em&gt;[Delivering
+RDF for the life science at the European Bioinformatics Institute:
+Six months
+in.]&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;17:00 Jerven Bolleman (Swiss Institute of Bioinformatics)
+ &lt;a href=&#34;attachments/5538064/5506381.pdf&#34;&gt;pdf&lt;/a&gt;,
+&lt;a href=&#34;https://www.youtube.com/watch?v=QTc3yOgoEsg&#34;&gt;video&lt;/a&gt;:
+&lt;em&gt;Breakmarking UniProt RDF. Sparql queries that make your database
+cry.&amp;hellip;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;[17:20 ]Rein
+van &#39;t
+Veer(Digital
+Heritage
+Netherlands) &lt;a href=&#34;attachments/5538064/5506380.pptx&#34;&gt;pptx&lt;/a&gt;,
+&lt;a href=&#34;https://www.youtube.com/watch?v=2vDrZoskGyQ&#34;&gt;video&lt;/a&gt; &lt;em&gt;Time
+and space for heritage&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;[17:40] End of
+meeting&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;19:00 - 21:30 Social Dinner in restaurant
+Boom&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;April 4th&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LDBC plenary meeting for project partners.&lt;/p&gt;
+&lt;h3 id=&#34;logistics&#34;&gt;Logistics&lt;/h3&gt;
+&lt;p&gt;The meeting will be held at the Dutch national research institute for
+computer science and mathematics
+(&lt;a href=&#34;http://www.cwi.nl&#34;&gt;CWI&lt;/a&gt; - Centrum voor Wiskunde en
+Informatica). It is located at &lt;a href=&#34;http://www.amsterdamsciencepark.nl/&#34;&gt;Amsterdam Science
+Park&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;attachments/5538064/5505821.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h6 id=&#34;hotel-accommodation&#34;&gt;Hotel accommodation&lt;/h6&gt;
+&lt;p&gt;We recommend accomodation at five hotels, at different budget
+price-points (from cheaper to more expensive &amp;ndash; prices based on recent
+booking.com quote, breakfast inclusive):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hotel Rembrandt
+(eur80/night) &lt;a href=&#34;http://www.booking.com/hotel/nl/hotelrembrandt.nl.html&#34;&gt;http://www.booking.com/hotel/nl/hotelrembrandt.nl.html&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hotel Casa 400
+(eur100/night) &lt;a href=&#34;http://www.booking.com/hotel/nl/casa-400.nl.html&#34;&gt;http://www.booking.com/hotel/nl/casa-400.nl.html&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Lloyd Hotel
+(eur110/night) &lt;a href=&#34;http://www.booking.com/hotel/nl/lloydhotcultambass.nl.html&#34;&gt;http://www.booking.com/hotel/nl/lloydhotcultambass.nl.html&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NH Tropen Hotel
+(eur135/night) &lt;a href=&#34;http://www.booking.com/hotel/nl/nhtropen.nl.html&#34;&gt;http://www.booking.com/hotel/nl/nhtropen.nl.html&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Manor Hotel (eur136/night)
+ &lt;a href=&#34;http://www.booking.com/hotel/nl/eden-amsterdam-manor.nl.html&#34;&gt;http://www.booking.com/hotel/nl/eden-amsterdam-manor.nl.html&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6 id=&#34;travel&#34;&gt;Travel&lt;/h6&gt;
+&lt;p&gt;&lt;strong&gt;Arriving &amp;amp; departing:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Amsterdam has a well-functioning and nearby airport called Schiphol
+(AMS &lt;a href=&#34;http://www.schiphol.com%29/&#34;&gt;www.schiphol.nl)&lt;/a&gt;that
+serves all main European Carriers and also very many low-fare
+carriers.  &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.iamsterdam.com/en/visiting/touristinformation/gettingaround/arrival-and-departure/arrival-by-plane&#34;&gt;http://www.iamsterdam.com/en/visiting/touristinformation/gettingaround/arrival-and-departure/arrival-by-plane&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trains&lt;/strong&gt; (~5 per hour) are the most convenient means of transport
+between Schiphol airport and Amsterdam city center, the Centraal Station
+(17 minutes, a train every 15 minutes) &amp;ndash; which station you are also
+likely arriving at in case of an international train trip.&lt;/p&gt;
+&lt;p&gt;From the Centraal Station in Amsterdam, there is a direct train (every
+half an hour, runs 11 minutes) to the Science Park station, which is
+walking distance of CWI.  If you go from the Centraal Station to one of
+the hotels, you should take tram 9 &amp;ndash; it starts at Centraal Station
+(exception: for Hotel Casa 400, you should take the metro to Amstel
+station - any of the metros will do). &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Taxi&lt;/strong&gt; is an alternative, though expensive. The price from Schiphol
+will be around EUR45 to the CWI or another point in the city center
+(depending on traffic, the ride is 20-30 minutes).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Public transportation&lt;/strong&gt; (tram,bus,metro) tickets for a single ride and
+1-day (24 hour) passes can be purchased from the driver/conductor on
+trams and busss (cash only) and from vending machines in the metro
+stations. &lt;/p&gt;
+&lt;p&gt;Details about the metro, trams and buses, including the &lt;strong&gt;electronic
+ticket system&lt;/strong&gt; (&amp;quot;OV-chipcard&amp;quot;) can be found here:&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;http://www.iamsterdam.com/en/visiting/touristinformation/gettingaround/publictransport&#34;&gt;http://www.iamsterdam.com/en/visiting/touristinformation/gettingaround/publictransport&lt;/a&gt;  &lt;strong&gt;Only the &amp;quot;disposable&amp;quot; cards are
+interesting for you as visitor.&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Multi-day (up to 7-days/168 hours) passes can only be purchased from
+the vending machines or from the ticket office opposite of Centraal
+Station. For details see&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;a href=&#34;http://en.gvb.nl/service_en_verkoop/ov-chipkaartoverzicht/Pages/ov-chipkaart-overzicht.aspx&#34;&gt;http://en.gvb.nl/service_en_verkoop/ov-chipkaartoverzicht/Pages/ov-chipkaart-overzicht.aspx&lt;/a&gt; or &lt;a href=&#34;http://en.gvb.nl/ovinmamsterdam/Pages/bestdeal.aspx&#34;&gt;http://en.gvb.nl/ovinmamsterdam/Pages/bestdeal.aspx&lt;/a&gt;&lt;br&gt;
+and&lt;br&gt;
+[&lt;a href=&#34;http://www.iamsterdam.com/en/placestogo/public-transport-gvb-tickets--info-desks/6688b9b9-7dba-4b3e-a01e-e7076c4d7831&#34;&gt;http://www.iamsterdam.com/en/placestogo/public-transport-gvb-tickets--info-desks/6688b9b9-7dba-4b3e-a01e-e7076c4d7831&lt;/a&gt;]{.Object
+style=&amp;ldquo;color: rgb(0,0,139);&amp;quot;}&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Getting Around:&lt;/strong&gt; the fastest way to move in the city of Amsterdam
+generally is by bicycle. Consider renting such a device at your hotel.
+For getting from your hotel to the CWI, you can either take a taxi
+(expensive), have a long walk (35min), use public transportation (for NH
+Tropen/The Manor take bus 40 from Muiderpoort Station, for Hotel Casa
+400 same bus 40 but from Amstel station, and for the Rembrandt Hotel it
+is tram 9 until Middenweg/Kruislaan and then bus 40), or indeed bike for
+12 minutes. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cars&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In case you plan to arrive by car, please be aware that parking space
+in Amsterdam is scarce and hence very expensive. But, you can park your
+car on the &amp;quot;WCW&amp;quot; terrain where CWI is located. To enter the terrain by
+car, you have to get a ticket from the machine at the gate. To leave the
+terrain, again, you can get an exit ticket from the CWI reception.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Arriving at CWI:&lt;/strong&gt; Once you arrive at CWI, you need to meet the
+reception, and tell them that you are attending the LDBC TUC
+meeting. Then, you&#39;ll receive a visitor&#39;s pass that allows you to
+enter our building.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Social Dinner&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The social dinner will take place at 7 pm on April 3 in Restaurant Boom
+([&lt;a href=&#34;http://www.boometenendrinken.nl/&#34;&gt;boometenendrinken.nl&lt;/a&gt;),
+Linneausstraat 63, Amsterdam.]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Travel costs&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There is some small budget available that can be used to assist some
+attendees that are otherwise unable to fund their trip. Please contact
+us using the following email address if you would like more
+information: ldbcgrants AT ac DOT upc DOT edu&lt;/p&gt;
+&lt;h2 id=&#34;attachments&#34; class=&#34;pageSectionTitle&#34;&gt;Attachments:&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5538064/5505820.pdf&#34;&gt;A5_Map_of_Amsterdam_Science_Park_PDF.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5538064/5505821.jpg&#34;&gt;Map_Of_Amsterdam_Science_Park.jpg&lt;/a&gt;
+(image/jpeg)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5538064/5506361.pptx&#34;&gt;CWI_LDBC_Peter_Boncz.pptx&lt;/a&gt;
+(application/vnd.openxmlformats-officedocument.presentationml.presentation)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5538064/5506362.ppt&#34;&gt;2014-03-27_GraphProcessingPaaS14SPEC.ppt&lt;/a&gt;
+(application/vnd.ms-powerpoint)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5538064/5506378.ppt&#34;&gt;2014-04-03_GraphProcBenchmarking14LDBC.ppt&lt;/a&gt;
+(application/vnd.ms-powerpoint)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5538064/5506364.pptx&#34;&gt;LDBC_workshop_MikeBryant_030414.pptx&lt;/a&gt;
+(application/vnd.openxmlformats-officedocument.presentationml.presentation)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/5538064/5506365.pptx&#34;&gt;LDBC Semantic
+Publishing Benchmark Status - TUC4 - Amsterdam
+3.April.2014.pptx&lt;/a&gt;
+(application/vnd.openxmlformats-officedocument.presentationml.presentation)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5538064/5506366.pdf&#34;&gt;cwislides.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5538064/5506367.pdf&#34;&gt;LDBC_TUC4-TQ-aRH-v5.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5538064/5506368.pdf&#34;&gt;ldbc_jupp_ebi_2014.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5538064/5506369.pptx&#34;&gt;Amsterdam_GraphDB.pptx&lt;/a&gt;
+(application/vnd.openxmlformats-officedocument.presentationml.presentation)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5538064/5506370.pdf&#34;&gt;ChrisDavis.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5538064/5506371.pptx&#34;&gt;CWI_LDBC_Peter_Boncz (1).pptx&lt;/a&gt;
+(application/vnd.openxmlformats-officedocument.presentationml.presentation)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/5538064/5506373.pdf&#34;&gt;Virtuoso in PMS
+Coentunnel - Bastiaan Bijl.pdf&lt;/a&gt;
+(application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5538064/5506374.pptx&#34;&gt;VocBench_LDBC.pptx&lt;/a&gt;
+(application/vnd.openxmlformats-officedocument.presentationml.presentation)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/5538064/5506379.pptx&#34;&gt;Presentatie
+LDBC CWI 2014-04-03.pptx&lt;/a&gt;
+(application/vnd.openxmlformats-officedocument.presentationml.presentation)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5538064/5506377.pdf&#34;&gt;LDBC_TUC4_SNB.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5538064/5506375.pdf&#34;&gt;LDBC_TUC4_SNB.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5538064/5506363.ppt&#34;&gt;2014-04-03_GraphProcBenchmarking14LDBC.ppt&lt;/a&gt;
+(application/vnd.ms-powerpoint)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/5538064/5506372.pptx&#34;&gt;Presentatie
+LDBC CWI 2014-04-03.pptx&lt;/a&gt;
+(application/vnd.openxmlformats-officedocument.presentationml.presentation)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;attachments/5538064/5506380.pptx&#34;&gt;Presentation
+LDBC Heritage &amp;amp; Location.pptx&lt;/a&gt;
+(application/vnd.openxmlformats-officedocument.presentationml.presentation)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;{width=&amp;ldquo;8&amp;rdquo; height=&amp;ldquo;8&amp;rdquo;} &lt;a href=&#34;attachments/5538064/5506381.pdf&#34;&gt;LDBC meeting
+amsterdam.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
+&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
+&lt;a href=&#34;attachments/5538064/5506403.crdownload&#34;&gt;LDBC_Euretos.pdf.crdownload&lt;/a&gt;
+(application/octet-stream)\&lt;/p&gt;
 </description>
     </item>
     

@@ -3,13 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ldbc.github.io/tags/ldbc-datagen/</loc>
-    <lastmod>2020-06-12T00:00:00+00:00</lastmod>
+    <loc>https://ldbc.github.io/event/</loc>
+    <lastmod>2021-06-26T13:23:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/event/fourteenth-tuc-meeting/</loc>
+    <lastmod>2021-06-26T13:23:50-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/</loc>
-    <lastmod>2021-06-26T17:17:46+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/</loc>
+    <lastmod>2021-06-26T13:23:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/tuc-meeting/</loc>
+    <lastmod>2021-06-26T13:23:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/event/thirteenth-tuc-meeting/</loc>
+    <lastmod>2020-06-30T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/tags/ldbc-datagen/</loc>
+    <lastmod>2020-06-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,78 +53,78 @@
   </url>
   
   <url>
-    <loc>https://ldbc.github.io/tags/</loc>
-    <lastmod>2020-06-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ldbc.github.io/publication/dblp-journalscorrabs-2010-12243/</loc>
-    <lastmod>2021-06-26T17:17:43+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:49+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/</loc>
-    <lastmod>2021-06-26T17:17:46+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:52+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsigmod-waudby-sps-20/</loc>
-    <lastmod>2021-06-26T17:17:46+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:51+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-journalscorrabs-2011-15028/</loc>
-    <lastmod>2021-06-26T17:17:43+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:49+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-journalscorrabs-2001-02299/</loc>
-    <lastmod>2021-06-26T17:17:43+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:49+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/tpctc-acid/</loc>
-    <lastmod>2021-06-26T17:17:46+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ldbc.github.io/event/</loc>
+    <loc>https://ldbc.github.io/event/twelfth-tuc-meeting/</loc>
     <lastmod>2019-07-05T08:30:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ldbc.github.io/tags/tuc-meeting/</loc>
-    <lastmod>2019-07-05T08:30:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbc.github.io/event/twelfth-tuc-meeting-at-sigmod-2019-amsterdam/</loc>
-    <lastmod>2019-07-05T08:30:00+01:00</lastmod>
+    <loc>https://ldbc.github.io/event/eleventh-tuc-meeting/</loc>
+    <lastmod>2019-06-08T08:30:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confgrades-szarnyas-pampkeb-18/</loc>
-    <lastmod>2021-06-26T17:17:44+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsigmod-angles-abbfglpps-18/</loc>
-    <lastmod>2021-06-26T17:17:45+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/event/tenth-tuc-meeting/</loc>
+    <lastmod>2017-09-01T10:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/event/ninth-tuc-meeting/</loc>
+    <lastmod>2017-02-09T15:07:18-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confgrades-leo-b-17/</loc>
-    <lastmod>2021-06-26T17:17:44+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confgrades-ngai-hhi-17/</loc>
-    <lastmod>2021-06-26T17:17:44+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confgrades-prat-perez-gskdb-17/</loc>
-    <lastmod>2021-06-26T17:17:44+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:50+00:00</lastmod>
   </url>
   
   <url>
@@ -123,13 +148,18 @@
   </url>
   
   <url>
+    <loc>https://ldbc.github.io/event/eigth-tuc-meeting/</loc>
+    <lastmod>2016-06-22T14:45:20-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ldbc.github.io/publication/dblp-confsemweb-kotsev-mpefk-16/</loc>
-    <lastmod>2021-06-26T17:17:45+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-journalspvldb-iosup-hnhpmccsat-16/</loc>
-    <lastmod>2021-06-26T17:17:43+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:49+00:00</lastmod>
   </url>
   
   <url>
@@ -155,6 +185,11 @@
   <url>
     <loc>https://ldbc.github.io/post/ldbc-and-apache-flink/</loc>
     <lastmod>2015-11-16T14:47:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/event/seventh-tuc-meeting/</loc>
+    <lastmod>2015-11-09T14:17:30-04:00</lastmod>
   </url>
   
   <url>
@@ -288,6 +323,11 @@
   </url>
   
   <url>
+    <loc>https://ldbc.github.io/event/sixth-tuc-meeting/</loc>
+    <lastmod>2015-03-19T13:53:33-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ldbc.github.io/post/the-ldbc-datagen-community-structure/</loc>
     <lastmod>2015-03-15T00:00:00+00:00</lastmod>
   </url>
@@ -359,22 +399,22 @@
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confwww-pham-peb-15/</loc>
-    <lastmod>2021-06-26T17:17:46+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:51+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-journalsws-loizou-ag-15/</loc>
-    <lastmod>2021-06-26T17:17:44+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:49+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsigmod-erling-alcgppb-15/</loc>
-    <lastmod>2021-06-26T17:17:45+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:51+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsigmod-guisado-gamez-p-14/</loc>
-    <lastmod>2021-06-26T17:17:45+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:51+00:00</lastmod>
   </url>
   
   <url>
@@ -455,6 +495,11 @@
   <url>
     <loc>https://ldbc.github.io/tags/test-run/</loc>
     <lastmod>2014-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbc.github.io/event/fifth-tuc-meeting/</loc>
+    <lastmod>2014-11-14T12:32:22-04:00</lastmod>
   </url>
   
   <url>
@@ -598,63 +643,68 @@
   </url>
   
   <url>
+    <loc>https://ldbc.github.io/event/fourth-tuc-meeting/</loc>
+    <lastmod>2014-04-03T12:32:22-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ldbc.github.io/publication/dblp-journalsercim-angles-pb-14/</loc>
-    <lastmod>2021-06-26T17:17:43+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:49+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-bookscrclinked-14-boncz-ep-14/</loc>
-    <lastmod>2021-06-26T17:17:44+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:49+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confedbt-gubichev-014/</loc>
-    <lastmod>2021-06-26T17:17:44+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsigmod-gubichev-t-14/</loc>
-    <lastmod>2021-06-26T17:17:45+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:51+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confwww-prat-perez-dl-14/</loc>
-    <lastmod>2021-06-26T17:17:46+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:52+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsigmod-prat-d-14/</loc>
-    <lastmod>2021-06-26T17:17:46+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:51+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-conficde-gubichev-ab-14/</loc>
-    <lastmod>2021-06-26T17:17:45+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confrweb-larriba-pey-md-14/</loc>
-    <lastmod>2021-06-26T17:17:45+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-journalsercim-pham-b-14/</loc>
-    <lastmod>2021-06-26T17:17:43+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:49+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-conftpctc-gubichev-b-14/</loc>
-    <lastmod>2021-06-26T17:17:46+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:51+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-journalssigmod-angles-blf-0-enmkt-14/</loc>
-    <lastmod>2021-06-26T17:17:44+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:49+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsigmod-martinez-bazan-d-14/</loc>
-    <lastmod>2021-06-26T17:17:46+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:51+00:00</lastmod>
   </url>
   
   <url>
@@ -669,47 +719,47 @@
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confamw-angles-br-13/</loc>
-    <lastmod>2021-06-26T17:17:44+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:49+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsigmod-angles-pdl-13/</loc>
-    <lastmod>2021-06-26T17:17:45+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsigmod-ma-wqyxz-13/</loc>
-    <lastmod>2021-06-26T17:17:46+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:51+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-journalscorrabs-1301-5121/</loc>
-    <lastmod>2021-06-26T17:17:43+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:49+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-conficde-pham-13/</loc>
-    <lastmod>2021-06-26T17:17:45+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsigmod-gubichev-bs-13/</loc>
-    <lastmod>2021-06-26T17:17:45+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:51+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-journalsdbsk-boncz-fgl-013/</loc>
-    <lastmod>2021-06-26T17:17:43+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:49+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsigmod-cattuto-qpa-13/</loc>
-    <lastmod>2021-06-26T17:17:45+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-conftpctc-boncz-ne-13/</loc>
-    <lastmod>2021-06-26T17:17:46+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:51+00:00</lastmod>
   </url>
   
   <url>
@@ -719,27 +769,27 @@
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confcikm-gubichev-n-12/</loc>
-    <lastmod>2021-06-26T17:17:44+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confedbt-tsialiamanis-sfcb-12/</loc>
-    <lastmod>2021-06-26T17:17:44+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-confsemweb-phuoc-dpbef-12/</loc>
-    <lastmod>2021-06-26T17:17:45+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-conftpctc-pham-be-12/</loc>
-    <lastmod>2021-06-26T17:17:46+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:51+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbc.github.io/publication/dblp-journalsdebu-erling-12/</loc>
-    <lastmod>2021-06-26T17:17:43+00:00</lastmod>
+    <lastmod>2021-06-26T19:46:49+00:00</lastmod>
   </url>
   
   <url>

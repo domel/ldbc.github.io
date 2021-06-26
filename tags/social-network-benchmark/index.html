@@ -822,6 +822,46 @@
             
             
           
+            
+            
+            
+          
+            
+            
+            
+          
+            
+            
+            
+          
+            
+            
+            
+          
+            
+            
+            
+          
+            
+            
+            
+          
+            
+            
+            
+          
+            
+            
+            
+          
+            
+            
+            
+          
+            
+            
+            
+          
           
           
           <!-- blog post -->
@@ -845,7 +885,7 @@ frontier, with very few rules. This is necessary, among other reasons,
 because there is no standard property graph data model, and because the
 contestants support a broad mix of programming models, ranging from
 in-process APIs to declarative query.</p>
-<p>In the case of <a href="http://dbpedia.org/resource/Virtuoso_Universal_Server">Virtuoso</a>, we have played with <a href="http://dbpedia.org/resource/SQL">SQL</a> and <a href="http://dbpedia.org/resource/SPARQL">SPARQL …</a></p>
+<p>In the case of <a href="http://dbpedia.org/resource/Virtuoso_Universal_Server">Virtuoso</a>, we have played with <a href="http://dbpedia.org/resource/SQL">SQL</a> and <a href="http://dbpedia.org/resource/SPARQL">SPARQL</a> implementations. For a fixed schema and well known workload, SQL will always win. The reason for this is that …</p>
     
   </div>
 </div>
@@ -872,7 +912,9 @@ more realistic is the fact that the activity volume of the simulated
 Persons is not uniform, but forms spikes. In this blog entry I want to
 explain more in depth how this is actually implemented inside of the
 generator.</p>
-<p>First of all, I start with a few basics of how Datagen …</p>
+<p>First of all, I start with a few basics of how Datagen works internally.
+In Datagen, once the person graph has been created (persons and their
+relationships), …</p>
     
   </div>
 </div>
@@ -898,7 +940,8 @@ different from other synthetic graph generators that can be found in the
 literature: the community structure of the graph.</p>
 <p>When generating synthetic graphs, one must not only pay attention to
 quantitative measures such as the number of nodes and edges, but also to
-other more …</p>
+other more qualitative characteristics such as the degree distribution,
+clustering coefficient. Real graphs, and …</p>
     
   </div>
 </div>
@@ -920,7 +963,8 @@ other more …</p>
   <div class="position-relative mb-4 overflow-hidden">
     
         <p>We are presently working on the SNB BI workload. Andrey Gubichev of TU Munchen and myself are going through the queries and are playing with two SQL based implementations, one on Virtuoso and the other on Hyper.</p>
-<p>As discussed before, the BI workload has the same choke points as TPC-H as a base but pushes further in terms of graphiness and query …</p>
+<p>As discussed before, the BI workload has the same choke points as TPC-H as a base but pushes further in terms of graphiness and query complexity.</p>
+<p>There are obvious marketing applications for a SNB-like dataset.  There  are also security …</p>
     
   </div>
 </div>
@@ -942,7 +986,7 @@ other more …</p>
   </div>
   <div class="position-relative mb-4 overflow-hidden">
     
-        <p>Social Network interaction is amongst the most natural and widely spread activities in the internet society, and it has turned out to be a very useful way for people to socialise at different levels (friendship, professional, hobby, etc.). As such, Social Networks are well understood from the point of view of the data involved and the interaction …</p>
+        <p>Social Network interaction is amongst the most natural and widely spread activities in the internet society, and it has turned out to be a very useful way for people to socialise at different levels (friendship, professional, hobby, etc.). As such, Social Networks are well understood from the point of view of the data involved and the interaction required by their actors. Thus, the concepts of friends of friends, or retweet are well established …</p>
     
   </div>
 </div>
@@ -963,7 +1007,8 @@ other more …</p>
   </div>
   <div class="position-relative mb-4 overflow-hidden">
     
-        <p>As explained in a previous post, the LDBC Social Network Benchmark (LDBC-SNB) has the objective to provide a realistic yet challenging workload, consisting of a social network and a set of queries. Both have to be realistic, easy to understand and easy to generate. This post has the objective to discuss the main features of DATAGEN, the social …</p>
+        <p>As explained in a previous post, the LDBC Social Network Benchmark (LDBC-SNB) has the objective to provide a realistic yet challenging workload, consisting of a social network and a set of queries. Both have to be realistic, easy to understand and easy to generate. This post has the objective to discuss the main features of DATAGEN, the social network data generator provided by LDBC-SNB, which is an evolution of S3G2 <a href="#references">[1]</a>.</p>
+<p>One of the most …</p>
     
   </div>
 </div>
@@ -1051,36 +1096,34 @@ other more …</p>
     
     <div class="media border-bottom border-color pb-3 mb-3">
       <div class="media-body">
+        <a href="https://ldbc.github.io/event/fourteenth-tuc-meeting/">
+          <h5 class="mt-0">Fourteenth TUC Meeting</h5>
+        </a>
+        17 Jun 2021
+      </div>
+      
+      
+    </div>
+    
+    <div class="media border-bottom border-color pb-3 mb-3">
+      <div class="media-body">
+        <a href="https://ldbc.github.io/event/thirteenth-tuc-meeting/">
+          <h5 class="mt-0">Thirteenth TUC Meeting</h5>
+        </a>
+        26 Jun 2020
+      </div>
+      
+      
+    </div>
+    
+    <div class="media border-bottom border-color pb-3 mb-3">
+      <div class="media-body">
         <a href="https://ldbc.github.io/post/speeding-up-ldbc-snb-datagen/">
           <h5 class="mt-0">Speeding Up LDBC SNB Datagen</h5>
         </a>
         12 Jun 2020
       </div>
       
-      
-    </div>
-    
-    <div class="media border-bottom border-color pb-3 mb-3">
-      <div class="media-body">
-        <a href="https://ldbc.github.io/event/twelfth-tuc-meeting-at-sigmod-2019-amsterdam/">
-          <h5 class="mt-0">Twelfth TUC Meeting at SIGMOD 2019 Amsterdam</h5>
-        </a>
-        24 Jun 2021
-      </div>
-      
-      
-    </div>
-    
-    <div class="media border-bottom border-color pb-3 mb-3">
-      <div class="media-body">
-        <a href="https://ldbc.github.io/post/ldbc-is-proud-to-announce-the-new-ldbc-graphalytics-benchmark-draft-specification/">
-          <h5 class="mt-0">LDBC Is Proud to Announce the New LDBC Graphalytics Benchmark Draft Specification</h5>
-        </a>
-        06 Sep 2016
-      </div>
-      
-       
-      <a href="https://ldbc.github.io/post/ldbc-is-proud-to-announce-the-new-ldbc-graphalytics-benchmark-draft-specification/"><img class="mr-3 post-thumb-sm" src="/post/ldbc-is-proud-to-announce-the-new-ldbc-graphalytics-benchmark-draft-specification/image2.JPG" style="object-fit: contain"></a>
       
     </div>
     

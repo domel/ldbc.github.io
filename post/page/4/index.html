@@ -181,7 +181,8 @@
   </div>
   <div class="position-relative mb-4 overflow-hidden">
     
-        <p>The Semantic Publishing Instance Matching Benchmark (SPIMBench) is a novel benchmark for the assessment of instance matching techniques for RDF data with an associated schema. SPIMBench extends the state-of-the art instance matching benchmarks for RDF data in three main aspects: it allows for systematic scalability testing, supports a wider range …</p>
+        <p>The Semantic Publishing Instance Matching Benchmark (SPIMBench) is a novel benchmark for the assessment of instance matching techniques for RDF data with an associated schema. SPIMBench extends the state-of-the art instance matching benchmarks for RDF data in three main aspects: it allows for systematic scalability testing, supports a wider range of test cases including semantics-aware ones, and provides an enriched gold standard.</p>
+<p>The SPIMBench …</p>
     
   </div>
 </div>
@@ -203,7 +204,8 @@
   <div class="position-relative mb-4 overflow-hidden">
     
         <p>We are presently working on the SNB BI workload. Andrey Gubichev of TU Munchen and myself are going through the queries and are playing with two SQL based implementations, one on Virtuoso and the other on Hyper.</p>
-<p>As discussed before, the BI workload has the same choke points as TPC-H as a base but pushes further in terms of graphiness and query …</p>
+<p>As discussed before, the BI workload has the same choke points as TPC-H as a base but pushes further in terms of graphiness and query complexity.</p>
+<p>There are obvious marketing applications for a SNB-like dataset.  There  are also security …</p>
     
   </div>
 </div>
@@ -230,7 +232,8 @@
 typical for metadata-based content publishing, such as the famous
 <a href="http://www.bbc.co.uk/blogs/legacy/bbcinternet/2010/07/bbc_world_cup_2010_dynamic_sem.html">BBC Dynamic Semantic Publishing</a> scenario. Such load combines tens of
 updates per second (e.g. adding metadata about new articles) with even
-higher volume of read requests (SPARQL …</p>
+higher volume of read requests (SPARQL queries collecting recent content
+and data to generate web page on a specific subject, e.g. Frank …</p>
     
   </div>
 </div>
@@ -256,7 +259,8 @@ higher volume of read requests (SPARQL …</p>
 the main features and characteristics of DATAGEN: <em>realism</em>,
 <em>scalability</em>, <em>determinism</em>, <em>usability</em>. DATAGEN is the social network
 data generator used by the three LDBC-SNB workloads, which produces data
-simulating the activity …</p>
+simulating the activity in a social network site during a period of
+time. In this post, we conduct a series of experiments …</p>
     
   </div>
 </div>
@@ -283,7 +287,8 @@ Social Network Interactive Benchmark (LDBC SNB) workload in
 parallel, i.e. the design of the workload driver that will issue the
 queries against the System Under Test (SUT). We go through design
 principles that were implemented for the LDBC SNB workload
-generator/load tester …</p>
+generator/load tester (simply referred to as driver). Software and
+documentation for this driver is available here: …</p>
     
   </div>
 </div>
@@ -309,7 +314,9 @@ generator/load tester …</p>
 platform use case. Thus the data modelling and transaction mix reflects
 the BBC&rsquo;s actual utilization of RDF. But a benchmark is not only a
 condensation of current best practices. The BBC linked data platform is
-an <a href="http://www.ontotext.com/products/ontotext-graphdb-owlim/">Ontotext Graph DB</a> deployment. Graph DB was formerly known …</p>
+an <a href="http://www.ontotext.com/products/ontotext-graphdb-owlim/">Ontotext Graph DB</a> deployment. Graph DB was formerly known as Owlim.</p>
+<p>So, in SPB we wanted to address substantially more complex queries than
+the lookups that …</p>
     
   </div>
 </div>
@@ -512,36 +519,34 @@ an <a href="http://www.ontotext.com/products/ontotext-graphdb-owlim/">Ontotext G
     
     <div class="media border-bottom border-color pb-3 mb-3">
       <div class="media-body">
+        <a href="https://ldbc.github.io/event/fourteenth-tuc-meeting/">
+          <h5 class="mt-0">Fourteenth TUC Meeting</h5>
+        </a>
+        17 Jun 2021
+      </div>
+      
+      
+    </div>
+    
+    <div class="media border-bottom border-color pb-3 mb-3">
+      <div class="media-body">
+        <a href="https://ldbc.github.io/event/thirteenth-tuc-meeting/">
+          <h5 class="mt-0">Thirteenth TUC Meeting</h5>
+        </a>
+        26 Jun 2020
+      </div>
+      
+      
+    </div>
+    
+    <div class="media border-bottom border-color pb-3 mb-3">
+      <div class="media-body">
         <a href="https://ldbc.github.io/post/speeding-up-ldbc-snb-datagen/">
           <h5 class="mt-0">Speeding Up LDBC SNB Datagen</h5>
         </a>
         12 Jun 2020
       </div>
       
-      
-    </div>
-    
-    <div class="media border-bottom border-color pb-3 mb-3">
-      <div class="media-body">
-        <a href="https://ldbc.github.io/event/twelfth-tuc-meeting-at-sigmod-2019-amsterdam/">
-          <h5 class="mt-0">Twelfth TUC Meeting at SIGMOD 2019 Amsterdam</h5>
-        </a>
-        24 Jun 2021
-      </div>
-      
-      
-    </div>
-    
-    <div class="media border-bottom border-color pb-3 mb-3">
-      <div class="media-body">
-        <a href="https://ldbc.github.io/post/ldbc-is-proud-to-announce-the-new-ldbc-graphalytics-benchmark-draft-specification/">
-          <h5 class="mt-0">LDBC Is Proud to Announce the New LDBC Graphalytics Benchmark Draft Specification</h5>
-        </a>
-        06 Sep 2016
-      </div>
-      
-       
-      <a href="https://ldbc.github.io/post/ldbc-is-proud-to-announce-the-new-ldbc-graphalytics-benchmark-draft-specification/"><img class="mr-3 post-thumb-sm" src="/post/ldbc-is-proud-to-announce-the-new-ldbc-graphalytics-benchmark-draft-specification/image2.JPG" style="object-fit: contain"></a>
       
     </div>
     
