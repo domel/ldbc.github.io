@@ -26,8 +26,8 @@ Using these classifications the driver runtime then knows how each
 operation should be executed. These modes, as well as what they mean to
 the driver runtime, are described below.
 
- 
-### Dependency Modes 
+ 
+### Dependency Modes 
 
 
 While executing a workload the driver treats operations differently,
@@ -43,7 +43,7 @@ order. The driver supports a number of different Dependency Modes: None,
 Read Only, Write Only, Read Write. During workload execution, operations
 of each type are treated as follows:
 
- 
+ 
 
 **• None**
 
@@ -99,14 +99,14 @@ operation.DepT
 – After Execution: remove operation from Initiated Operations, add
 operation to Completed Operations
 
- 
+ 
 
 ### Execution Modes
 
- 
+ 
 
 Execution Modes relate to how operations are scheduled, when they are
-executed, and what their failure conditions are. Each operation type in
+executed, and what their failure conditions are. Each operation type in
 a workload definition must be assigned to exactly one Execution Mode.
 The driver supports a number of different Execution Modes: Asynchronous,
 Synchronous, Partially Synchronous. It splits a single workload
@@ -114,7 +114,7 @@ operation stream into multiple streams, zero or more steams per
 Execution Mode. During workload execution, operations from each of these
 streams are treated as follows.
 
- 
+ 
 
 **• Asynchronous**: operations are executed individually, when their Due
 Time arrives.
@@ -133,7 +133,7 @@ operation.DepT)
 – Failure: operation execution starts later than: operation.DueT 
 Tolerated Delay
 
- 
+ 
 
 **• Synchronous**: operations are executed individually, sequentially, in
 blocking manner.
@@ -180,7 +180,7 @@ true (and GCT >= operation.DepT)
 Tolerated Delay E.g., if previousOperation did not complete in time,
 forcing current operation to wait for longer than tolerated- Delay
 
- 
+ 
 
 **• Partially Synchronous** (Windowed Execution, described in Section 3.4
 in more details), groups of operations from the same time window are
@@ -205,9 +205,9 @@ operation.DueT
 – Failure: operation execution starts later than: window.startTime 
 window.duration operation execution does not finish by: window.startTime + window.duration
 
- 
+ 
 ### Tying it back to LDBC SNB
- 
+ 
 
 The driver was designed to execute the workload of LDBC SNB. As
 discussed, the main challenge of running queries in parallel on

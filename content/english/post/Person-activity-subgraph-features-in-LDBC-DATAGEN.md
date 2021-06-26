@@ -14,7 +14,7 @@ tags: [snb, datagen]
 
 When talking about DATAGEN and other graph generators with social
 network characteristics, our attention is typically borrowed by the
-friendship subgraph and/or its structure. However, a social graph is
+friendship subgraph and/or its structure. However, a social graph is
 more than a bunch of people being connected by friendship relations, but
 has a lot more of other things is worth to look at. With a quick view to
 commercial social networks like Facebook, Twitter or Google+, one can

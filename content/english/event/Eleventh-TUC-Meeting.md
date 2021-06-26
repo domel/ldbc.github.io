@@ -22,11 +22,11 @@ LDBC Technical User Community meetings serve to (1) learn about progress
 in the LDBC task forces on graph benchmark development, (2) to give
 feedback on these, and (3) hear about user experiences with graph data
 management technologies or (4) learn about new graph technologies from
-researchers or industry -- LDBC counts Oracle, IBM, Intel, Neo4j and
+researchers or industry -- LDBC counts Oracle, IBM, Intel, Neo4j and
 Huawei among its members.
 
 This TUC meeting will be a one-day event
-preceding the [SIGMOD/PODS 2018](https://sigmod2018.org/) conference in Houston,
+preceding the [SIGMOD/PODS 2018](https://sigmod2018.org/) conference in Houston,
 Texas (not too far away, the whole next week). Note also that at
 SIGMOD/PODS in Houston on Sunday 10, there is a research workshop on
 graph data management technology called [GRADES-NDA
@@ -35,18 +35,18 @@ well, so you might combine travel.
 
 We welcome all users of RDF and Graph technologies to attend. If you are
 interested to attend the event, please, contact Damaris Coll (UPC)
-at <damaris@ac.upc.edu> to register;
+at <damaris@ac.upc.edu> to register;
 
 **=\> registration is free, but required \<=**
 
 In the agenda, there will be talks given by LDBC members and LDBC
 activities, but there will also be room for a number of short 20-minute
-talks by other participants. We are specifically interested in learning
+talks by other participants. We are specifically interested in learning
 about new challenges in graph data management (where benchmarking would
 become useful) and on hearing about actual user stories and scenarios
 that could inspire benchmarks. Further, talks that provide feedback on
 existing benchmark (proposals) are very relevant. But nothing is
-excluded a priori if it is related to graph data management. Talk
+excluded a priori if it is related to graph data management. Talk
 proposals are handled by Peter Boncz (<boncz@cwi.nl>) and Larri
 ([larri\@ac.upc.edu](mailto:larri@ac.upc.ed)). Local
 organizer is Juan Sequeda (<juanfederico@gmail.com>).
@@ -67,17 +67,17 @@ In the TUC meeting there will be:
 -   talks by data management practitioners highlighting graph data
     management challenges and products
 
-The  meeting will start on Friday morning,  with a program from
+The  meeting will start on Friday morning,  with a program from
 10:30-17:00:
 
 -   10:30-10:35 Peter Boncz (CWI) - introduction to the LDBC TUC
     meeting
 
--   [10:35-11:00 Juan Sequeda (Capsenta) - Announcing: gra.fo](attachments/91422722/99090478.pdf)
+-   [10:35-11:00 Juan Sequeda (Capsenta) - Announcing: gra.fo](attachments/91422722/99090478.pdf)
 
 -   11:00-11:30 coffee break
 
--   [11:30-11:55 Gabor Szarnyas (BME) - LDBC benchmarks: three
+-   [11:30-11:55 Gabor Szarnyas (BME) - LDBC benchmarks: three
     aspects of graph processing](attachments/91422722/99090466.pdf)
 
 -   [11:55-12:20 Peter Boncz (CWI) - G-CORE: a composable graph query
@@ -90,46 +90,46 @@ The  meeting will start on Friday morning,  with a program from
 -   [14:00-14:25 Stefan Plantikow (Neo4j) - Composable Graph Queries and
     Multiple Named Graphs in Cypher for Apache Spark](attachments/91422722/99090474.pdf)
 
--   [14:25-14:50 Oskar van Rest (Oracle) - Analyzing Stack
+-   [14:25-14:50 Oskar van Rest (Oracle) - Analyzing Stack
     Exchange data using Property Graph in Oracle](attachments/91422722/99090481.pdf)
 
--   [14:50-15:15 Brad Bebee (Amazon) - Neptune: the AWS graph management service](attachments/91422722/99090485.pdf)
+-   [14:50-15:15 Brad Bebee (Amazon) - Neptune: the AWS graph management service](attachments/91422722/99090485.pdf)
 
 -   15:15-15:40 coffee break
 
--   [15:40-16:05 Bryon Jacob (data.world): Broadening the Semantic Web](attachments/91422722/99811329.pdf)
+-   [15:40-16:05 Bryon Jacob (data.world): Broadening the Semantic Web](attachments/91422722/99811329.pdf)
 
--   [16:05-16:30 Jason Plurad (IBM) - Graph Computing with JanusGraph](attachments/91422722/99287041.pdf)
+-   [16:05-16:30 Jason Plurad (IBM) - Graph Computing with JanusGraph](attachments/91422722/99287041.pdf)
 
 -   [16:30-16:55 Arthur Keen (Cambridge Semantics): AnzoGraph](attachments/91422722/99745793.pdf)
 
--   [16:55-17:20 Molham Aref (relational.ai)](http://relational.ai/)) - Introducing.. [relational.ai](attachments/91422722/99418113.pdf)
+-   [16:55-17:20 Molham Aref (relational.ai)](http://relational.ai/)) - Introducing.. [relational.ai](attachments/91422722/99418113.pdf)
 
 -   18:00 - 20:00 social dinner in Austin (sponsored by Intel Corp.).
-    Coopers BBQ. 217 Congress Ave, Austin, TX 78701
+    Coopers BBQ. 217 Congress Ave, Austin, TX 78701
 
- 
+ 
 ### Location 
 
-The TUC will be held at the [University of Texas at Austin, Department of Computer Science](https://www.cs.utexas.edu/) in the
+The TUC will be held at the [University of Texas at Austin, Department of Computer Science](https://www.cs.utexas.edu/) in the
 [Gates Dell Complex (GDC): 2317 Speedway, Austin TX,
-78712](https://www.google.com/maps/place/The+University+of+Texas:+Department+of+Computer+Science/@30.2860955,-97.737582,18z/data=!4m5!3m4!1s0x0:0x12edecc8226b3241!8m2!3d30.2862279!4d-97.7365348) Room: GDC 6.302
+78712](https://www.google.com/maps/place/The+University+of+Texas:+Department+of+Computer+Science/@30.2860955,-97.737582,18z/data=!4m5!3m4!1s0x0:0x12edecc8226b3241!8m2!3d30.2862279!4d-97.7365348) Room: GDC 6.302
 
-The GDC building has a North and a South building. GDC 6.302 is in the
+The GDC building has a North and a South building. GDC 6.302 is in the
 North building. When you enter the main
-entrance, the North building is on the left and it is served by a pair
-of elevators. You can take or the
-elevator to the 6th floor. Exit the
-elevator on the 6th floor. Turn left, right, left. 
+entrance, the North building is on the left and it is served by a pair
+of elevators. You can take or the
+elevator to the 6th floor. Exit the
+elevator on the 6th floor. Turn left, right, left. 
 
 
 ### Hotel 
 
-The following are hotels walking distance from the UT Austin. 
+The following are hotels walking distance from the UT Austin. 
 
-Hostels 
+Hostels 
 
--   [ Drifter Jack's
+-   [ Drifter Jack's
     Hostel](http://drifterjackshostel.com/)
 
 Motels
@@ -139,7 +139,7 @@ Motels
 -   [Rodeway
     Inn](https://www.google.com/maps/place/Rodeway+Inn+University%2FDowntown/@30.2911871,-97.7368567,14z/data=!4m15!1m6!2m5!1shotels+near+UT+austin!5m3!5m2!1s2018-06-07!2i2!3m7!1s0x8644b581d949d2a9:0xe71e74fe2ba199bd!5m2!1s2018-06-07!2i2!8m2!3d30.2874899!4d-97.7250302)
 
-Hotels 
+Hotels 
 
 -   [Hotel
     Ella](https://www.google.com/maps/place/Hotel+Ella/@30.2837423,-97.7425673,15.1z/data=!4m15!1m6!2m5!1shotels+near+UT+austin!5m3!5m2!1s2018-06-07!2i2!3m7!1s0x8644b576ebc1faf7:0x2a92b14da34198f5!5m2!1s2018-06-07!2i2!8m2!3d30.2830336!4d-97.7455491)
@@ -150,7 +150,7 @@ Hotels 
 
 Downtown Austin has many hotels (mainly high end hotels at \$200+ a
 night) and it will be a \~30 min walk to GDC. A rideshare (Uber/Lyft)
-would cost approximately \$10 USD. 
+would cost approximately \$10 USD. 
 
 ### From Austin to SIGMOD/PODS (Houston) on Saturday June 9
 
@@ -161,7 +161,7 @@ Houston.
 
 One option is to take a [MegaBus that departs from downtown Austin and
 arrives at downtown
-Houston](https://us.megabus.com/journey-planner/journeys?days=1&concessionCount=0&departureDate=2018-06-09&destinationId=318&inboundOtherDisabilityCount=0&inboundPcaCount=0&inboundWheelchairSeated=0&nusCount=0&originId=320&otherDisabilityCount=0&pcaCount=0&totalPassengers=1&wheelchairSeated=0). 
+Houston](https://us.megabus.com/journey-planner/journeys?days=1&concessionCount=0&departureDate=2018-06-09&destinationId=318&inboundOtherDisabilityCount=0&inboundPcaCount=0&inboundWheelchairSeated=0&nusCount=0&originId=320&otherDisabilityCount=0&pcaCount=0&totalPassengers=1&wheelchairSeated=0). 
 
 There is a bus that departs at 12:00PM and arrives at 3:00pm. Cost is
 \$20 (as of April 23).
@@ -177,7 +177,7 @@ state how many open spaces you have
 
 -   \...
 
- 
+ 
 
 ### Attachments: 
 

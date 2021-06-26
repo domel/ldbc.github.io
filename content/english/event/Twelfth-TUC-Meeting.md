@@ -23,20 +23,20 @@ LDBC Technical User Community meetings serve to (1) learn about progress
 in the LDBC task forces on graph benchmarks and graph standards, (2) to
 give feedback on these, and (3) hear about user experiences with graph
 data management technologies or (4) learn about new graph technologies
-from researchers or industry -- LDBC counts Oracle, IBM, Intel, Neo4j,
+from researchers or industry -- LDBC counts Oracle, IBM, Intel, Neo4j,
 TigerGraph and Huawei among its members.
 
 This TUC meeting will be a one-day event on the last Friday
-of **[SIGMOD/PODS 2019](https://sigmod2019.org/)** in
+of **[SIGMOD/PODS 2019](https://sigmod2019.org/)** in
 Amsterdam, The Netherlands, in the conference venue of **[Beurs van Berlage](http://sigmod2019.org/conf_venue)**. The room is the Mendes da Silva kamer. Please check its tips for **[accommodation in Amsterdam](http://sigmod2019.org/accommodation)**.
 
-Note also that at SIGMOD/PODS in Amsterdam on Sunday, June 30, there is a research workshop on graph data management technology called [GRADES-NDA 2019](https://sites.google.com/site/gradesnda2019), that
+Note also that at SIGMOD/PODS in Amsterdam on Sunday, June 30, there is a research workshop on graph data management technology called [GRADES-NDA 2019](https://sites.google.com/site/gradesnda2019), that
 may be of interest to our audience (this generally holds for the whole
 SIGMOD/PODS program, of course).
 
 We welcome all users of RDF and Graph technologies to attend. If you are
 interested to attend the event, please, contact Damaris Coll (UPC)
-at <damaris@ac.upc.edu> to register;
+at <damaris@ac.upc.edu> to register;
 
 **=\> registration is free, but required \<=**
 
@@ -46,12 +46,12 @@ TUC meeting joins the other workshops for coffee and lunch.
 
 In the agenda, there will be talks given by LDBC members and LDBC
 activities, but there will also be room for a number of short 20-minute
-talks by other participants. We are specifically interested in learning
+talks by other participants. We are specifically interested in learning
 about new challenges in graph data management (where benchmarking would
 become useful) and on hearing about actual user stories and scenarios
 that could inspire benchmarks. Further, talks that provide feedback on
 existing benchmark (proposals) are very relevant. But nothing is
-excluded a priori if it is related to graph data management.
+excluded a priori if it is related to graph data management.
 
 **Talk proposals can be sent to Peter Boncz** (boncz@cwi.nl), who is
 also the local organizer. **Please also send your slides to this email
@@ -77,7 +77,7 @@ The morning slot (08:30-10:30) is reserved for an LDBC Board Meeting, to
 which in principle only LDBC directors are invited (that meeting will be
 held in the same room).
 
-The  TUC meeting will start on Friday morning after the morning coffee
+The  TUC meeting will start on Friday morning after the morning coffee
 break of SIGMOD/PODS 2019 (**room: Mendes da Silva kamer**):
 
 08:30-10:30 LDBC Board Meeting (non-public)
@@ -93,7 +93,7 @@ break of SIGMOD/PODS 2019 (**room: Mendes da Silva kamer**):
     Progress report and roadmap](attachments/106233859/112230404.pdf)
     
 
--   [11:45-12:00 Frank McSherry (Materialize): Experiences implementing
+-   [11:45-12:00 Frank McSherry (Materialize): Experiences implementing
     LDBC queries in a dataflow system](attachments/106233859/111706117.pdf)
 
 -   [12:00-12:25 Vasileios Trigonakis (Oracle): Evaluating a new
@@ -117,14 +117,14 @@ break of SIGMOD/PODS 2019 (**room: Mendes da Silva kamer**):
 
 -   [15:15-15:40 Alin Deutsch (TigerGraph): Modern graph analytics support in GSQL, TigerGraph\'s query language](attachments/106233859/111706129.pdf)
 
--   [15:40-16:05 Jan Posiadała (Nodes and Edges, Poland): Executable
+-   [15:40-16:05 Jan Posiadała (Nodes and Edges, Poland): Executable
     semantics of graph query language.](attachments/106233859/112230401.pdf)
 
 16:05-16:30 Coffee
 
 16:30-17:50 Session 3: Graph System Performance
 
--   [16:30-16:50 Per Fuchs (CWI): Fast, scalable WCOJ
+-   [16:30-16:50 Per Fuchs (CWI): Fast, scalable WCOJ
     graph-pattern matching on in-memory graphs in Spark](attachments/106233859/111968258.pdf)
 
 -   [16:50-17:10 Semih Salihoglu (University of Waterloo): Optimizing

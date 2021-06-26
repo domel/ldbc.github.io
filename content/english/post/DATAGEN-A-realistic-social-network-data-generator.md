@@ -59,7 +59,7 @@ plot(ecdf(d2$V1),main="Cummulative distribution #friends per user",
 dev.off()
 ```
 
- 
+ 
 
 ### Data Correlations
 
@@ -75,12 +75,12 @@ _Which are the most popular names of a country?_
 We run the following query on the database built in Virtuoso, which
 computes the distribution of the names of the people for a given
 country. In this query, _'A_country_name'_ is the name of a particular
-country such as  _'Germany', 'Netherlands', or 'Vietnam'_.
+country such as  _'Germany', 'Netherlands', or 'Vietnam'_.
 
 ```sql
 SELECT p_lastname, count (p_lastname) as namecnt 
 FROM person, country 
-WHERE p_placeid = ctry_city   
+WHERE p_placeid = ctry_city   
   and ctry_name = 'A_country_name' 
 GROUP BY p_lastname order by namecnt desc;
 ```
@@ -88,7 +88,7 @@ GROUP BY p_lastname order by namecnt desc;
 As we can see from Figures 2, 3, and 4, the distributions of names in
 Germany, Netherlands and Vietnam are different. A name that is popular
 in Germany such as _Muller_ is not popular in the Netherlands, and it
-even does not appear in the names of people in Vietnam.  We note that
+even does not appear in the names of people in Vietnam.  We note that
 the names' distribution may not be exactly the same as the contemporary
 names' distribution in these countries, since the names resource files
 used in DATAGEN are extracted from Dbpedia, which may contain names from
@@ -112,10 +112,10 @@ of people living in China.
 SELECT top 10 fctry.ctry_name, count (*) from person self, person
 friend, country pctry, knows, country fctry 
 WHERE pctry.ctry_name = 'China' 
-  and self.p_placeid = pctry.ctry_city 
-  and k_person1id = self.p_personid and friend.p_personid = k_person2id 
-  and fctry.ctry_city = friend.p_placeid 
-GROUP BY fctry.ctry_name ORDER BY 2 desc;    
+  and self.p_placeid = pctry.ctry_city 
+  and k_person1id = self.p_personid and friend.p_personid = k_person2id 
+  and fctry.ctry_city = friend.p_placeid 
+GROUP BY fctry.ctry_name ORDER BY 2 desc;    
 ```
 
 As shown in the graph, most of the friends of people living in China are
@@ -135,10 +135,10 @@ studying at a specific university (e.g.,
 SELECT top 10 o2.o_name, count(o2.o_name) from knows, person_university
 p1, person_university p2, organisation o1, organisation o2 
 WHERE 
-  p1.pu_organisationid = o1.o_organisationid 
-  and o1.o_name='Hangzhou_International_School' 
-  and k_person1id = p1.pu_personid and p2.pu_personid = k_person2id 
-  and p2.pu_organisationid = o2.o_organisationid 
+  p1.pu_organisationid = o1.o_organisationid 
+  and o1.o_name='Hangzhou_International_School' 
+  and k_person1id = p1.pu_personid and p2.pu_personid = k_person2id 
+  and p2.pu_organisationid = o2.o_organisationid 
 GROUP BY o2.o_name ORDER BY 2 desc;
 ```
 
@@ -148,7 +148,7 @@ realistic correlation, as people studying at the same university have a
 much higher probability to be friends. Furthermore, top-10 universities
 for the friends of the Hangzhou School students’ are from China, while
 people from foreign universities have small number of friends that study
-in Hangzhou School (See Table 1).  
+in Hangzhou School (See Table 1).  
 
 ![](friends-international-school.png) \
 Figure 6. Top-10 universities where the friends of Hangzhou
@@ -170,7 +170,7 @@ Table 1. Universities where friends of Hangzhou International School
 students are studying at.
 
 In a real social network, data is riddled with many more correlations;
-it is a true data mining task to extract these.  Even though DATAGEN may
+it is a true data mining task to extract these.  Even though DATAGEN may
 not be able to model all the real life data correlations, it can
 generate a dataset that reproduce many of those important
 characteristics found in a real social network, and additionally

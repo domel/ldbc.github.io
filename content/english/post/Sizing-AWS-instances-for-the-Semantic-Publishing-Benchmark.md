@@ -66,10 +66,10 @@ test runs are identical.
 We use two types of instances – M3 and C3 instances. They both provide
 SSD storage for fast I/O performance. The M3 instances are with
 E5-2670v2, 2.50GHz CPU and provide good all-round performance, while the
-C3 instances are compute optimized with stronger CPU – E5-2680v2,
+C3 instances are compute optimized with stronger CPU – E5-2680v2,
 2.80GHz, but have half as much memory as the M3.
 
-We also use a local physical server with dual-CPU – E5-2650v2, 2.60Ghz;
+We also use a local physical server with dual-CPU – E5-2650v2, 2.60Ghz;
 256GB of RAM and RAID-0 array of SSD in order to provide ground for
 interpretation of the performance for the virtualized AWS instances. The
 CPU capacity of the AWS instances is measured in vCPUs (virtual CPU). A

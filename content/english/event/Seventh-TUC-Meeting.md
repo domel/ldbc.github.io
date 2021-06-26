@@ -34,20 +34,20 @@ aspects:
     experiences.
 -   Presentation of the benchmarking results for the different
     benchmarks.
--   Interaction with the new LDBC Board of Directors and the  LDBC
+-   Interaction with the new LDBC Board of Directors and the  LDBC
     organisation
     officials.
 
 We welcome all users of RDF and Graph technologies to attend. If you
 are interested, please, contact Damaris Coll (UPC) at
- <damaris@ac.upc.edu>; in order to notify IBM security in advance,
+ <damaris@ac.upc.edu>; in order to notify IBM security in advance,
 registration requests need to be in by Nov
 1.
 
 In the agenda, there will be talks given by LDBC members and LDBC
 activities, but there will also be room for a number of short 20-minute
 talks by
-other participants. We
+other participants. We
 are specifically interested in learning about new challenges in graph
 data management (where benchmarking would become useful) and on hearing
 about actual user stories and scenarios that could inspire benchmarks.
@@ -87,9 +87,9 @@ Pey)
 L. Larriba-Pey)
 
 9:30 Arnau Prat (DAMA-UPC). Social Network Benchmark, Interactive
-workload, 
+workload, 
 
-10:00 Orri Erling (OpenLink Software). Social Network Benchmark,
+10:00 Orri Erling (OpenLink Software). Social Network Benchmark,
 Business Intelligence workload.
 
 10:30-11:00 Coffee
@@ -100,11 +100,11 @@ Yinglong
 Xia)
 
 11:00 Alexandru Iosup (TU
-Delft). Social
+Delft). Social
 Network Benchmark, Analytics
 workload.
 
-11:30 Claudio Gutierrez (U Chile). Query Language Task Force status. 
+11:30 Claudio Gutierrez (U Chile). Query Language Task Force status. 
 
 12:00 Atanas Kiryakov (Ontotext). Semantic Publishing Benchmark status
 
@@ -112,12 +112,12 @@ workload.
 
 14:00 - 16:00 Technologies and benchmarking (chair Hassan Chafi)
 
-14:00 Molham Aref (LogicBlox). Graph Data Management with LogicBlox
+14:00 Molham Aref (LogicBlox). Graph Data Management with LogicBlox
 
-14:30 Peter Kogge (Notre Dame). BFS as in Graph500 on today\'s
+14:30 Peter Kogge (Notre Dame). BFS as in Graph500 on today\'s
 architectures
 
-15:00 Ching-Yung Lin (IBM). Status and Demo of IBM System
+15:00 Ching-Yung Lin (IBM). Status and Demo of IBM System
 G
 
 15:30-16:00 Coffee break
@@ -127,10 +127,10 @@ G
 16:00 Kavitha Srinivas (IBM). SQLGraph: An efficient relational based
 property graph store
 
-16:30  David Ediger (GeorgiaTech). STINGER 
+16:30  David Ediger (GeorgiaTech). STINGER 
 
-17:00 Gary King (Franz Inc.). AllegroGraph\'s SPARQL implementation
-with Social Network Analytics
+17:00 Gary King (Franz Inc.). AllegroGraph\'s SPARQL implementation
+with Social Network Analytics
 abilities using Magic
 Properties
 
@@ -138,13 +138,13 @@ Properties
 Analytics
 
 
-18:00 Reihaneh Amini (Wright State University) Linked Data in the
+18:00 Reihaneh Amini (Wright State University) Linked Data in the
 GeoLink
 Usecase
 
 19:00 Social dinner at X
 
- 
+ 
 
 **Tuesday 10th November
 2015**
@@ -154,7 +154,7 @@ Iosup)
 
 9:00 Philip Rathle (Neo). On openCypher
 
-9:20 Morteza Shahriari (University of Florida). Multi-modal
+9:20 Morteza Shahriari (University of Florida). Multi-modal
 Probabilistic Knowledge Base for Remote Sensing Species Identification
 
 9:50 Peter Kogge (Notre Dame). Challenging problems with Lexis Nexis
@@ -169,21 +169,21 @@ synthetic data generation
 11:00 - 12:45 Applications and use of Graph Technologies (chair Atanas
 Kiryakov)
 
-11:00 [Hassan Chafi (Oracle). Status and characteristics of
+11:00 [Hassan Chafi (Oracle). Status and characteristics of
 PGQL]
 
-11:20 David Guedalia (TAGIIO). Multi-tier distributed mobile
+11:20 David Guedalia (TAGIIO). Multi-tier distributed mobile
 applications and how they split their workload,
 
-11:40 [ ]Guojing Cong (IBM). Algorithmic technique and
+11:40 [ ]Guojing Cong (IBM). Algorithmic technique and
 architectural support for fast graph analysis
 
-12:00 Josep Lluis Larriba-Pey. Conclusions for the TUC meeting and
+12:00 Josep Lluis Larriba-Pey. Conclusions for the TUC meeting and
 future perspectives
 
 12:30 - 14:00 Lunch break
 
-14:00  LDBC Board of Directors
+14:00  LDBC Board of Directors
 
 ### Logistics
 
@@ -213,14 +213,14 @@ The meeting will take place in the *Auditorium* on November 9th, and in Meeting 
 
 ###### **Maps and situation** 
 
-You are highly suggested to **rent a car** for your convenience, since
+You are highly suggested to **rent a car** for your convenience, since
 the public transportation system does not cover this area very well.
 Besides, there is no hotel within walkable distance to the IBM T.J.
 Watson Research Center. Feel free to find carpool with other attendees.
 You may find car rental and hotels through
 [www.orbitz.com](http://www.orbitz.com),
-or [www.expedia.com.](http://www.expedia.com.) Feel free
-to email <yxia@us.ibm.com> for any questions.
+or [www.expedia.com.](http://www.expedia.com.) Feel free
+to email <yxia@us.ibm.com> for any questions.
 
 ![](attachments/6882333/15926330.png)
 
@@ -308,8 +308,8 @@ Please note that there is no decent hotel within walkable distance to
 IBM T.J. Watson Research Center. For your convenience, if you can drive,
 you may want to **rent a car**. You may find car rentals and hotels
 through [www.orbitz.com](http://www.orbitz.com),
-or [www.expedia.com.](http://www.expedia.com.) Feel free
-to email <yxia@us.ibm.com> for any questions.
+or [www.expedia.com.](http://www.expedia.com.) Feel free
+to email <yxia@us.ibm.com> for any questions.
 
 Here are a few hotels just FYI. You can find plenty hotels at various
 prices in the White Plains area or so using the above websites, or
@@ -342,7 +342,7 @@ Contact: +1 914 6312200
 \
 [http://marriott.com/NYCWE](http://marriott.com/NYCWE])
 
-**HYATT house White Plains **
+**HYATT house White Plains **
 
 101 Corporate Park Dr, White Plains, NY 10604, United States
 \

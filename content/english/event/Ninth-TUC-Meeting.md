@@ -22,10 +22,10 @@ tags: ["TUC Meeting"]
 LDBC is pleased to announce its Ninth Technical User Community (TUC) meeting. 
 
 This will be a two-day event
-at [SAP Headquarters](https://websmp201.sap-ag.de/~sapidp/011000358700001204882013E.pdf) in
+at [SAP Headquarters](https://websmp201.sap-ag.de/~sapidp/011000358700001204882013E.pdf) in
 Walldorf, Germany on February 9+10, 2017
 
- This will be the third TUC meeting after the finalisation of the LDBC
+ This will be the third TUC meeting after the finalisation of the LDBC
 FP7 EC funded project. The event will basically set the following
 aspects:
 
@@ -36,19 +36,19 @@ aspects:
     benchmarks.
 -   Interaction with the new LDBC Board of Directors and the LDBC
     organisation
-    officials. 
+    officials. 
 
 We welcome all users of RDF and Graph technologies to attend. If you are
 interested, please, contact Damaris Coll (UPC) at <damaris@ac.upc.edu>;
 
 In the agenda, there will be talks given by LDBC members and LDBC
 activities, but there will also be room for a number of short 20-minute
-talks by other participants. We are specifically interested in learning
+talks by other participants. We are specifically interested in learning
 about new challenges in graph data management (where benchmarking would
 become useful) and on hearing about actual user stories and scenarios
 that could inspire benchmarks. Further, talks that provide feedback on
 existing benchmark (proposals) are very relevant. But nothing is
-excluded a priori if it is related to graph data management. Talk
+excluded a priori if it is related to graph data management. Talk
 proposals can be forwarded to Damaris as well and will be handled by
 Peter Boncz (<boncz@cwi.nl>) and Larri
 ([larri\@ac.upc.edu](mailto:larri@ac.upc.ed){.external-link}).
@@ -59,7 +59,7 @@ to also attend and possibly present. LDBC is always looking to expand
 its circle of participants in TUCs meeting, its graph technology users
 contacts but also eventually its membership base.
 
- 
+ 
 
 ### Agenda
 
@@ -72,10 +72,10 @@ In the TUC meeting there will be
     management challenges
 -   selected scientific talks on graph data management technology
 
-The  meeting will start on Thursday morning,  with a program from
+The  meeting will start on Thursday morning,  with a program from
 09:00-18:00, interrupted by a lunch break.
 
-Thursday evening (19:00-21:00) there will be a **social dinner** in
+Thursday evening (19:00-21:00) there will be a **social dinner** in
 Heidelberg.
 
 Friday morning the event resumes from 9:00-12:00. In the afternoon,
@@ -87,7 +87,7 @@ same venue.
 ![](attachments/59277315/75235334.png)
 
 [walldorf17.pdf](attachments/59277315/76021761.pdf)\
-**Address: Hauptstraße 217, 69117 Heidelberg**\
+**Address: Hauptstraße 217, 69117 Heidelberg**\
 **Time: 19:00 / 7pm**
 
 (See attachments at the bottom of the page)
@@ -142,7 +142,7 @@ recommended restaurants as well as sightseeing spots.
 ##### **Venue** 
 
 The TUC meeting will be held in the [SAP
-Headquarters](https://websmp201.sap-ag.de/~sapidp/011000358700001204882013E.pdf) at
+Headquarters](https://websmp201.sap-ag.de/~sapidp/011000358700001204882013E.pdf) at
 the SAP Guesthouse Kalipeh (<https://www.kalipeh.com>). The address is:
 
 **WDF 44 / SAP Guesthouse Kalipeh\

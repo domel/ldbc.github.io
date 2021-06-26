@@ -14,60 +14,60 @@ tags: [Semantic Publishing, SPB, SPARQL 1.1, synthetic data generator]
 
 
 The Semantic Publishing Benchmark (SPB), developed in the context of
-LDBC, aims at measuring the read and write operations that can be
-performed in the context of a media organisation. It simulates the
+LDBC, aims at measuring the read and write operations that can be
+performed in the context of a media organisation. It simulates the
 management and consumption of RDF metadata describing media assets and
-creative works. The scenario is based around a media organisation that
-maintains RDF descriptions of its catalogue of creative works. These
+creative works. The scenario is based around a media organisation that
+maintains RDF descriptions of its catalogue of creative works. These
 descriptions use a set of ontologies proposed by BBC that define
-numerous properties for content; they contain asll RDFS schema
+numerous properties for content; they contain asll RDFS schema
 constructs and certain OWL ones.
 
 The benchmark proposes a data generator that uses the ontologies
-provided by BBC and reference datasets (again provided by BBC) to
+provided by BBC and reference datasets (again provided by BBC) to
 produce a set of valid instances; it works with a predefined set of
-distributions derived from the reference datasets. In addition to these
+distributions derived from the reference datasets. In addition to these
 distributions, the data generator also models:
 
 * clustering of creative works around certain entities from the
 reference datasets (e.g. the association of an entity with creative
-works would decay exponentially in time)
-* correlations between entities -  there will be creative works about
+works would decay exponentially in time)
+* correlations between entities -  there will be creative works about
 two entities for a certain period in time, that way a history of
-interactions is also modelled (e.g. J. Biden and B. Obama are tagged in
+interactions is also modelled (e.g. J. Biden and B. Obama are tagged in
 creative works for a continuous period in time)
 
 The driver proposed by the benchmark measures the performance of CRUD
-operations of a SPARQL endpoint by starting a number of concurrently
+operations of a SPARQL endpoint by starting a number of concurrently
 running editorial and aggregation agents. The former executes a series
-of insert, update and delete operations, whereas the latter a set of
+of insert, update and delete operations, whereas the latter a set of
 construct, describe, and select queries on a SPARQL endpoint. The
-benchmark can access all SPARQL endpoints that support the SPARQL 1.1
-protocol. Tests have been run on OWLIM and Virtuoso. Attempts were also
+benchmark can access all SPARQL endpoints that support the SPARQL 1.1
+protocol. Tests have been run on OWLIM and Virtuoso. Attempts were also
 made for Stardog.
 
 Currently, the benchmark offers two workloads: a base version that
-consists of a mix of nine queries of different complexity that consider
+consists of a mix of nine queries of different complexity that consider
 nearly all the features of SPARQL 1.1 query language including sorting,
-subqueries, limit,  regular expressions and grouping. The queries aim at
-checking different choke points relevant to query optimisation such as:
+subqueries, limit,  regular expressions and grouping. The queries aim at
+checking different choke points relevant to query optimisation such as:
 
 * join ordering based on cardinality constraints - expressed by the
 different kinds of properties defined in the schema
 * subselects that aggregate the query results that
-the optimiser should recognise and evaluate first
-* optional and nested optional clauses where the optimiser is called to
+the optimiser should recognise and evaluate first
+* optional and nested optional clauses where the optimiser is called to
 produce a plan where the execution of the optional triple patterns
-is performed last
+is performed last
 * reasoning along the RDFS constructs (subclass, subproperty
-hierarchies, functional, object and transitive properties etc.)
+hierarchies, functional, object and transitive properties etc.)
 * unions to be executed in parallel
 * optionals that contain filter expressions that should be executed
-as early as possible in order to eliminate intermediate results
-* ordering where the optimiser could consider the possibility to choose
+as early as possible in order to eliminate intermediate results
+* ordering where the optimiser could consider the possibility to choose
 query plan(s) that facilitate the ordering of results
 * handling of geo-spatial predicates
-* full-text search optimisation
+* full-text search optimisation
 * asynchronous execution of the aggregate sub-queries
 * use of distinct to choose the optimal query plan
 

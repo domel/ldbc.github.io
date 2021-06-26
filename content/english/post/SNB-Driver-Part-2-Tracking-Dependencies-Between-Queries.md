@@ -13,44 +13,44 @@ tags: [snb, Driver]
 ---
 
 
-The [SNB Driver part 1](../snb-driver-part-1) post
+The [SNB Driver part 1](../snb-driver-part-1) post
 introduced, broadly, the challenges faced when developing a workload
 driver for the LDBC SNB benchmark. In this blog we'll drill down deeper
 into the details of what it means to execute "dependent queries" during
-benchmark execution, and how this is handled in the driver. First of
+benchmark execution, and how this is handled in the driver. First of
 all, as many driver-specific terms will be used, below is a listing of
-their definitions. There is no need to read them in detail, it is just
+their definitions. There is no need to read them in detail, it is just
 there to serve as a point of reference.
 
 ### Definitions
 
 * *Simulation Time (ST)*: notion of time created by data generator. All
-time stamps in the generated data set are in simulation time
+time stamps in the generated data set are in simulation time
 * *Real Time (RT)*: wall clock time
 * *Time Compression Ratio*: function that maps simulation time to real
-time, e.g., an offset in combination with a compression ratio. It is a
+time, e.g., an offset in combination with a compression ratio. It is a
 static value, set in driver configuration. Real Time Ratio is reported
-along with benchmark results, allowing others to recreate the same
+along with benchmark results, allowing others to recreate the same
 benchmark
 * *Operation*: read and/or write
 * *Dependencies*: operations in this set introduce dependencies in the
-workload. That is, for every operation in this set there exists at least
+workload. That is, for every operation in this set there exists at least
 one other operation (in Dependents) that can not be executed until this
 operation has been processed
 * *Dependents*: operations in this set are dependent on at least one
-other operation (in Dependencies) in the workload
+other operation (in Dependencies) in the workload
 * *Due Time (DueT)*: point in simulation time at which the execution of
 an operation should be initiated.
 * *Dependent Time (DepT)*: in addition to Due Time, every operation in
 Dependents also has a Dependent Time, which corresponds to the Due Time
-of the operation that it depends on. Dependent Time is always before Due
+of the operation that it depends on. Dependent Time is always before Due
 Time. For operations with multiple dependencies Dependent Time is the
-maximum Due Time of all the operations it depends on.
+maximum Due Time of all the operations it depends on.
 * *Safe Time (SafeT)*: time duration.
 ** when two operations have a necessary order in time (i.e., dependency)
 there is at least a SafeT interval between them
 ** SafeT is the minimum duration between the Dependency Time and Due
-Time of any operations in Dependents
+Time of any operations in Dependents
 * ​*Operation Stream*: sequence of operations ordered by Due Time
 (dependent operations must separated by at least SafeT)
 * *Initiated Operations*: operations that have started executing but not
@@ -59,34 +59,34 @@ yet finished
 which there are no uncompleted operationsLocal Completion Time =
 min(min(Initiated Operations), max(Completed Operations))
 * *Global Completion Time (GCT)*: minimum completion time of all
-drivers. Once GCT has advanced to the Dependent Time of some operation
+drivers. Once GCT has advanced to the Dependent Time of some operation
 that operation is safe to execute, i.e., the operations it depends
-on have all completed executing. Global Completion Time = min(Local
+on have all completed executing. Global Completion Time = min(Local
 Completion Time)​
 * *Execution Window (Window)*: a timespan within which all operations
 can be safely executed
 ** All operations satisfying window.startTime <= operation.DueT <
 window.endTime may be executed
 ** Within a window no restrictions on operation ordering or operation
-execution time are enforced, driver has a freedom of choosing an
+execution time are enforced, driver has a freedom of choosing an
 arbitrary scheduling strategy inside the window
 ** To ensure that execution order respects dependencies between
-operations, window size is bounded by SafeT, such that: 0 <
+operations, window size is bounded by SafeT, such that: 0 <
 window.duration <= SafeT
 ** Window duration is fixed, per operation stream; this is to simplify
-scheduling and make benchmark runs repeatable
+scheduling and make benchmark runs repeatable
 ** Before any operations within a window can start executing it is
-required that: GCT >= window.startTime - (SafeT - window.duration)
+required that: GCT >= window.startTime - (SafeT - window.duration)
 ** All operations within a window must initiate and complete between
-window start and end times: window.startTime <= operation.initiate <
-window.endTime and window.startTime <= operation.complete <
+window start and end times: window.startTime <= operation.initiate <
+window.endTime and window.startTime <= operation.complete <
 window.endTime
 * *Dependency Mode*: defines dependencies, constraints on operation
 execution order
 * *Execution Mode*: defines how the runtime should execute operations of
 a given type
 
- 
+ 
 
 ### Tracking Dependencies
 
@@ -104,23 +104,23 @@ monotonically increasing variable called Global Completion Time (GCT).
 
 Logically, every time the driver (via a database connector) begins
 execution of an operation from Dependencies that operation is added to
-Initiated Operations: 
+Initiated Operations: 
 
-  - the set of operations that have started executing but not yet
-finished. 
+  - the set of operations that have started executing but not yet
+finished. 
 
 Then, upon completion, the operation is removed from Initiated
-Operations and added to Completed Operations: 
+Operations and added to Completed Operations: 
 
-  - the set of operations that have started and finished executing. 
+  - the set of operations that have started and finished executing. 
 
 Using these sets, each driver process maintains its own view of GCT in
 the following way. Local progress is monitored and managed using a
-variable called Local Completion Time (LCT): 
+variable called Local Completion Time (LCT): 
 
- - the point in time behind which there are no uncompleted operations.
+ - the point in time behind which there are no uncompleted operations.
 No operation in Initiated Operations has a lower or equal Due Time and
-no operation in Completed Operations has an equal or higher Due Time. 
+no operation in Completed Operations has an equal or higher Due Time. 
 
 LCT is periodically sent to all other driver processes, which all then
 (locally) set their view of GCT to the minimum LCT of all driver
@@ -145,9 +145,9 @@ safely executed, which would result in the undesirable outcome of every
 operation missing its Due Time. 
 The required information is which particular operation in Dependencies
 does any operation in Dependents depend on. More specifically, the Due
-Time of this operation. This is referred to as Dependent Time: 
+Time of this operation. This is referred to as Dependent Time: 
 
- - in addition to Due Time, every operation in Dependents also has
+ - in addition to Due Time, every operation in Dependents also has
 (read: must have) a Dependent Time, which corresponds to the latest Due
 Time of all the operations it depends on. Once GCT has advanced beyond
 the Dependent Time of an operation that operation is safe to execute.
@@ -156,9 +156,9 @@ Using these three mechanisms (Due Time, GCT, and Dependent Time) the
 driver is able to execute operations, while ensuring their dependencies
 are satisfied beforehand.
 
- 
+ 
 ### Scalable execution in the Presence of Dependencies
- 
+ 
 
 The mechanisms introduced in part 1 guarantee that dependency
 constraints are not violated, but in doing so they unavoidably introduce
@@ -166,9 +166,9 @@ overhead of communication/synchronization between driver
 threads/processes. To minimize the negative effects that synchronization
 has on scalability an additional Execution Mode was introduced (more
 about Execution Modes will be discussed shortly): Windowed
-Execution. Windowed Execution has two design goals: 
+Execution. Windowed Execution has two design goals: 
 
-a) make the generated load less 'bursty' 
+a) make the generated load less 'bursty' 
 
 b) allow the driver to 'scale', so when the driver is given more
 resources (CPUs, servers, etc.) it is able to generate more load.
@@ -233,7 +233,7 @@ Window size 5 (on the right) has better resolution, especially for the
 ![image](window-scheduling.png) \
 Figure 1. Window scheduling
 
- 
+ 
 
 This design also trades a small amount of repeatability for scalability:
 as there are no timing or ordering guarantees within a window, two

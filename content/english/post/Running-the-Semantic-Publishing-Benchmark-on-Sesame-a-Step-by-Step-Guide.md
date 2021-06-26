@@ -20,7 +20,7 @@ development process of GraphDB for [finding performance issues](../using-ldbc-sp
 
 In this post we provide a step-by-step guide on how to run SPB using the
 [Sesame](http://rdf4j.org/) RDF data store on a fresh
-install of [Ubuntu Server 14.04.1](http://releases.ubuntu.com/14.04.1/). The scenario is easy to adapt to other RDF triple
+install of [Ubuntu Server 14.04.1](http://releases.ubuntu.com/14.04.1/). The scenario is easy to adapt to other RDF triple
 stores which support the Sesame Framework used for querying and
 analyzing RDF data.
 
@@ -32,7 +32,7 @@ pieces of software up and running:
 
 * Git
 * Apache Ant 1.8 or higher
-* OpenJDK 6 or Oracle JDK 6 or higher
+* OpenJDK 6 or Oracle JDK 6 or higher
 * Apache Tomcat 7 or higher
 
 If you already have these components installed on your machine you can
@@ -53,9 +53,9 @@ extracted in a location of choice.
 
 After a successful installation of Apache Tomcat you should be able to
 get the default splash page _“It works”_ when you open your web browser
-and enter the following address:  http://<your_ip_address>:8080
+and enter the following address:  http://<your_ip_address>:8080
 
- 
+ 
 
 ### Installing Sesame
 
@@ -81,13 +81,13 @@ From _openrdf-sesame-2.7.14/war_ you can do it with command:
 ```bash
 cp openrdf-*.war <tomcat_install>/webapps
 ```
- 
+ 
 Sesame applications write and store configuration files in a single
 directory and the tomcat server needs permissions for it. You can find
 more information about this directory
 http://rdf4j.org/sesame/2.7/docs/articles/datadir.docbook?view[[.underline]#here#].
 
-By default the configuration directory is: _/usr/share/tomcat7/.aduna_
+By default the configuration directory is: _/usr/share/tomcat7/.aduna_
 
 Create the directory:
 
@@ -108,7 +108,7 @@ sudo chmod o+rwx /usr/share/tomcat7/.aduna
 ```
 
 Now when you go
-to: http://<your_ip_address>:8080/openrdf-workbench/repositories
+to: http://<your_ip_address>:8080/openrdf-workbench/repositories
 
 You should get a screen like this:
 
@@ -125,7 +125,7 @@ A detailed documentation is located here:
 https://github.com/ldbc/ldbc_spb_bm/blob/master/doc/LDBC_SPB_v0.3.pdf
 
 
-SPB offers many configuration options which control various features of
+SPB offers many configuration options which control various features of
 the benchmark e.g.:
 
 * query mixes
@@ -162,8 +162,8 @@ driver, but for the purpose of this step-by-step guide, configuration
 shown above is sufficient.
 
 Depending on generated dataset size a bigger java heap size may be
-required for the Sesame Store. You can change it by adding following
-arguments to Tomcat's startup files e.g. in _catalina.sh_:
+required for the Sesame Store. You can change it by adding following
+arguments to Tomcat's startup files e.g. in _catalina.sh_:
 
 ```bash
 export JAVA_OPTS="-d64 -Xmx4G"
@@ -174,9 +174,9 @@ Store, similar to the following screenshot:
 
 ![image](02-Sesame-create-repo.png)
 
-Then we need to point the benchmark test driver to the SPARQL endpoint of that repository. This is done in _ldbc_spb_bm/dist/test.properties_ file.
+Then we need to point the benchmark test driver to the SPARQL endpoint of that repository. This is done in _ldbc_spb_bm/dist/test.properties_ file.
 
-The default value of _datasetSize_ in the properties is set to be 10M,
+The default value of _datasetSize_ in the properties is set to be 10M,
 but for the purpose of this guide we will decrease it to 1M.
 
 You need to change
@@ -213,7 +213,7 @@ runBenchmarkOnlineReplicationAndBackup=false
 checkConformance=false
 ```
 
- 
+ 
 
 To run the benchmark execute the following:
 
@@ -226,7 +226,7 @@ When the initial run has finished, we should have a 1M dataset loaded
 into the repository and a set of files with query substitution
 parameters.
 
- 
+ 
 
 Next we we will measure the performance of Sesame Data Store by changing
 some configuration properties:
@@ -250,10 +250,10 @@ checkConformance=false
 ```
 
 After the benchmark test run has finished result files are saved in
-folder: _dist/logs_
+folder: _dist/logs_
 
 There you will find three types of results: the result summary of the
-benchmark run (_semantic_publishing_benchmark_results.log),_ brief
+benchmark run (_semantic_publishing_benchmark_results.log),_ brief
 results and detailed results.
 
 In _semantic_publishing_benchmark_results.log_ you will find the results

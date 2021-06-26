@@ -22,18 +22,18 @@ The LDBC consortium are pleased to announce its fifth Technical User
 Community (TUC) meeting.
 
 This will be a one-day event at the National Hellenic Research Institute
- in Athens, Greece on **Friday November 14, 2014**.
+ in Athens, Greece on **Friday November 14, 2014**.
 
 ### Agenda 
 
 10:30 - 11:00 Coffee
 Break
 
-11:00 - 11:10 Peter Boncz (VUA)  Welcome & LDBC project status update
+11:00 - 11:10 Peter Boncz (VUA)  Welcome & LDBC project status update
 ([Presentation](attachments/5996808/6979841.pptx))
 
 11:10 - 11:25 Venelin Kotsev (ONTO) Semantic Publishing Benchmark:Short
-Presentation of SPB and  Status,\
+Presentation of SPB and  Status,\
 <!-- TODO -->
 Feedback & Roadmap for SPB & OWLIM
 ([Presentation](attachments/5996808/6979839.pdf))
@@ -42,45 +42,45 @@ Feedback & Roadmap for SPB & OWLIM
 Virtuoso ([Presentation](attachments/5996808/6979828.pdf))
 
 11:30 - 11:45 Alex Averbuch (NEO) Social Network Benchmark: Short
-Presentation of SNB and  Status,\
-                      Feedback & Roadmap for SNB & Neo4J
+Presentation of SNB and  Status,\
+                      Feedback & Roadmap for SNB & Neo4J
 ([Presentation](attachments/5996808/6979830.pdf))
 
 11:45 - 12:00 Orri Erling (OGL) Status, Feedback & Roadmap for SNB &
 Virtuoso ([Presentation](attachments/5996808/6979829.pdf))
 
 12:00 - 12:20 Arnau Prat (UPC) & Andrey Gubichev Status,\
-                      Feedback & Roadmap for SNB Interactive &
-Sparksee ([Presentation](attachments/5996808/6979836.pdf) ) and Business
-Intelligence  ([Presentation](attachments/5996808/6979837.pdf))
+                      Feedback & Roadmap for SNB Interactive &
+Sparksee ([Presentation](attachments/5996808/6979836.pdf) ) and Business
+Intelligence  ([Presentation](attachments/5996808/6979837.pdf))
 
-12:20 - 12:40 Tomer Sagi,  \"Experience with SNB and TitanDB at
-HP\" ([Presentation](attachments/5996808/6979838.pptx) )
+12:20 - 12:40 Tomer Sagi,  \"Experience with SNB and TitanDB at
+HP\" ([Presentation](attachments/5996808/6979838.pptx) )
 
-12:40 - 13:00 Jakob Nelson,   \"graphbench.org on the SNB datagen\"
+12:40 - 13:00 Jakob Nelson,   \"graphbench.org on the SNB datagen\"
 
 13:00 - 14:30 Lunch Break\@Byzantine & Christian Museum
 ([link](http://www.byzantinemuseum.gr/en/))
 
 14:30 - 14:50 Olaf Hartig, \"Integrating the Property Graph and RDF data
 models\" ([Presentation](attachments/5996808/6979831.pdf))\
-                     
- Documents: [arxiv/1409.3288](http://arxiv.org/abs/1409.3288), [arxiv/1406.3399](http://arxiv.org/abs/1406.3399)\
-      
+                     
+ Documents: [arxiv/1409.3288](http://arxiv.org/abs/1409.3288), [arxiv/1406.3399](http://arxiv.org/abs/1406.3399)\
+      
 
 14:50 - 15:10 Maria-Esther Vidal and Maribel Acosta,\
-                      \"Challenges to be addressed during Benchmarking
+                      \"Challenges to be addressed during Benchmarking
 SPARQL Federated Engines\"
 ([Presentation](attachments/5996808/6979842.pdf))
 
 15:10 - 15:30 Evaggelia Pitoura, \"Historical Queries on Graphs\"
 ([Presentation](attachments/5996808/6979835.pdf))
 
-15:30 - 16:00 Coffe Break
+15:30 - 16:00 Coffe Break
 
 16:00 - 16:20 Manolis Terrovitis, Giannis Liagos, George
 Papastefanatos,\
-                      \"Efficient Identification of Implicit Facts in
+                      \"Efficient Identification of Implicit Facts in
 Incomplete OWL2-EL Knowledge Bases\"
 ([Presentation](attachments/5996808/6979843.pdf))
 
@@ -88,10 +88,10 @@ Incomplete OWL2-EL Knowledge Bases\"
 Management System\" ([Presentation](attachments/5996808/6979832.pdf))
 
 16:40 - 17:00 Giorgos Kollias, Yannis Smaragdakis,
-\"Benchmarking \@LogicBlox\"
+\"Benchmarking \@LogicBlox\"
 ([Presentation](attachments/5996808/6979840.pdf))
 
-17:00 - 17:15 Hassan Chafi, \"Oracle Labs Graph Strategy\" 
+17:00 - 17:15 Hassan Chafi, \"Oracle Labs Graph Strategy\" 
 
 17:15 - 17:25 Yinglong Xia, \"Property Graphs for Industry Solution at
 IBM\"
@@ -100,7 +100,7 @@ IBM\"
 17:25 - 17:30 Arthur Keen, \"Short Introduction to SPARQLcity\"
 (tentative)
 
-***20:30  Dinner @ Konservokouti [(link)](https://plus.google.com/114240752029716758955/about?gl=gr&hl=en)*** 
+***20:30  Dinner @ Konservokouti [(link)](https://plus.google.com/114240752029716758955/about?gl=gr&hl=en)*** 
 
 ***Get a Taxi, and go to Ippokratous 148, Athens, Neapoli Exarheion*** 
 
@@ -117,17 +117,17 @@ Foundation](http://www.eie.gr/index-en.html) located in
 
 The National Hellenic Research Foundation (NHRF) is located in the
 Athens\' city centre.Various
-hotels are
+hotels are
 found
-in walking
+in walking
 distance from the meeting\'s
-location. We
+location. We
 provide here a list of these hotels, but you
-can find
+can find
 much more from booking
-websites. When
+websites. When
 looking for hotels close to NHRF you can use as close by Points of
-Interest Byzantine
+Interest Byzantine
 Museum, War Museum, National
 Gallery.
 
@@ -140,9 +140,9 @@ stars)\
 stars)
 
 5\.
-**Delice** [http://www.booking.com/hotel/gr/appartements-delice.en.html](http://www.booking.com/hotel/gr/appartements-delice.nl.html)}
+**Delice** [http://www.booking.com/hotel/gr/appartements-delice.en.html](http://www.booking.com/hotel/gr/appartements-delice.nl.html)}
 
- 
+ 
 
 #### Travel 
 
@@ -150,15 +150,15 @@ Athens, Greece's capital city, is easily accessible by air. Travelers on
 flights to Athens will land at Athens Eleftherios Venizelos
 International Airport.\
 To arrive in the city center, you can take the metro from the airport
-(Line #3) and stop at either stop Evangelismos  (ΕΥΑΓΓΕΛΙΣΜΟΣ) or at
+(Line #3) and stop at either stop Evangelismos  (ΕΥΑΓΓΕΛΙΣΜΟΣ) or at
 Syntagma (ΣΥΝΤΑΓΜΑ) stations. You can also take express Bus X95 and stop
-again at either Evangelismos  (ΕΥΑΓΓΕΛΙΣΜΟΣ) or at Syntagma (ΣΥΝΤΑΓΜΑ)
+again at either Evangelismos  (ΕΥΑΓΓΕΛΙΣΜΟΣ) or at Syntagma (ΣΥΝΤΑΓΜΑ)
 stations (the latter is the terminus for the bus).\
 You can also take a taxi from the airport that runs on a fixed price for
 the city center (45 euros). More information on how to move around in
 Athens from the airport can be found here: [http://www.aia.gr/traveler/](http://www.aia.gr/traveler/)
 
- 
+ 
 ### Attachments
 
 ![](images/icons/bullet_blue.gif){width="8" height="8"}
