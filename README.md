@@ -81,3 +81,4 @@ hugo server
 ```
 
 Note that you will need to clone the theme submodule in the _themes_ folder to get the site 100% up and running.
+
