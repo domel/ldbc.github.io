@@ -82,3 +82,7 @@ hugo server
 
 Note that you will need to clone the theme submodule in the _themes_ folder to get the site 100% up and running.
 
+## Add aliases to support old URLs
+
+In case a blog post URL has been shared previously that does not match the current one, a page alias can be added to the heading (aka metadata part) of the markdown file. See example [here](https://raw.githubusercontent.com/ldbc/ldbc.github.io/main/content/english/benchmarks/snb.md).
+
