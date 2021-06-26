@@ -183,7 +183,7 @@ choose an <a href="../making-semantic-publishing-execution-rules">appropriate qu
 development process of GraphDB for <a href="../using-ldbc-spb-to-find-owlim-performance-issues">finding performance issues</a>.</p>
 <p>In this post we provide a step-by-step guide on how to run SPB using the
 <a href="http://rdf4j.org/">Sesame</a> RDF data store on a fresh
-install of <a href="http://releases.ubuntu.com/14.04.1/">Ubuntu Server 14.04.1</a>. The scenario is easy to adapt to other RDF triple
+install of <a href="http://releases.ubuntu.com/14.04.1/">Ubuntu Server 14.04.1</a>. The scenario is easy to adapt to other RDF triple
 stores which support the Sesame Framework used for querying and
 analyzing RDF data.</p>
 <h3 id="prerequisites">Prerequisites</h3>
@@ -193,7 +193,7 @@ pieces of software up and running:</p>
 <ul>
 <li>Git</li>
 <li>Apache Ant 1.8 or higher</li>
-<li>OpenJDK 6 or Oracle JDK 6 or higher</li>
+<li>OpenJDK 6 or Oracle JDK 6 or higher</li>
 <li>Apache Tomcat 7 or higher</li>
 </ul>
 <p>If you already have these components installed on your machine you can
@@ -208,8 +208,7 @@ sudo apt-get install tomcat7
 extracted in a location of choice.</p>
 <p>After a successful installation of Apache Tomcat you should be able to
 get the default splash page <em>“It works”</em> when you open your web browser
-and enter the following address:  http://&lt;your_ip_address&gt;:8080</p>
-<p> </p>
+and enter the following address:  http://&lt;your_ip_address&gt;:8080</p>
 <h3 id="installing-sesame">Installing Sesame</h3>
 <p>We will use current Sesame version 2.7.14. You can download it <a href="http://sourceforge.net/projects/sesame/files/Sesame%202/">here</a> or run following command:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">wget <span style="color:#ae81ff">\\</span>
@@ -221,12 +220,11 @@ and enter the following address:  http://&lt;your_ip_address&gt;:8080</p>
 <em>openrdf-sesame-2.7.14/war</em> to <em>/var/lib/tomcat7/webapps</em></p>
 <p>From <em>openrdf-sesame-2.7.14/war</em> you can do it with command:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">cp openrdf-*.war &lt;tomcat_install&gt;/webapps
-</code></pre></div><p> 
-Sesame applications write and store configuration files in a single
+</code></pre></div><p>Sesame applications write and store configuration files in a single
 directory and the tomcat server needs permissions for it. You can find
 more information about this directory
 <a href="http://rdf4j.org/sesame/2.7/docs/articles/datadir.docbook?view%5B%5B.underline%5D#here#%5D">http://rdf4j.org/sesame/2.7/docs/articles/datadir.docbook?view[[.underline]#here#]</a>.</p>
-<p>By default the configuration directory is: <em>/usr/share/tomcat7/.aduna</em></p>
+<p>By default the configuration directory is: <em>/usr/share/tomcat7/.aduna</em></p>
 <p>Create the directory:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo mkdir /usr/share/tomcat7/.aduna
 </code></pre></div><p>Then change the ownership:</p>
@@ -234,7 +232,7 @@ more information about this directory
 </code></pre></div><p>And finally you should give the necessary permissions:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo chmod o+rwx /usr/share/tomcat7/.aduna
 </code></pre></div><p>Now when you go
-to: http://&lt;your_ip_address&gt;:8080/openrdf-workbench/repositories</p>
+to: http://&lt;your_ip_address&gt;:8080/openrdf-workbench/repositories</p>
 <p>You should get a screen like this:</p>
 <p><img src="01-Sesame-repo-list.png" alt="image"></p>
 <h3 id="setup-spb">Setup SPB</h3>
@@ -242,7 +240,7 @@ to: http://&lt;your_ip_address&gt;:8080/openrdf-workbench/repositories</p>
 <p><a href="https://github.com/ldbc/ldbc_spb_bm">https://github.com/ldbc/ldbc_spb_bm</a></p>
 <p>A detailed documentation is located here:</p>
 <p><a href="https://github.com/ldbc/ldbc_spb_bm/blob/master/doc/LDBC_SPB_v0.3.pdf">https://github.com/ldbc/ldbc_spb_bm/blob/master/doc/LDBC_SPB_v0.3.pdf</a></p>
-<p>SPB offers many configuration options which control various features of
+<p>SPB offers many configuration options which control various features of
 the benchmark e.g.:</p>
 <ul>
 <li>query mixes</li>
@@ -265,14 +263,14 @@ run with it.</p>
 driver, but for the purpose of this step-by-step guide, configuration
 shown above is sufficient.</p>
 <p>Depending on generated dataset size a bigger java heap size may be
-required for the Sesame Store. You can change it by adding following
-arguments to Tomcat&rsquo;s startup files e.g. in <em>catalina.sh</em>:</p>
+required for the Sesame Store. You can change it by adding following
+arguments to Tomcat&rsquo;s startup files e.g. in <em>catalina.sh</em>:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">export JAVA_OPTS<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;-d64 -Xmx4G&#34;</span>
 </code></pre></div><p>To run the Benchmark you need to create a repository in the Sesame Data
 Store, similar to the following screenshot:</p>
 <p><img src="02-Sesame-create-repo.png" alt="image"></p>
-<p>Then we need to point the benchmark test driver to the SPARQL endpoint of that repository. This is done in <em>ldbc_spb_bm/dist/test.properties</em> file.</p>
-<p>The default value of <em>datasetSize</em> in the properties is set to be 10M,
+<p>Then we need to point the benchmark test driver to the SPARQL endpoint of that repository. This is done in <em>ldbc_spb_bm/dist/test.properties</em> file.</p>
+<p>The default value of <em>datasetSize</em> in the properties is set to be 10M,
 but for the purpose of this guide we will decrease it to 1M.</p>
 <p>You need to change</p>
 <pre><code>datasetSize=1000000
@@ -295,14 +293,12 @@ warmUp=false
 runBenchmark=false
 runBenchmarkOnlineReplicationAndBackup=false
 checkConformance=false
-</code></pre><p> </p>
-<p>To run the benchmark execute the following:</p>
+</code></pre><p>To run the benchmark execute the following:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">java -jar semantic_publishing_benchmark-basic-standard.jar
 test.properties
 </code></pre></div><p>When the initial run has finished, we should have a 1M dataset loaded
 into the repository and a set of files with query substitution
 parameters.</p>
-<p> </p>
 <p>Next we we will measure the performance of Sesame Data Store by changing
 some configuration properties:</p>
 <pre><code>#Benchmark Configuration Parameters
@@ -321,9 +317,9 @@ runBenchmark=true
 runBenchmarkOnlineReplicationAndBackup=false
 checkConformance=false
 </code></pre><p>After the benchmark test run has finished result files are saved in
-folder: <em>dist/logs</em></p>
+folder: <em>dist/logs</em></p>
 <p>There you will find three types of results: the result summary of the
-benchmark run (<em>semantic_publishing_benchmark_results.log),</em> brief
+benchmark run (<em>semantic_publishing_benchmark_results.log),</em> brief
 results and detailed results.</p>
 <p>In <em>semantic_publishing_benchmark_results.log</em> you will find the results
 distributed per seconds. They should be similar to the listing bellow:</p>
@@ -364,12 +360,12 @@ check their performance implications.</p>
         <div class="mb-3">
           <h5 class="d-inline-block mr-3">Tags:</h5>
           <ul class="list-inline d-inline-block">
-            SEMANTIC PUBLISHING BENCHMARK
-            , SESAME
-            , RDF
-            , TUTORIAL
-            , GUIDE
-            , HOW-TO
+            <a href="/tags/semantic-publishing-benchmark">SEMANTIC PUBLISHING BENCHMARK</a>
+            , <a href="/tags/sesame">SESAME</a>
+            , <a href="/tags/rdf">RDF</a>
+            , <a href="/tags/tutorial">TUTORIAL</a>
+            , <a href="/tags/guide">GUIDE</a>
+            , <a href="/tags/how-to">HOW-TO</a>
             
           </ul>
         </div>

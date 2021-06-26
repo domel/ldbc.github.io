@@ -184,7 +184,7 @@ performance of our RDF Store when a new release is about to come out.</p>
 <p>Initially we’ve decided to fix some of the benchmark parameters :</p>
 <ul>
 <li>the dataset size - 50 million triples (LDBC-SPB50)</li>
-<li>benchmark warmup and benchmark run times - 60s and 600s respectively. </li>
+<li>benchmark warmup and benchmark run times - 60s and 600s respectively.</li>
 <li>maximum number of Editorail Agents (E) : 2 (threads that will execute
 INSERT/UPDATE operations)</li>
 <li>maximum number of Aggregation Agents (A) : 16 (threads that will
@@ -200,33 +200,33 @@ Intel Xeon CPUs, 8 cores each, 256 GB of memory and SSD storage, running
 Linux. Another piece of hardware we’ve tested with is a regular desktop
 machine with Intel i7, 32 GB of memory and HDD storage. During our
 experiments we have allowed a deviation in results of 5% to 10% because
-of the multi-threaded nature of the benchmark driver. </p>
+of the multi-threaded nature of the benchmark driver.</p>
 <p>We’ve also decided to produce some benchmark results on Amazon’s EC2
-Instances and compare with the results we’ve had so far. Starting with
+Instances and compare with the results we’ve had so far. Starting with
 m3.2xlarge instance (8 vCPUs, 30GB of memory and 2x80GB SSD storage) on
 a 50M dataset we’ve achieved more than 50% lower results than ones on
-our own hardware. On a largrer Amazon Instance c3.4xlarge (16 vCPUs,
+our own hardware. On a largrer Amazon Instance c3.4xlarge (16 vCPUs,
 30GB of memory and doubled SSD storage) we’ve achieved the same
 performance in terms of aggregation operations and even worse
 performance in terms for editorial operations, which we give to the fact
 that Amazon instances are not providing consistent performance all the
 time.</p>
 <p>Following two charts are showing how OWLIM performs on different
-hardware and with different configurations. They also give an indication
+hardware and with different configurations. They also give an indication
 of Amazon’s capabilities compared to the results achieved on a
 bare-metal hardware.</p>
 <p><img src="16-2-Performance.png" alt="image"></p>
 <p>Figure 1 : OWLIM Performance : 2 amazon instances and 2 local machines.
 16 aggregation and 2 editorial agents running simultaneously.
-Aggregation and editorial operations displayed here should  be
+Aggregation and editorial operations displayed here should  be
 considered independently, i.e. even though editorial opeartions graph
 shows higher results on Amazon m3.2xlarge instance, values are
 normalized and are referring to corresponding type of operation.</p>
 <p><img src="8-0-Performance.png" alt="image"></p>
 <p>Figure 2 : OWLIM Performance : 2 amazon instances and 2 local machines.
-8 aggregation running simultaneously. Read-only mode.</p>
+8 aggregation running simultaneously. Read-only mode.</p>
 <p>Another thing that we’re using LDBC-SPB for is to monitor load
-performance speeds. Loading of generated data can be done either
+performance speeds. Loading of generated data can be done either
 manually by creating some sort of a script (CURL), or by the benchmark
 driver itself which will execute a standard POST request against a
 provided SPARQL endpoint. Benchmark&rsquo;s data generator can be configured
@@ -238,7 +238,7 @@ measured “officially“ by LDBC-SPB (although time for loading the data is
 reported), but its good thing to have when comparing RDF Stores.</p>
 <p>An additional and interesting feature of the SPB is the test for
 conformance to OWL2-RL rule-set. It is a part of the LDBC-SPB benchmark
-and that phase is called <em>checkConformance</em>. The phase is run
+and that phase is called <em>checkConformance</em>. The phase is run
 independently of the benchmark phase itself. It requires no data
 generation or loading except the initial set of ontologies. It tests RDF
 store’s capabilities for conformance to the rules in OWL2-RL rule-set by
@@ -251,10 +251,10 @@ failed which is very useful for regression testing.</p>
         <div class="mb-3">
           <h5 class="d-inline-block mr-3">Tags:</h5>
           <ul class="list-inline d-inline-block">
-            LDBC
-            , SPB
-            , SEMANTIC PUBLISHING BENCHMARK
-            , RDF BENCHMARK
+            <a href="/tags/ldbc">LDBC</a>
+            , <a href="/tags/spb">SPB</a>
+            , <a href="/tags/semantic-publishing-benchmark">SEMANTIC PUBLISHING BENCHMARK</a>
+            , <a href="/tags/rdf-benchmark">RDF BENCHMARK</a>
             
           </ul>
         </div>

@@ -187,8 +187,7 @@ assign a Dependency Mode and an Execution Mode to every operation type.
 Using these classifications the driver runtime then knows how each
 operation should be executed. These modes, as well as what they mean to
 the driver runtime, are described below.</p>
-<p> </p>
-<h3 id="dependency-modes">Dependency Modes </h3>
+<h3 id="dependency-modes">Dependency Modes</h3>
 <p>While executing a workload the driver treats operations differently,
 depending on their Dependency Mode. In the previous section operations
 were categorized by whether or not they are in the sets Dependencies
@@ -200,7 +199,6 @@ Dependency modes define dependencies, constraints on operation execution
 order. The driver supports a number of different Dependency Modes: None,
 Read Only, Write Only, Read Write. During workload execution, operations
 of each type are treated as follows:</p>
-<p> </p>
 <p><strong>• None</strong></p>
 <p>Depended On (NO): operations do not introduce dependencies with other
 operations (i.e., the correct execution of no other operation depends on
@@ -238,18 +236,15 @@ requires that certain operations have completed execution)</p>
 operation.DepT</p>
 <p>– After Execution: remove operation from Initiated Operations, add
 operation to Completed Operations</p>
-<p> </p>
 <h3 id="execution-modes">Execution Modes</h3>
-<p> </p>
 <p>Execution Modes relate to how operations are scheduled, when they are
-executed, and what their failure conditions are. Each operation type in
+executed, and what their failure conditions are. Each operation type in
 a workload definition must be assigned to exactly one Execution Mode.
 The driver supports a number of different Execution Modes: Asynchronous,
 Synchronous, Partially Synchronous. It splits a single workload
 operation stream into multiple streams, zero or more steams per
 Execution Mode. During workload execution, operations from each of these
 streams are treated as follows.</p>
-<p> </p>
 <p><strong>• Asynchronous</strong>: operations are executed individually, when their Due
 Time arrives.</p>
 <p>Motivation: This is the default execution mode, it executes operations
@@ -261,7 +256,6 @@ operation.DepT)</p>
 <p>– Max Execution Time: unbounded</p>
 <p>– Failure: operation execution starts later than: operation.DueT
 Tolerated Delay</p>
-<p> </p>
 <p><strong>• Synchronous</strong>: operations are executed individually, sequentially, in
 blocking manner.</p>
 <p>Motivation: Some dependencies are difficult to capture efficiently with
@@ -299,7 +293,6 @@ true (and GCT &gt;= operation.DepT)</p>
 <p>– Failure: operation execution starts later than: operation.DueT
 Tolerated Delay E.g., if previousOperation did not complete in time,
 forcing current operation to wait for longer than tolerated- Delay</p>
-<p> </p>
 <p><strong>• Partially Synchronous</strong> (Windowed Execution, described in Section 3.4
 in more details), groups of operations from the same time window are
 executed together</p>
@@ -315,9 +308,7 @@ therefore ordering, may be modified</p>
 operation.DueT</p>
 <p>– Failure: operation execution starts later than: window.startTime
 window.duration operation execution does not finish by: window.startTime + window.duration</p>
-<p> </p>
 <h3 id="tying-it-back-to-ldbc-snb">Tying it back to LDBC SNB</h3>
-<p> </p>
 <p>The driver was designed to execute the workload of LDBC SNB. As
 discussed, the main challenge of running queries in parallel on
 graph-shaped data stem from dependencies introduced by the graph
@@ -365,8 +356,8 @@ the so-called flash-mob effects in the posting/replying workload).</p>
         <div class="mb-3">
           <h5 class="d-inline-block mr-3">Tags:</h5>
           <ul class="list-inline d-inline-block">
-            SNB
-            , DRIVER
+            <a href="/tags/snb">SNB</a>
+            , <a href="/tags/driver">DRIVER</a>
             
           </ul>
         </div>

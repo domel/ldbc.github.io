@@ -557,29 +557,29 @@ will amend when tuning the distributions. &lt;a href=&#34;#fnref:5&#34; class=&#
 in the LDBC task forces on graph benchmarks and graph standards, (2) to
 give feedback on these, and (3) hear about user experiences with graph
 data management technologies or (4) learn about new graph technologies
-from researchers or industry &amp;ndash; LDBC counts Oracle, IBM, Intel, Neo4j,
+from researchers or industry &amp;ndash; LDBC counts Oracle, IBM, Intel, Neo4j,
 TigerGraph and Huawei among its members.&lt;/p&gt;
 &lt;p&gt;This TUC meeting will be a one-day event on the last Friday
-of &lt;strong&gt;&lt;a href=&#34;https://sigmod2019.org/&#34;&gt;SIGMOD/PODS 2019&lt;/a&gt;&lt;/strong&gt; in
+of &lt;strong&gt;&lt;a href=&#34;https://sigmod2019.org/&#34;&gt;SIGMOD/PODS 2019&lt;/a&gt;&lt;/strong&gt; in
 Amsterdam, The Netherlands, in the conference venue of &lt;strong&gt;&lt;a href=&#34;http://sigmod2019.org/conf_venue&#34;&gt;Beurs van Berlage&lt;/a&gt;&lt;/strong&gt;. The room is the Mendes da Silva kamer. Please check its tips for &lt;strong&gt;&lt;a href=&#34;http://sigmod2019.org/accommodation&#34;&gt;accommodation in Amsterdam&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Note also that at SIGMOD/PODS in Amsterdam on Sunday, June 30, there is a research workshop on graph data management technology called &lt;a href=&#34;https://sites.google.com/site/gradesnda2019&#34;&gt;GRADES-NDA 2019&lt;/a&gt;, that
+&lt;p&gt;Note also that at SIGMOD/PODS in Amsterdam on Sunday, June 30, there is a research workshop on graph data management technology called &lt;a href=&#34;https://sites.google.com/site/gradesnda2019&#34;&gt;GRADES-NDA 2019&lt;/a&gt;, that
 may be of interest to our audience (this generally holds for the whole
 SIGMOD/PODS program, of course).&lt;/p&gt;
 &lt;p&gt;We welcome all users of RDF and Graph technologies to attend. If you are
 interested to attend the event, please, contact Damaris Coll (UPC)
-at &lt;a href=&#34;mailto:damaris@ac.upc.edu&#34;&gt;damaris@ac.upc.edu&lt;/a&gt; to register;&lt;/p&gt;
+at &lt;a href=&#34;mailto:damaris@ac.upc.edu&#34;&gt;damaris@ac.upc.edu&lt;/a&gt; to register;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;=&amp;gt; registration is free, but required &amp;lt;=&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;You need to be registered in order to get into the SIGMOD/PODS venue.
 Friday, July 5, is the final, workshop, day of SIGMOD/PODS, and the LDBC
 TUC meeting joins the other workshops for coffee and lunch.&lt;/p&gt;
 &lt;p&gt;In the agenda, there will be talks given by LDBC members and LDBC
 activities, but there will also be room for a number of short 20-minute
-talks by other participants. We are specifically interested in learning
+talks by other participants. We are specifically interested in learning
 about new challenges in graph data management (where benchmarking would
 become useful) and on hearing about actual user stories and scenarios
 that could inspire benchmarks. Further, talks that provide feedback on
 existing benchmark (proposals) are very relevant. But nothing is
-excluded a priori if it is related to graph data management.&lt;/p&gt;
+excluded a priori if it is related to graph data management.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Talk proposals can be sent to Peter Boncz&lt;/strong&gt; (&lt;a href=&#34;mailto:boncz@cwi.nl&#34;&gt;boncz@cwi.nl&lt;/a&gt;), who is
 also the local organizer. &lt;strong&gt;Please also send your slides to this email
 for archiving on this site.&lt;/strong&gt;&lt;/p&gt;
@@ -600,7 +600,7 @@ management challenges and products&lt;/li&gt;
 &lt;p&gt;The morning slot (08:30-10:30) is reserved for an LDBC Board Meeting, to
 which in principle only LDBC directors are invited (that meeting will be
 held in the same room).&lt;/p&gt;
-&lt;p&gt;The  TUC meeting will start on Friday morning after the morning coffee
+&lt;p&gt;The  TUC meeting will start on Friday morning after the morning coffee
 break of SIGMOD/PODS 2019 (&lt;strong&gt;room: Mendes da Silva kamer&lt;/strong&gt;):&lt;/p&gt;
 &lt;p&gt;08:30-10:30 LDBC Board Meeting (non-public)&lt;/p&gt;
 &lt;p&gt;10:30-11:00 Coffee&lt;/p&gt;
@@ -615,7 +615,7 @@ Waudby (Newcastle University): Business Intelligence workload:
 Progress report and roadmap&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;attachments/106233859/111706117.pdf&#34;&gt;11:45-12:00 Frank McSherry (Materialize): Experiences implementing
+&lt;p&gt;&lt;a href=&#34;attachments/106233859/111706117.pdf&#34;&gt;11:45-12:00 Frank McSherry (Materialize): Experiences implementing
 LDBC queries in a dataflow system&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -646,7 +646,7 @@ for the SQL standard&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;attachments/106233859/111706129.pdf&#34;&gt;15:15-15:40 Alin Deutsch (TigerGraph): Modern graph analytics support in GSQL, TigerGraph&#39;s query language&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;attachments/106233859/112230401.pdf&#34;&gt;15:40-16:05 Jan Posiadała (Nodes and Edges, Poland): Executable
+&lt;p&gt;&lt;a href=&#34;attachments/106233859/112230401.pdf&#34;&gt;15:40-16:05 Jan Posiadała (Nodes and Edges, Poland): Executable
 semantics of graph query language.&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -654,7 +654,7 @@ semantics of graph query language.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;16:30-17:50 Session 3: Graph System Performance&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;attachments/106233859/111968258.pdf&#34;&gt;16:30-16:50 Per Fuchs (CWI): Fast, scalable WCOJ
+&lt;p&gt;&lt;a href=&#34;attachments/106233859/111968258.pdf&#34;&gt;16:30-16:50 Per Fuchs (CWI): Fast, scalable WCOJ
 graph-pattern matching on in-memory graphs in Spark&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -736,10 +736,10 @@ Language.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
 in the LDBC task forces on graph benchmark development, (2) to give
 feedback on these, and (3) hear about user experiences with graph data
 management technologies or (4) learn about new graph technologies from
-researchers or industry &amp;ndash; LDBC counts Oracle, IBM, Intel, Neo4j and
+researchers or industry &amp;ndash; LDBC counts Oracle, IBM, Intel, Neo4j and
 Huawei among its members.&lt;/p&gt;
 &lt;p&gt;This TUC meeting will be a one-day event
-preceding the &lt;a href=&#34;https://sigmod2018.org/&#34;&gt;SIGMOD/PODS 2018&lt;/a&gt; conference in Houston,
+preceding the &lt;a href=&#34;https://sigmod2018.org/&#34;&gt;SIGMOD/PODS 2018&lt;/a&gt; conference in Houston,
 Texas (not too far away, the whole next week). Note also that at
 SIGMOD/PODS in Houston on Sunday 10, there is a research workshop on
 graph data management technology called &lt;a href=&#34;https://sites.google.com/site/gradesnda2018/&#34;&gt;GRADES-NDA
@@ -747,16 +747,16 @@ graph data management technology called &lt;a href=&#34;https://sites.google.com
 well, so you might combine travel.&lt;/p&gt;
 &lt;p&gt;We welcome all users of RDF and Graph technologies to attend. If you are
 interested to attend the event, please, contact Damaris Coll (UPC)
-at &lt;a href=&#34;mailto:damaris@ac.upc.edu&#34;&gt;damaris@ac.upc.edu&lt;/a&gt; to register;&lt;/p&gt;
+at &lt;a href=&#34;mailto:damaris@ac.upc.edu&#34;&gt;damaris@ac.upc.edu&lt;/a&gt; to register;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;=&amp;gt; registration is free, but required &amp;lt;=&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In the agenda, there will be talks given by LDBC members and LDBC
 activities, but there will also be room for a number of short 20-minute
-talks by other participants. We are specifically interested in learning
+talks by other participants. We are specifically interested in learning
 about new challenges in graph data management (where benchmarking would
 become useful) and on hearing about actual user stories and scenarios
 that could inspire benchmarks. Further, talks that provide feedback on
 existing benchmark (proposals) are very relevant. But nothing is
-excluded a priori if it is related to graph data management. Talk
+excluded a priori if it is related to graph data management. Talk
 proposals are handled by Peter Boncz (&lt;a href=&#34;mailto:boncz@cwi.nl&#34;&gt;boncz@cwi.nl&lt;/a&gt;) and Larri
 (&lt;a href=&#34;mailto:larri@ac.upc.ed&#34;&gt;larri@ac.upc.edu&lt;/a&gt;). Local
 organizer is Juan Sequeda (&lt;a href=&#34;mailto:juanfederico@gmail.com&#34;&gt;juanfederico@gmail.com&lt;/a&gt;).&lt;/p&gt;
@@ -774,7 +774,7 @@ graphalytics workloads.&lt;/li&gt;
 &lt;li&gt;talks by data management practitioners highlighting graph data
 management challenges and products&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The  meeting will start on Friday morning,  with a program from
+&lt;p&gt;The  meeting will start on Friday morning,  with a program from
 10:30-17:00:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -782,13 +782,13 @@ management challenges and products&lt;/li&gt;
 meeting&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;attachments/91422722/99090478.pdf&#34;&gt;10:35-11:00 Juan Sequeda (Capsenta) - Announcing: gra.fo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/91422722/99090478.pdf&#34;&gt;10:35-11:00 Juan Sequeda (Capsenta) - Announcing: gra.fo&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;11:00-11:30 coffee break&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;attachments/91422722/99090466.pdf&#34;&gt;11:30-11:55 Gabor Szarnyas (BME) - LDBC benchmarks: three
+&lt;p&gt;&lt;a href=&#34;attachments/91422722/99090466.pdf&#34;&gt;11:30-11:55 Gabor Szarnyas (BME) - LDBC benchmarks: three
 aspects of graph processing&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -806,48 +806,47 @@ language by LDBC&lt;/a&gt;&lt;/p&gt;
 Multiple Named Graphs in Cypher for Apache Spark&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;attachments/91422722/99090481.pdf&#34;&gt;14:25-14:50 Oskar van Rest (Oracle) - Analyzing Stack
+&lt;p&gt;&lt;a href=&#34;attachments/91422722/99090481.pdf&#34;&gt;14:25-14:50 Oskar van Rest (Oracle) - Analyzing Stack
 Exchange data using Property Graph in Oracle&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;attachments/91422722/99090485.pdf&#34;&gt;14:50-15:15 Brad Bebee (Amazon) - Neptune: the AWS graph management service&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/91422722/99090485.pdf&#34;&gt;14:50-15:15 Brad Bebee (Amazon) - Neptune: the AWS graph management service&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;15:15-15:40 coffee break&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;attachments/91422722/99811329.pdf&#34;&gt;15:40-16:05 Bryon Jacob (data.world): Broadening the Semantic Web&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/91422722/99811329.pdf&#34;&gt;15:40-16:05 Bryon Jacob (data.world): Broadening the Semantic Web&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;attachments/91422722/99287041.pdf&#34;&gt;16:05-16:30 Jason Plurad (IBM) - Graph Computing with JanusGraph&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;attachments/91422722/99287041.pdf&#34;&gt;16:05-16:30 Jason Plurad (IBM) - Graph Computing with JanusGraph&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;attachments/91422722/99745793.pdf&#34;&gt;16:30-16:55 Arthur Keen (Cambridge Semantics): AnzoGraph&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://relational.ai/&#34;&gt;16:55-17:20 Molham Aref (relational.ai)&lt;/a&gt;) - Introducing.. &lt;a href=&#34;attachments/91422722/99418113.pdf&#34;&gt;relational.ai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://relational.ai/&#34;&gt;16:55-17:20 Molham Aref (relational.ai)&lt;/a&gt;) - Introducing.. &lt;a href=&#34;attachments/91422722/99418113.pdf&#34;&gt;relational.ai&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;18:00 - 20:00 social dinner in Austin (sponsored by Intel Corp.).
-Coopers BBQ. 217 Congress Ave, Austin, TX 78701&lt;/p&gt;
+Coopers BBQ. 217 Congress Ave, Austin, TX 78701&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;h3 id=&#34;location&#34;&gt;Location&lt;/h3&gt;
-&lt;p&gt;The TUC will be held at the &lt;a href=&#34;https://www.cs.utexas.edu/&#34;&gt;University of Texas at Austin, Department of Computer Science&lt;/a&gt; in the
+&lt;p&gt;The TUC will be held at the &lt;a href=&#34;https://www.cs.utexas.edu/&#34;&gt;University of Texas at Austin, Department of Computer Science&lt;/a&gt; in the
 &lt;a href=&#34;https://www.google.com/maps/place/The+University+of+Texas:+Department+of+Computer+Science/@30.2860955,-97.737582,18z/data=!4m5!3m4!1s0x0:0x12edecc8226b3241!8m2!3d30.2862279!4d-97.7365348&#34;&gt;Gates Dell Complex (GDC): 2317 Speedway, Austin TX,
-78712&lt;/a&gt; Room: GDC 6.302&lt;/p&gt;
-&lt;p&gt;The GDC building has a North and a South building. GDC 6.302 is in the
+78712&lt;/a&gt; Room: GDC 6.302&lt;/p&gt;
+&lt;p&gt;The GDC building has a North and a South building. GDC 6.302 is in the
 North building. When you enter the main
-entrance, the North building is on the left and it is served by a pair
-of elevators. You can take or the
-elevator to the 6th floor. Exit the
-elevator on the 6th floor. Turn left, right, left. &lt;/p&gt;
+entrance, the North building is on the left and it is served by a pair
+of elevators. You can take or the
+elevator to the 6th floor. Exit the
+elevator on the 6th floor. Turn left, right, left.&lt;/p&gt;
 &lt;h3 id=&#34;hotel&#34;&gt;Hotel&lt;/h3&gt;
-&lt;p&gt;The following are hotels walking distance from the UT Austin. &lt;/p&gt;
-&lt;p&gt;Hostels &lt;/p&gt;
+&lt;p&gt;The following are hotels walking distance from the UT Austin.&lt;/p&gt;
+&lt;p&gt;Hostels&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://drifterjackshostel.com/&#34;&gt; Drifter Jack&amp;rsquo;s
+&lt;li&gt;&lt;a href=&#34;http://drifterjackshostel.com/&#34;&gt; Drifter Jack&amp;rsquo;s
 Hostel&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Motels&lt;/p&gt;
@@ -857,7 +856,7 @@ Inn&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.google.com/maps/place/Rodeway+Inn+University%2FDowntown/@30.2911871,-97.7368567,14z/data=!4m15!1m6!2m5!1shotels+near+UT+austin!5m3!5m2!1s2018-06-07!2i2!3m7!1s0x8644b581d949d2a9:0xe71e74fe2ba199bd!5m2!1s2018-06-07!2i2!8m2!3d30.2874899!4d-97.7250302&#34;&gt;Rodeway
 Inn&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Hotels &lt;/p&gt;
+&lt;p&gt;Hotels&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.google.com/maps/place/Hotel+Ella/@30.2837423,-97.7425673,15.1z/data=!4m15!1m6!2m5!1shotels+near+UT+austin!5m3!5m2!1s2018-06-07!2i2!3m7!1s0x8644b576ebc1faf7:0x2a92b14da34198f5!5m2!1s2018-06-07!2i2!8m2!3d30.2830336!4d-97.7455491&#34;&gt;Hotel
 Ella&lt;/a&gt;&lt;/li&gt;
@@ -868,14 +867,14 @@ Inn&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Downtown Austin has many hotels (mainly high end hotels at $200+ a
 night) and it will be a ~30 min walk to GDC. A rideshare (Uber/Lyft)
-would cost approximately $10 USD. &lt;/p&gt;
+would cost approximately $10 USD.&lt;/p&gt;
 &lt;h3 id=&#34;from-austin-to-sigmodpods-houston-on-saturday-june-9&#34;&gt;From Austin to SIGMOD/PODS (Houston) on Saturday June 9&lt;/h3&gt;
 &lt;p&gt;Many of the attendees will be going to SIGMOD/PODS which will be held in
 Houston.&lt;/p&gt;
 &lt;h4 id=&#34;bus&#34;&gt;Bus&lt;/h4&gt;
 &lt;p&gt;One option is to take a &lt;a href=&#34;https://us.megabus.com/journey-planner/journeys?days=1&amp;amp;concessionCount=0&amp;amp;departureDate=2018-06-09&amp;amp;destinationId=318&amp;amp;inboundOtherDisabilityCount=0&amp;amp;inboundPcaCount=0&amp;amp;inboundWheelchairSeated=0&amp;amp;nusCount=0&amp;amp;originId=320&amp;amp;otherDisabilityCount=0&amp;amp;pcaCount=0&amp;amp;totalPassengers=1&amp;amp;wheelchairSeated=0&#34;&gt;MegaBus that departs from downtown Austin and
 arrives at downtown
-Houston&lt;/a&gt;. &lt;/p&gt;
+Houston&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;There is a bus that departs at 12:00PM and arrives at 3:00pm. Cost is
 $20 (as of April 23).&lt;/p&gt;
 &lt;p&gt;If you want to spend the day in Austin, there is a bus that departs at
@@ -887,7 +886,6 @@ state how many open spaces you have&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;...&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;h3 id=&#34;attachments&#34;&gt;Attachments:&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
 &lt;a href=&#34;attachments/91422722/99090463.pdf&#34;&gt;g-core-sigmod.pdf&lt;/a&gt;
@@ -938,7 +936,7 @@ Semantic Web.pdf&lt;/a&gt; (application/pdf)&lt;/p&gt;
       <pubDate>Fri, 01 Sep 2017 10:30:00 +0100</pubDate>
       
       <guid>https://ldbc.github.io/event/tenth-tuc-meeting/</guid>
-      <description>&lt;p&gt;This will be a one-day event at the &lt;a href=&#34;http://www.vldb.org/2017&#34;&gt;VLDB 2017&lt;/a&gt; conference in
+      <description>&lt;p&gt;This will be a one-day event at the &lt;a href=&#34;http://www.vldb.org/2017&#34;&gt;VLDB 2017&lt;/a&gt; conference in
 Munich, Germany on September 1, 2017.&lt;/p&gt;
 &lt;p&gt;Topics and activities of interest in these TUC meetings are:&lt;/p&gt;
 &lt;ul&gt;
@@ -951,15 +949,15 @@ organisation officials.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;We welcome all users of RDF and Graph technologies to attend. If you are
 interested to attend the event, please, contact Adrian Diaz (UPC) at
-&lt;a href=&#34;mailto:adiaz@ac.upc.edu&#34;&gt;adiaz@ac.upc.edu&lt;/a&gt; to register; registration is free, but required.&lt;/p&gt;
+&lt;a href=&#34;mailto:adiaz@ac.upc.edu&#34;&gt;adiaz@ac.upc.edu&lt;/a&gt; to register; registration is free, but required.&lt;/p&gt;
 &lt;p&gt;In the agenda, there will be talks given by LDBC members and LDBC
 activities, but there will also be room for a number of short 20-minute
-talks by other participants. We are specifically interested in learning
+talks by other participants. We are specifically interested in learning
 about new challenges in graph data management (where benchmarking would
 become useful) and on hearing about actual user stories and scenarios
 that could inspire benchmarks. Further, talks that provide feedback on
 existing benchmark (proposals) are very relevant. But nothing is
-excluded a priori if it is related to graph data management. Talk
+excluded a priori if it is related to graph data management. Talk
 proposals are handled by Peter Boncz (&lt;a href=&#34;mailto:boncz@cwi.nl&#34;&gt;boncz@cwi.nl&lt;/a&gt;) and Larri
 (&lt;a href=&#34;mailto:larri@ac.upc.ed&#34;&gt;larri@ac.upc.edu&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;Further, we call on you if you or your colleagues would happen to have
@@ -977,27 +975,27 @@ graphalytics workloads.&lt;/li&gt;
 management challenges&lt;/li&gt;
 &lt;li&gt;selected scientific talks on graph data management technology&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The  meeting will start on Friday morning, with a program from 10:30-17:00&lt;/p&gt;
-&lt;p&gt;10:30-12:00:  TUC session (public)&lt;/p&gt;
+&lt;p&gt;The  meeting will start on Friday morning, with a program from 10:30-17:00&lt;/p&gt;
+&lt;p&gt;10:30-12:00:  TUC session (public)&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;attachments/81920005/87588865.pdf&#34;&gt;Peter Boncz (CWI) : GraphQL task force update - the GCore
+&lt;li&gt;&lt;a href=&#34;attachments/81920005/87588865.pdf&#34;&gt;Peter Boncz (CWI) : GraphQL task force update - the GCore
 proposal&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;attachments/81920005/86868008.pdf&#34;&gt;Gabor Szarnyas (Budapest University of Technology and Economics Hungarian Academy of Sciences): Updates on the Social Network
 Benchmark BI Workload&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;attachments/81920005/86868013.pdf&#34;&gt;Alexandru Iosup, Wing Lung Ngai (VU/TU Delft): Graphalytics,
+&lt;li&gt;&lt;a href=&#34;attachments/81920005/86868013.pdf&#34;&gt;Alexandru Iosup, Wing Lung Ngai (VU/TU Delft): Graphalytics,
 Graphalytics Global Competition and Graphalytics Custom&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;attachments/81920005/86868014.pdf&#34;&gt;(Attachment 2)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;12:00-13:30:  lunch break&lt;/p&gt;
-&lt;p&gt;13:30-15:00:  TUC session (public)&lt;/p&gt;
+&lt;p&gt;12:00-13:30:  lunch break&lt;/p&gt;
+&lt;p&gt;13:30-15:00:  TUC session (public)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;attachments/81920005/86868024.pdf&#34;&gt;Arnau Prat (UPC): Datasynth: Democratizing property graph generation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;attachments/81920005/86868026.pdf&#34;&gt;Marcus Paradies (SAP): SAP HANA GraphScript&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;attachments/81920005/87031809.pdf&#34;&gt;Yinglong Xia (Huawei): The EYWA Graph Engine in a Cloud AI Platform&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Gaétan HAINS (Huawei): Cost semantics for graph queries &lt;/li&gt;
+&lt;li&gt;Gaétan HAINS (Huawei): Cost semantics for graph queries&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;15:00-15:30:  break&lt;br&gt;
-15:30-17:00:  TUC session (public)&lt;/p&gt;
+&lt;p&gt;15:00-15:30:  break&lt;br&gt;
+15:30-17:00:  TUC session (public)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;attachments/81920005/87031812.pdf&#34;&gt;Petra Selmer and Stefan Plantikow (neo4j): openCypher Developments
 in 2017&lt;/a&gt;&lt;/li&gt;
@@ -1005,16 +1003,16 @@ in 2017&lt;/a&gt;&lt;/li&gt;
 Knowledge Graph for the Scholarly Publishing Domain&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Irini Fundulaki (FORTH): The HOBBIT Link Discovery and Versioning
 Benchmarks&lt;/li&gt;
-&lt;li&gt;Ghislain Atemezing (Mondeca): Benchmarking Enterprise RDF stores
+&lt;li&gt;Ghislain Atemezing (Mondeca): Benchmarking Enterprise RDF stores
 with Publications Office Dataset&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Speakers should aim for a &lt;strong&gt;20-minute talk.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Further:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;on Friday evening (19:00-21:00) there will be a &lt;strong&gt;social dinner&lt;/strong&gt; at
+&lt;li&gt;on Friday evening (19:00-21:00) there will be a &lt;strong&gt;social dinner&lt;/strong&gt; at
 &lt;a href=&#34;https://www.loewenbraeukeller.com/en/pub-and-beer-garden/&#34;&gt;Löwenbräukeller&lt;/a&gt;,
 sponsored and arranged by LDBC member Huawei (who have their
-European Research Center in Munich).&lt;/li&gt;
+European Research Center in Munich).&lt;/li&gt;
 &lt;li&gt;on Friday morning (8:30-10:30) there will be a meeting of the LDBC
 board of directors, but this meeting is not public.&lt;/li&gt;
 &lt;/ul&gt;
@@ -1035,10 +1033,10 @@ München&lt;/strong&gt;&lt;/p&gt;
 &lt;h3 id=&#34;hotels&#34;&gt;Hotels&lt;/h3&gt;
 &lt;p&gt;The Munich city center has many accomodation options (so you may check
 the
-&lt;a href=&#34;https://www.booking.com/hotel/de/hotelkoenigswache.nl.html?aid=304142;label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmaKkBiAEBmAEcwgEKd2luZG93cyAxMMgBDNgBAegBAfgBC5ICAXmoAgM;sid=43185e9fb030a42f50348cce2b9a2c4e;atlas_nodate=1;atlas_src=sr_iw_title;dist=0;group_adults=2;room1=A%2CA;sb_price_type=total;type=total&amp;amp;&#34;&gt;usual&lt;/a&gt; &lt;a href=&#34;https://www.expedia.com/Munich-Hotels-Ruby-Lilly-Hotel-Munich.h17354946.Hotelinfo?chkin=31-08-2017&amp;amp;chkout=01-09-2017&amp;amp;rm1=a1&amp;amp;regionId=0&amp;amp;hwrqCacheKey=a333a92d-54de-4922-9f6d-4b703ed714f8HWRQ1498723352280&amp;amp;vip=false&amp;amp;c=66d5b259-4345-468f-9e94-a2c25a3b390f&amp;amp;&amp;amp;exp_dp=85&amp;amp;exp_ts=1498723352191&amp;amp;exp_curr=EUR&amp;amp;exp_pg=HSR&#34;&gt;hotel&lt;/a&gt;
+&lt;a href=&#34;https://www.booking.com/hotel/de/hotelkoenigswache.nl.html?aid=304142;label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmaKkBiAEBmAEcwgEKd2luZG93cyAxMMgBDNgBAegBAfgBC5ICAXmoAgM;sid=43185e9fb030a42f50348cce2b9a2c4e;atlas_nodate=1;atlas_src=sr_iw_title;dist=0;group_adults=2;room1=A%2CA;sb_price_type=total;type=total&amp;amp;&#34;&gt;usual&lt;/a&gt; &lt;a href=&#34;https://www.expedia.com/Munich-Hotels-Ruby-Lilly-Hotel-Munich.h17354946.Hotelinfo?chkin=31-08-2017&amp;amp;chkout=01-09-2017&amp;amp;rm1=a1&amp;amp;regionId=0&amp;amp;hwrqCacheKey=a333a92d-54de-4922-9f6d-4b703ed714f8HWRQ1498723352280&amp;amp;vip=false&amp;amp;c=66d5b259-4345-468f-9e94-a2c25a3b390f&amp;amp;&amp;amp;exp_dp=85&amp;amp;exp_ts=1498723352191&amp;amp;exp_curr=EUR&amp;amp;exp_pg=HSR&#34;&gt;hotel&lt;/a&gt;
 &lt;a href=&#34;https://www.hotels.com/ho444780/?q-check-out=2017-09-01&amp;amp;FPQ=2&amp;amp;q-check-in=2017-08-31&amp;amp;WOE=5&amp;amp;WOD=4&amp;amp;q-room-0-children=0&amp;amp;tab=description&amp;amp;JHR=1&amp;amp;q-room-0-adults=1&amp;amp;YGF=14&amp;amp;MGT=1&amp;amp;ZSX=0&amp;amp;SYE=3&#34;&gt;sites&lt;/a&gt;).
 You may also check the &lt;a href=&#34;http://www.vldb.org/2017/conference_venue_and_accommodations.php&#34;&gt;VLDB Accommodation
-Suggestions&lt;/a&gt;. &lt;/p&gt;
+Suggestions&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;attachments&#34;&gt;Attachments:&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
 &lt;a href=&#34;attachments/81920005/81920002.jpg&#34;&gt;Gelaendeplan_TUM_V1.jpg&lt;/a&gt;
@@ -1096,9 +1094,9 @@ developments- 2017.pdf&lt;/a&gt;
       <guid>https://ldbc.github.io/event/ninth-tuc-meeting/</guid>
       <description>&lt;p&gt;LDBC is pleased to announce its Ninth Technical User Community (TUC) meeting.&lt;/p&gt;
 &lt;p&gt;This will be a two-day event
-at &lt;a href=&#34;https://websmp201.sap-ag.de/~sapidp/011000358700001204882013E.pdf&#34;&gt;SAP Headquarters&lt;/a&gt; in
+at &lt;a href=&#34;https://websmp201.sap-ag.de/~sapidp/011000358700001204882013E.pdf&#34;&gt;SAP Headquarters&lt;/a&gt; in
 Walldorf, Germany on February 9+10, 2017&lt;/p&gt;
-&lt;p&gt; This will be the third TUC meeting after the finalisation of the LDBC
+&lt;p&gt;This will be the third TUC meeting after the finalisation of the LDBC
 FP7 EC funded project. The event will basically set the following
 aspects:&lt;/p&gt;
 &lt;ul&gt;
@@ -1109,18 +1107,18 @@ experiences.&lt;/li&gt;
 benchmarks.&lt;/li&gt;
 &lt;li&gt;Interaction with the new LDBC Board of Directors and the LDBC
 organisation
-officials. &lt;/li&gt;
+officials.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;We welcome all users of RDF and Graph technologies to attend. If you are
 interested, please, contact Damaris Coll (UPC) at &lt;a href=&#34;mailto:damaris@ac.upc.edu&#34;&gt;damaris@ac.upc.edu&lt;/a&gt;;&lt;/p&gt;
 &lt;p&gt;In the agenda, there will be talks given by LDBC members and LDBC
 activities, but there will also be room for a number of short 20-minute
-talks by other participants. We are specifically interested in learning
+talks by other participants. We are specifically interested in learning
 about new challenges in graph data management (where benchmarking would
 become useful) and on hearing about actual user stories and scenarios
 that could inspire benchmarks. Further, talks that provide feedback on
 existing benchmark (proposals) are very relevant. But nothing is
-excluded a priori if it is related to graph data management. Talk
+excluded a priori if it is related to graph data management. Talk
 proposals can be forwarded to Damaris as well and will be handled by
 Peter Boncz (&lt;a href=&#34;mailto:boncz@cwi.nl&#34;&gt;boncz@cwi.nl&lt;/a&gt;) and Larri
 (&lt;a href=&#34;mailto:larri@ac.upc.ed&#34;&gt;larri@ac.upc.edu&lt;/a&gt;{.external-link}).&lt;/p&gt;
@@ -1129,7 +1127,6 @@ contacts with companies that deal with graph data management scenarios
 to also attend and possibly present. LDBC is always looking to expand
 its circle of participants in TUCs meeting, its graph technology users
 contacts but also eventually its membership base.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;h3 id=&#34;agenda&#34;&gt;Agenda&lt;/h3&gt;
 &lt;p&gt;In the TUC meeting there will be&lt;/p&gt;
 &lt;ul&gt;
@@ -1140,9 +1137,9 @@ graphalytics workloads.&lt;/li&gt;
 management challenges&lt;/li&gt;
 &lt;li&gt;selected scientific talks on graph data management technology&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The  meeting will start on Thursday morning,  with a program from
+&lt;p&gt;The  meeting will start on Thursday morning,  with a program from
 09:00-18:00, interrupted by a lunch break.&lt;/p&gt;
-&lt;p&gt;Thursday evening (19:00-21:00) there will be a &lt;strong&gt;social dinner&lt;/strong&gt; in
+&lt;p&gt;Thursday evening (19:00-21:00) there will be a &lt;strong&gt;social dinner&lt;/strong&gt; in
 Heidelberg.&lt;/p&gt;
 &lt;p&gt;Friday morning the event resumes from 9:00-12:00. In the afternoon,
 there is a (closed) LDBC Board of Directors meeting (13:00-16:30) at the
@@ -1150,7 +1147,7 @@ same venue.&lt;/p&gt;
 &lt;h4 id=&#34;social-dinner&#34;&gt;Social Dinner&lt;/h4&gt;
 &lt;p&gt;&lt;img src=&#34;attachments/59277315/75235334.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;attachments/59277315/76021761.pdf&#34;&gt;walldorf17.pdf&lt;/a&gt;&lt;br&gt;
-&lt;strong&gt;Address: Hauptstraße 217, 69117 Heidelberg&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Address: Hauptstraße 217, 69117 Heidelberg&lt;/strong&gt;&lt;br&gt;
 &lt;strong&gt;Time: 19:00 / 7pm&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;(See attachments at the bottom of the page)&lt;/p&gt;
 &lt;table&gt;
@@ -1306,7 +1303,7 @@ recommended restaurants as well as sightseeing spots.
 [&lt;a href=&#34;https://websmp201.sap-ag.de/~sapidp/011000358700001204882013E.pdf&#34;&gt;Link&lt;/a&gt;]&lt;/p&gt;
 &lt;h5 id=&#34;venue&#34;&gt;&lt;strong&gt;Venue&lt;/strong&gt;&lt;/h5&gt;
 &lt;p&gt;The TUC meeting will be held in the &lt;a href=&#34;https://websmp201.sap-ag.de/~sapidp/011000358700001204882013E.pdf&#34;&gt;SAP
-Headquarters&lt;/a&gt; at
+Headquarters&lt;/a&gt; at
 the SAP Guesthouse Kalipeh (&lt;a href=&#34;https://www.kalipeh.com&#34;&gt;https://www.kalipeh.com&lt;/a&gt;). The address is:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;WDF 44 / SAP Guesthouse Kalipeh&lt;br&gt;
 Dietmar-Hopp-Allee 15&lt;br&gt;
@@ -1494,8 +1491,8 @@ Graphalytics.&lt;/p&gt;
       <guid>https://ldbc.github.io/event/eigth-tuc-meeting/</guid>
       <description>&lt;p&gt;The LDBC consortium is pleased to announce its Eighth Technical User
 Community (TUC) meeting.&lt;/p&gt;
-&lt;p&gt;This will be a two-day event at &lt;a href=&#34;http://www.oracle.com/technetwork/database/rdb/hqcc-dir-134199.pdf&#34;&gt;Oracle Conference
-Center&lt;/a&gt; in Redwood Shores facility on &lt;strong&gt;Wednesday and Thursday June 22-23/06, 2016.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This will be a two-day event at &lt;a href=&#34;http://www.oracle.com/technetwork/database/rdb/hqcc-dir-134199.pdf&#34;&gt;Oracle Conference
+Center&lt;/a&gt; in Redwood Shores facility on &lt;strong&gt;Wednesday and Thursday June 22-23/06, 2016.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This will be the second TUC meeting after the finalisation of the LDBC
 FP7 EC funded project. The event will basically set the following
 aspects:&lt;/p&gt;
@@ -1505,17 +1502,17 @@ day devoted to benchmarking
 experiences.&lt;/li&gt;
 &lt;li&gt;Presentation of the benchmarking results for the different
 benchmarks.&lt;/li&gt;
-&lt;li&gt;Interaction with the new LDBC Board of Directors and the  LDBC
+&lt;li&gt;Interaction with the new LDBC Board of Directors and the  LDBC
 organisation
-officials. &lt;/li&gt;
+officials.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;We welcome all users of RDF and Graph technologies to attend. If you are
-interested, please, contact Damaris Coll (UPC) at  &lt;a href=&#34;mailto:damaris@ac.upc.edu&#34;&gt;damaris@ac.upc.edu&lt;/a&gt;;
+interested, please, contact Damaris Coll (UPC) at  &lt;a href=&#34;mailto:damaris@ac.upc.edu&#34;&gt;damaris@ac.upc.edu&lt;/a&gt;;
 in order to notify Oracle security in advance, registration requests
 need to be in by &lt;strong&gt;June 12&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;In the agenda, there will be talks given by LDBC members and LDBC
 activities, but there will also be room for a number of short 20-minute
-talks by other participants. We are specifically interested in learning
+talks by other participants. We are specifically interested in learning
 about new challenges in graph data management (where benchmarking would
 become useful) and on hearing about actual user stories and scenarios
 that could inspire benchmarks. Further, talks that provide feedback on
@@ -1531,7 +1528,7 @@ its circle of participants in TUCs meeting, its graph technology users
 contacts but also eventually its membership base.&lt;/p&gt;
 &lt;p&gt;In this page, you&#39;ll find information about the following items:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#agenda&#34;&gt;Agenda &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#agenda&#34;&gt;Agenda &lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#logistics&#34;&gt;Logistics&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#date&#34;&gt;Date&lt;/a&gt;&lt;/li&gt;
@@ -1550,19 +1547,19 @@ Meeting will start at 1 pm.&lt;/p&gt;
 &lt;p&gt;12:00 - 13:00 Lunch (provided)&lt;/p&gt;
 &lt;p&gt;13:00 - 13:30 Hassan Chafi (Oracle) and Josep L. Larriba-Pey (Sparsity)
 Registration and welcome.&lt;/p&gt;
-&lt;p&gt;13:30 - 14:00 Peter Boncz (CWI) &lt;a href=&#34;attachments/40927235/52133891.pdf&#34;&gt;LDBC introduction and status
+&lt;p&gt;13:30 - 14:00 Peter Boncz (CWI) &lt;a href=&#34;attachments/40927235/52133891.pdf&#34;&gt;LDBC introduction and status
 update&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;14:00 - 15:00 Details on the progress of LDBC Task Forces 1 (chair Josep
 L. Larriba-Pey)&lt;/p&gt;
 &lt;p&gt;14:00 Arnau Prat (DAMA-UPC). &lt;a href=&#34;attachments/40927235/52133902.pdf&#34;&gt;Social Network Benchmark, Interactive
 workload&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;14:30 Tim Hegeman (TU Delft). &lt;a href=&#34;attachments/40927235/52133893.pdf&#34;&gt;Social Network Benchmark, Analytics
+&lt;p&gt;14:30 Tim Hegeman (TU Delft). &lt;a href=&#34;attachments/40927235/52133893.pdf&#34;&gt;Social Network Benchmark, Analytics
 workload&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;15:00 - 15:30 Coffee break&lt;/p&gt;
 &lt;p&gt;15:30 - 17:00 Applications and use of Graph Technologies (chair Hassan
 Chafi)&lt;/p&gt;
 &lt;p&gt;[15:30 Martin Zand (University of Rochester Clinical and Translational
-Science Institute). &lt;a href=&#34;attachments/40927235/52133897.pdf&#34;&gt;Graphing Healthcare Networks: Data, Analytics, and
+Science Institute). &lt;a href=&#34;attachments/40927235/52133897.pdf&#34;&gt;Graphing Healthcare Networks: Data, Analytics, and
 Use
 Cases.&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;16:00 David Meibusch, Nathan Hawes (Oracle Labs Australia). &lt;a href=&#34;attachments/40927235/52133901.pdf&#34;&gt;Frappé:
@@ -1574,10 +1571,10 @@ endpoint.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;17:00 - 18:30 Graph Technologies (chair Peter Boncz)&lt;/p&gt;
 &lt;p&gt;17:00 Eugene I. Chong (Oracle USA). &lt;a href=&#34;attachments/40927235/52133904.pdf&#34;&gt;Balancing Act to improve RDF Query
 Performance in Oracle Database&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;17:30 Lijun Chang (University of New South Wales). &lt;a href=&#34;attachments/40927235/52133906.pdf&#34;&gt;Efficient Subgraph
+&lt;p&gt;17:30 Lijun Chang (University of New South Wales). &lt;a href=&#34;attachments/40927235/52133906.pdf&#34;&gt;Efficient Subgraph
 Matching by Postponing Cartesian
 Products&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;18:00 Weining Qian (East China Normal University). &lt;a href=&#34;attachments/40927235/52133908.pdf&#34;&gt;On Statistical
+&lt;p&gt;18:00 Weining Qian (East China Normal University). &lt;a href=&#34;attachments/40927235/52133908.pdf&#34;&gt;On Statistical
 Characteristics of Real-Life Knowledge
 Graphs&lt;/a&gt;.&lt;/p&gt;
 &lt;h6 id=&#34;thursday-23th-of-june-2016-room-203&#34;&gt;&lt;strong&gt;Thursday, 23th of June 2016 (&lt;strong&gt;Room 203)&lt;/strong&gt;&lt;/strong&gt;&lt;/h6&gt;
@@ -1585,51 +1582,50 @@ Graphs&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;09:00 - 10:00 Details on the progress of LDBC Task Forces 2 (chair Josep
 L. Larriba-Pey)&lt;/p&gt;
 &lt;p&gt;09:00 Peter Boncz (CWI). &lt;a href=&#34;attachments/40927235/52133896.pdf&#34;&gt;Query Language Task Force
-status&lt;/a&gt;. &lt;/p&gt;
-&lt;p&gt;09:45 Marcus Paradies (SAP). &lt;a href=&#34;attachments/40927235/52297729.pdf&#34;&gt;Social Network Benchmark, Business
+status&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;09:45 Marcus Paradies (SAP). &lt;a href=&#34;attachments/40927235/52297729.pdf&#34;&gt;Social Network Benchmark, Business
 Intelligence workload&lt;/a&gt;.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;10:00 - 12:00 Graph Technologies and Benchmarking (chair Oskar van Rest)&lt;/p&gt;
-&lt;p&gt;10:00 Sergey Edunov (Facebook). &lt;a href=&#34;attachments/40927235/52297731.pdf&#34;&gt;Generating realistic trillion-edge
+&lt;p&gt;10:00 Sergey Edunov (Facebook). &lt;a href=&#34;attachments/40927235/52297731.pdf&#34;&gt;Generating realistic trillion-edge
 graphs&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;10:30 George Fletcher (TU Eindhoven). &lt;a href=&#34;attachments/40927235/52297733.pdf&#34;&gt;An open source framework for
 schema-driven graph instance and graph query workload
 generation&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;11:00 Yinglong Xia (Huawei Research America): &lt;a href=&#34;attachments/40927235/52297735.pdf&#34;&gt;An Efficient Big Graph
 Analytics Platform&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;11:30 Zhe Wu (Oracle USA). &lt;a href=&#34;attachments/40927235/52297737.pdf&#34;&gt;Bridging RDF Graph and Property Graph Data
+&lt;p&gt;11:30 Zhe Wu (Oracle USA). &lt;a href=&#34;attachments/40927235/52297737.pdf&#34;&gt;Bridging RDF Graph and Property Graph Data
 Models&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;12:00 - 13:30 Lunch (provided)&lt;/p&gt;
 &lt;p&gt;13:30 - 15:30 Graph Technologies (chair Arnau Prat)&lt;/p&gt;
-&lt;p&gt;13:30 Tobias Lindaaker (Neo Technology). &lt;a href=&#34;attachments/40927235/52297740.pdf&#34;&gt;An open standard for graph
+&lt;p&gt;13:30 Tobias Lindaaker (Neo Technology). &lt;a href=&#34;attachments/40927235/52297740.pdf&#34;&gt;An open standard for graph
 queries: the Cypher contribution&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;14:00 Arash Termehchy (Oregon State University). &lt;a href=&#34;attachments/40927235/52297742.pdf&#34;&gt;Toward Representation
+&lt;p&gt;14:00 Arash Termehchy (Oregon State University). &lt;a href=&#34;attachments/40927235/52297742.pdf&#34;&gt;Toward Representation
 Independent Graph Querying &amp;amp;
 Analytics&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;14:30 Jerven Bolleman (SIB Swiss Institute of Bioinformatics/UniProt
 consortium). &lt;a href=&#34;attachments/40927235/52297745.pdf&#34;&gt;In the service of the
 federation&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;15:00 Nandish Jayaram (Pivotal). &lt;a href=&#34;attachments/40927235/52297747.pdf&#34;&gt;Orion: Enabling Suggestions in a
+&lt;p&gt;15:00 Nandish Jayaram (Pivotal). &lt;a href=&#34;attachments/40927235/52297747.pdf&#34;&gt;Orion: Enabling Suggestions in a
 Visual Query Builder for Ultra-Heterogeneous
 Graphs&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;15:30 - 16:00 Coffee break&lt;/p&gt;
 &lt;p&gt;16:00 - 17:15 Applications and use of Graph Technologies (chair Hassan
 Chafi)&lt;/p&gt;
-&lt;p&gt;16:00 Jans Aasman (Franz Inc.). &lt;a href=&#34;attachments/40927235/52428806.pdf&#34;&gt;Semantic Data Lake for
+&lt;p&gt;16:00 Jans Aasman (Franz Inc.). &lt;a href=&#34;attachments/40927235/52428806.pdf&#34;&gt;Semantic Data Lake for
 Healthcare&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;16:15 Kevin Madden (Tom Sawyer Software). &lt;a href=&#34;attachments/40927235/52428812.pdf&#34;&gt;Dismantling Criminal Networks
+&lt;p&gt;16:15 Kevin Madden (Tom Sawyer Software). &lt;a href=&#34;attachments/40927235/52428812.pdf&#34;&gt;Dismantling Criminal Networks
 with Graph and Spatial Visualization and
 Analysis&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;16:45 Juan Sequeda (Capsenta). &lt;a href=&#34;attachments/40927235/52428810.pdf&#34;&gt;Using graph representation and semantic
 technology to virtually integrate and search multiple diverse data
 sources&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;17:15 Kevin Wilkinson (Hewlett Packard Labs). &lt;a href=&#34;attachments/40927235/52428808.pdf&#34;&gt;LDBC SNB extensions&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;17:15 Kevin Wilkinson (Hewlett Packard Labs). &lt;a href=&#34;attachments/40927235/52428808.pdf&#34;&gt;LDBC SNB extensions&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;17:45 - 18:15 Closing discussion&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;h6 id=&#34;friday-24th-of-june-2016-room-105&#34;&gt;&lt;strong&gt;Friday, 24th of June 2016 (Room 105)&lt;/strong&gt;&lt;/h6&gt;
 &lt;p&gt;At the same venue: the fourth international workshop on Graph Data
 Management, Experience and Systems (&lt;strong&gt;GRADES16&lt;/strong&gt;).&lt;/p&gt;
-&lt;p&gt;Please register at: &lt;a href=&#34;http://event.cwi.nl/grades/&#34;&gt;http://event.cwi.nl/grades/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please register at: &lt;a href=&#34;http://event.cwi.nl/grades/&#34;&gt;http://event.cwi.nl/grades/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;18:30 social dinner for GRADES registrants (place to be announced)&lt;/p&gt;
 &lt;h3 id=&#34;logistics&#34;&gt;Logistics&lt;/h3&gt;
 &lt;h6 id=&#34;date&#34;&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;/h6&gt;
@@ -1644,7 +1640,7 @@ The address is:&lt;/p&gt;
 &lt;strong&gt;Redwood City, CA 94065, USA&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Telephone numbers:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;(Phone) 650-633-8300&lt;br&gt;
-(Fax) 650-633-8399 &lt;/p&gt;
+(Fax) 650-633-8399&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Maps and situation&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.google.com/maps/place/Oracle+Conference+Center/@37.5322827,-122.2667034,17z/data=!3m1!4b1!4m2!3m1!1s0x808f98b5450e8ca3:0xdc75e8b1c02bbb91&#34;&gt;Google Maps
@@ -1652,7 +1648,6 @@ link&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Oracle Campus map:&lt;br&gt;
 &lt;img src=&#34;attachments/40927235/40927234.jpg&#34; alt=&#34;&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;h5 id=&#34;getting-there&#34;&gt;&lt;strong&gt;Getting there&lt;/strong&gt;&lt;/h5&gt;
 &lt;h6 id=&#34;driving-directions&#34;&gt;&lt;strong&gt;Driving directions&lt;/strong&gt;&lt;/h6&gt;
 &lt;ul&gt;
@@ -1673,21 +1668,21 @@ parking in any of the parking garages located near by. No parking
 permits are needed.&lt;/p&gt;
 &lt;h5 id=&#34;public-transport&#34;&gt;&lt;strong&gt;Public transport&lt;/strong&gt;&lt;/h5&gt;
 &lt;p&gt;Take the Caltrain to either San Carlos or Hillsdale and take the free
-Oracle shuttle from there. Get off the Oracle shuttle at 100 Oracle
+Oracle shuttle from there. Get off the Oracle shuttle at 100 Oracle
 Parkway (second stop) and walk 5 minutes to get to the Conference
 Center.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Caltrain
-timetables: &lt;a href=&#34;http://www.caltrain.com/schedules/weekdaytimetable.html&#34;&gt;http://www.caltrain.com/schedules/weekdaytimetable.html&lt;/a&gt;&lt;/li&gt;
+timetables: &lt;a href=&#34;http://www.caltrain.com/schedules/weekdaytimetable.html&#34;&gt;http://www.caltrain.com/schedules/weekdaytimetable.html&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Oracle Shuttle
-timetables: &lt;a href=&#34;http://www.caltrain.com/schedules/weekdaytimetable.html&#34;&gt;http://www.caltrain.com/schedules/Shuttles/Oracle_Shuttle.html&lt;/a&gt;&lt;/li&gt;
+timetables: &lt;a href=&#34;http://www.caltrain.com/schedules/weekdaytimetable.html&#34;&gt;http://www.caltrain.com/schedules/Shuttles/Oracle_Shuttle.html&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;You can also take the Caltrain to Belmont and walk 23 min, instead of
 taking the Oracle shuttle.&lt;/p&gt;
 &lt;p&gt;Alternatively, SamTrans (San Mateo County&#39;s Transit Agency) provides
 public bus service between the Millbrae BART station and Palo Alto with
 three stops on Oracle Parkway - one of which is directly in front of
-the Oracle Conference Center. &lt;/p&gt;
+the Oracle Conference Center.&lt;/p&gt;
 &lt;h4 id=&#34;accommodation&#34;&gt;Accommodation&lt;/h4&gt;
 &lt;p&gt;Hotels in the area run out very quickly, sometimes even weeks in
 advance. Therefore, book as early as possible.&lt;/p&gt;
@@ -1937,19 +1932,19 @@ day devoted to benchmarking
 experiences.&lt;/li&gt;
 &lt;li&gt;Presentation of the benchmarking results for the different
 benchmarks.&lt;/li&gt;
-&lt;li&gt;Interaction with the new LDBC Board of Directors and the  LDBC
+&lt;li&gt;Interaction with the new LDBC Board of Directors and the  LDBC
 organisation
 officials.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;We welcome all users of RDF and Graph technologies to attend. If you
 are interested, please, contact Damaris Coll (UPC) at
- &lt;a href=&#34;mailto:damaris@ac.upc.edu&#34;&gt;damaris@ac.upc.edu&lt;/a&gt;; in order to notify IBM security in advance,
+&lt;a href=&#34;mailto:damaris@ac.upc.edu&#34;&gt;damaris@ac.upc.edu&lt;/a&gt;; in order to notify IBM security in advance,
 registration requests need to be in by Nov
 1.&lt;/p&gt;
 &lt;p&gt;In the agenda, there will be talks given by LDBC members and LDBC
 activities, but there will also be room for a number of short 20-minute
 talks by
-other participants. We
+other participants. We
 are specifically interested in learning about new challenges in graph
 data management (where benchmarking would become useful) and on hearing
 about actual user stories and scenarios that could inspire benchmarks.
@@ -1982,8 +1977,8 @@ Pey)&lt;/p&gt;
 &lt;p&gt;9:30 - 10:30 Details on the progress of LDBC Task Forces 1 (chair Josep
 L. Larriba-Pey)&lt;/p&gt;
 &lt;p&gt;9:30 Arnau Prat (DAMA-UPC). Social Network Benchmark, Interactive
-workload, &lt;/p&gt;
-&lt;p&gt;10:00 Orri Erling (OpenLink Software). Social Network Benchmark,
+workload,&lt;/p&gt;
+&lt;p&gt;10:00 Orri Erling (OpenLink Software). Social Network Benchmark,
 Business Intelligence workload.&lt;/p&gt;
 &lt;p&gt;10:30-11:00 Coffee
 break&lt;/p&gt;
@@ -1991,40 +1986,39 @@ break&lt;/p&gt;
 Yinglong
 Xia)&lt;/p&gt;
 &lt;p&gt;11:00 Alexandru Iosup (TU
-Delft). Social
+Delft). Social
 Network Benchmark, Analytics
 workload.&lt;/p&gt;
-&lt;p&gt;11:30 Claudio Gutierrez (U Chile). Query Language Task Force status. &lt;/p&gt;
+&lt;p&gt;11:30 Claudio Gutierrez (U Chile). Query Language Task Force status.&lt;/p&gt;
 &lt;p&gt;12:00 Atanas Kiryakov (Ontotext). Semantic Publishing Benchmark status&lt;/p&gt;
 &lt;p&gt;12:30 - 14:00 Lunch break&lt;/p&gt;
 &lt;p&gt;14:00 - 16:00 Technologies and benchmarking (chair Hassan Chafi)&lt;/p&gt;
-&lt;p&gt;14:00 Molham Aref (LogicBlox). Graph Data Management with LogicBlox&lt;/p&gt;
-&lt;p&gt;14:30 Peter Kogge (Notre Dame). BFS as in Graph500 on today&#39;s
+&lt;p&gt;14:00 Molham Aref (LogicBlox). Graph Data Management with LogicBlox&lt;/p&gt;
+&lt;p&gt;14:30 Peter Kogge (Notre Dame). BFS as in Graph500 on today&#39;s
 architectures&lt;/p&gt;
-&lt;p&gt;15:00 Ching-Yung Lin (IBM). Status and Demo of IBM System
+&lt;p&gt;15:00 Ching-Yung Lin (IBM). Status and Demo of IBM System
 G&lt;/p&gt;
 &lt;p&gt;15:30-16:00 Coffee break&lt;/p&gt;
 &lt;p&gt;16:00 - 17:00 Technologies (chair Irini Fundulaki)&lt;/p&gt;
 &lt;p&gt;16:00 Kavitha Srinivas (IBM). SQLGraph: An efficient relational based
 property graph store&lt;/p&gt;
-&lt;p&gt;16:30  David Ediger (GeorgiaTech). STINGER &lt;/p&gt;
-&lt;p&gt;17:00 Gary King (Franz Inc.). AllegroGraph&#39;s SPARQL implementation
-with Social Network Analytics
+&lt;p&gt;16:30  David Ediger (GeorgiaTech). STINGER&lt;/p&gt;
+&lt;p&gt;17:00 Gary King (Franz Inc.). AllegroGraph&#39;s SPARQL implementation
+with Social Network Analytics
 abilities using Magic
 Properties&lt;/p&gt;
 &lt;p&gt;17:30 Manoj Kumar (IBM). Linear Algebra Formulation for Large Graph
 Analytics&lt;/p&gt;
-&lt;p&gt;18:00 Reihaneh Amini (Wright State University) Linked Data in the
+&lt;p&gt;18:00 Reihaneh Amini (Wright State University) Linked Data in the
 GeoLink
 Usecase&lt;/p&gt;
 &lt;p&gt;19:00 Social dinner at X&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tuesday 10th November
 2015&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;9:00 - 10:30 Technology, Applications and Benchmarking (chair Alexandru
 Iosup)&lt;/p&gt;
 &lt;p&gt;9:00 Philip Rathle (Neo). On openCypher&lt;/p&gt;
-&lt;p&gt;9:20 Morteza Shahriari (University of Florida). Multi-modal
+&lt;p&gt;9:20 Morteza Shahriari (University of Florida). Multi-modal
 Probabilistic Knowledge Base for Remote Sensing Species Identification&lt;/p&gt;
 &lt;p&gt;9:50 Peter Kogge (Notre Dame). Challenging problems with Lexis Nexis
 Risk
@@ -2034,16 +2028,16 @@ synthetic data generation&lt;/p&gt;
 &lt;p&gt;10:30 - 11:00 Coffee break&lt;/p&gt;
 &lt;p&gt;11:00 - 12:45 Applications and use of Graph Technologies (chair Atanas
 Kiryakov)&lt;/p&gt;
-&lt;p&gt;11:00 [Hassan Chafi (Oracle). Status and characteristics of
+&lt;p&gt;11:00 [Hassan Chafi (Oracle). Status and characteristics of
 PGQL]&lt;/p&gt;
-&lt;p&gt;11:20 David Guedalia (TAGIIO). Multi-tier distributed mobile
+&lt;p&gt;11:20 David Guedalia (TAGIIO). Multi-tier distributed mobile
 applications and how they split their workload,&lt;/p&gt;
-&lt;p&gt;11:40 [ ]Guojing Cong (IBM). Algorithmic technique and
+&lt;p&gt;11:40 [ ]Guojing Cong (IBM). Algorithmic technique and
 architectural support for fast graph analysis&lt;/p&gt;
-&lt;p&gt;12:00 Josep Lluis Larriba-Pey. Conclusions for the TUC meeting and
+&lt;p&gt;12:00 Josep Lluis Larriba-Pey. Conclusions for the TUC meeting and
 future perspectives&lt;/p&gt;
 &lt;p&gt;12:30 - 14:00 Lunch break&lt;/p&gt;
-&lt;p&gt;14:00  LDBC Board of Directors&lt;/p&gt;
+&lt;p&gt;14:00  LDBC Board of Directors&lt;/p&gt;
 &lt;h3 id=&#34;logistics&#34;&gt;Logistics&lt;/h3&gt;
 &lt;h6 id=&#34;date&#34;&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;/h6&gt;
 &lt;p&gt;9th and 10th November 2015&lt;/p&gt;
@@ -2062,14 +2056,14 @@ Receptionist: (914) 945-1614&lt;br&gt;
 Security: (914) 945-2323&lt;/p&gt;
 &lt;p&gt;The meeting will take place in the &lt;em&gt;Auditorium&lt;/em&gt; on November 9th, and in Meeting Room &lt;em&gt;20-043&lt;/em&gt; on November 10th&lt;/p&gt;
 &lt;h6 id=&#34;maps-and-situation&#34;&gt;&lt;strong&gt;Maps and situation&lt;/strong&gt;&lt;/h6&gt;
-&lt;p&gt;You are highly suggested to &lt;strong&gt;rent a car&lt;/strong&gt; for your convenience, since
+&lt;p&gt;You are highly suggested to &lt;strong&gt;rent a car&lt;/strong&gt; for your convenience, since
 the public transportation system does not cover this area very well.
 Besides, there is no hotel within walkable distance to the IBM T.J.
 Watson Research Center. Feel free to find carpool with other attendees.
 You may find car rental and hotels through
 &lt;a href=&#34;http://www.orbitz.com&#34;&gt;www.orbitz.com&lt;/a&gt;,
-or &lt;a href=&#34;http://www.expedia.com.&#34;&gt;www.expedia.com.&lt;/a&gt; Feel free
-to email &lt;a href=&#34;mailto:yxia@us.ibm.com&#34;&gt;yxia@us.ibm.com&lt;/a&gt; for any questions.&lt;/p&gt;
+or &lt;a href=&#34;http://www.expedia.com.&#34;&gt;www.expedia.com.&lt;/a&gt; Feel free
+to email &lt;a href=&#34;mailto:yxia@us.ibm.com&#34;&gt;yxia@us.ibm.com&lt;/a&gt; for any questions.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;attachments/6882333/15926330.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h6 id=&#34;getting-there&#34;&gt;&lt;strong&gt;Getting there&lt;/strong&gt;&lt;/h6&gt;
 &lt;p&gt;&lt;strong&gt;&lt;strong&gt;Upper and Eastern New England&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -2131,8 +2125,8 @@ stations. Taxi service is available at both locations.&lt;/p&gt;
 IBM T.J. Watson Research Center. For your convenience, if you can drive,
 you may want to &lt;strong&gt;rent a car&lt;/strong&gt;. You may find car rentals and hotels
 through &lt;a href=&#34;http://www.orbitz.com&#34;&gt;www.orbitz.com&lt;/a&gt;,
-or &lt;a href=&#34;http://www.expedia.com.&#34;&gt;www.expedia.com.&lt;/a&gt; Feel free
-to email &lt;a href=&#34;mailto:yxia@us.ibm.com&#34;&gt;yxia@us.ibm.com&lt;/a&gt; for any questions.&lt;/p&gt;
+or &lt;a href=&#34;http://www.expedia.com.&#34;&gt;www.expedia.com.&lt;/a&gt; Feel free
+to email &lt;a href=&#34;mailto:yxia@us.ibm.com&#34;&gt;yxia@us.ibm.com&lt;/a&gt; for any questions.&lt;/p&gt;
 &lt;p&gt;Here are a few hotels just FYI. You can find plenty hotels at various
 prices in the White Plains area or so using the above websites, or
 simply through Google Maps / Microsoft Bing Maps.
@@ -2155,7 +2149,7 @@ http://www.hilton.com&lt;/a&gt;&lt;/p&gt;
 Contact: +1 914 6312200
 &lt;br&gt;
 &lt;a href=&#34;http://marriott.com/NYCWE%5D&#34;&gt;http://marriott.com/NYCWE&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;**HYATT house White Plains **&lt;/p&gt;
+&lt;p&gt;**HYATT house White Plains **&lt;/p&gt;
 &lt;p&gt;101 Corporate Park Dr, White Plains, NY 10604, United States
 &lt;br&gt;
 Contact:+1 914 2519700
@@ -3104,7 +3098,7 @@ the dynamics of the news cycle. KDD 2009: 497-506&lt;/p&gt;
       <description>&lt;p&gt;The LDBC consortium are pleased to announce its Sixth Technical User
 Community (TUC) meeting.&lt;/p&gt;
 &lt;p&gt;This will be a two-day event at Universitat Politècnica de Catalunya,
-Barcelona on &lt;strong&gt;Thursday and Friday March 19/20, 2015.&lt;/strong&gt;&lt;/p&gt;
+Barcelona on &lt;strong&gt;Thursday and Friday March 19/20, 2015.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The LDBC FP7 EC funded project is reaching its finalisation, and this
 will be the last event sponsored directly by the project. However, tasks
 within LDBC will continue based on the LDBC independent organisation.
@@ -3143,55 +3137,54 @@ costs&lt;/a&gt;&lt;/li&gt;
 &lt;p&gt;&lt;strong&gt;Thursday 19th March&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;11:00 - 11:30 Registration, coffee break and welcome (Josep Larriba Pey)&lt;/p&gt;
 &lt;p&gt;11:30 - 12:00 LDBC introduction and status update (Peter Boncz)
-&lt;a href=&#34;attachments/6881717/6981131.pdf&#34;&gt;slides&lt;/a&gt; &lt;/p&gt;
+&lt;a href=&#34;attachments/6881717/6981131.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;12:00 - 13:30 Technology and benchmarking (chair Peter Boncz)&lt;/p&gt;
 &lt;p&gt;12:00 Venelin Kotsev (Ontotext). Semantic Publishing Benchmark v2.0.
 &lt;a href=&#34;attachments/6881717/6981137.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;12:30 Nina Saveta (FORTH). SPIMBENCH: A Scalable, Schema-Aware, Instance
+&lt;p&gt;12:30 Nina Saveta (FORTH). SPIMBENCH: A Scalable, Schema-Aware, Instance
 Matching Benchmark for the Semantic Publishing Domain&lt;/p&gt;
-&lt;p&gt;12:50 Tomer Sagi (HP). Titan DB on LDBC SNB Interactive&lt;/p&gt;
-&lt;p&gt;13:10 Claudio Martella (VUA): Giraph and Lighthouse &lt;/p&gt;
+&lt;p&gt;12:50 Tomer Sagi (HP). Titan DB on LDBC SNB Interactive&lt;/p&gt;
+&lt;p&gt;13:10 Claudio Martella (VUA): Giraph and Lighthouse&lt;/p&gt;
 &lt;p&gt;13:30 - 14:30 Lunch break&lt;/p&gt;
 &lt;p&gt;14:30 - 16:00 Applications and use of Graph Technologies (chair Hassan
 Chafi)&lt;/p&gt;
-&lt;p&gt;14:30 Jerven Bolleman (Swiss Institute of Bioinformatics): 20 billion
+&lt;p&gt;14:30 Jerven Bolleman (Swiss Institute of Bioinformatics): 20 billion
 triples in production &lt;a href=&#34;attachments/6881717/6981132.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;14:50 Mark Wilkinson (Universidad Politécnica de Madrid): Design
+&lt;p&gt;14:50 Mark Wilkinson (Universidad Politécnica de Madrid): Design
 principles for Linked-Data-native Semantic Web
-Services &lt;a href=&#34;attachments/6881717/6981133.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;15:10 Peter Haase (Metaphacts, Systap LLC): Querying the Wikidata
+Services &lt;a href=&#34;attachments/6881717/6981133.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;15:10 Peter Haase (Metaphacts, Systap LLC): Querying the Wikidata
 Knowledge Graph &lt;a href=&#34;attachments/6881717/6981139.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;15:30 Esteban Sota (GNOSS): Human Interaction with Faceted Searching
+&lt;p&gt;15:30 Esteban Sota (GNOSS): Human Interaction with Faceted Searching
 Systems for big or complex graphs&lt;/p&gt;
 &lt;p&gt;18:30 - 20:00 Cultural visit Barcelona city center. Meet at Plaça
 Catalunya.&lt;/p&gt;
 &lt;p&gt;20:00 Social dinner at &lt;a href=&#34;http://www.bastaix.com&#34;&gt;Bastaix
 Restaurant&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Friday 20th March&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;9:30 - 11:00 Technology and Benchmarking (chair Josep L. Larriba-Pey)&lt;/p&gt;
-&lt;p&gt;9:30 Yinglong Xia (IBM): Towards Temporal Graph Management and Analytics&lt;/p&gt;
-&lt;p&gt;9:50 Alexandru Iosup (TU Delft). Graphalytics: A big data benchmark for
+&lt;p&gt;9:30 Yinglong Xia (IBM): Towards Temporal Graph Management and Analytics&lt;/p&gt;
+&lt;p&gt;9:50 Alexandru Iosup (TU Delft). Graphalytics: A big data benchmark for
 graph-processing platforms&lt;/p&gt;
-&lt;p&gt;10:10 John Snelson (MarkLogic): Introduction to MarkLogic&lt;/p&gt;
+&lt;p&gt;10:10 John Snelson (MarkLogic): Introduction to MarkLogic&lt;/p&gt;
 &lt;p&gt;10:30 Arnau Prat (UPC-Sparsity Technologies) and Alex Averbuch (Neo):
 Social Network Benchmark, Interactive Workload&lt;/p&gt;
-&lt;p&gt;10:50 Moritz Kaufmann. The auditing experience&lt;/p&gt;
+&lt;p&gt;10:50 Moritz Kaufmann. The auditing experience&lt;/p&gt;
 &lt;p&gt;[11:15 - 11:45 Coffee
 break]&lt;/p&gt;
 &lt;p&gt;11:45 - 12:45 Applications and use of Graph Technologies (chair Atanas
 Kiryakov)&lt;/p&gt;
 &lt;p&gt;11:45 Boris Motik (Oxford University): Parallel and Incremental
 Materialisation of RDF/Datalog in RDFox&lt;/p&gt;
-&lt;p&gt;12:05 Andreas Both (Unister): E-Commerce and Graph-driven Applications:
+&lt;p&gt;12:05 Andreas Both (Unister): E-Commerce and Graph-driven Applications:
 Experiences and Optimizations while moving to Linked
-Data[ ]&lt;/p&gt;
-&lt;p&gt;12:25 Smrati Gupta (CA Technologies). Modaclouds Decision Support System
+Data[ ]&lt;/p&gt;
+&lt;p&gt;12:25 Smrati Gupta (CA Technologies). Modaclouds Decision Support System
 in multicloud environments&lt;/p&gt;
-&lt;p&gt;12:45 Peter Boncz. Conclusions for the LDBC project and future
+&lt;p&gt;12:45 Peter Boncz. Conclusions for the LDBC project and future
 perspectives. &lt;a href=&#34;attachments/6881717/6981138.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;13:30 - 14:30 Lunch break&lt;/p&gt;
-&lt;p&gt;15:00  LDBC Board of Directors&lt;/p&gt;
+&lt;p&gt;15:00  LDBC Board of Directors&lt;/p&gt;
 &lt;h3 id=&#34;logistics&#34;&gt;Logistics&lt;/h3&gt;
 &lt;h6 id=&#34;date&#34;&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;/h6&gt;
 &lt;p&gt;19th and 20th March 2015&lt;/p&gt;
@@ -3204,33 +3197,31 @@ C. Jordi Girona, 1-3&lt;br&gt;
 08034 Barcelona, Spain&lt;/p&gt;
 &lt;h5 id=&#34;maps-and-situation&#34;&gt;&lt;strong&gt;Maps and situation&lt;/strong&gt;&lt;/h5&gt;
 &lt;p&gt;To reach the campus, there are several options, including
-Taxi, &lt;a href=&#34;http://www.tmb.cat/ca/c/document_library/get_file?uuid=c8996f6c-8ad5-4d21-b59b-faf9fceebd80&amp;amp;groupId=10168&#34;&gt;Metro&lt;/a&gt; and &lt;a href=&#34;http://www.tmb.cat/ca/c/document_library/get_file?uuid=5e6af5e2-7677-4ce8-85bb-8e63f2b086f1&amp;amp;groupId=10168&#34;&gt;Bus&lt;/a&gt;.&lt;/p&gt;
+Taxi, &lt;a href=&#34;http://www.tmb.cat/ca/c/document_library/get_file?uuid=c8996f6c-8ad5-4d21-b59b-faf9fceebd80&amp;amp;groupId=10168&#34;&gt;Metro&lt;/a&gt; and &lt;a href=&#34;http://www.tmb.cat/ca/c/document_library/get_file?uuid=5e6af5e2-7677-4ce8-85bb-8e63f2b086f1&amp;amp;groupId=10168&#34;&gt;Bus&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;attachments/1671180/1933315.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;finding-upc&#34;&gt;&lt;strong&gt;Finding UPC&lt;/strong&gt;&lt;/h5&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;attachments/1671180/1933318.jpg&#34; alt=&#34;&#34;&gt;
 ]&lt;/p&gt;
 &lt;h5 id=&#34;finding-the-meeting-room&#34;&gt;&lt;strong&gt;Finding the meeting room&lt;/strong&gt;&lt;/h5&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;h5 id=&#34;getting-there&#34;&gt;Getting there&lt;/h5&gt;
 &lt;p&gt;&lt;strong&gt;Flying:&lt;/strong&gt; Barcelona airport is situated 12 km from the city. There are
 several ways of getting from the airport to the centre of Barcelona, the
-cheapest of which is to take the train located outside just a few
+cheapest of which is to take the train located outside just a few
 minutes walking distance past the parking lots at terminal 2 (there is a
-free bus between terminal 1 and terminal 2, see this &lt;a href=&#34;http://goo.gl/maps/iJqlj&#34;&gt;map of the
+free bus between terminal 1 and terminal 2, see this &lt;a href=&#34;http://goo.gl/maps/iJqlj&#34;&gt;map of the
 airport&lt;/a&gt;). It is possible to
 buy 10 packs of train tickets which makes it cheaper. Taking the bus to
 the centre of town is more convenient as they leave directly from
 terminal 1 and 2, however it is more expensive than the train.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Rail:&lt;/strong&gt; The Renfe commuter train leaves the airport every 30 minutes
+&lt;p&gt;&lt;strong&gt;Rail:&lt;/strong&gt; The Renfe commuter train leaves the airport every 30 minutes
 from 6.13 a.m. to 11.40 p.m. Tickets cost around 3€ and the journey to
 the centre of Barcelona (Sants or Plaça Catalunya stations) takes 20
 minutes.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bus:&lt;/strong&gt; The Aerobus leaves the airport every 12 minutes, from 6.00 a.m.
+&lt;p&gt;&lt;strong&gt;Bus:&lt;/strong&gt; The Aerobus leaves the airport every 12 minutes, from 6.00 a.m.
 to 24.00, Monday to Friday, and from 6.30 a.m. to 24.00 on Saturdays,
 Sundays and public holidays. Tickets cost 6€ and the journey ends in
 Plaça Catalunya in the centre of Barcelona.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Taxi:&lt;/strong&gt; From the airport, you can take one of Barcelona&#39;s typical
+&lt;p&gt;&lt;strong&gt;Taxi:&lt;/strong&gt; From the airport, you can take one of Barcelona&#39;s typical
 black and yellow taxis. Taxis may not take more than four passengers.
 Unoccupied taxis display a green light and have a clearly visible sign
 showing LIBRE or LLIURE. The trip to Sants train station costs
@@ -3238,17 +3229,16 @@ approximately €20 and trips to other destinations in the city cost
 approximately €25-30.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Train and bus:&lt;/strong&gt; Barcelona has two international train stations: Sants
 and França. Bus companies have different points of arrival in different
-parts of the city. You can find detailed information in the following
-link: &lt;a href=&#34;http://www.barcelona-airport.com/eng/transport_eng.htm&#34;&gt;http://www.barcelona-airport.com/eng/transport_eng.htm&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
+parts of the city. You can find detailed information in the following
+link: &lt;a href=&#34;http://www.barcelona-airport.com/eng/transport_eng.htm&#34;&gt;http://www.barcelona-airport.com/eng/transport_eng.htm&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;attachments/1671180/1933316.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;the-locations-of-the-airport-and-the-city-centre&#34;&gt;&lt;strong&gt;The locations of the airport and the city centre&lt;/strong&gt;&lt;/h5&gt;
 &lt;h4 id=&#34;accomodation&#34;&gt;Accomodation&lt;/h4&gt;
-&lt;p&gt;The following hotels are recommended. The two first are located near the
+&lt;p&gt;The following hotels are recommended. The two first are located near the
 UPC campus and they take 10-15 min by foot to reach the TUC meeting
 location. The two last are located at the city center. They require
 about 30 min (taking metro L3 at plaça Catalunya) to reach the TUC
-meeting location. You can see the hotel locations in &lt;a href=&#34;https://maps.google.es/maps/ms?msid=205398946114145535508.0004cbc8999989b0bcd43&amp;amp;msa=0&amp;amp;ll=41.390461,2.135639&amp;amp;spn=0.039923,0.077162&#34;&gt;this google
+meeting location. You can see the hotel locations in &lt;a href=&#34;https://maps.google.es/maps/ms?msid=205398946114145535508.0004cbc8999989b0bcd43&amp;amp;msa=0&amp;amp;ll=41.390461,2.135639&amp;amp;spn=0.039923,0.077162&#34;&gt;this google
 map&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Hotel Husa Pedralbes&lt;/strong&gt;
 &lt;br&gt;
@@ -3262,41 +3252,37 @@ Capita Arenas, 51&lt;br&gt;
 08034 Barcelona&lt;br&gt;
 932 04 09 00&lt;br&gt;
 &lt;a href=&#34;http://www.hotelbonanovapark.com/&#34;&gt;www.hotelbonanovapark.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Hotel Inglaterra Barcelona&lt;/strong&gt;
 &lt;br&gt;
 Carrer de Pelai, 14&lt;br&gt;
 08001 Barcelona&lt;br&gt;
 935 05 11 00&lt;br&gt;
 &lt;a href=&#34;http://www.hotel-inglaterra.com/&#34;&gt;www.hotel-inglaterra.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Hotel Jazz&lt;/strong&gt;
 &lt;br&gt;
 Carrer de Pelai, 3&lt;br&gt;
 08001 Barcelona&lt;br&gt;
 935 52 96 96&lt;br&gt;
 &lt;a href=&#34;http://www.hoteljazz.com/&#34;&gt;www.hoteljazz.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;In addition to the hotels above, there is the possibility to stay at the
-&amp;quot;Torre Girona&amp;quot; residence. It is the closest and cheapest option
-available. You can find &lt;a href=&#34;http://www.resa.es/eng/Residences/Torre-Girona/daily-accommodation/(reservas)/Diario/(sec)/full&#34;&gt;detailed information
-here&lt;/a&gt;. Basically,
+&amp;quot;Torre Girona&amp;quot; residence. It is the closest and cheapest option
+available. You can find &lt;a href=&#34;http://www.resa.es/eng/Residences/Torre-Girona/daily-accommodation/(reservas)/Diario/(sec)/full&#34;&gt;detailed information
+here&lt;/a&gt;. Basically,
 it costs 53 euros for a single room and 60 to 88 euros for a double room
 depending if it is occupied by one or two people. If anyone is
 interested in this option, you should send an email
-to &lt;a href=&#34;mailto:torregirona@resa.es&#34;&gt;torregirona@resa.es&lt;/a&gt; asking for a reservation.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
+to &lt;a href=&#34;mailto:torregirona@resa.es&#34;&gt;torregirona@resa.es&lt;/a&gt; asking for a reservation.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Torre Girona Residence Hall&lt;/strong&gt;&lt;br&gt;
 Passeig dels Til·lers, 19&lt;br&gt;
 08034 Barcelona&lt;br&gt;
 Telephone: 0034 93 390 43 00&lt;br&gt;
 Fax: 0034 93 205 69 10&lt;br&gt;
-E-mail: &lt;a href=&#34;mailto:torregirona@resa.es&#34;&gt;torregirona@resa.es&lt;/a&gt;&lt;/p&gt;
+E-mail: &lt;a href=&#34;mailto:torregirona@resa.es&#34;&gt;torregirona@resa.es&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;travel-costs&#34;&gt;Travel costs&lt;/h4&gt;
 &lt;p&gt;There is a small budget available that can be used to assist some
 attendees that are otherwise unable to fund their trip. Please contact
 us using the following email address if you would like more
-information: ldbcgrants AT ac DOT upc DOT edu&lt;/p&gt;
+information: ldbcgrants AT ac DOT upc DOT edu&lt;/p&gt;
 &lt;h3 id=&#34;attachments&#34;&gt;Attachments:&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
 &lt;a href=&#34;attachments/6881717/6981131.pdf&#34;&gt;LDBC_TUC6_Boncz.pdf&lt;/a&gt;
@@ -4001,7 +3987,7 @@ but to demonstrate the potential of the idea in various directions.&lt;/p&gt;
       <guid>https://ldbc.github.io/post/person-activity-subgraph-features-in-ldbc-datagen/</guid>
       <description>&lt;p&gt;When talking about DATAGEN and other graph generators with social
 network characteristics, our attention is typically borrowed by the
-friendship subgraph and/or its structure. However, a social graph is
+friendship subgraph and/or its structure. However, a social graph is
 more than a bunch of people being connected by friendship relations, but
 has a lot more of other things is worth to look at. With a quick view to
 commercial social networks like Facebook, Twitter or Google+, one can
@@ -4083,43 +4069,43 @@ mining&lt;/em&gt; (pp. 497-506). ACM.&lt;/p&gt;
       <pubDate>Fri, 23 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://ldbc.github.io/post/snb-driver-part-2-tracking-dependencies-between-queries/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;../snb-driver-part-1&#34;&gt;SNB Driver part 1&lt;/a&gt; post
+      <description>&lt;p&gt;The &lt;a href=&#34;../snb-driver-part-1&#34;&gt;SNB Driver part 1&lt;/a&gt; post
 introduced, broadly, the challenges faced when developing a workload
 driver for the LDBC SNB benchmark. In this blog we&amp;rsquo;ll drill down deeper
 into the details of what it means to execute &amp;ldquo;dependent queries&amp;rdquo; during
-benchmark execution, and how this is handled in the driver. First of
+benchmark execution, and how this is handled in the driver. First of
 all, as many driver-specific terms will be used, below is a listing of
-their definitions. There is no need to read them in detail, it is just
+their definitions. There is no need to read them in detail, it is just
 there to serve as a point of reference.&lt;/p&gt;
 &lt;h3 id=&#34;definitions&#34;&gt;Definitions&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;Simulation Time (ST)&lt;/em&gt;: notion of time created by data generator. All
-time stamps in the generated data set are in simulation time&lt;/li&gt;
+time stamps in the generated data set are in simulation time&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Real Time (RT)&lt;/em&gt;: wall clock time&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Time Compression Ratio&lt;/em&gt;: function that maps simulation time to real
-time, e.g., an offset in combination with a compression ratio. It is a
+time, e.g., an offset in combination with a compression ratio. It is a
 static value, set in driver configuration. Real Time Ratio is reported
-along with benchmark results, allowing others to recreate the same
+along with benchmark results, allowing others to recreate the same
 benchmark&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Operation&lt;/em&gt;: read and/or write&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Dependencies&lt;/em&gt;: operations in this set introduce dependencies in the
-workload. That is, for every operation in this set there exists at least
+workload. That is, for every operation in this set there exists at least
 one other operation (in Dependents) that can not be executed until this
 operation has been processed&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Dependents&lt;/em&gt;: operations in this set are dependent on at least one
-other operation (in Dependencies) in the workload&lt;/li&gt;
+other operation (in Dependencies) in the workload&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Due Time (DueT)&lt;/em&gt;: point in simulation time at which the execution of
 an operation should be initiated.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Dependent Time (DepT)&lt;/em&gt;: in addition to Due Time, every operation in
 Dependents also has a Dependent Time, which corresponds to the Due Time
-of the operation that it depends on. Dependent Time is always before Due
+of the operation that it depends on. Dependent Time is always before Due
 Time. For operations with multiple dependencies Dependent Time is the
-maximum Due Time of all the operations it depends on.&lt;/li&gt;
+maximum Due Time of all the operations it depends on.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Safe Time (SafeT)&lt;/em&gt;: time duration.
 ** when two operations have a necessary order in time (i.e., dependency)
 there is at least a SafeT interval between them
 ** SafeT is the minimum duration between the Dependency Time and Due
-Time of any operations in Dependents&lt;/li&gt;
+Time of any operations in Dependents&lt;/li&gt;
 &lt;li&gt;​&lt;em&gt;Operation Stream&lt;/em&gt;: sequence of operations ordered by Due Time
 (dependent operations must separated by at least SafeT)&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Initiated Operations&lt;/em&gt;: operations that have started executing but not
@@ -4128,34 +4114,33 @@ yet finished&lt;/li&gt;
 which there are no uncompleted operationsLocal Completion Time =
 min(min(Initiated Operations), max(Completed Operations))&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Global Completion Time (GCT)&lt;/em&gt;: minimum completion time of all
-drivers. Once GCT has advanced to the Dependent Time of some operation
+drivers. Once GCT has advanced to the Dependent Time of some operation
 that operation is safe to execute, i.e., the operations it depends
-on have all completed executing. Global Completion Time = min(Local
+on have all completed executing. Global Completion Time = min(Local
 Completion Time)​&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Execution Window (Window)&lt;/em&gt;: a timespan within which all operations
 can be safely executed
 ** All operations satisfying window.startTime &amp;lt;= operation.DueT &amp;lt;
 window.endTime may be executed
 ** Within a window no restrictions on operation ordering or operation
-execution time are enforced, driver has a freedom of choosing an
+execution time are enforced, driver has a freedom of choosing an
 arbitrary scheduling strategy inside the window
 ** To ensure that execution order respects dependencies between
-operations, window size is bounded by SafeT, such that: 0 &amp;lt;
+operations, window size is bounded by SafeT, such that: 0 &amp;lt;
 window.duration &amp;lt;= SafeT
 ** Window duration is fixed, per operation stream; this is to simplify
-scheduling and make benchmark runs repeatable
+scheduling and make benchmark runs repeatable
 ** Before any operations within a window can start executing it is
-required that: GCT &amp;gt;= window.startTime - (SafeT - window.duration)
+required that: GCT &amp;gt;= window.startTime - (SafeT - window.duration)
 ** All operations within a window must initiate and complete between
-window start and end times: window.startTime &amp;lt;= operation.initiate &amp;lt;
-window.endTime and window.startTime &amp;lt;= operation.complete &amp;lt;
+window start and end times: window.startTime &amp;lt;= operation.initiate &amp;lt;
+window.endTime and window.startTime &amp;lt;= operation.complete &amp;lt;
 window.endTime&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Dependency Mode&lt;/em&gt;: defines dependencies, constraints on operation
 execution order&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Execution Mode&lt;/em&gt;: defines how the runtime should execute operations of
 a given type&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;h3 id=&#34;tracking-dependencies&#34;&gt;Tracking Dependencies&lt;/h3&gt;
 &lt;p&gt;Now, the fun part, making sure dependent operations are executed in the
 correct order.&lt;/p&gt;
@@ -4169,18 +4154,24 @@ is guaranteed to have completed execution. It does this by maintaining a
 monotonically increasing variable called Global Completion Time (GCT).&lt;/p&gt;
 &lt;p&gt;Logically, every time the driver (via a database connector) begins
 execution of an operation from Dependencies that operation is added to
-Initiated Operations: &lt;/p&gt;
-&lt;p&gt;  - the set of operations that have started executing but not yet
-finished. &lt;/p&gt;
+Initiated Operations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the set of operations that have started executing but not yet
+finished.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Then, upon completion, the operation is removed from Initiated
-Operations and added to Completed Operations: &lt;/p&gt;
-&lt;p&gt;  - the set of operations that have started and finished executing. &lt;/p&gt;
+Operations and added to Completed Operations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the set of operations that have started and finished executing.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Using these sets, each driver process maintains its own view of GCT in
 the following way. Local progress is monitored and managed using a
-variable called Local Completion Time (LCT): &lt;/p&gt;
-&lt;p&gt; - the point in time behind which there are no uncompleted operations.
+variable called Local Completion Time (LCT):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the point in time behind which there are no uncompleted operations.
 No operation in Initiated Operations has a lower or equal Due Time and
-no operation in Completed Operations has an equal or higher Due Time. &lt;/p&gt;
+no operation in Completed Operations has an equal or higher Due Time.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;LCT is periodically sent to all other driver processes, which all then
 (locally) set their view of GCT to the minimum LCT of all driver
 processes.
@@ -4204,25 +4195,25 @@ safely executed, which would result in the undesirable outcome of every
 operation missing its Due Time.
 The required information is which particular operation in Dependencies
 does any operation in Dependents depend on. More specifically, the Due
-Time of this operation. This is referred to as Dependent Time: &lt;/p&gt;
-&lt;p&gt; - in addition to Due Time, every operation in Dependents also has
+Time of this operation. This is referred to as Dependent Time:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;in addition to Due Time, every operation in Dependents also has
 (read: must have) a Dependent Time, which corresponds to the latest Due
 Time of all the operations it depends on. Once GCT has advanced beyond
-the Dependent Time of an operation that operation is safe to execute.&lt;/p&gt;
+the Dependent Time of an operation that operation is safe to execute.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Using these three mechanisms (Due Time, GCT, and Dependent Time) the
 driver is able to execute operations, while ensuring their dependencies
 are satisfied beforehand.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;h3 id=&#34;scalable-execution-in-the-presence-of-dependencies&#34;&gt;Scalable execution in the Presence of Dependencies&lt;/h3&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;The mechanisms introduced in part 1 guarantee that dependency
 constraints are not violated, but in doing so they unavoidably introduce
 overhead of communication/synchronization between driver
 threads/processes. To minimize the negative effects that synchronization
 has on scalability an additional Execution Mode was introduced (more
 about Execution Modes will be discussed shortly): Windowed
-Execution. Windowed Execution has two design goals: &lt;/p&gt;
-&lt;p&gt;a) make the generated load less &amp;lsquo;bursty&amp;rsquo; &lt;/p&gt;
+Execution. Windowed Execution has two design goals:&lt;/p&gt;
+&lt;p&gt;a) make the generated load less &amp;lsquo;bursty&amp;rsquo;&lt;/p&gt;
 &lt;p&gt;b) allow the driver to &amp;lsquo;scale&amp;rsquo;, so when the driver is given more
 resources (CPUs, servers, etc.) it is able to generate more load.&lt;/p&gt;
 &lt;p&gt;In the context of Windowed Execution, operations are executed in groups
@@ -4280,7 +4271,6 @@ Window size 5 (on the right) has better resolution, especially for the
 &amp;lsquo;bursty&amp;rsquo; part of the event stream.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;window-scheduling.png&#34; alt=&#34;image&#34;&gt;&lt;br&gt;
 Figure 1. Window scheduling&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;This design also trades a small amount of repeatability for scalability:
 as there are no timing or ordering guarantees within a window, two
 executions of the same window are not guaranteed to be equivalent -
@@ -4310,8 +4300,7 @@ assign a Dependency Mode and an Execution Mode to every operation type.
 Using these classifications the driver runtime then knows how each
 operation should be executed. These modes, as well as what they mean to
 the driver runtime, are described below.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;h3 id=&#34;dependency-modes&#34;&gt;Dependency Modes &lt;/h3&gt;
+&lt;h3 id=&#34;dependency-modes&#34;&gt;Dependency Modes&lt;/h3&gt;
 &lt;p&gt;While executing a workload the driver treats operations differently,
 depending on their Dependency Mode. In the previous section operations
 were categorized by whether or not they are in the sets Dependencies
@@ -4323,7 +4312,6 @@ Dependency modes define dependencies, constraints on operation execution
 order. The driver supports a number of different Dependency Modes: None,
 Read Only, Write Only, Read Write. During workload execution, operations
 of each type are treated as follows:&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;• None&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Depended On (NO): operations do not introduce dependencies with other
 operations (i.e., the correct execution of no other operation depends on
@@ -4361,18 +4349,15 @@ requires that certain operations have completed execution)&lt;/p&gt;
 operation.DepT&lt;/p&gt;
 &lt;p&gt;– After Execution: remove operation from Initiated Operations, add
 operation to Completed Operations&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;h3 id=&#34;execution-modes&#34;&gt;Execution Modes&lt;/h3&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;Execution Modes relate to how operations are scheduled, when they are
-executed, and what their failure conditions are. Each operation type in
+executed, and what their failure conditions are. Each operation type in
 a workload definition must be assigned to exactly one Execution Mode.
 The driver supports a number of different Execution Modes: Asynchronous,
 Synchronous, Partially Synchronous. It splits a single workload
 operation stream into multiple streams, zero or more steams per
 Execution Mode. During workload execution, operations from each of these
 streams are treated as follows.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;• Asynchronous&lt;/strong&gt;: operations are executed individually, when their Due
 Time arrives.&lt;/p&gt;
 &lt;p&gt;Motivation: This is the default execution mode, it executes operations
@@ -4384,7 +4369,6 @@ operation.DepT)&lt;/p&gt;
 &lt;p&gt;– Max Execution Time: unbounded&lt;/p&gt;
 &lt;p&gt;– Failure: operation execution starts later than: operation.DueT
 Tolerated Delay&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;• Synchronous&lt;/strong&gt;: operations are executed individually, sequentially, in
 blocking manner.&lt;/p&gt;
 &lt;p&gt;Motivation: Some dependencies are difficult to capture efficiently with
@@ -4422,7 +4406,6 @@ true (and GCT &amp;gt;= operation.DepT)&lt;/p&gt;
 &lt;p&gt;– Failure: operation execution starts later than: operation.DueT
 Tolerated Delay E.g., if previousOperation did not complete in time,
 forcing current operation to wait for longer than tolerated- Delay&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;• Partially Synchronous&lt;/strong&gt; (Windowed Execution, described in Section 3.4
 in more details), groups of operations from the same time window are
 executed together&lt;/p&gt;
@@ -4438,9 +4421,7 @@ therefore ordering, may be modified&lt;/p&gt;
 operation.DueT&lt;/p&gt;
 &lt;p&gt;– Failure: operation execution starts later than: window.startTime
 window.duration operation execution does not finish by: window.startTime + window.duration&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;h3 id=&#34;tying-it-back-to-ldbc-snb&#34;&gt;Tying it back to LDBC SNB&lt;/h3&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;The driver was designed to execute the workload of LDBC SNB. As
 discussed, the main challenge of running queries in parallel on
 graph-shaped data stem from dependencies introduced by the graph
@@ -4498,7 +4479,7 @@ choose an &lt;a href=&#34;../making-semantic-publishing-execution-rules&#34;&gt;
 development process of GraphDB for &lt;a href=&#34;../using-ldbc-spb-to-find-owlim-performance-issues&#34;&gt;finding performance issues&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;In this post we provide a step-by-step guide on how to run SPB using the
 &lt;a href=&#34;http://rdf4j.org/&#34;&gt;Sesame&lt;/a&gt; RDF data store on a fresh
-install of &lt;a href=&#34;http://releases.ubuntu.com/14.04.1/&#34;&gt;Ubuntu Server 14.04.1&lt;/a&gt;. The scenario is easy to adapt to other RDF triple
+install of &lt;a href=&#34;http://releases.ubuntu.com/14.04.1/&#34;&gt;Ubuntu Server 14.04.1&lt;/a&gt;. The scenario is easy to adapt to other RDF triple
 stores which support the Sesame Framework used for querying and
 analyzing RDF data.&lt;/p&gt;
 &lt;h3 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h3&gt;
@@ -4508,7 +4489,7 @@ pieces of software up and running:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Git&lt;/li&gt;
 &lt;li&gt;Apache Ant 1.8 or higher&lt;/li&gt;
-&lt;li&gt;OpenJDK 6 or Oracle JDK 6 or higher&lt;/li&gt;
+&lt;li&gt;OpenJDK 6 or Oracle JDK 6 or higher&lt;/li&gt;
 &lt;li&gt;Apache Tomcat 7 or higher&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;If you already have these components installed on your machine you can
@@ -4523,8 +4504,7 @@ sudo apt-get install tomcat7
 extracted in a location of choice.&lt;/p&gt;
 &lt;p&gt;After a successful installation of Apache Tomcat you should be able to
 get the default splash page &lt;em&gt;“It works”&lt;/em&gt; when you open your web browser
-and enter the following address:  http://&amp;lt;your_ip_address&amp;gt;:8080&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
+and enter the following address:  http://&amp;lt;your_ip_address&amp;gt;:8080&lt;/p&gt;
 &lt;h3 id=&#34;installing-sesame&#34;&gt;Installing Sesame&lt;/h3&gt;
 &lt;p&gt;We will use current Sesame version 2.7.14. You can download it &lt;a href=&#34;http://sourceforge.net/projects/sesame/files/Sesame%202/&#34;&gt;here&lt;/a&gt; or run following command:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;wget &lt;span style=&#34;color:#ae81ff&#34;&gt;\\&lt;/span&gt;
@@ -4536,12 +4516,11 @@ and enter the following address:  http://&amp;lt;your_ip_address&amp;gt;:8080&l
 &lt;em&gt;openrdf-sesame-2.7.14/war&lt;/em&gt; to &lt;em&gt;/var/lib/tomcat7/webapps&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;From &lt;em&gt;openrdf-sesame-2.7.14/war&lt;/em&gt; you can do it with command:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;cp openrdf-*.war &amp;lt;tomcat_install&amp;gt;/webapps
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt; 
-Sesame applications write and store configuration files in a single
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Sesame applications write and store configuration files in a single
 directory and the tomcat server needs permissions for it. You can find
 more information about this directory
 &lt;a href=&#34;http://rdf4j.org/sesame/2.7/docs/articles/datadir.docbook?view%5B%5B.underline%5D#here#%5D&#34;&gt;http://rdf4j.org/sesame/2.7/docs/articles/datadir.docbook?view[[.underline]#here#]&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;By default the configuration directory is: &lt;em&gt;/usr/share/tomcat7/.aduna&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;By default the configuration directory is: &lt;em&gt;/usr/share/tomcat7/.aduna&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Create the directory:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;sudo mkdir /usr/share/tomcat7/.aduna
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Then change the ownership:&lt;/p&gt;
@@ -4549,7 +4528,7 @@ more information about this directory
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;And finally you should give the necessary permissions:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;sudo chmod o+rwx /usr/share/tomcat7/.aduna
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Now when you go
-to: http://&amp;lt;your_ip_address&amp;gt;:8080/openrdf-workbench/repositories&lt;/p&gt;
+to: http://&amp;lt;your_ip_address&amp;gt;:8080/openrdf-workbench/repositories&lt;/p&gt;
 &lt;p&gt;You should get a screen like this:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;01-Sesame-repo-list.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;setup-spb&#34;&gt;Setup SPB&lt;/h3&gt;
@@ -4557,7 +4536,7 @@ to: http://&amp;lt;your_ip_address&amp;gt;:8080/openrdf-workbench/repositories&
 &lt;p&gt;&lt;a href=&#34;https://github.com/ldbc/ldbc_spb_bm&#34;&gt;https://github.com/ldbc/ldbc_spb_bm&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;A detailed documentation is located here:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/ldbc/ldbc_spb_bm/blob/master/doc/LDBC_SPB_v0.3.pdf&#34;&gt;https://github.com/ldbc/ldbc_spb_bm/blob/master/doc/LDBC_SPB_v0.3.pdf&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;SPB offers many configuration options which control various features of
+&lt;p&gt;SPB offers many configuration options which control various features of
 the benchmark e.g.:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;query mixes&lt;/li&gt;
@@ -4580,14 +4559,14 @@ run with it.&lt;/p&gt;
 driver, but for the purpose of this step-by-step guide, configuration
 shown above is sufficient.&lt;/p&gt;
 &lt;p&gt;Depending on generated dataset size a bigger java heap size may be
-required for the Sesame Store. You can change it by adding following
-arguments to Tomcat&amp;rsquo;s startup files e.g. in &lt;em&gt;catalina.sh&lt;/em&gt;:&lt;/p&gt;
+required for the Sesame Store. You can change it by adding following
+arguments to Tomcat&amp;rsquo;s startup files e.g. in &lt;em&gt;catalina.sh&lt;/em&gt;:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;export JAVA_OPTS&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;-d64 -Xmx4G&amp;#34;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To run the Benchmark you need to create a repository in the Sesame Data
 Store, similar to the following screenshot:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;02-Sesame-create-repo.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Then we need to point the benchmark test driver to the SPARQL endpoint of that repository. This is done in &lt;em&gt;ldbc_spb_bm/dist/test.properties&lt;/em&gt; file.&lt;/p&gt;
-&lt;p&gt;The default value of &lt;em&gt;datasetSize&lt;/em&gt; in the properties is set to be 10M,
+&lt;p&gt;Then we need to point the benchmark test driver to the SPARQL endpoint of that repository. This is done in &lt;em&gt;ldbc_spb_bm/dist/test.properties&lt;/em&gt; file.&lt;/p&gt;
+&lt;p&gt;The default value of &lt;em&gt;datasetSize&lt;/em&gt; in the properties is set to be 10M,
 but for the purpose of this guide we will decrease it to 1M.&lt;/p&gt;
 &lt;p&gt;You need to change&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;datasetSize=1000000
@@ -4610,14 +4589,12 @@ warmUp=false
 runBenchmark=false
 runBenchmarkOnlineReplicationAndBackup=false
 checkConformance=false
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;To run the benchmark execute the following:&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;To run the benchmark execute the following:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;java -jar semantic_publishing_benchmark-basic-standard.jar
 test.properties
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;When the initial run has finished, we should have a 1M dataset loaded
 into the repository and a set of files with query substitution
 parameters.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;Next we we will measure the performance of Sesame Data Store by changing
 some configuration properties:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;#Benchmark Configuration Parameters
@@ -4636,9 +4613,9 @@ runBenchmark=true
 runBenchmarkOnlineReplicationAndBackup=false
 checkConformance=false
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;After the benchmark test run has finished result files are saved in
-folder: &lt;em&gt;dist/logs&lt;/em&gt;&lt;/p&gt;
+folder: &lt;em&gt;dist/logs&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;There you will find three types of results: the result summary of the
-benchmark run (&lt;em&gt;semantic_publishing_benchmark_results.log),&lt;/em&gt; brief
+benchmark run (&lt;em&gt;semantic_publishing_benchmark_results.log),&lt;/em&gt; brief
 results and detailed results.&lt;/p&gt;
 &lt;p&gt;In &lt;em&gt;semantic_publishing_benchmark_results.log&lt;/em&gt; you will find the results
 distributed per seconds. They should be similar to the listing bellow:&lt;/p&gt;
@@ -4787,9 +4764,9 @@ test runs are identical.&lt;/p&gt;
 &lt;p&gt;We use two types of instances – M3 and C3 instances. They both provide
 SSD storage for fast I/O performance. The M3 instances are with
 E5-2670v2, 2.50GHz CPU and provide good all-round performance, while the
-C3 instances are compute optimized with stronger CPU – E5-2680v2,
+C3 instances are compute optimized with stronger CPU – E5-2680v2,
 2.80GHz, but have half as much memory as the M3.&lt;/p&gt;
-&lt;p&gt;We also use a local physical server with dual-CPU – E5-2650v2, 2.60Ghz;
+&lt;p&gt;We also use a local physical server with dual-CPU – E5-2650v2, 2.60Ghz;
 256GB of RAM and RAID-0 array of SSD in order to provide ground for
 interpretation of the performance for the virtualized AWS instances. The
 CPU capacity of the AWS instances is measured in vCPUs (virtual CPU). A
@@ -5172,8 +5149,7 @@ d2 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; df[,&lt;span
   xlab&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Number of friends&amp;#34;&lt;/span&gt;, ylab&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Percentage number of users&amp;#34;&lt;/span&gt;, log&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;x&amp;#34;&lt;/span&gt;,
   xlim&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;c&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;0.8&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;max&lt;/span&gt;(d2&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;V1) &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;20&lt;/span&gt;))
 &lt;span style=&#34;color:#a6e22e&#34;&gt;dev.off&lt;/span&gt;()
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt; &lt;/p&gt;
-&lt;h3 id=&#34;data-correlations&#34;&gt;Data Correlations&lt;/h3&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;data-correlations&#34;&gt;Data Correlations&lt;/h3&gt;
 &lt;p&gt;Data in real life as well as in a real social network is correlated;
 e.g. names of people living in Germany have a different distribution
 than those living in Netherlands, people who went to the same university
@@ -5184,16 +5160,16 @@ DATAGEN also reproduces these phenomena.&lt;/p&gt;
 &lt;p&gt;We run the following query on the database built in Virtuoso, which
 computes the distribution of the names of the people for a given
 country. In this query, &lt;em&gt;&amp;lsquo;A_country_name&amp;rsquo;&lt;/em&gt; is the name of a particular
-country such as  &lt;em&gt;&amp;lsquo;Germany&amp;rsquo;, &amp;lsquo;Netherlands&amp;rsquo;, or &amp;lsquo;Vietnam&amp;rsquo;&lt;/em&gt;.&lt;/p&gt;
+country such as  &lt;em&gt;&amp;lsquo;Germany&amp;rsquo;, &amp;lsquo;Netherlands&amp;rsquo;, or &amp;lsquo;Vietnam&amp;rsquo;&lt;/em&gt;.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sql&#34; data-lang=&#34;sql&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;SELECT&lt;/span&gt; p_lastname, &lt;span style=&#34;color:#66d9ef&#34;&gt;count&lt;/span&gt; (p_lastname) &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; namecnt 
 &lt;span style=&#34;color:#66d9ef&#34;&gt;FROM&lt;/span&gt; person, country 
-&lt;span style=&#34;color:#66d9ef&#34;&gt;WHERE&lt;/span&gt; p_placeid &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; ctry_city   
+&lt;span style=&#34;color:#66d9ef&#34;&gt;WHERE&lt;/span&gt; p_placeid &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; ctry_city   
   &lt;span style=&#34;color:#66d9ef&#34;&gt;and&lt;/span&gt; ctry_name &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;A_country_name&amp;#39;&lt;/span&gt; 
 &lt;span style=&#34;color:#66d9ef&#34;&gt;GROUP&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;BY&lt;/span&gt; p_lastname &lt;span style=&#34;color:#66d9ef&#34;&gt;order&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;by&lt;/span&gt; namecnt &lt;span style=&#34;color:#66d9ef&#34;&gt;desc&lt;/span&gt;;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;As we can see from Figures 2, 3, and 4, the distributions of names in
 Germany, Netherlands and Vietnam are different. A name that is popular
 in Germany such as &lt;em&gt;Muller&lt;/em&gt; is not popular in the Netherlands, and it
-even does not appear in the names of people in Vietnam.  We note that
+even does not appear in the names of people in Vietnam.  We note that
 the names&#39; distribution may not be exactly the same as the contemporary
 names&#39; distribution in these countries, since the names resource files
 used in DATAGEN are extracted from Dbpedia, which may contain names from
@@ -5210,10 +5186,10 @@ of people living in China.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sql&#34; data-lang=&#34;sql&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;SELECT&lt;/span&gt; top &lt;span style=&#34;color:#ae81ff&#34;&gt;10&lt;/span&gt; fctry.ctry_name, &lt;span style=&#34;color:#66d9ef&#34;&gt;count&lt;/span&gt; (&lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt;) &lt;span style=&#34;color:#66d9ef&#34;&gt;from&lt;/span&gt; person &lt;span style=&#34;color:#66d9ef&#34;&gt;self&lt;/span&gt;, person
 friend, country pctry, knows, country fctry 
 &lt;span style=&#34;color:#66d9ef&#34;&gt;WHERE&lt;/span&gt; pctry.ctry_name &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;China&amp;#39;&lt;/span&gt; 
-  &lt;span style=&#34;color:#66d9ef&#34;&gt;and&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;self&lt;/span&gt;.p_placeid &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; pctry.ctry_city 
-  &lt;span style=&#34;color:#66d9ef&#34;&gt;and&lt;/span&gt; k_person1id &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;self&lt;/span&gt;.p_personid &lt;span style=&#34;color:#66d9ef&#34;&gt;and&lt;/span&gt; friend.p_personid &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; k_person2id 
-  &lt;span style=&#34;color:#66d9ef&#34;&gt;and&lt;/span&gt; fctry.ctry_city &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; friend.p_placeid 
-&lt;span style=&#34;color:#66d9ef&#34;&gt;GROUP&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;BY&lt;/span&gt; fctry.ctry_name &lt;span style=&#34;color:#66d9ef&#34;&gt;ORDER&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;BY&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;desc&lt;/span&gt;;    
+  &lt;span style=&#34;color:#66d9ef&#34;&gt;and&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;self&lt;/span&gt;.p_placeid &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; pctry.ctry_city 
+  &lt;span style=&#34;color:#66d9ef&#34;&gt;and&lt;/span&gt; k_person1id &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;self&lt;/span&gt;.p_personid &lt;span style=&#34;color:#66d9ef&#34;&gt;and&lt;/span&gt; friend.p_personid &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; k_person2id 
+  &lt;span style=&#34;color:#66d9ef&#34;&gt;and&lt;/span&gt; fctry.ctry_city &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; friend.p_placeid 
+&lt;span style=&#34;color:#66d9ef&#34;&gt;GROUP&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;BY&lt;/span&gt; fctry.ctry_name &lt;span style=&#34;color:#66d9ef&#34;&gt;ORDER&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;BY&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;desc&lt;/span&gt;;    
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;As shown in the graph, most of the friends of people living in China are
 also living in China. The rest comes predominantly from near-by
 countries such as India, Vietnam.&lt;/p&gt;
@@ -5226,10 +5202,10 @@ studying at a specific university (e.g.,
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sql&#34; data-lang=&#34;sql&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;SELECT&lt;/span&gt; top &lt;span style=&#34;color:#ae81ff&#34;&gt;10&lt;/span&gt; o2.o_name, &lt;span style=&#34;color:#66d9ef&#34;&gt;count&lt;/span&gt;(o2.o_name) &lt;span style=&#34;color:#66d9ef&#34;&gt;from&lt;/span&gt; knows, person_university
 p1, person_university p2, organisation o1, organisation o2 
 &lt;span style=&#34;color:#66d9ef&#34;&gt;WHERE&lt;/span&gt; 
-  p1.pu_organisationid &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; o1.o_organisationid 
-  &lt;span style=&#34;color:#66d9ef&#34;&gt;and&lt;/span&gt; o1.o_name&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;Hangzhou_International_School&amp;#39;&lt;/span&gt; 
-  &lt;span style=&#34;color:#66d9ef&#34;&gt;and&lt;/span&gt; k_person1id &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; p1.pu_personid &lt;span style=&#34;color:#66d9ef&#34;&gt;and&lt;/span&gt; p2.pu_personid &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; k_person2id 
-  &lt;span style=&#34;color:#66d9ef&#34;&gt;and&lt;/span&gt; p2.pu_organisationid &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; o2.o_organisationid 
+  p1.pu_organisationid &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; o1.o_organisationid 
+  &lt;span style=&#34;color:#66d9ef&#34;&gt;and&lt;/span&gt; o1.o_name&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;Hangzhou_International_School&amp;#39;&lt;/span&gt; 
+  &lt;span style=&#34;color:#66d9ef&#34;&gt;and&lt;/span&gt; k_person1id &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; p1.pu_personid &lt;span style=&#34;color:#66d9ef&#34;&gt;and&lt;/span&gt; p2.pu_personid &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; k_person2id 
+  &lt;span style=&#34;color:#66d9ef&#34;&gt;and&lt;/span&gt; p2.pu_organisationid &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; o2.o_organisationid 
 &lt;span style=&#34;color:#66d9ef&#34;&gt;GROUP&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;BY&lt;/span&gt; o2.o_name &lt;span style=&#34;color:#66d9ef&#34;&gt;ORDER&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;BY&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;desc&lt;/span&gt;;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;As we see from Figure 6, most of the friends of the Hangzhou
 International School students also study at that university. This is a
@@ -5237,7 +5213,7 @@ realistic correlation, as people studying at the same university have a
 much higher probability to be friends. Furthermore, top-10 universities
 for the friends of the Hangzhou School students’ are from China, while
 people from foreign universities have small number of friends that study
-in Hangzhou School (See Table 1).  &lt;/p&gt;
+in Hangzhou School (See Table 1).&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;friends-international-school.png&#34; alt=&#34;&#34;&gt;&lt;br&gt;
 Figure 6. Top-10 universities where the friends of Hangzhou
 International School students are studying at.&lt;/p&gt;
@@ -5290,7 +5266,7 @@ International School students are studying at.&lt;/p&gt;
 &lt;p&gt;Table 1. Universities where friends of Hangzhou International School
 students are studying at.&lt;/p&gt;
 &lt;p&gt;In a real social network, data is riddled with many more correlations;
-it is a true data mining task to extract these.  Even though DATAGEN may
+it is a true data mining task to extract these.  Even though DATAGEN may
 not be able to model all the real life data correlations, it can
 generate a dataset that reproduce many of those important
 characteristics found in a real social network, and additionally
@@ -5308,46 +5284,44 @@ SNB generated data.&lt;/p&gt;
       <guid>https://ldbc.github.io/post/snb-driver-part-1/</guid>
       <description>&lt;p&gt;In this multi-part blog we consider the challenge of running the LDBC
 Social Network Interactive Benchmark (LDBC SNB) workload in
-parallel, i.e. the design of the workload driver that will issue the
-queries against the System Under Test (SUT). We go through design
+parallel, i.e. the design of the workload driver that will issue the
+queries against the System Under Test (SUT). We go through design
 principles that were implemented for the LDBC SNB workload
-generator/load tester (simply referred to as driver). Software and
+generator/load tester (simply referred to as driver). Software and
 documentation for this driver is available here:
 &lt;a href=&#34;https://github.com/ldbc/ldbc_driver/&#34;&gt;https://github.com/ldbc/ldbc_driver/&lt;/a&gt;.
 Multiple
 reference implementations by two vendors are available here:
-&lt;a href=&#34;https://github.com/ldbc/ldbc_snb_implementations,&#34;&gt;https://github.com/ldbc/ldbc_snb_implementations,&lt;/a&gt; and
+&lt;a href=&#34;https://github.com/ldbc/ldbc_snb_implementations,&#34;&gt;https://github.com/ldbc/ldbc_snb_implementations,&lt;/a&gt; and
 discussion of the schema, data properties, and related content is
 available here:
 &lt;a href=&#34;https://github.com/ldbc/ldbc_snb_docs&#34;&gt;https://github.com/ldbc/ldbc_snb_docs&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The following will concentrate on key decisions and techniques that were
 developed to support scalable, repeatable, distributed workload
 execution.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;h3 id=&#34;problem-description&#34;&gt;Problem Description &lt;/h3&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;problem-description&#34;&gt;Problem Description&lt;/h3&gt;
 &lt;p&gt;The driver generates a stream of operations (e.g. create user, create
-post, create comment, retrieve person&amp;rsquo;s posts etc.) and then executes
+post, create comment, retrieve person&amp;rsquo;s posts etc.) and then executes
 them using the provided database connector. To be capable of generating
-heavier loads, it executes the operations from this stream in parallel.
-If there were no dependencies between operations (e.g., reads that
+heavier loads, it executes the operations from this stream in parallel.
+If there were no dependencies between operations (e.g., reads that
 depend on the completion of writes) this would be trivial. This is the
-case, for example, for the classical TPC-C benchmark, where splitting
+case, for example, for the classical TPC-C benchmark, where splitting
 transaction stream into parallel clients (terminals) is
-trivial. However, for LDBC SNB Interactive Workload this is not the
-case: some operations within the stream do depend on others, others are
+trivial. However, for LDBC SNB Interactive Workload this is not the
+case: some operations within the stream do depend on others, others are
 depended on, some both depend on others and are depended on, and some
-neither depend on others nor are they depended on.&lt;/p&gt;
+neither depend on others nor are they depended on.&lt;/p&gt;
 &lt;p&gt;Consider, for example, a Social Network Benchmark scenario, where the
-data generator outputs a sequence of events such as User A posted a
+data generator outputs a sequence of events such as User A posted a
 picture, User B left a comment to the picture of User A, etc. The
-second event depends on the first one in a sense that there is a causal
-ordering between them: User B can only leave a comment on the picture
+second event depends on the first one in a sense that there is a causal
+ordering between them: User B can only leave a comment on the picture
 once it has been posted. The generated events are already ordered by
-their time stamp, so in case of the single-threaded execution this
+their time stamp, so in case of the single-threaded execution this
 ordering is observed by default: the driver issues a request
-to the SUT with the first event (i.e., User A posts a picture), after
-its completion it issues the second event (create a comment). However,
+to the SUT with the first event (i.e., User A posts a picture), after
+its completion it issues the second event (create a comment). However,
 if events are executed in parallel, these two events may end up in
 different parallel sequences of events. Therefore, a driver needs a
 mechanism to ensure the dependency is observed even when the dependent
@@ -5540,63 +5514,61 @@ workload.&lt;/p&gt;
       <description>&lt;p&gt;The LDBC consortium are pleased to announce its fifth Technical User
 Community (TUC) meeting.&lt;/p&gt;
 &lt;p&gt;This will be a one-day event at the National Hellenic Research Institute
- in Athens, Greece on &lt;strong&gt;Friday November 14, 2014&lt;/strong&gt;.&lt;/p&gt;
+in Athens, Greece on &lt;strong&gt;Friday November 14, 2014&lt;/strong&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;agenda&#34;&gt;Agenda&lt;/h3&gt;
 &lt;p&gt;10:30 - 11:00 Coffee
 Break&lt;/p&gt;
-&lt;p&gt;11:00 - 11:10 Peter Boncz (VUA)  Welcome &amp;amp; LDBC project status update
+&lt;p&gt;11:00 - 11:10 Peter Boncz (VUA)  Welcome &amp;amp; LDBC project status update
 (&lt;a href=&#34;attachments/5996808/6979841.pptx&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;11:10 - 11:25 Venelin Kotsev (ONTO) Semantic Publishing Benchmark:Short
-Presentation of SPB and  Status,\&lt;/p&gt;
+Presentation of SPB and  Status,\&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Feedback &amp;amp; Roadmap for SPB &amp;amp; OWLIM
 (&lt;a href=&#34;attachments/5996808/6979839.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;11:25 - 11:30 Orri Erling (OGL) Status, Feedback &amp;amp; Roadmap for SPB &amp;amp;
 Virtuoso (&lt;a href=&#34;attachments/5996808/6979828.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;11:30 - 11:45 Alex Averbuch (NEO) Social Network Benchmark: Short
-Presentation of SNB and  Status,&lt;br&gt;
-                      Feedback &amp;amp; Roadmap for SNB &amp;amp; Neo4J
+Presentation of SNB and  Status,&lt;br&gt;
+Feedback &amp;amp; Roadmap for SNB &amp;amp; Neo4J
 (&lt;a href=&#34;attachments/5996808/6979830.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;11:45 - 12:00 Orri Erling (OGL) Status, Feedback &amp;amp; Roadmap for SNB &amp;amp;
 Virtuoso (&lt;a href=&#34;attachments/5996808/6979829.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;12:00 - 12:20 Arnau Prat (UPC) &amp;amp; Andrey Gubichev Status,&lt;br&gt;
-                      Feedback &amp;amp; Roadmap for SNB Interactive &amp;amp;
-Sparksee (&lt;a href=&#34;attachments/5996808/6979836.pdf&#34;&gt;Presentation&lt;/a&gt; ) and Business
-Intelligence  (&lt;a href=&#34;attachments/5996808/6979837.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;12:20 - 12:40 Tomer Sagi,  &amp;quot;Experience with SNB and TitanDB at
-HP&amp;quot; (&lt;a href=&#34;attachments/5996808/6979838.pptx&#34;&gt;Presentation&lt;/a&gt; )&lt;/p&gt;
-&lt;p&gt;12:40 - 13:00 Jakob Nelson,   &amp;quot;graphbench.org on the SNB datagen&amp;quot;&lt;/p&gt;
+Feedback &amp;amp; Roadmap for SNB Interactive &amp;amp;
+Sparksee (&lt;a href=&#34;attachments/5996808/6979836.pdf&#34;&gt;Presentation&lt;/a&gt; ) and Business
+Intelligence  (&lt;a href=&#34;attachments/5996808/6979837.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;12:20 - 12:40 Tomer Sagi,  &amp;quot;Experience with SNB and TitanDB at
+HP&amp;quot; (&lt;a href=&#34;attachments/5996808/6979838.pptx&#34;&gt;Presentation&lt;/a&gt; )&lt;/p&gt;
+&lt;p&gt;12:40 - 13:00 Jakob Nelson,   &amp;quot;graphbench.org on the SNB datagen&amp;quot;&lt;/p&gt;
 &lt;p&gt;13:00 - 14:30 Lunch Break@Byzantine &amp;amp; Christian Museum
 (&lt;a href=&#34;http://www.byzantinemuseum.gr/en/&#34;&gt;link&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;14:30 - 14:50 Olaf Hartig, &amp;quot;Integrating the Property Graph and RDF data
-models&amp;quot; (&lt;a href=&#34;attachments/5996808/6979831.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;br&gt;
-                     
- Documents: &lt;a href=&#34;http://arxiv.org/abs/1409.3288&#34;&gt;arxiv/1409.3288&lt;/a&gt;, &lt;a href=&#34;http://arxiv.org/abs/1406.3399&#34;&gt;arxiv/1406.3399&lt;/a&gt;&lt;br&gt;
-      &lt;/p&gt;
+models&amp;quot; (&lt;a href=&#34;attachments/5996808/6979831.pdf&#34;&gt;Presentation&lt;/a&gt;)\&lt;/p&gt;
+&lt;p&gt;Documents: &lt;a href=&#34;http://arxiv.org/abs/1409.3288&#34;&gt;arxiv/1409.3288&lt;/a&gt;, &lt;a href=&#34;http://arxiv.org/abs/1406.3399&#34;&gt;arxiv/1406.3399&lt;/a&gt;\&lt;/p&gt;
 &lt;p&gt;14:50 - 15:10 Maria-Esther Vidal and Maribel Acosta,&lt;br&gt;
-                      &amp;quot;Challenges to be addressed during Benchmarking
+&amp;quot;Challenges to be addressed during Benchmarking
 SPARQL Federated Engines&amp;quot;
 (&lt;a href=&#34;attachments/5996808/6979842.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;15:10 - 15:30 Evaggelia Pitoura, &amp;quot;Historical Queries on Graphs&amp;quot;
 (&lt;a href=&#34;attachments/5996808/6979835.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;15:30 - 16:00 Coffe Break&lt;/p&gt;
+&lt;p&gt;15:30 - 16:00 Coffe Break&lt;/p&gt;
 &lt;p&gt;16:00 - 16:20 Manolis Terrovitis, Giannis Liagos, George
 Papastefanatos,&lt;br&gt;
-                      &amp;quot;Efficient Identification of Implicit Facts in
+&amp;quot;Efficient Identification of Implicit Facts in
 Incomplete OWL2-EL Knowledge Bases&amp;quot;
 (&lt;a href=&#34;attachments/5996808/6979843.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;16:20 - 16:40 Gunes Aluc, &amp;quot;WatDiv: How to Tune-up your RDF Data
 Management System&amp;quot; (&lt;a href=&#34;attachments/5996808/6979832.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;16:40 - 17:00 Giorgos Kollias, Yannis Smaragdakis,
-&amp;quot;Benchmarking @LogicBlox&amp;quot;
+&amp;quot;Benchmarking @LogicBlox&amp;quot;
 (&lt;a href=&#34;attachments/5996808/6979840.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;17:00 - 17:15 Hassan Chafi, &amp;quot;Oracle Labs Graph Strategy&amp;quot; &lt;/p&gt;
+&lt;p&gt;17:00 - 17:15 Hassan Chafi, &amp;quot;Oracle Labs Graph Strategy&amp;quot;&lt;/p&gt;
 &lt;p&gt;17:15 - 17:25 Yinglong Xia, &amp;quot;Property Graphs for Industry Solution at
 IBM&amp;quot;
 (&lt;a href=&#34;attachments/5996808/6979834.pdf&#34;&gt;Presentation&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;17:25 - 17:30 Arthur Keen, &amp;quot;Short Introduction to SPARQLcity&amp;quot;
 (tentative)&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;20:30  Dinner @ Konservokouti &lt;a href=&#34;https://plus.google.com/114240752029716758955/about?gl=gr&amp;amp;hl=en&#34;&gt;(link)&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;20:30  Dinner @ Konservokouti &lt;a href=&#34;https://plus.google.com/114240752029716758955/about?gl=gr&amp;amp;hl=en&#34;&gt;(link)&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Get a Taxi, and go to Ippokratous 148, Athens, Neapoli Exarheion&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h4 id=&#34;logistics&#34;&gt;Logistics&lt;/h4&gt;
 &lt;p&gt;The meeting will be held at the &lt;a href=&#34;http://www.eie.gr/index-en.html&#34;&gt;National Hellenic Research
@@ -5607,17 +5579,17 @@ Foundation&lt;/a&gt; located in
 &lt;h5 id=&#34;hotel-accommodation&#34;&gt;Hotel Accommodation&lt;/h5&gt;
 &lt;p&gt;The National Hellenic Research Foundation (NHRF) is located in the
 Athens&#39; city centre.Various
-hotels are
+hotels are
 found
-in walking
+in walking
 distance from the meeting&#39;s
-location. We
+location. We
 provide here a list of these hotels, but you
-can find
+can find
 much more from booking
-websites. When
+websites. When
 looking for hotels close to NHRF you can use as close by Points of
-Interest Byzantine
+Interest Byzantine
 Museum, War Museum, National
 Gallery.&lt;/p&gt;
 &lt;p&gt;1. &lt;strong&gt;Hilton Athens,&lt;/strong&gt; &lt;a href=&#34;http://www.hiltonathens.gr/en/home.html&#34;&gt;http://www.hiltonathens.gr/en/home.html&lt;/a&gt; (5
@@ -5628,21 +5600,19 @@ stars)&lt;br&gt;
 4. &lt;strong&gt;Periscope&lt;/strong&gt; (4 stars), &lt;a href=&#34;http://periscope.athenshotels.it/&#34;&gt;http://periscope.athenshotels.it/&lt;/a&gt; (4
 stars)&lt;/p&gt;
 &lt;p&gt;5.
-&lt;strong&gt;Delice&lt;/strong&gt; &lt;a href=&#34;http://www.booking.com/hotel/gr/appartements-delice.nl.html&#34;&gt;http://www.booking.com/hotel/gr/appartements-delice.en.html&lt;/a&gt;}&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;strong&gt;Delice&lt;/strong&gt; &lt;a href=&#34;http://www.booking.com/hotel/gr/appartements-delice.nl.html&#34;&gt;http://www.booking.com/hotel/gr/appartements-delice.en.html&lt;/a&gt;}&lt;/p&gt;
 &lt;h4 id=&#34;travel&#34;&gt;Travel&lt;/h4&gt;
 &lt;p&gt;Athens, Greece&amp;rsquo;s capital city, is easily accessible by air. Travelers on
 flights to Athens will land at Athens Eleftherios Venizelos
 International Airport.&lt;br&gt;
 To arrive in the city center, you can take the metro from the airport
-(Line #3) and stop at either stop Evangelismos  (ΕΥΑΓΓΕΛΙΣΜΟΣ) or at
+(Line #3) and stop at either stop Evangelismos  (ΕΥΑΓΓΕΛΙΣΜΟΣ) or at
 Syntagma (ΣΥΝΤΑΓΜΑ) stations. You can also take express Bus X95 and stop
-again at either Evangelismos  (ΕΥΑΓΓΕΛΙΣΜΟΣ) or at Syntagma (ΣΥΝΤΑΓΜΑ)
+again at either Evangelismos  (ΕΥΑΓΓΕΛΙΣΜΟΣ) or at Syntagma (ΣΥΝΤΑΓΜΑ)
 stations (the latter is the terminus for the bus).&lt;br&gt;
 You can also take a taxi from the airport that runs on a fixed price for
 the city center (45 euros). More information on how to move around in
 Athens from the airport can be found here: &lt;a href=&#34;http://www.aia.gr/traveler/&#34;&gt;http://www.aia.gr/traveler/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
 &lt;h3 id=&#34;attachments&#34;&gt;Attachments&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;{width=&amp;ldquo;8&amp;rdquo; height=&amp;ldquo;8&amp;rdquo;}
 &lt;a href=&#34;attachments/5996808/5964344.gif&#34;&gt;nhrf-map.gif&lt;/a&gt; (image/gif)&lt;br&gt;
@@ -5693,58 +5663,58 @@ Publishing Benchmark.pdf&lt;/a&gt;
       
       <guid>https://ldbc.github.io/post/getting-started-with-the-semantic-publishing-benchmark/</guid>
       <description>&lt;p&gt;The Semantic Publishing Benchmark (SPB), developed in the context of
-LDBC, aims at measuring the read and write operations that can be
-performed in the context of a media organisation. It simulates the
+LDBC, aims at measuring the read and write operations that can be
+performed in the context of a media organisation. It simulates the
 management and consumption of RDF metadata describing media assets and
-creative works. The scenario is based around a media organisation that
-maintains RDF descriptions of its catalogue of creative works. These
+creative works. The scenario is based around a media organisation that
+maintains RDF descriptions of its catalogue of creative works. These
 descriptions use a set of ontologies proposed by BBC that define
-numerous properties for content; they contain asll RDFS schema
+numerous properties for content; they contain asll RDFS schema
 constructs and certain OWL ones.&lt;/p&gt;
 &lt;p&gt;The benchmark proposes a data generator that uses the ontologies
-provided by BBC and reference datasets (again provided by BBC) to
+provided by BBC and reference datasets (again provided by BBC) to
 produce a set of valid instances; it works with a predefined set of
-distributions derived from the reference datasets. In addition to these
+distributions derived from the reference datasets. In addition to these
 distributions, the data generator also models:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;clustering of creative works around certain entities from the
 reference datasets (e.g. the association of an entity with creative
-works would decay exponentially in time)&lt;/li&gt;
-&lt;li&gt;correlations between entities -  there will be creative works about
+works would decay exponentially in time)&lt;/li&gt;
+&lt;li&gt;correlations between entities -  there will be creative works about
 two entities for a certain period in time, that way a history of
-interactions is also modelled (e.g. J. Biden and B. Obama are tagged in
+interactions is also modelled (e.g. J. Biden and B. Obama are tagged in
 creative works for a continuous period in time)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The driver proposed by the benchmark measures the performance of CRUD
-operations of a SPARQL endpoint by starting a number of concurrently
+operations of a SPARQL endpoint by starting a number of concurrently
 running editorial and aggregation agents. The former executes a series
-of insert, update and delete operations, whereas the latter a set of
+of insert, update and delete operations, whereas the latter a set of
 construct, describe, and select queries on a SPARQL endpoint. The
-benchmark can access all SPARQL endpoints that support the SPARQL 1.1
-protocol. Tests have been run on OWLIM and Virtuoso. Attempts were also
+benchmark can access all SPARQL endpoints that support the SPARQL 1.1
+protocol. Tests have been run on OWLIM and Virtuoso. Attempts were also
 made for Stardog.&lt;/p&gt;
 &lt;p&gt;Currently, the benchmark offers two workloads: a base version that
-consists of a mix of nine queries of different complexity that consider
+consists of a mix of nine queries of different complexity that consider
 nearly all the features of SPARQL 1.1 query language including sorting,
-subqueries, limit,  regular expressions and grouping. The queries aim at
-checking different choke points relevant to query optimisation such as:&lt;/p&gt;
+subqueries, limit,  regular expressions and grouping. The queries aim at
+checking different choke points relevant to query optimisation such as:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;join ordering based on cardinality constraints - expressed by the
 different kinds of properties defined in the schema&lt;/li&gt;
 &lt;li&gt;subselects that aggregate the query results that
-the optimiser should recognise and evaluate first&lt;/li&gt;
-&lt;li&gt;optional and nested optional clauses where the optimiser is called to
+the optimiser should recognise and evaluate first&lt;/li&gt;
+&lt;li&gt;optional and nested optional clauses where the optimiser is called to
 produce a plan where the execution of the optional triple patterns
-is performed last&lt;/li&gt;
+is performed last&lt;/li&gt;
 &lt;li&gt;reasoning along the RDFS constructs (subclass, subproperty
-hierarchies, functional, object and transitive properties etc.)&lt;/li&gt;
+hierarchies, functional, object and transitive properties etc.)&lt;/li&gt;
 &lt;li&gt;unions to be executed in parallel&lt;/li&gt;
 &lt;li&gt;optionals that contain filter expressions that should be executed
-as early as possible in order to eliminate intermediate results&lt;/li&gt;
-&lt;li&gt;ordering where the optimiser could consider the possibility to choose
+as early as possible in order to eliminate intermediate results&lt;/li&gt;
+&lt;li&gt;ordering where the optimiser could consider the possibility to choose
 query plan(s) that facilitate the ordering of results&lt;/li&gt;
 &lt;li&gt;handling of geo-spatial predicates&lt;/li&gt;
-&lt;li&gt;full-text search optimisation&lt;/li&gt;
+&lt;li&gt;full-text search optimisation&lt;/li&gt;
 &lt;li&gt;asynchronous execution of the aggregate sub-queries&lt;/li&gt;
 &lt;li&gt;use of distinct to choose the optimal query plan&lt;/li&gt;
 &lt;/ul&gt;
@@ -5965,7 +5935,7 @@ WHERE {
       
       <guid>https://ldbc.github.io/post/choke-point-based-benchmark-design/</guid>
       <description>&lt;p&gt;The &lt;em&gt;Linked Data Benchmark Council&lt;/em&gt; (LDBC) mission is to design and
-maintain benchmarks for graph data management systems, and establish and
+maintain benchmarks for graph data management systems, and establish and
 enforce standards in running these benchmarks, and publish and arbitrate
 around the official benchmark results. The council and its
 &lt;a href=&#34;https://ldbcouncil.org&#34;&gt;https://ldbcouncil.org&lt;/a&gt; website just launched, and in its
@@ -5976,34 +5946,34 @@ Technical User Community
 benchmarks&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;So, what makes a good benchmark design? Many talented people have paved
 our way in addressing this question and for relational database systems
-specifically the benchmarks produced by &lt;a href=&#34;http://www.tpc.org/&#34;&gt;TPC&lt;/a&gt; have
+specifically the benchmarks produced by &lt;a href=&#34;http://www.tpc.org/&#34;&gt;TPC&lt;/a&gt; have
 been very helpful in maturing relational database technology, and making
 it successful. Good benchmarks
-are &lt;em&gt;relevant&lt;/em&gt; and _representative _(address important challenges
-encountered in practice), &lt;em&gt;understandable&lt;/em&gt; , &lt;em&gt;economical&lt;/em&gt; (implementable
-on simple hardware), &lt;em&gt;fair&lt;/em&gt; (such as not to favor a particular product
-or approach), __scalable, accepted __by the
-community  and _public _(e.g. all of its software is available in open
+are &lt;em&gt;relevant&lt;/em&gt; and _representative _(address important challenges
+encountered in practice), &lt;em&gt;understandable&lt;/em&gt; , &lt;em&gt;economical&lt;/em&gt; (implementable
+on simple hardware), &lt;em&gt;fair&lt;/em&gt; (such as not to favor a particular product
+or approach), __scalable, accepted __by the
+community  and _public _(e.g. all of its software is available in open
 source). This list stems from Jim
-Gray&amp;rsquo;s &lt;a href=&#34;http://research.microsoft.com/en-us/um/people/gray/BenchmarkHandbook/TOC.htm&#34;&gt;Benchmark Handbook&lt;/a&gt;. In this blogpost, I will share some thoughts on each of these aspects of good benchmark design.&lt;/p&gt;
+Gray&amp;rsquo;s &lt;a href=&#34;http://research.microsoft.com/en-us/um/people/gray/BenchmarkHandbook/TOC.htm&#34;&gt;Benchmark Handbook&lt;/a&gt;. In this blogpost, I will share some thoughts on each of these aspects of good benchmark design.&lt;/p&gt;
 &lt;p&gt;A very important aspect of benchmark development is making sure that the
-community &lt;em&gt;accepts&lt;/em&gt; a certain benchmark, and starts using it. A
+community &lt;em&gt;accepts&lt;/em&gt; a certain benchmark, and starts using it. A
 benchmark without published results and therefore opportunity to compare
 results, remains irrelevant. A European FP7 project is a good place to
 start gathering a critical mass of support (and consensus, in the
 process) for a new benchmark from the core group of benchmark designers
 in the joint work performed by the consortium. Since in LDBC multiple
 commercial graph and RDF vendors are on the table (Neo Technologies,
-Openlink, Ontotext and Sparsity) a minimal consensus on **fairness **had
+Openlink, Ontotext and Sparsity) a minimal consensus on **fairness **had
 to be established immediately. The Linked Data Benchmark Council itself
 is a noncommercial, neutral, entity which releases all its benchmark
 specifications, software, as well as many materials created during the
-design, to the **public **in open source (GPL3).  LDBC has spent a lot
+design, to the **public **in open source (GPL3).  LDBC has spent a lot
 of time engaging interested parties (mainly through
-its &lt;a href=&#34;http://ldbcouncil.org/tags/tuc-meeting/&#34;&gt;Technical User Community gatherings&lt;/a&gt;) as well as lining up additional organizations as
+its &lt;a href=&#34;http://ldbcouncil.org/tags/tuc-meeting/&#34;&gt;Technical User Community gatherings&lt;/a&gt;) as well as lining up additional organizations as
 members of the Linked Data Benchmark Council. There is, in other words,
 a strong non-technical, human factor in getting benchmarks accepted.&lt;/p&gt;
-&lt;p&gt;The need for &lt;em&gt;understandability&lt;/em&gt; for me means that a database benchmark
+&lt;p&gt;The need for &lt;em&gt;understandability&lt;/em&gt; for me means that a database benchmark
 should consist of a limited number of queries and result metrics. Hence
 I find TPC-H with its 22 queries more understandable than TPC-DS with
 its 99, because after (quite some) study and experience it is possible
@@ -6026,7 +5996,7 @@ interesting challenge for the &lt;a href=&#34;benchmarks/snb&#34;&gt;Social Netw
 uncorrelated as TPC-H. Addressing the challenge of obtaining parameter
 bindings that have similar execution characteristics will be the topic
 of a future blog post.&lt;/p&gt;
-&lt;p&gt;The &lt;em&gt;economical&lt;/em&gt; aspect of benchmarking means that while rewarding
+&lt;p&gt;The &lt;em&gt;economical&lt;/em&gt; aspect of benchmarking means that while rewarding
 high-end benchmark runs with higher scores, it is valuable if a
 meaningful run can also be done with small hardware. For this reason, it
 is good practice to use a performance-per-EURO (or $) metric, so small
@@ -6044,9 +6014,9 @@ expensive to run, just by the sheer amount of hardware needed according
 to the rules, but it also undermines it representativity, since OLTP
 data sizes encountered in the field are much smaller than OLAP data
 sizes and do not run in the petabytes.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Representative&lt;/em&gt; benchmarks can be designed by studying or even directly
+&lt;p&gt;&lt;em&gt;Representative&lt;/em&gt; benchmarks can be designed by studying or even directly
 using real workload information, e.g. query logs. A rigorous example of
-this is the &lt;a href=&#34;http://aksw.org/Projects/DBPSB.html&#34;&gt;DBpedia benchmark&lt;/a&gt; whose
+this is the &lt;a href=&#34;http://aksw.org/Projects/DBPSB.html&#34;&gt;DBpedia benchmark&lt;/a&gt; whose
 workload is based on the query logs of dbpedia.org. However, this SPARQL
 endpoint is a single public Virtuoso instance that has been configured
 to interrupt all long running queries, such as to ensure the service
@@ -6058,10 +6028,10 @@ B-tree lookups only (and not joins, aggregations, path expressions or
 inference) and poses almost no technical challenges for either query
 optimization or execution. The lesson, thus, is to balance
 representativity with relevance (see later..).&lt;/p&gt;
-&lt;p&gt;The fact that a benchmark can be &lt;em&gt;scaled&lt;/em&gt; in size favors the use of
+&lt;p&gt;The fact that a benchmark can be &lt;em&gt;scaled&lt;/em&gt; in size favors the use of
 synthetic data (i.e. created by a data generator) because data
 generators can produce any desired quantity of data. I hereby note that
-in this day and age,  data generators should be parallel.
+in this day and age,  data generators should be parallel.
 Single-threaded single-machine data generation just becomes unbearable
 even at terabyte scales. A criticism of synthetic data is that it may
 not be representative of real data, which e.g. tends to contain highly
@@ -6076,13 +6046,13 @@ size on the metric, on individual queries, or even in micro-benchmark
 tests that are not part of the official query set. Typically OLTP
 database benchmarks have queries whose complexity is O(log(N)) of the
 data size N, whereas OLAP benchmarks have queries which are linear, O(N)
-or at most O(N.log(N))  &amp;ndash; otherwise executing the benchmark on large
+or at most O(N.log(N))  &amp;ndash; otherwise executing the benchmark on large
 instances is infeasible. OLTP queries thus typically touch little data,
 in the order of log(N) tuples. In order not to measure fully cold query
 performance, OLTP benchmarks for that reason need a warmup phase with
 O(N/log(N)) queries in order to get the system into a representative
 state.&lt;/p&gt;
-&lt;p&gt;Now, what makes a benchmark &lt;em&gt;relevant&lt;/em&gt;? In LDBC we think that benchmarks
+&lt;p&gt;Now, what makes a benchmark &lt;em&gt;relevant&lt;/em&gt;? In LDBC we think that benchmarks
 should be designed such that crucial areas of functionality are
 highlighted, and in turn system architects are stimulated to innovate.
 Either to catch up with competitors and bring the performance and
@@ -6093,7 +6063,7 @@ benchmark. Inversely stated, benchmark design can thus be a powerful
 tool to influence the industry, as a benchmark design may set the
 agendas for multiple commercial design teams and database architects
 around the globe. To structure this design process, LDBC introduces the
-notion of &lt;em&gt;&amp;ldquo;choke points&amp;rdquo;&lt;/em&gt;: by which we mean problems that challenge
+notion of &lt;em&gt;&amp;ldquo;choke points&amp;rdquo;&lt;/em&gt;: by which we mean problems that challenge
 current technology. These choke points are collected and described early
 in the LDBC design process, and the workloads developed later are scored
 in terms of their coverage of relevant choke points. In case of graph
@@ -6110,7 +6080,7 @@ therefore suboptimal query plan, if optimizers remain unaware of
 value/structure correlations. So this is an area of functionality that
 the Social Network Benchmark (SNB) by LDBC will test.&lt;/p&gt;
 &lt;p&gt;To illustrate what choke points are in more depth, we wrote
-a &lt;a href=&#34;http://oai.cwi.nl/oai/asset/21424/21424B.pdf&#34;&gt;paper in the TPCTC&lt;/a&gt; 2013
+a &lt;a href=&#34;http://oai.cwi.nl/oai/asset/21424/21424B.pdf&#34;&gt;paper in the TPCTC&lt;/a&gt; 2013
 conference that performs a post-mortem analysis of TPC-H and identified
 28 such choke points.
 &lt;em&gt;&lt;a href=&#34;chokepoints.png&#34;&gt;This table&lt;/a&gt;&lt;/em&gt; lists them all, grouped into six Choke Point (CP) areas (CP1
@@ -6121,26 +6091,26 @@ the 22 TPC-H queries (black is high impact, white is no impact):&lt;/p&gt;
 improving the TPC-H score of a relational database system, since this
 paper contains the collected experience of three database architects who
 have worked with TPC-H at length: Orri Erling (of Virtuoso), Thomas
-Neumann (Hyper,RDF-3X), and me (MonetDB,Vectorwise).  Recently Orri
+Neumann (Hyper,RDF-3X), and me (MonetDB,Vectorwise).  Recently Orri
 Erling showed that this paper is not complete as he discovered one more
-choke-point area for TPC-H:  Top-N pushdown. In a detailed blog entry,
+choke-point area for TPC-H:  Top-N pushdown. In a detailed blog entry,
 Orri shows how this technique
-can &lt;a href=&#34;http://www.openlinksw.com/weblog/oerling/?id=1779&#34;&gt;trivialize Q18&lt;/a&gt;;
+can &lt;a href=&#34;http://www.openlinksw.com/weblog/oerling/?id=1779&#34;&gt;trivialize Q18&lt;/a&gt;;
 and this optimization can single handedly improve the overall TPC-score
 by 10-15%. This is also a lesson for LDBC: even though we design
 benchmarks with choke points in mind, the queries themselves may bring
 to light unforeseen opportunities and choke-points that may give rise to
-yet unknown innovations. &lt;/p&gt;
+yet unknown innovations.&lt;/p&gt;
 &lt;p&gt;LDBC has just published two benchmarks as Public Drafts, which
 essentially means that you are cordially invited to download and try out
 the RDF-focused Semantic Publishing Benchmark
-(&lt;a href=&#34;http://ldbcouncil.org/developer/spb&#34;&gt;SPB) &lt;/a&gt;and the more graph-focused
+(&lt;a href=&#34;http://ldbcouncil.org/developer/spb&#34;&gt;SPB) &lt;/a&gt;and the more graph-focused
 Social Network Benchmark (&lt;a href=&#34;http://ldbcouncil.org/developer/snb&#34;&gt;SNB&lt;/a&gt;),
 and &lt;a href=&#34;https://groups.google.com/forum/#!forum/ldbcouncil&#34;&gt;tell us what you think&lt;/a&gt;. Stay tuned for the coming detailed blog posts about these
 benchmarks, which will explain the graph and RDF processing choke-points
 that they test.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;(for more posts from Peter Boncz, see
-also &lt;a href=&#34;http://databasearchitects.blogspot.com&#34;&gt;Database Architects&lt;/a&gt;, a blog
+also &lt;a href=&#34;http://databasearchitects.blogspot.com&#34;&gt;Database Architects&lt;/a&gt;, a blog
 about data management challenges and techniques written by people who
 design and implement database systems)&lt;/em&gt;&lt;/p&gt;
 </description>
@@ -6382,26 +6352,26 @@ LDBC blog for future blog posts detailing all of the SNB parts in depth.&lt;/p&g
       
       <guid>https://ldbc.github.io/post/is-snb-like-facebooks-linkbench/</guid>
       <description>&lt;p&gt;In this post, I will discuss in some detail the rationale and goals of
-the design of the &lt;a href=&#34;https://ldbc.github.io/benchmarks/snb&#34;&gt;Social Network Benchmark&lt;/a&gt; (SNB) and explain how it relates to real social network data
-as in Facebook, and in particular FaceBook&amp;rsquo;s own graph benchmark
-called &lt;a href=&#34;https://www.facebook.com/notes/facebook-engineering/linkbench-a-database-benchmark-for-the-social-graph/10151391496443920&#34;&gt;LinkBench&lt;/a&gt;. We
-think SNB is the most intricate graph database benchmark to date (it&amp;rsquo;s
-also available in RDF!), that already has made some waves. SNB recently
+the design of the &lt;a href=&#34;https://ldbc.github.io/benchmarks/snb&#34;&gt;Social Network Benchmark&lt;/a&gt; (SNB) and explain how it relates to real social network data
+as in Facebook, and in particular FaceBook&amp;rsquo;s own graph benchmark
+called &lt;a href=&#34;https://www.facebook.com/notes/facebook-engineering/linkbench-a-database-benchmark-for-the-social-graph/10151391496443920&#34;&gt;LinkBench&lt;/a&gt;. We
+think SNB is the most intricate graph database benchmark to date (it&amp;rsquo;s
+also available in RDF!), that already has made some waves. SNB recently
 received praise at the most important database systems
-conference &lt;a href=&#34;http://www.sigmod2014.org/&#34;&gt;SIGMOD in Snowbird&lt;/a&gt; after being
-used for this year&amp;rsquo;s &lt;a href=&#34;http://www.cs.albany.edu/~sigmod14contest/&#34;&gt;ACM SIGMOD Programming Contest&lt;/a&gt;, which was about graph analytics. &lt;/p&gt;
-&lt;p&gt;SNB is intended to provide the following &lt;strong&gt;value&lt;/strong&gt; to different
+conference &lt;a href=&#34;http://www.sigmod2014.org/&#34;&gt;SIGMOD in Snowbird&lt;/a&gt; after being
+used for this year&amp;rsquo;s &lt;a href=&#34;http://www.cs.albany.edu/~sigmod14contest/&#34;&gt;ACM SIGMOD Programming Contest&lt;/a&gt;, which was about graph analytics.&lt;/p&gt;
+&lt;p&gt;SNB is intended to provide the following &lt;strong&gt;value&lt;/strong&gt; to different
 stakeholders:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;For end users facing graph processing tasks, SNB provides a
-recognizable scenario against which it is possible to &lt;em&gt;compare merits of different products&lt;/em&gt; and technologies.  By covering a wide variety of
+recognizable scenario against which it is possible to &lt;em&gt;compare merits of different products&lt;/em&gt; and technologies.  By covering a wide variety of
 scales and price points, SNB can serve as an aid to technology
 selection.&lt;/li&gt;
-&lt;li&gt;For vendors of graph database technology, SNB provides a &lt;em&gt;checklist of
-features&lt;/em&gt; and performance characteristics that helps in product
+&lt;li&gt;For vendors of graph database technology, SNB provides a &lt;em&gt;checklist of
+features&lt;/em&gt; and performance characteristics that helps in product
 positioning and can serve to guide new development.&lt;/li&gt;
 &lt;li&gt;For researchers, both industrial and academic, the SNB dataset and
-workload provide &lt;em&gt;interesting challenges&lt;/em&gt; in multiple technical areas,
+workload provide &lt;em&gt;interesting challenges&lt;/em&gt; in multiple technical areas,
 such as query optimization, (distributed) graph analysis, transactional
 throughput, and provides a way to objectively compare the effectiveness
 and efficiency of new and existing technology in these areas.&lt;/li&gt;
@@ -6413,37 +6383,37 @@ they don&amp;rsquo;t need LDBC for that. Rather, we take social network data as 
 model for the much more broader graph data management problems that IT
 practitioners face. The particular characteristic of a graph data
 management problem is that the queries and analysis is not just about
-finding data by value, but about learning about the &lt;em&gt;connection
-patterns&lt;/em&gt; between data. The scenario of the SNB, a social network, was
+finding data by value, but about learning about the &lt;em&gt;connection
+patterns&lt;/em&gt; between data. The scenario of the SNB, a social network, was
 chosen with the following goals in mind:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;the benchmark scenario should be &lt;strong&gt;understandable&lt;/strong&gt; to a large
+&lt;li&gt;the benchmark scenario should be &lt;strong&gt;understandable&lt;/strong&gt; to a large
 audience, and this audience should also understand the relevance of
 managing such data.&lt;/li&gt;
 &lt;li&gt;the scenario in the benchmark should cover the complete range of
-challenges &lt;strong&gt;relevant&lt;/strong&gt; for graph data management, according to the
+challenges &lt;strong&gt;relevant&lt;/strong&gt; for graph data management, according to the
 benchmark scope.&lt;/li&gt;
-&lt;li&gt;the query challenges in it should be &lt;strong&gt;realistic&lt;/strong&gt; in the sense that,
+&lt;li&gt;the query challenges in it should be &lt;strong&gt;realistic&lt;/strong&gt; in the sense that,
 though synthetic, similar data and workloads are encountered in
 practice.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The SNB is in fact three distinct benchmarks with a common dataset,
-since there are &lt;em&gt;three different workloads&lt;/em&gt;. Each workload produces a
-single metric for performance at the given scale and a price/performance
-metric at the scale.  The full disclosure further breaks down the
-composition of the metric into its constituent parts, e.g. single query
+since there are &lt;em&gt;three different workloads&lt;/em&gt;. Each workload produces a
+single metric for performance at the given scale and a price/performance
+metric at the scale.  The full disclosure further breaks down the
+composition of the metric into its constituent parts, e.g. single query
 execution times.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Interactive Workload.&lt;/strong&gt;  The Interactive SNB workload is the first one
+&lt;li&gt;&lt;strong&gt;Interactive Workload.&lt;/strong&gt;  The Interactive SNB workload is the first one
 we are releasing. It is defined in plain text, yet we have example
 implementations in neo4j&amp;rsquo;s Cypher, SPARQL and SQL. The interactive
 workloads tests a system&amp;rsquo;s throughput with relatively simple queries
-with concurrent updates.  The system under test (SUT) is expected to run
+with concurrent updates.  The system under test (SUT) is expected to run
 in a steady state, providing durable storage with smooth response
-times.  Inserts are typically small, affecting a few nodes at a time,
-e.g. uploading of a post and its tags.  Transactions may require
+times.  Inserts are typically small, affecting a few nodes at a time,
+e.g. uploading of a post and its tags.  Transactions may require
 serializability, e.g. verifying that something does not exist before
-committing the transaction.   Reads do not typically require more than
+committing the transaction.   Reads do not typically require more than
 read committed isolation. One could call the Interactive Workload an
 OLTP workload, but while queries typically touch a small fraction of the
 database, this can still be up to hundreds of thousands of values (the
@@ -6453,17 +6423,17 @@ create indexing structures or materialized views, however such
 structures need to be maintained with regards to the continues inserts
 that also part of the workload. This workload is now in draft stage,
 which means that
-the &lt;a href=&#34;https://github.com/ldbc/ldbc_socialnet_bm/tree/master/ldbc_socialnet_dbgen&#34;&gt;data generator&lt;/a&gt; and  &lt;a href=&#34;https://github.com/ldbc/ldbc_driver&#34;&gt;driver software stack&lt;/a&gt; is is ready and the purpose is to obtain user feedback, as well
-as develop good system implementations.  The first implementations of
+the &lt;a href=&#34;https://github.com/ldbc/ldbc_socialnet_bm/tree/master/ldbc_socialnet_dbgen&#34;&gt;data generator&lt;/a&gt; and  &lt;a href=&#34;https://github.com/ldbc/ldbc_driver&#34;&gt;driver software stack&lt;/a&gt; is is ready and the purpose is to obtain user feedback, as well
+as develop good system implementations.  The first implementations of
 this workload are now running on Openlink Virtuoso, Neo4j and Sparsity
 Sparksee, and we are eager to see people try these, and optimize and
 involve these.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Business Intelligence Workload.&lt;/strong&gt; There is a first stab at this
 workload formulated in SPARQL, tested against Openlink Virtuoso. The BI
 workload consists of complex structured queries for analyzing online
-behavior of users for marketing purposes.  The workload stresses query
-execution and optimization. Queries typically touch a large fraction of
-the data and do not require repeatable read.  The queries will be
+behavior of users for marketing purposes.  The workload stresses query
+execution and optimization. Queries typically touch a large fraction of
+the data and do not require repeatable read.  The queries will be
 concurrent with trickle load (not out yet). Unlike the interactive
 workload, the queries touch more data as the database grows.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Graph Analytics Workload.&lt;/strong&gt; This workload is not yet available. It
@@ -6473,37 +6443,37 @@ such it is the natural domain for graph programming frameworks like
 Giraph. The workload is still under development, but will consist of
 algorithms like PageRank, Clustering and Breadth First Search. The
 analytics is done on most of the data in the graph as a single
-operation.  The analysis itself produces large intermediate results. 
+operation.  The analysis itself produces large intermediate results.
 The analysis is not expected to be transactional or to have isolation
 from possible concurrent updates.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;All the SNB scenarios share a common scalable synthetic data set,
 generated by a state-of-the
-art &lt;a href=&#34;https://github.com/ldbc/ldbc_socialnet_bm/tree/master/ldbc_socialnet_dbgen&#34;&gt;data generator&lt;/a&gt;. We strongly believe in a single dataset that makes sense for
+art &lt;a href=&#34;https://github.com/ldbc/ldbc_socialnet_bm/tree/master/ldbc_socialnet_dbgen&#34;&gt;data generator&lt;/a&gt;. We strongly believe in a single dataset that makes sense for
 all workloads, that is, the interactive and BI workloads will traverse
 data that has sensible PageRank outcomes, and graph clustering
 structure, etc. This is in contrast
-to &lt;a href=&#34;http://people.cs.uchicago.edu/~tga/pubs/sigmod-linkbench-2013.pdf&#34;&gt;LinkBench&lt;/a&gt;,
+to &lt;a href=&#34;http://people.cs.uchicago.edu/~tga/pubs/sigmod-linkbench-2013.pdf&#34;&gt;LinkBench&lt;/a&gt;,
 released by the team of Facebook that manages the OLTP workload on the
-Facebook Graph, which closely tunes to the **low-level **MySQL query
+Facebook Graph, which closely tunes to the **low-level **MySQL query
 patterns Facebook sees, but whose graph structure does not attempt to be
 realistic beyond average out degree of the nodes (so, it makes not
 attempt to create realistic community patterns or correlations) . The
-authors of LinkBench may be right that  the graph structure does not
+authors of LinkBench may be right that  the graph structure does not
 make a difference for simple insert/update/delete/lookup actions which
 LinkBench itself tests, but for the SNB queries in the Interactive and
 BI workloads this is not true. Note
-that &lt;a href=&#34;http://borthakur.com/ftp/sigmod2013.pdf&#34;&gt;Facebook&amp;rsquo;s IT infrastructure&lt;/a&gt; does not store all user data in MySQL and its modified
+that &lt;a href=&#34;http://borthakur.com/ftp/sigmod2013.pdf&#34;&gt;Facebook&amp;rsquo;s IT infrastructure&lt;/a&gt; does not store all user data in MySQL and its modified
 memcached
 (&amp;quot;&lt;a href=&#34;http://www.cs.cmu.edu/~pavlo/courses/fall2013/static/papers/11730-atc13-bronson.pdf&#34;&gt;TAO&lt;/a&gt;&amp;quot;),
-some of it ends up in separate subsystems (using HDFS and HBase), which
+some of it ends up in separate subsystems (using HDFS and HBase), which
 is outside of the scope of LinkBench. However, for queries like in the
-SNB Interactive and BI workloads it **does **matter how people are
-connected, and how the attribute values  of connected people correlate.
+SNB Interactive and BI workloads it **does **matter how people are
+connected, and how the attribute values  of connected people correlate.
 In fact, the SNB data generator is unique in that it generates a huge
-graph with &lt;em&gt;correlations&lt;/em&gt;, where people who live together, have the same
+graph with &lt;em&gt;correlations&lt;/em&gt;, where people who live together, have the same
 interests or work for the same company have greater chance to be
-connected, and people from Germany have mostly German names, etc.
+connected, and people from Germany have mostly German names, etc.
 Correlations frequently occur in practice and can strongly influence the
 quality of query optimization and execution, therefore LDBC wants to
 test their effects on graph data management systems (the impact of
@@ -6692,47 +6662,47 @@ numThreads:4
       
       <guid>https://ldbc.github.io/post/the-day-of-graph-analytics/</guid>
       <description>&lt;p&gt;&lt;em&gt;Note: consider this post as a continuation of the
-&amp;ldquo;&lt;a href=&#34;../making-it-interactive&#34;&gt;Making it interactive&lt;/a&gt;&amp;rdquo; post by Orri Erling.&lt;/em&gt;&lt;/p&gt;
+&amp;ldquo;&lt;a href=&#34;../making-it-interactive&#34;&gt;Making it interactive&lt;/a&gt;&amp;rdquo; post by Orri Erling.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;I have now completed
-the &lt;a href=&#34;https://github.com/openlink/virtuoso-opensource&#34;&gt;Virtuoso&lt;/a&gt; TPC-H work,
-including scale out.  Optimization possibilities extend to infinity but
-the present level is good enough. &lt;a href=&#34;http://www.tpc.org/tpch/&#34;&gt;TPC-H&lt;/a&gt; is the
+the &lt;a href=&#34;https://github.com/openlink/virtuoso-opensource&#34;&gt;Virtuoso&lt;/a&gt; TPC-H work,
+including scale out.  Optimization possibilities extend to infinity but
+the present level is good enough. &lt;a href=&#34;http://www.tpc.org/tpch/&#34;&gt;TPC-H&lt;/a&gt; is the
 classic of all analytics benchmarks and is difficult enough, I have
-extensive commentary on this on my blog (In Hoc Signo Vinces series),
-including experimental results.  This is, as it were, the cornerstone of
-the true science.  This is however not the totality of
-it.  From the LDBC angle, we might liken this to the last camp before
-attempting a mountain peak.&lt;/p&gt;
+extensive commentary on this on my blog (In Hoc Signo Vinces series),
+including experimental results.  This is, as it were, the cornerstone of
+the true science.  This is however not the totality of
+it.  From the LDBC angle, we might liken this to the last camp before
+attempting a mountain peak.&lt;/p&gt;
 &lt;p&gt;So, we may now seriously turn to graph analytics. The project has enough
-left to run in order to get a good BI and graph analytics workload.  In
+left to run in order to get a good BI and graph analytics workload.  In
 LDBC in general, as in the following, BI or business intelligence means
-complex analytical queries.  Graph analytics means graph algorithms that
+complex analytical queries.  Graph analytics means graph algorithms that
 are typically done in graph programming frameworks or libraries.&lt;/p&gt;
 &lt;p&gt;The BI part is like TPC-H, except for adding the following challenges:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Joins of derived tables with group by,  e.g. comparing popularity of
+&lt;p&gt;Joins of derived tables with group by,  e.g. comparing popularity of
 items on consecutive time periods.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Transitive dimensions - A geographical or tag hierarchy cab ve seen as
-a dimension table.  To get the star schema plan with the selective hash
+a dimension table.  To get the star schema plan with the selective hash
 join, the count of the transitive traversal of the hierarchy (hash build
 side) must be correctly guessed.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Transitivity in fact table, i.e. average length of reply thread. 
+&lt;p&gt;Transitivity in fact table, i.e. average length of reply thread.
 There the cost model must figure that the reply link is much too high
 cardinality for hash build side, besides a transitive operation is not a
 good candidate for a build in multiple passes, hence the plan will have
 to be by index.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Graph traversal with condition on end point and navigation step.  The
+&lt;p&gt;Graph traversal with condition on end point and navigation step.  The
 hierarchical dimensions and reply threads are in fact trees, the social
-graph is not.  Again  the system must know some properties of
+graph is not.  Again  the system must know some properties of
 connectedness (in/out degree, count of vertices) to guess a traversal
-fanout.  This dictates the join type in the step (hash or index).  An
+fanout.  This dictates the join type in the step (hash or index).  An
 example is a transitive closure with steps satisfying a condition, e.g.
 all connected persons have a specific clearance.&lt;/p&gt;
 &lt;/li&gt;
@@ -6756,37 +6726,37 @@ complex summaries of data for use in follow up queries.&lt;/p&gt;
 &lt;p&gt;The idea is to cover the base competences the world has come to expect
 and to build in challenges to last another 10-15 years.&lt;/p&gt;
 &lt;p&gt;For rules and metric, we can use the TPC-H or
-&lt;a href=&#34;http://www.tpc.org/tpcds/default.asp&#34;&gt;TPC-DS&lt;/a&gt; ones as a template.  The
+&lt;a href=&#34;http://www.tpc.org/tpcds/default.asp&#34;&gt;TPC-DS&lt;/a&gt; ones as a template.  The
 schema may differ from an implementation of the interactive workload, as
 these things would normally run on different systems anyway.&lt;/p&gt;
 &lt;p&gt;As another activity that is not directly LDBC, I will do a merge of SNB
-and &lt;a href=&#34;http://www.openstreetmap.org/&#34;&gt;Open Street Map&lt;/a&gt;.  The geolocated
-things (persons, posts) will get real coordinates from their  vicinity
+and &lt;a href=&#34;http://www.openstreetmap.org/&#34;&gt;Open Street Map&lt;/a&gt;.  The geolocated
+things (persons, posts) will get real coordinates from their  vicinity
 and diverse geo analytics will become possible. This is of some
 significant interest to Geoknow, another FP7 where OpenLink is
 participating.&lt;/p&gt;
 &lt;p&gt;Doing the BI mix and even optimizing the interactive part involves some
-redoing of the present support for transitivity in Virtuoso.  The
+redoing of the present support for transitivity in Virtuoso.  The
 partitioned group by with some custom aggregates is the right tool for
-the job, with all parallelization, scale-out ettc ready.  You see, TPC-H
+the job, with all parallelization, scale-out ettc ready.  You see, TPC-H
 is very useful also in places one does not immediately associate with
 it.&lt;/p&gt;
 &lt;p&gt;As a matter of fact, this becomes a BSP (bulk synchronous processing)
-control structure.  Run any number of steps, each item produces
-results/effects scattered across partitions.  The output of the previous
-is the input of the next.  We might say BSP is an attractor or
+control structure.  Run any number of steps, each item produces
+results/effects scattered across partitions.  The output of the previous
+is the input of the next.  We might say BSP is an attractor or
 &amp;ldquo;Platonic&amp;rdquo; control structure to which certain paths inevitably lead.
 Last year I did a BSP implementation in SQL, reading and writing tables
 and using transactions for serializable update of the border. This is
 possible but will not compete with a memory based framework and not
 enough of the optimization potential, e.g. message combining, is visible
-to the engine in this formulation.  So, now we will get this right, as
+to the engine in this formulation.  So, now we will get this right, as
 suggested.&lt;/p&gt;
 &lt;p&gt;So, the transitive derived table construct can have pluggable
 aggregations, e.g. remembering a path, a minimum length or such),
 reduction like a scalar valued aggregate (min/max), different grouping
 sets like in a group by with cube or grouping sets, some group-by like
-reduction for message combining and so forth.  If there is a gather
+reduction for message combining and so forth.  If there is a gather
 phase that is not just the result of the scatter of the previous step,
 this can be expressed as an arbitrary database query, also cross
 partition in a scale-out setting.&lt;/p&gt;
@@ -6794,30 +6764,30 @@ partition in a scale-out setting.&lt;/p&gt;
 citizen, like a procedure scoped temporary table to facilitate returning
 multiple results and passing large data between multiple steps with
 different vertex operations, e.g. forward and backward in betweenness
-centrality.  &lt;/p&gt;
+centrality.&lt;/p&gt;
 &lt;p&gt;This brings us to the graph analytics proper, which is often done in BSP
 style, e.g.
 &lt;a href=&#34;http://es.slideshare.net/shatteredNirvana/pregel-a-system-for-largescale-graph-processing&#34;&gt;Pregel&lt;/a&gt;,
 &lt;a href=&#34;http://giraph.apache.org&#34;&gt;Giraph&lt;/a&gt;,
 &lt;a href=&#34;http://uzh.github.io/signal-collect/&#34;&gt;Signal-Collect&lt;/a&gt;, some but not all
-&lt;a href=&#34;http://ppl.stanford.edu/main/green_marl.html&#34;&gt;Green-Marl&lt;/a&gt; applications. 
+&lt;a href=&#34;http://ppl.stanford.edu/main/green_marl.html&#34;&gt;Green-Marl&lt;/a&gt; applications.
 In fact, a Green-Marl back end for Virtuoso is conceivable, whether one
 will be made is a different matter.&lt;/p&gt;
 &lt;p&gt;With BSP in the database engine, a reference implementation of many
 standard algorithms is readily feasible and performant enough to do
-reasonable sizing for the workload and to have a metric.  This could be
+reasonable sizing for the workload and to have a metric.  This could be
 edges ir vertices per unit of time, across a mix of algorithms, for
-example.  Some experimentation will be needed.  The algorithms
+example.  Some experimentation will be needed.  The algorithms
 themselves may be had from the Green-Marl sample programs or other
-implementations.  Among others, Oracle would presumably agree that this
+implementations.  Among others, Oracle would presumably agree that this
 sort of functionality will in time migrate into core database. We will
 here have a go at this and along the way formulate some benchmark tasks
-for a graph analytics workload.  Whenever feasible, this will derive
-from existing work such as &lt;a href=&#34;http://graphbench.org/&#34;&gt;graphbench.org&lt;/a&gt; but
+for a graph analytics workload.  Whenever feasible, this will derive
+from existing work such as &lt;a href=&#34;http://graphbench.org/&#34;&gt;graphbench.org&lt;/a&gt; but
 will be adapted to the SNB dataset.&lt;/p&gt;
 &lt;p&gt;The analytics part will be done with more community outreach than the
-interactive one.  I will blog about the business questions, queries and
-choke points as we go through them.  The interested may pitch in as the
+interactive one.  I will blog about the business questions, queries and
+choke points as we go through them.  The interested may pitch in as the
 matter comes up.&lt;/p&gt;
 </description>
     </item>
@@ -6836,7 +6806,7 @@ performance of our RDF Store when a new release is about to come out.&lt;/p&gt;
 &lt;p&gt;Initially we’ve decided to fix some of the benchmark parameters :&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;the dataset size - 50 million triples (LDBC-SPB50)&lt;/li&gt;
-&lt;li&gt;benchmark warmup and benchmark run times - 60s and 600s respectively. &lt;/li&gt;
+&lt;li&gt;benchmark warmup and benchmark run times - 60s and 600s respectively.&lt;/li&gt;
 &lt;li&gt;maximum number of Editorail Agents (E) : 2 (threads that will execute
 INSERT/UPDATE operations)&lt;/li&gt;
 &lt;li&gt;maximum number of Aggregation Agents (A) : 16 (threads that will
@@ -6852,33 +6822,33 @@ Intel Xeon CPUs, 8 cores each, 256 GB of memory and SSD storage, running
 Linux. Another piece of hardware we’ve tested with is a regular desktop
 machine with Intel i7, 32 GB of memory and HDD storage. During our
 experiments we have allowed a deviation in results of 5% to 10% because
-of the multi-threaded nature of the benchmark driver. &lt;/p&gt;
+of the multi-threaded nature of the benchmark driver.&lt;/p&gt;
 &lt;p&gt;We’ve also decided to produce some benchmark results on Amazon’s EC2
-Instances and compare with the results we’ve had so far. Starting with
+Instances and compare with the results we’ve had so far. Starting with
 m3.2xlarge instance (8 vCPUs, 30GB of memory and 2x80GB SSD storage) on
 a 50M dataset we’ve achieved more than 50% lower results than ones on
-our own hardware. On a largrer Amazon Instance c3.4xlarge (16 vCPUs,
+our own hardware. On a largrer Amazon Instance c3.4xlarge (16 vCPUs,
 30GB of memory and doubled SSD storage) we’ve achieved the same
 performance in terms of aggregation operations and even worse
 performance in terms for editorial operations, which we give to the fact
 that Amazon instances are not providing consistent performance all the
 time.&lt;/p&gt;
 &lt;p&gt;Following two charts are showing how OWLIM performs on different
-hardware and with different configurations. They also give an indication
+hardware and with different configurations. They also give an indication
 of Amazon’s capabilities compared to the results achieved on a
 bare-metal hardware.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;16-2-Performance.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Figure 1 : OWLIM Performance : 2 amazon instances and 2 local machines.
 16 aggregation and 2 editorial agents running simultaneously.
-Aggregation and editorial operations displayed here should  be
+Aggregation and editorial operations displayed here should  be
 considered independently, i.e. even though editorial opeartions graph
 shows higher results on Amazon m3.2xlarge instance, values are
 normalized and are referring to corresponding type of operation.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;8-0-Performance.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Figure 2 : OWLIM Performance : 2 amazon instances and 2 local machines.
-8 aggregation running simultaneously. Read-only mode.&lt;/p&gt;
+8 aggregation running simultaneously. Read-only mode.&lt;/p&gt;
 &lt;p&gt;Another thing that we’re using LDBC-SPB for is to monitor load
-performance speeds. Loading of generated data can be done either
+performance speeds. Loading of generated data can be done either
 manually by creating some sort of a script (CURL), or by the benchmark
 driver itself which will execute a standard POST request against a
 provided SPARQL endpoint. Benchmark&amp;rsquo;s data generator can be configured
@@ -6890,7 +6860,7 @@ measured “officially“ by LDBC-SPB (although time for loading the data is
 reported), but its good thing to have when comparing RDF Stores.&lt;/p&gt;
 &lt;p&gt;An additional and interesting feature of the SPB is the test for
 conformance to OWL2-RL rule-set. It is a part of the LDBC-SPB benchmark
-and that phase is called &lt;em&gt;checkConformance&lt;/em&gt;. The phase is run
+and that phase is called &lt;em&gt;checkConformance&lt;/em&gt;. The phase is run
 independently of the benchmark phase itself. It requires no data
 generation or loading except the initial set of ontologies. It tests RDF
 store’s capabilities for conformance to the rules in OWL2-RL rule-set by
@@ -6920,44 +6890,44 @@ have found in current technology.&lt;/li&gt;
 &lt;li&gt;Industry discussions on the contents of the benchmarks.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;All users of RDF and graph databases are welcome to attend. If you are
-interested, please contact: ldbc AT ac DOT upc DOT edu&lt;/p&gt;
+interested, please contact: ldbc AT ac DOT upc DOT edu&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;For presenters please limit your talks to just 15 minutes&lt;/strong&gt;&lt;/p&gt;
 &lt;h3 id=&#34;agenda&#34;&gt;Agenda&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;April 3rd&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;10:00 Peter Boncz (VUA) &lt;a href=&#34;attachments/5538064/5506371.pptx&#34;&gt;pptx&lt;/a&gt;,
+&lt;li&gt;10:00 Peter Boncz (VUA) &lt;a href=&#34;attachments/5538064/5506371.pptx&#34;&gt;pptx&lt;/a&gt;,
 &lt;a href=&#34;https://www.youtube.com/watch?v=JYWVgrP1kVY&#34;&gt;video&lt;/a&gt;
 &lt;em&gt;LDBC project status
 update&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;10:20 Norbert Martinez
-(UPC) &lt;a href=&#34;attachments/5538064/5506375.pdf&#34;&gt;pdf&lt;/a&gt;,
+(UPC) &lt;a href=&#34;attachments/5538064/5506375.pdf&#34;&gt;pdf&lt;/a&gt;,
 &lt;a href=&#34;https://www.youtube.com/watch?v=4yREJQ3yDr0&#34;&gt;video&lt;/a&gt;
-&lt;em&gt;Status update on the LDBC Social  Network Benchmark (SNB) task
+&lt;em&gt;Status update on the LDBC Social  Network Benchmark (SNB) task
 forc&lt;/em&gt;e.&lt;/li&gt;
 &lt;li&gt;[:50 Alexandru Iosup (TU Delft)
 &lt;a href=&#34;attachments/5538064/5506363.ppt&#34;&gt;ppt&lt;/a&gt;,
 &lt;a href=&#34;https://www.youtube.com/watch?v=ulT-RFwKpOE&#34;&gt;video&lt;/a&gt;
 &lt;em&gt;Towards Benchmarking Graph-Processing
-Platforms&lt;/em&gt; &lt;/li&gt;
+Platforms&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;11:10 Mike Bryant (Kings
-College) &lt;a href=&#34;attachments/5538064/5506364.pptx&#34;&gt;pptx&lt;/a&gt;,
+College) &lt;a href=&#34;attachments/5538064/5506364.pptx&#34;&gt;pptx&lt;/a&gt;,
 &lt;a href=&#34;https://www.youtube.com/watch?v=KiHRTu9xx0A&#34;&gt;video&lt;/a&gt; EHRI Project: Archival Integration with Neo4j&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;11:30 coffee&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;11:50 Thilo Muth (University of
-Magdeburg) &lt;a href=&#34;attachments/5538064/5506369.pptx&#34;&gt;pptx&lt;/a&gt;&lt;strong&gt;,&lt;/strong&gt;
-&lt;a href=&#34;https://www.youtube.com/watch?v=5xH3UDLP6Oc&#34;&gt;video&lt;/a&gt; MetaProteomeAnalyzer:
+Magdeburg) &lt;a href=&#34;attachments/5538064/5506369.pptx&#34;&gt;pptx&lt;/a&gt;&lt;strong&gt;,&lt;/strong&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=5xH3UDLP6Oc&#34;&gt;video&lt;/a&gt; MetaProteomeAnalyzer:
 a graph database backed software for functional and taxonomic
-protein data analysis. &lt;/p&gt;
+protein data analysis.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;12:10 Davy Suvee (Janssen Pharmaceutica / Johnson &amp;amp; Johnson)
 &lt;a href=&#34;attachments/5538064/5506403.crdownload&#34;&gt;pdf&lt;/a&gt;,
 &lt;a href=&#34;https://www.youtube.com/watch?v=XN3LRJUfJIU&#34;&gt;video&lt;/a&gt;:
 &lt;em&gt;Euretos
-Brain -  Experiences on using a graph database to analyse data
+Brain -  Experiences on using a graph database to analyse data
 stored as a scientific knowledge
 graph&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
@@ -6970,7 +6940,7 @@ graphs&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;12:50 Christopher Davis (TU
-Delft) &lt;a href=&#34;attachments/5538064/5506370.pdf&#34;&gt;pdf&lt;/a&gt;,
+Delft) &lt;a href=&#34;attachments/5538064/5506370.pdf&#34;&gt;pdf&lt;/a&gt;,
 &lt;a href=&#34;https://www.youtube.com/channel/UC6HbzfJ4016Vez-2HKNeDag&#34;&gt;video&lt;/a&gt;:
 &lt;em&gt;Enipedia -
 Enipedia is an active exploration into the applications of wikis and
@@ -6978,52 +6948,52 @@ the semantic web for energy and industry issues&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;strong&gt;13:10 - 14:30 lunch @ restaurant Polder&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;13:10 - 14:30 lunch @ restaurant Polder&lt;/strong&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;ul&gt;
 &lt;li&gt;14:30 Venelin Kotsev (ONTOTEXT)
 &lt;a href=&#34;attachments/5538064/5506365.pptx&#34;&gt;pptx&lt;/a&gt;,
-&lt;a href=&#34;https://www.youtube.com/watch?v=u_1TPCKYvBo&#34;&gt;video&lt;/a&gt;: &lt;em&gt;Status
+&lt;a href=&#34;https://www.youtube.com/watch?v=u_1TPCKYvBo&#34;&gt;video&lt;/a&gt;: &lt;em&gt;Status
 update on the LDBC Semantic Publishing (SPB) task force&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;15:00 Bastiaan Bijl
-(Sysunite) &lt;a href=&#34;attachments/5538064/5506373.pdf&#34;&gt;pdf&lt;/a&gt;,
-&lt;a href=&#34;https://www.youtube.com/watch?v=TsCeKDHShMY&#34;&gt;video&lt;/a&gt;: &lt;em&gt;Using
+(Sysunite) &lt;a href=&#34;attachments/5538064/5506373.pdf&#34;&gt;pdf&lt;/a&gt;,
+&lt;a href=&#34;https://www.youtube.com/watch?v=TsCeKDHShMY&#34;&gt;video&lt;/a&gt;: &lt;em&gt;Using
 a semantic approach for monitoring applications in large engineering
-projects&lt;/em&gt; &lt;/li&gt;
+projects&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;15:20 Frans Knibbe
-(Geodan) &lt;a href=&#34;attachments/5538064/5506372.pptx&#34;&gt;pptx&lt;/a&gt;,
-&lt;a href=&#34;https://www.youtube.com/watch?v=uAX-m4OewPM&#34;&gt;video&lt;/a&gt;: &lt;em&gt;Benchmarks
+(Geodan) &lt;a href=&#34;attachments/5538064/5506372.pptx&#34;&gt;pptx&lt;/a&gt;,
+&lt;a href=&#34;https://www.youtube.com/watch?v=uAX-m4OewPM&#34;&gt;video&lt;/a&gt;: &lt;em&gt;Benchmarks
 for geographical data&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;15:40 Armando Stellato (University of Rome, Tor Vergata &amp;amp; UN Food
 and Agriculture
-Organization) &lt;a href=&#34;attachments/5538064/5506374.pptx&#34;&gt;pptx&lt;/a&gt;,
-&lt;a href=&#34;https://www.youtube.com/watch?v=mfA4csAs72Y&#34;&gt;video&lt;/a&gt;: &lt;em&gt;VocBench2.0,
+Organization) &lt;a href=&#34;attachments/5538064/5506374.pptx&#34;&gt;pptx&lt;/a&gt;,
+&lt;a href=&#34;https://www.youtube.com/watch?v=mfA4csAs72Y&#34;&gt;video&lt;/a&gt;: &lt;em&gt;VocBench2.0,
 a Collaborative Environment for SKOS/SKOS-XL Management: scalability
 and (inter)operatibility challenges&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;16:00 coffee&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;16:20 Ralph Hodgson
-(TopQuadrant) &lt;a href=&#34;attachments/5538064/5506367.pdf&#34;&gt;pdf&lt;/a&gt;,
+(TopQuadrant) &lt;a href=&#34;attachments/5538064/5506367.pdf&#34;&gt;pdf&lt;/a&gt;,
 &lt;a href=&#34;https://www.youtube.com/watch?v=ZUDnVw9P_Rc&#34;&gt;video&lt;/a&gt;:
 &lt;em&gt;Customer experiences in implementing SKOS-based vocabulary
 management systems&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;16:40 Simon Jupp (European Bioinformatics
-Institute) &lt;a href=&#34;attachments/5538064/5506368.pdf&#34;&gt;pdf&lt;/a&gt;,
-&lt;a href=&#34;https://www.youtube.com/watch?v=CgTuOGK92W8&#34;&gt;video&lt;/a&gt;: &lt;em&gt;[Delivering
+Institute) &lt;a href=&#34;attachments/5538064/5506368.pdf&#34;&gt;pdf&lt;/a&gt;,
+&lt;a href=&#34;https://www.youtube.com/watch?v=CgTuOGK92W8&#34;&gt;video&lt;/a&gt;: &lt;em&gt;[Delivering
 RDF for the life science at the European Bioinformatics Institute:
 Six months
 in.]&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;17:00 Jerven Bolleman (Swiss Institute of Bioinformatics)
- &lt;a href=&#34;attachments/5538064/5506381.pdf&#34;&gt;pdf&lt;/a&gt;,
+&lt;a href=&#34;attachments/5538064/5506381.pdf&#34;&gt;pdf&lt;/a&gt;,
 &lt;a href=&#34;https://www.youtube.com/watch?v=QTc3yOgoEsg&#34;&gt;video&lt;/a&gt;:
-&lt;em&gt;Breakmarking UniProt RDF. Sparql queries that make your database
+&lt;em&gt;Breakmarking UniProt RDF. Sparql queries that make your database
 cry.&amp;hellip;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;[17:20 ]Rein
+&lt;li&gt;[17:20 ]Rein
 van &#39;t
 Veer(Digital
 Heritage
-Netherlands) &lt;a href=&#34;attachments/5538064/5506380.pptx&#34;&gt;pptx&lt;/a&gt;,
+Netherlands) &lt;a href=&#34;attachments/5538064/5506380.pptx&#34;&gt;pptx&lt;/a&gt;,
 &lt;a href=&#34;https://www.youtube.com/watch?v=2vDrZoskGyQ&#34;&gt;video&lt;/a&gt; &lt;em&gt;Time
 and space for heritage&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -7048,50 +7018,50 @@ price-points (from cheaper to more expensive &amp;ndash; prices based on recent
 booking.com quote, breakfast inclusive):&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Hotel Rembrandt
-(eur80/night) &lt;a href=&#34;http://www.booking.com/hotel/nl/hotelrembrandt.nl.html&#34;&gt;http://www.booking.com/hotel/nl/hotelrembrandt.nl.html&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+(eur80/night) &lt;a href=&#34;http://www.booking.com/hotel/nl/hotelrembrandt.nl.html&#34;&gt;http://www.booking.com/hotel/nl/hotelrembrandt.nl.html&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Hotel Casa 400
-(eur100/night) &lt;a href=&#34;http://www.booking.com/hotel/nl/casa-400.nl.html&#34;&gt;http://www.booking.com/hotel/nl/casa-400.nl.html&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+(eur100/night) &lt;a href=&#34;http://www.booking.com/hotel/nl/casa-400.nl.html&#34;&gt;http://www.booking.com/hotel/nl/casa-400.nl.html&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;The Lloyd Hotel
-(eur110/night) &lt;a href=&#34;http://www.booking.com/hotel/nl/lloydhotcultambass.nl.html&#34;&gt;http://www.booking.com/hotel/nl/lloydhotcultambass.nl.html&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+(eur110/night) &lt;a href=&#34;http://www.booking.com/hotel/nl/lloydhotcultambass.nl.html&#34;&gt;http://www.booking.com/hotel/nl/lloydhotcultambass.nl.html&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;NH Tropen Hotel
-(eur135/night) &lt;a href=&#34;http://www.booking.com/hotel/nl/nhtropen.nl.html&#34;&gt;http://www.booking.com/hotel/nl/nhtropen.nl.html&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+(eur135/night) &lt;a href=&#34;http://www.booking.com/hotel/nl/nhtropen.nl.html&#34;&gt;http://www.booking.com/hotel/nl/nhtropen.nl.html&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;The Manor Hotel (eur136/night)
- &lt;a href=&#34;http://www.booking.com/hotel/nl/eden-amsterdam-manor.nl.html&#34;&gt;http://www.booking.com/hotel/nl/eden-amsterdam-manor.nl.html&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;a href=&#34;http://www.booking.com/hotel/nl/eden-amsterdam-manor.nl.html&#34;&gt;http://www.booking.com/hotel/nl/eden-amsterdam-manor.nl.html&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h6 id=&#34;travel&#34;&gt;Travel&lt;/h6&gt;
 &lt;p&gt;&lt;strong&gt;Arriving &amp;amp; departing:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Amsterdam has a well-functioning and nearby airport called Schiphol
-(AMS &lt;a href=&#34;http://www.schiphol.com%29/&#34;&gt;www.schiphol.nl)&lt;/a&gt;that
+(AMS &lt;a href=&#34;http://www.schiphol.com%29/&#34;&gt;www.schiphol.nl)&lt;/a&gt;that
 serves all main European Carriers and also very many low-fare
-carriers.  &lt;/p&gt;
+carriers.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.iamsterdam.com/en/visiting/touristinformation/gettingaround/arrival-and-departure/arrival-by-plane&#34;&gt;http://www.iamsterdam.com/en/visiting/touristinformation/gettingaround/arrival-and-departure/arrival-by-plane&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Trains&lt;/strong&gt; (~5 per hour) are the most convenient means of transport
-between Schiphol airport and Amsterdam city center, the Centraal Station
-(17 minutes, a train every 15 minutes) &amp;ndash; which station you are also
+&lt;p&gt;&lt;strong&gt;Trains&lt;/strong&gt; (~5 per hour) are the most convenient means of transport
+between Schiphol airport and Amsterdam city center, the Centraal Station
+(17 minutes, a train every 15 minutes) &amp;ndash; which station you are also
 likely arriving at in case of an international train trip.&lt;/p&gt;
 &lt;p&gt;From the Centraal Station in Amsterdam, there is a direct train (every
 half an hour, runs 11 minutes) to the Science Park station, which is
-walking distance of CWI.  If you go from the Centraal Station to one of
-the hotels, you should take tram 9 &amp;ndash; it starts at Centraal Station
+walking distance of CWI.  If you go from the Centraal Station to one of
+the hotels, you should take tram 9 &amp;ndash; it starts at Centraal Station
 (exception: for Hotel Casa 400, you should take the metro to Amstel
-station - any of the metros will do). &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Taxi&lt;/strong&gt; is an alternative, though expensive. The price from Schiphol
+station - any of the metros will do).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Taxi&lt;/strong&gt; is an alternative, though expensive. The price from Schiphol
 will be around EUR45 to the CWI or another point in the city center
 (depending on traffic, the ride is 20-30 minutes).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Public transportation&lt;/strong&gt; (tram,bus,metro) tickets for a single ride and
-1-day (24 hour) passes can be purchased from the driver/conductor on
-trams and busss (cash only) and from vending machines in the metro
-stations. &lt;/p&gt;
-&lt;p&gt;Details about the metro, trams and buses, including the &lt;strong&gt;electronic
-ticket system&lt;/strong&gt; (&amp;quot;OV-chipcard&amp;quot;) can be found here:&lt;/p&gt;
-&lt;p&gt;[&lt;a href=&#34;http://www.iamsterdam.com/en/visiting/touristinformation/gettingaround/publictransport&#34;&gt;http://www.iamsterdam.com/en/visiting/touristinformation/gettingaround/publictransport&lt;/a&gt;  &lt;strong&gt;Only the &amp;quot;disposable&amp;quot; cards are
+&lt;p&gt;&lt;strong&gt;Public transportation&lt;/strong&gt; (tram,bus,metro) tickets for a single ride and
+1-day (24 hour) passes can be purchased from the driver/conductor on
+trams and busss (cash only) and from vending machines in the metro
+stations.&lt;/p&gt;
+&lt;p&gt;Details about the metro, trams and buses, including the &lt;strong&gt;electronic
+ticket system&lt;/strong&gt; (&amp;quot;OV-chipcard&amp;quot;) can be found here:&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;http://www.iamsterdam.com/en/visiting/touristinformation/gettingaround/publictransport&#34;&gt;http://www.iamsterdam.com/en/visiting/touristinformation/gettingaround/publictransport&lt;/a&gt;  &lt;strong&gt;Only the &amp;quot;disposable&amp;quot; cards are
 interesting for you as visitor.&lt;/strong&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Multi-day (up to 7-days/168 hours) passes can only be purchased from
-the vending machines or from the ticket office opposite of Centraal
-Station. For details see&lt;/p&gt;
+the vending machines or from the ticket office opposite of Centraal
+Station. For details see&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;a href=&#34;http://en.gvb.nl/service_en_verkoop/ov-chipkaartoverzicht/Pages/ov-chipkaart-overzicht.aspx&#34;&gt;http://en.gvb.nl/service_en_verkoop/ov-chipkaartoverzicht/Pages/ov-chipkaart-overzicht.aspx&lt;/a&gt; or &lt;a href=&#34;http://en.gvb.nl/ovinmamsterdam/Pages/bestdeal.aspx&#34;&gt;http://en.gvb.nl/ovinmamsterdam/Pages/bestdeal.aspx&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;http://en.gvb.nl/service_en_verkoop/ov-chipkaartoverzicht/Pages/ov-chipkaart-overzicht.aspx&#34;&gt;http://en.gvb.nl/service_en_verkoop/ov-chipkaartoverzicht/Pages/ov-chipkaart-overzicht.aspx&lt;/a&gt; or &lt;a href=&#34;http://en.gvb.nl/ovinmamsterdam/Pages/bestdeal.aspx&#34;&gt;http://en.gvb.nl/ovinmamsterdam/Pages/bestdeal.aspx&lt;/a&gt;&lt;br&gt;
 and&lt;br&gt;
 &lt;a href=&#34;http://www.iamsterdam.com/en/placestogo/public-transport-gvb-tickets--info-desks/6688b9b9-7dba-4b3e-a01e-e7076c4d7831&#34;&gt;http://www.iamsterdam.com/en/placestogo/public-transport-gvb-tickets--info-desks/6688b9b9-7dba-4b3e-a01e-e7076c4d7831&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Getting Around:&lt;/strong&gt; the fastest way to move in the city of Amsterdam
@@ -7101,16 +7071,16 @@ For getting from your hotel to the CWI, you can either take a taxi
 Tropen/The Manor take bus 40 from Muiderpoort Station, for Hotel Casa
 400 same bus 40 but from Amstel station, and for the Rembrandt Hotel it
 is tram 9 until Middenweg/Kruislaan and then bus 40), or indeed bike for
-12 minutes. &lt;/p&gt;
+12 minutes.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Cars&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In case you plan to arrive by car, please be aware that parking space
-in Amsterdam is scarce and hence very expensive. But, you can park your
+in Amsterdam is scarce and hence very expensive. But, you can park your
 car on the &amp;quot;WCW&amp;quot; terrain where CWI is located. To enter the terrain by
-car, you have to get a ticket from the machine at the gate. To leave the
-terrain, again, you can get an exit ticket from the CWI reception.&lt;/p&gt;
+car, you have to get a ticket from the machine at the gate. To leave the
+terrain, again, you can get an exit ticket from the CWI reception.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Arriving at CWI:&lt;/strong&gt; Once you arrive at CWI, you need to meet the
-reception, and tell them that you are attending the LDBC TUC
-meeting. Then, you&#39;ll receive a visitor&#39;s pass that allows you to
+reception, and tell them that you are attending the LDBC TUC
+meeting. Then, you&#39;ll receive a visitor&#39;s pass that allows you to
 enter our building.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Social Dinner&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The social dinner will take place at 7 pm on April 3 in Restaurant Boom
@@ -7120,7 +7090,7 @@ Linneausstraat 63, Amsterdam.]&lt;/p&gt;
 &lt;p&gt;There is some small budget available that can be used to assist some
 attendees that are otherwise unable to fund their trip. Please contact
 us using the following email address if you would like more
-information: ldbcgrants AT ac DOT upc DOT edu&lt;/p&gt;
+information: ldbcgrants AT ac DOT upc DOT edu&lt;/p&gt;
 &lt;h3 id=&#34;attachments&#34;&gt;Attachments&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
 &lt;a href=&#34;attachments/5538064/5505820.pdf&#34;&gt;A5_Map_of_Amsterdam_Science_Park_PDF.pdf&lt;/a&gt;
