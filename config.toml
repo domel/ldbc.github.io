@@ -1,6 +1,5 @@
 ########################### Default configuration ######################
-#baseURL = "https://ldbcouncil.org"
-baseURL = "https://ldbc.github.io"
+baseURL = "https://ldbcouncil.org"
 title = "Linked Data Benchmark Council"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
