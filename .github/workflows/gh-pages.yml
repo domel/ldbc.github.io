@@ -20,7 +20,6 @@ jobs:
         with:
           hugo-version: '0.80.0'
           extended: true
-             
 
       - name: Build bib
         run: |
@@ -30,9 +29,11 @@ jobs:
       - name: Build
         run: hugo
 
+      - name: Prepare CNAME file
+        run: cp ./CNAME ./public/CNAME
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-
