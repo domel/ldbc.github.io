@@ -25,7 +25,9 @@ the OWL2-RL rule-set.
 
 The [SPB specification](https://github.com/ldbc/ldbc_spb_bm_2.0/blob/master/doc/LDBC_SPB_v2.0.docx?raw=true) contains the description of the benchmark and the data generator and all information about its software components can be found on the [SPB developer page](http://ldbcouncil.org/developer/spb).
 
-#### Semantic Publishing Benchmark (SPB) Audited Results for Scale Factors SF1 - 64M, SF3 - 256M and SF5 - 1G triples are shown below. 
+#### Semantic Publishing Benchmark (SPB) Audited Results
+
+Results for Scale Factors SF1 (64M), SF3 (256M), and SF5 (1G) triples are shown below.
 
 | **Scale Factor** |**Interactive (Q/s)** |**Updates (ops/sec)** | **Analytical** | **Cost** | **Software** | **Hardware** | **Test Sponsor** | **Date** | **Full Disclosure Report**
 |--|--|--|--|--|--|--|--|--|--
