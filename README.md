@@ -2,17 +2,25 @@
 
 [![](https://github.com/ldbc/ldbc.github.io/workflows/github%20pages/badge.svg)](https://github.com/ldbc/ldbc.github.io/actions)
 
-The website is built using the [Hugo](https://gohugo.io/) site generator. To serve the site without building it under _public/_ at <http://localhost:1313>, run:
+The website is built using the [Hugo](https://gohugo.io/) site generator. Hugo can be [installed using popular package managers](https://gohugo.io/getting-started/installing/) (`brew`, `apt`, `dnf`, `scoop`, `chocolatey`, etc.).
+
+To render the website at <http://localhost:1313>, run:
 
 ```bash
 hugo server
+```
+
+To generate the HTML files locally in the `public/` directory, run:
+
+```bash
+hugo
 ```
 
 For detailed build instructions, please consult the [GitHub Actions workflow configuration](.github/workflows/gh-pages.yml).
 
 ## Publications
 
-Publications are generated using [`hugo-academic-cli`](https://github.com/wowchemy/hugo-academic-cli). Follow the instructions used in the GitHub Actions configuration.
+Publications are generated using the [`hugo-academic-cli`](https://github.com/wowchemy/hugo-academic-cli) Python package. Follow the instructions used in the GitHub Actions configuration.
 
 ## Posts
 
