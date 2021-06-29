@@ -259,7 +259,7 @@ $(window).on('load', function () {
         let msg = 'Error: ';
         $('#modal-error').html(msg + xhr.status + ' ' + xhr.statusText);
       } else {
-        $('.js-download-cite').attr('href', filename);
+        $('.js-download-cite').attr('href', 'https://ldbcouncil.org' + filename);
       }
     });
     modal.modal('show');
