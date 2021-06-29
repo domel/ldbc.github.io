@@ -49,6 +49,9 @@ members:
       link: "https://www.tigergraph.com"
   nonprofits_title: "Non-Profit Organizations:"
   nonprofits:
+    - name: "Birkbeck, University of London"
+      logo: "images/members/birkbeck.jpg"
+      link: "https://www.bbk.ac.uk/"
     - name: "ENS"
       logo: "images/members/ens-paris.png"
       link: "https://www.ens.psl.eu/en"
