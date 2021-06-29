@@ -61,8 +61,8 @@ weight = 9 # A number to order the buttons in the navbar
 hasChildren = true
     [[menu.main]]
     parent = "members"
-    name = "Current Members"
-    url = "current-members" # the path to the content. it can lead to a single page (like here)
+    name = "Organizational Members"
+    url = "organizational-members" # the path to the content. it can lead to a single page (like here)
     weight = 1
     [[menu.main]]
     parent = "members"
@@ -74,7 +74,7 @@ hasChildren = true
 identifier = "event"
 name = "Events"
 url = "event" # The path can lead to a content folder too.
-weight = 20
+weight = 22
 
 [[menu.main]]
 identifier = "post"
@@ -114,6 +114,26 @@ hasChildren = true
     url = "developer-community"
     weight = 4
 
+[[menu.main]]
+weight = 9
+identifier = "gql-community"
+name = "GQL&NonBreakingSpace;Community"
+hasChildren = true
+    [[menu.main]]
+    parent = "gql-community"
+    name = "Property Graph Schema Working Group"
+    url = "gql-community/pgswg"
+    weight = 1
+    [[menu.main]]
+    parent = "gql-community"
+    name = "Existing Languages Working Group"
+    url = "gql-community/elwg"
+    weight = 2
+    [[menu.main]]
+    parent = "gql-community"
+    name = "Formal Semantics Working Group"
+    url = "gql-community/fswg"
+    weight = 3
 
 ## footer menu
 [[menu.footer]]

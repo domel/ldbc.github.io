@@ -5,7 +5,7 @@ type: becoming-a-member
 
 ### Benefits
 
-The benefits of [LDBC membership](/current-members) are:
+The benefits of [LDBC membership](/organizational-members) are:
 
 * Access to the internal LDBC information via its wiki and mailing lists, which includes access to discussion documents, graph user scenario's, datasets, draft benchmark specifications and software, results and discussions.
 * Right to membership of LDBC task forces. Currently, there are task forces on the Semantic Publishing Benchmark, the Social Network Benchmark Interactive, BI and the Graphalytics workloads, as well as the Graph Query Language task force.
