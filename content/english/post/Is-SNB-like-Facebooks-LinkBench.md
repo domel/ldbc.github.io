@@ -68,7 +68,7 @@ execution times.
 
 * **Interactive Workload.**  The Interactive SNB workload is the first one
 we are releasing. It is defined in plain text, yet we have example
-implementations in neo4j's Cypher, SPARQL and SQL. The interactive
+implementations in Neo4j's Cypher, SPARQL and SQL. The interactive
 workloads tests a system's throughput with relatively simple queries
 with concurrent updates.  The system under test (SUT) is expected to run
 in a steady state, providing durable storage with smooth response
@@ -85,7 +85,7 @@ create indexing structures or materialized views, however such
 structures need to be maintained with regards to the continues inserts
 that also part of the workload. This workload is now in draft stage,
 which means that
-the [data generator](https://github.com/ldbc/ldbc_socialnet_bm/tree/master/ldbc_socialnet_dbgen) and  [driver software stack](https://github.com/ldbc/ldbc_driver) is is ready and the purpose is to obtain user feedback, as well
+the [data generator](https://github.com/ldbc/ldbc_socialnet_bm/tree/master/ldbc_socialnet_dbgen) and  [driver software stack](https://github.com/ldbc/ldbc_driver) are ready and the purpose is to obtain user feedback, as well
 as develop good system implementations.  The first implementations of
 this workload are now running on Openlink Virtuoso, Neo4j and Sparsity
 Sparksee, and we are eager to see people try these, and optimize and
@@ -117,10 +117,10 @@ data that has sensible PageRank outcomes, and graph clustering
 structure, etc. This is in contrast
 to [LinkBench](http://people.cs.uchicago.edu/~tga/pubs/sigmod-linkbench-2013.pdf),
 released by the team of Facebook that manages the OLTP workload on the
-Facebook Graph, which closely tunes to the **low-level **MySQL query
+Facebook Graph, which closely tunes to the **low-level** MySQL query
 patterns Facebook sees, but whose graph structure does not attempt to be
-realistic beyond average out degree of the nodes (so, it makes not
-attempt to create realistic community patterns or correlations) . The
+realistic beyond average out degree of the nodes (so, it makes no
+attempts to create realistic community patterns or correlations) . The
 authors of LinkBench may be right that  the graph structure does not
 make a difference for simple insert/update/delete/lookup actions which
 LinkBench itself tests, but for the SNB queries in the Interactive and
@@ -130,7 +130,7 @@ memcached
 ("[TAO](http://www.cs.cmu.edu/~pavlo/courses/fall2013/static/papers/11730-atc13-bronson.pdf)"),
 some of it ends up in separate subsystems (using HDFS and HBase), which
 is outside of the scope of LinkBench. However, for queries like in the
-SNB Interactive and BI workloads it **does **matter how people are
+SNB Interactive and BI workloads it **does** matter how people are
 connected, and how the attribute values  of connected people correlate.
 In fact, the SNB data generator is unique in that it generates a huge
 graph with *correlations*, where people who live together, have the same
