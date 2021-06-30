@@ -7,7 +7,7 @@ author: Alex Averbuch
 # short comment shon below author/date
 # short_comment:
 date: 2015-01-20
-tags: [snb, Driver]
+tags: [snb, driver, interactive]
 # please make sure to remove image parameter if unused
 # image: "post/snb-driver-part-3-workload-execution-putting-it-all-together/featured.png" 
 ---

@@ -7,7 +7,7 @@ author: Irini Fundulaki
 # short comment shon below author/date
 #short_comment:
 date: 2015-06-16
-tags: ["instance", "matching", "benchmarks", "SPB"]
+tags: [instance matching, spb]
 ---
 
 The number of datasets published in the Web of Data as part of the

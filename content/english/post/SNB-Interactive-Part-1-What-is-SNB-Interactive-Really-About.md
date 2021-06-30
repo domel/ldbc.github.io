@@ -7,7 +7,7 @@ author: Orri Erling
 # short comment shon below author/date
 # short_comment:
 date: 2015-05-14
-tags: [snb, Interactive Workload, social networks benchmark, Virtuoso]
+tags: [snb, virtuoso, interactive]
 # please make sure to remove image parameter if unused
 # image: "post/snb-interactive-part-1-what-is-snb-interactive-really-about/featured.png" 
 ---

@@ -7,7 +7,7 @@ author: Damaris Coll
 # short comment shon below author/date
 # short_comment:
 date: 2015-05-25
-tags: ["SIGMOD", "ACM", "SIGMOD/PODS", "grades", "snb", "Interactive Workload", "Graphalytics"]
+tags: [sigmod, grades, snb, graphalytics, workshop]
 # please make sure to remove image parameter if unused
 # image: "post/ldbc-participates-in-the-36th-edition-of-the-acm-sigmod-pods-conference/featured.png" 
 ---

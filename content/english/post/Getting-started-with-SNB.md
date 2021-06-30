@@ -7,7 +7,7 @@ author: Arnau Prat
 # short comment shon below author/date
 # short_comment:
 date: 2014-10-09
-tags: [snb]
+tags: [snb, interactive, datagen]
 # please make sure to remove image parameter if unused
 # image: "post/getting-started-with-snb/featured.png" 
 ---

@@ -7,7 +7,7 @@ author: Orri Erling
 # short comment shon below author/date
 # short_comment:
 date: 2014-10-09
-tags: [snb, Interactive Workload]
+tags: [snb, interactive]
 # please make sure to remove image parameter if unused
 # image: "post/introducing-snb-interactive-the-ldbc-social-network-benchmark-online-workload/featured.png" 
 ---

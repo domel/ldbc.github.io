@@ -7,7 +7,7 @@ author: Iliya Enchev
 # short comment shon below author/date
 # short_comment:
 date: 2015-01-13
-tags: [semantic publishing benchmark, sesame, rdf, tutorial, guide, how-to]
+tags: [spb, sesame, rdf, tutorial, guide]
 # please make sure to remove image parameter if unused
 # image: "post/running-the-semantic-publishing-benchmark-on-sesame-a-step-by-step-guide/featured.png" 
 ---

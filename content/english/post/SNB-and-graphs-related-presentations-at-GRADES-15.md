@@ -7,7 +7,7 @@ author: Damaris Coll
 # short comment shon below author/date
 # short_comment:
 date: 2015-05-29
-tags: ["GRADES", "SIGMOD", "Graphalytics", "events", "snb", "data generator"]
+tags: [sigmod, graphalytics, grades, snb, datagen, workshop]
 # please make sure to remove image parameter if unused
 # image: "post/snb-and-graphs-related-presentations-at-grades-15/featured.png" 
 ---

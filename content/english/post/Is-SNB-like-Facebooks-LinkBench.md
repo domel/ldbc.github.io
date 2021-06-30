@@ -7,7 +7,7 @@ author: Peter Boncz
 # short comment shon below author/date
 short_comment: This table shows which kind of graph data management system might be tested for the three different  SNB workloads.
 date: 2014-10-09
-tags: [developer]
+tags: [developer, snb, interactive, bi, graphalytics]
 # please make sure to remove image parameter if unused
 image: "post/is-snb-like-facebooks-linkbench/SNB-workloads-vs-systems.jpg" 
 ---

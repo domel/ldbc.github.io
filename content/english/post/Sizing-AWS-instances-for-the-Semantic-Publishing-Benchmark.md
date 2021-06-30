@@ -7,7 +7,7 @@ author: Iliya Enchev. Venelin Kotsev
 # short comment shon below author/date
 # short_comment:
 date: 2014-12-17
-tags: [semantic publishing benchmark, amazon, EC2, AWS, rdf]
+tags: [spb, amazon, ec2, aws, rdf]
 # please make sure to remove image parameter if unused
 # image: "post/sizing-aws-instances-for-the-semantic-publishing-benchmark/featured.png" 
 ---

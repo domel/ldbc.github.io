@@ -7,7 +7,7 @@ author: Orri Erling
 # short comment shon below author/date
 # short_comment:
 date: 2014-10-09
-tags: [graph, analytics]
+tags: [analytics]
 # please make sure to remove image parameter if unused
 # image: "post/the-day-of-graph-analytics/featured.png" 
 ---

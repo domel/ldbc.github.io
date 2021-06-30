@@ -7,7 +7,7 @@ author: Irini Fundulaki
 # short comment shon below author/date
 # short_comment:
 date: 2014-11-09
-tags: [Semantic Publishing, SPB, SPARQL 1.1, synthetic data generator]
+tags: [spb, sparql]
 # please make sure to remove image parameter if unused
 # image: "post/getting-started-with-the-semantic-publishing-benchmark/featured.png" 
 ---

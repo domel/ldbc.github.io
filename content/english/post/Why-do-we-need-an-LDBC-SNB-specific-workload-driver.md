@@ -7,7 +7,7 @@ author: Alex Averbuch
 # short comment shon below author/date
 # short_comment:
 date: 2015-04-21
-tags: [snb, Driver]
+tags: [snb, driver, interactive]
 # please make sure to remove image parameter if unused
 # image: "post/why-do-we-need-an-ldbc-snb-specific-workload-driver/featured.png" 
 ---

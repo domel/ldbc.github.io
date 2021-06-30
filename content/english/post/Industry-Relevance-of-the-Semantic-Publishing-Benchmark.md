@@ -7,7 +7,7 @@ author: Atanas Kiryakov
 # short comment shon below author/date
 short_comment: Why do leading media companies, like the BBC and publishers, from FT to DK and Elsevier, use triplestores?
 date: 2015-03-03
-tags: [industry]
+tags: [industry, spb]
 # please make sure to remove image parameter if unused
 image: "post/industry-relevance-of-the-semantic-publishing-benchmark/01_sf_newspapers.png" 
 ---

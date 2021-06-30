@@ -7,7 +7,7 @@ author: Orri Erling
 # short comment shon below author/date
 # short_comment:
 date: 2014-12-18
-tags: [snb, social network benchmark, Business Intelligence]
+tags: [snb, bi]
 # please make sure to remove image parameter if unused
 # image: "post/further-developments-in-snb-bi-workload/featured.png" 
 ---

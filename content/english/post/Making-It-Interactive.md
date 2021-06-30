@@ -7,7 +7,7 @@ author: Orri Erling
 # short comment shon below author/date
 # short_comment:
 date: 2014-10-09
-tags: [snb, ldbc, benchmarking, social network benchmark, tpc, sparql]
+tags: [snb, benchmarking, tpc, sparql, interactive]
 # please make sure to remove image parameter if unused
 # image: "post/making-it-interactive/featured.png" 
 ---

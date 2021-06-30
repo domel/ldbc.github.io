@@ -8,7 +8,7 @@ author: Orri Erling
 short_comment: "Note: this post is a continuation of \"SNB
 Interactive Part 1: What is SNB Interactive Really About?\" post by Orri Erling."
 date: 2015-05-26
-tags: [social network benchmark, snb, Interactive, Workload, Virtuoso]
+tags: [snb, virtuoso, interactive]
 # please make sure to remove image parameter if unused
 # image: "post/snb-interactive-part-2-modeling-choices/featured.png" 
 ---

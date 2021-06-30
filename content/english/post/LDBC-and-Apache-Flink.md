@@ -5,7 +5,7 @@ author: Martin Junghanns
 # short comment shon below author/date
 # short_comment:
 date: 2015-11-16T14:47:00
-tags: ["Apache Flink", "Flink", "datagen", "DataSet API", "LDBC Datagen"]
+tags: [flink, datagen, snb]
 ---
 
 Apache Flink [[1]](#references) is an open source platform

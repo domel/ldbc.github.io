@@ -7,7 +7,7 @@ author: Alex Averbuch
 # short comment shon below author/date
 # short_comment:
 date: 2014-11-27
-tags: [snb, Driver, TPC-C, SUT]
+tags: [snb, driver, tpc-c, interactive]
 # please make sure to remove image parameter if unused
 # image: "post/snb-driver-part-1/featured.png" 
 ---

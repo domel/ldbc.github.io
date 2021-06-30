@@ -7,7 +7,7 @@ author: Josep Larriba Pey
 # short comment shon below author/date
 # short_comment:
 date: 2014-10-14
-tags: [social network benchmark, snb, data generator, big data]
+tags: [snb, datagen, interactive, bi, graphalytics]
 # please make sure to remove image parameter if unused
 # image: "post/social-network-benchmark-goals/featured.png" 
 ---

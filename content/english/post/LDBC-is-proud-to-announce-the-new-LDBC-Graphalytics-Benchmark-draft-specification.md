@@ -7,7 +7,7 @@ author: Peter Boncz
 # short comment shon below author/date
 # short_comment:
 date: 2016-09-06
-tags: ["benchmarking", "Graphalytics", "TU Delft"]
+tags: [benchmark, tu delft, graphalytics]
 # please make sure to remove image parameter if unused
 image: "post/ldbc-is-proud-to-announce-the-new-ldbc-graphalytics-benchmark-draft-specification/image2.JPG" 
 ---

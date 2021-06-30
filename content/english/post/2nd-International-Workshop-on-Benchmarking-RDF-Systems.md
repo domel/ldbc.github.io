@@ -7,7 +7,7 @@ author: LDBC
 # short comment shon below author/date
 # short_comment:
 date: 2014-10-09
-tags: [workshop, cfp, benchmarking, bersys]
+tags: [workshop, cfp, benchmark, bersys]
 # please make sure to remove image parameter if unused
 # image: "post/2nd-international-workshop-on-benchmarking-rdf-systems/featured.png" 
 ---

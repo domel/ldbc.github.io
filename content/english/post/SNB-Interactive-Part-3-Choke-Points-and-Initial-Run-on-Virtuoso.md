@@ -7,7 +7,7 @@ author: Orri Erling
 # short comment shon below author/date
 short_comment: "Note: this post is a continuation of \"SNB Interactive, Part 2: Modeling Choices\" post by Orri Erling."
 date: 2015-06-10
-tags: ["developer"]
+tags: [snb, interactive]
 ---
 
 In this post we will look at running the [LDBC SNB](http://ldbcouncil.org/developer/snb) on [Virtuoso](http://virtuoso.openlinksw.com/).

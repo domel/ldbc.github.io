@@ -7,7 +7,7 @@ author: Venelin Kotsev
 # short comment shon below author/date
 # short_comment:
 date: 2014-08-20 
-tags: [ldbc, SPB, semantic publishing benchmark, rdf benchmark]
+tags: [ldbc, spb, rdf]
 # please make sure to remove image parameter if unused
 # image: "post/using-ldbc-spb-to-find-owlim-performance-issues/featured.png" 
 ---

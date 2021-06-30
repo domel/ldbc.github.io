@@ -7,7 +7,7 @@ author: Arnau Prat
 # short comment shon below author/date
 # short_comment:
 date: 2014-10-09
-tags: [datagen, social network benchmark, social network]
+tags: [datagen, social network, snb]
 # please make sure to remove image parameter if unused
 # image: "post/datagen-data-generation-for-the-social-network-benchmark/featured.png" 
 ---

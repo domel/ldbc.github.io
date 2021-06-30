@@ -5,7 +5,7 @@ author: "Dávid Szakállas"
 author_url: https://www.linkedin.com/in/dszakallas/
 short_comment: "Guest post."
 date: 2020-06-12
-tags: ["LDBC Datagen", "SNB"]
+tags: [datagen, snb]
 # please remove image parameter if unused
 # image: "post/speeding-up-ldbc-snb-datagen/featured.png" 
 ---

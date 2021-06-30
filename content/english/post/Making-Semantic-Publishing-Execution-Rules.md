@@ -7,7 +7,7 @@ author: Orri Erling
 # short comment shon below author/date
 # short_comment:
 date: 2014-11-18
-tags: [SPB, semantic publishing benchmark, ldbc, test run]
+tags: [spb, test run]
 # please make sure to remove image parameter if unused
 # image: "post/making-semantic-publishing-execution-rules/featured.png" 
 ---
