@@ -21,24 +21,31 @@
     <item>
       <title>Thirteenth TUC Meeting</title>
       <link>https://www.ldbcouncil.org/event/thirteenth-tuc-meeting/</link>
-      <pubDate>Tue, 30 Jun 2020 09:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2020 14:00:00 +0000</pubDate>
       
       <guid>https://www.ldbcouncil.org/event/thirteenth-tuc-meeting/</guid>
       <description>&lt;p&gt;LDBC is pleased to announce its Twelfth Technical User Community (TUC) meeting.&lt;/p&gt;
 &lt;p&gt;LDBC Technical User Community meetings serve to (1) learn about progress in the LDBC task forces on graph benchmarks and graph standards, (2) to give feedback on these, and (3) hear about user experiences with graph data management technologies or (4) learn about new graph technologies from researchers or industry – LDBC counts Oracle, IBM, Intel, Neo4j, TigerGraph and Huawei among its members.&lt;/p&gt;
-&lt;p&gt;This TUC meeting will be a two-day event hosted online. We welcome all users of RDF and Graph technologies to attend. If you are interested to attend the event, please, contact Gabor Szarnyas (BME) at szarnyasg AT gmail to register.&lt;/p&gt;
+&lt;p&gt;This TUC meeting will be a two-day event hosted online. We welcome all users of RDF and Graph technologies to attend. If you are interested to attend the event, please, contact Gabor Szarnyas (BME) to register.&lt;/p&gt;
 &lt;h3 id=&#34;snb-task-force&#34;&gt;SNB Task Force&lt;/h3&gt;
-&lt;pre&gt;&lt;code&gt;Progress report
-    ACID compliance test suite
-    Integrating deletions to Datagen
-    Migrating Datagen to Spark
-    Redesign of BI read queries
-    Extensions to the driver 
-Ongoing work
-    Datagen: tuning the distribution of deletes
-    Interactive 2.0 workload
-    BI 1.0 workload
-&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Progress report
+&lt;ul&gt;
+&lt;li&gt;ACID compliance test suite&lt;/li&gt;
+&lt;li&gt;Integrating deletions to Datagen&lt;/li&gt;
+&lt;li&gt;Migrating Datagen to Spark&lt;/li&gt;
+&lt;li&gt;Redesign of BI read queries&lt;/li&gt;
+&lt;li&gt;Extensions to the driver&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Ongoing work
+&lt;ul&gt;
+&lt;li&gt;Datagen: tuning the distribution of deletes&lt;/li&gt;
+&lt;li&gt;Interactive 2.0 workload&lt;/li&gt;
+&lt;li&gt;BI 1.0 workload&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Zoom links will be sent through email.&lt;/p&gt;
 </description>
     </item>
@@ -6918,7 +6925,7 @@ College) &lt;a href=&#34;attachments/5538064/5506364.pptx&#34;&gt;pptx&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;11:50 Thilo Muth (University of
-Magdeburg) &lt;a href=&#34;attachments/5538064/5506369.pptx&#34;&gt;pptx&lt;/a&gt;&lt;strong&gt;,&lt;/strong&gt;
+Magdeburg) &lt;a href=&#34;attachments/5538064/5506369.pptx&#34;&gt;pptx&lt;/a&gt;,
 &lt;a href=&#34;https://www.youtube.com/watch?v=5xH3UDLP6Oc&#34;&gt;video&lt;/a&gt; MetaProteomeAnalyzer:
 a graph database backed software for functional and taxonomic
 protein data analysis.&lt;/p&gt;
@@ -6933,7 +6940,7 @@ graph&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;12:30 Yongming Luo (TU Eindhoven)
-&lt;a href=&#34;attachments/5538064/5506366.pdf&#34;&gt;pdf&lt;/a&gt;&lt;em&gt;,&lt;/em&gt;
+&lt;a href=&#34;attachments/5538064/5506366.pdf&#34;&gt;pdf&lt;/a&gt;,
 &lt;a href=&#34;https://www.youtube.com/watch?v=g_my3tBB2_s&#34;&gt;video&lt;/a&gt;}:
 &lt;em&gt;Regularities and dynamics in bisimulation reductions of big
 graphs&lt;/em&gt;&lt;/p&gt;
