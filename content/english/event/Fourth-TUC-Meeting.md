@@ -63,7 +63,7 @@ interested, please contact: ldbc AT ac DOT upc DOT edu
 **11:30 coffee**
 
 -   11:50 Thilo Muth (University of
-    Magdeburg) [pptx](attachments/5538064/5506369.pptx)**,**
+    Magdeburg) [pptx](attachments/5538064/5506369.pptx),
     [video](https://www.youtube.com/watch?v=5xH3UDLP6Oc) MetaProteomeAnalyzer:
     a graph database backed software for functional and taxonomic
     protein data analysis. 
@@ -76,7 +76,7 @@ interested, please contact: ldbc AT ac DOT upc DOT edu
     graph*
 
 -   12:30 Yongming Luo (TU Eindhoven)
-    [pdf](attachments/5538064/5506366.pdf)*,*
+    [pdf](attachments/5538064/5506366.pdf),
     [video](https://www.youtube.com/watch?v=g_my3tBB2_s)}:
     *Regularities and dynamics in bisimulation reductions of big
     graphs*
