@@ -823,99 +823,60 @@
             
             
           
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
           
           
+          <!-- blog post -->
+          <article class="col-md-6 mb-4">
+            <div class="project-item mb-5">
+  <div style="padding-bottom: 10px;">
+    
+    <h4><a class="text-dark" href="https://www.ldbcouncil.org/post/snb-interactive-part-1-what-is-snb-interactive-really-about/">SNB Interactive Part 1: What Is SNB Interactive Really About?</a></h4>
+    <h5 class="d-inline-block mr-3">Tags:</h5>
+    SNB
+    , VIRTUOSO
+    , INTERACTIVE
+    
+  </div>
+  <div class="position-relative mb-4 overflow-hidden">
+    
+        <p>This post is the first in a series of blogs analyzing the LDBC Social
+Network Benchmark Interactive workload. This is written from the dual
+perspective of participating in the benchmark design and of building the
+OpenLink Virtuoso implementation of same.</p>
+<p>With two implementations of SNB interactive at four different scales, we
+can take a first look at what the benchmark is really about.  The
+hallmark of a benchmark implementation is that its …</p>
+    
+  </div>
+</div>
+
+          </article>
+          
+          <!-- blog post -->
+          <article class="col-md-6 mb-4">
+            <div class="project-item mb-5">
+  <div style="padding-bottom: 10px;">
+    
+    <h4><a class="text-dark" href="https://www.ldbcouncil.org/post/why-do-we-need-an-ldbc-snb-specific-workload-driver/">Why Do We Need an LDBC SNB-Specific Workload Driver?</a></h4>
+    <h5 class="d-inline-block mr-3">Tags:</h5>
+    SNB
+    , DRIVER
+    , INTERACTIVE
+    
+  </div>
+  <div class="position-relative mb-4 overflow-hidden">
+    
+        <p>In a previous <a href="/tags/driver">3-part blog series</a> we touched upon the difficulties of executing the LDBC SNB
+Interactive (SNB) workload, while achieving good performance and
+scalability. What we didn&rsquo;t discuss is why these difficulties were
+unique to SNB, and what aspects of the way we perform workload execution
+are scientific contributions - novel solutions to previously unsolved
+problems. This post will highlight the differences between SNB and more …</p>
+    
+  </div>
+</div>
+
+          </article>
           
           <!-- blog post -->
           <article class="col-md-6 mb-4">
@@ -927,7 +888,6 @@
     DATAGEN
     , SOCIAL NETWORK
     , SNB
-    , SOCIAL NETWORK BENCHMARK
     
   </div>
   <div class="position-relative mb-4 overflow-hidden">
@@ -940,6 +900,33 @@ generator.</p>
 <p>First of all, I start with a few basics of how Datagen works internally.
 In Datagen, once the person graph has been created (persons and their
 relationships), …</p>
+    
+  </div>
+</div>
+
+          </article>
+          
+          <!-- blog post -->
+          <article class="col-md-6 mb-4">
+            <div class="project-item mb-5">
+  <div style="padding-bottom: 10px;">
+    
+    <h4><a class="text-dark" href="https://www.ldbcouncil.org/post/the-ldbc-datagen-community-structure/">The LDBC Datagen Community Structure</a></h4>
+    <h5 class="d-inline-block mr-3">Tags:</h5>
+    DATAGEN
+    , SOCIAL NETWORK
+    , SNB
+    
+  </div>
+  <div class="position-relative mb-4 overflow-hidden">
+    
+        <p>This blog entry is about one of the features of DATAGEN that makes it
+different from other synthetic graph generators that can be found in the
+literature: the community structure of the graph.</p>
+<p>When generating synthetic graphs, one must not only pay attention to
+quantitative measures such as the number of nodes and edges, but also to
+other more qualitative characteristics such as the degree distribution,
+clustering coefficient. Real graphs, and …</p>
     
   </div>
 </div>
@@ -981,6 +968,7 @@ easily identify a lot of other …</p>
     <h5 class="d-inline-block mr-3">Tags:</h5>
     SNB
     , DRIVER
+    , INTERACTIVE
     
   </div>
   <div class="position-relative mb-4 overflow-hidden">
@@ -992,85 +980,6 @@ into the details of what it means to execute &ldquo;dependent queries&rdquo; dur
 benchmark execution, and how this is handled in the driver. First of
 all, as many driver-specific terms will be used, below is a listing of
 their definitions. There is no need to read them in …</p>
-    
-  </div>
-</div>
-
-          </article>
-          
-          <!-- blog post -->
-          <article class="col-md-6 mb-4">
-            <div class="project-item mb-5">
-  <div style="padding-bottom: 10px;">
-    
-    <h4><a class="text-dark" href="https://www.ldbcouncil.org/post/snb-driver-part-3-workload-execution-putting-it-all-together/">SNB Driver - Part 3: Workload Execution Putting It All Together</a></h4>
-    <h5 class="d-inline-block mr-3">Tags:</h5>
-    SNB
-    , DRIVER
-    
-  </div>
-  <div class="position-relative mb-4 overflow-hidden">
-    
-        <p>Up until now we have introduced the
-<a href="../snb-driver-part-1">challenges faced when executing the LDBC SNB benchmark</a>, as well as
-explained
-<a href="../snb-driver-part-2-tracking-dependencies-between-queries">how some of these are overcome</a>. With the foundations laid, we can now
-explain precisely how operations are executed.</p>
-<p>Based on the dependencies certain operations have, and on the
-granularity of parallelism we wish to achieve while executing them, we
-assign a Dependency Mode and an Execution Mode to every operation type.
-Using these …</p>
-    
-  </div>
-</div>
-
-          </article>
-          
-          <!-- blog post -->
-          <article class="col-md-6 mb-4">
-            <div class="project-item mb-5">
-  <div style="padding-bottom: 10px;">
-    
-    <h4><a class="text-dark" href="https://www.ldbcouncil.org/post/further-developments-in-snb-bi-workload/">Further Developments in SNB BI Workload</a></h4>
-    <h5 class="d-inline-block mr-3">Tags:</h5>
-    SNB
-    , SOCIAL NETWORK BENCHMARK
-    , BUSINESS INTELLIGENCE
-    
-  </div>
-  <div class="position-relative mb-4 overflow-hidden">
-    
-        <p>We are presently working on the SNB BI workload. Andrey Gubichev of TU Munchen and myself are going through the queries and are playing with two SQL based implementations, one on Virtuoso and the other on Hyper.</p>
-<p>As discussed before, the BI workload has the same choke points as TPC-H as a base but pushes further in terms of graphiness and query complexity.</p>
-<p>There are obvious marketing applications for a SNB-like dataset.  There  are also security …</p>
-    
-  </div>
-</div>
-
-          </article>
-          
-          <!-- blog post -->
-          <article class="col-md-6 mb-4">
-            <div class="project-item mb-5">
-  <div style="padding-bottom: 10px;">
-    
-    <h4><a class="text-dark" href="https://www.ldbcouncil.org/post/snb-driver-part-1/">SNB Driver - Part 1</a></h4>
-    <h5 class="d-inline-block mr-3">Tags:</h5>
-    SNB
-    , DRIVER
-    , TPC-C
-    , SUT
-    
-  </div>
-  <div class="position-relative mb-4 overflow-hidden">
-    
-        <p>In this multi-part blog we consider the challenge of running the LDBC
-Social Network Interactive Benchmark (LDBC SNB) workload in
-parallel, i.e. the design of the workload driver that will issue the
-queries against the System Under Test (SUT). We go through design
-principles that were implemented for the LDBC SNB workload
-generator/load tester (simply referred to as driver). Software and
-documentation for this driver is available here: …</p>
     
   </div>
 </div>
@@ -1152,6 +1061,20 @@ documentation for this driver is available here: …</p>
                     </li>
                   
                 
+                  
+                  
+                  
+                    
+                  
+                  
+                  
+                    <li class="page-item">
+                      <a href="/tags/snb/page/4/" class="page-link hover-ripple">
+                        4
+                      </a>
+                    </li>
+                  
+                
                 
                 
                 <li class="page-item">
@@ -1163,7 +1086,7 @@ documentation for this driver is available here: …</p>
                 
                 
                 <li class="page-item">
-                  <a class="page-link hover-ripple" href="/tags/snb/page/3/">
+                  <a class="page-link hover-ripple" href="/tags/snb/page/4/">
                     »»
                   </a>
                 </li>
@@ -1220,57 +1143,35 @@ documentation for this driver is available here: …</p>
   <div class="bg-white px-4 py-5 box-shadow mb-5">
     <h4 class="mb-4"></h4>
     <ul class="list-inline tag-list">
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/acm">ACM</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/amazon">AMAZON</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/analytics">ANALYTICS</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/apache-flink">APACHE-FLINK</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/aws">AWS</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/benchmark">BENCHMARK</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/benchmarking">BENCHMARKING</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/benchmarks">BENCHMARKS</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/bersys">BERSYS</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/big-data">BIG-DATA</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/business-intelligence">BUSINESS-INTELLIGENCE</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/bi">BI</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/cfp">CFP</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/data-generator">DATA-GENERATOR</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/database">DATABASE</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/datagen">DATAGEN</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/dataset-api">DATASET-API</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/design">DESIGN</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/developer">DEVELOPER</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/driver">DRIVER</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/ec2">EC2</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/events">EVENTS</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/flink">FLINK</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/grades">GRADES</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/graph">GRAPH</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/graphalytics">GRAPHALYTICS</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/guide">GUIDE</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/how-to">HOW-TO</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/industry">INDUSTRY</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/instance">INSTANCE</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/instance-matching">INSTANCE-MATCHING</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/interactive">INTERACTIVE</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/interactive-workload">INTERACTIVE-WORKLOAD</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/ldbc">LDBC</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/ldbc-datagen">LDBC-DATAGEN</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/matching">MATCHING</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/rdf">RDF</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/rdf-benchmark">RDF-BENCHMARK</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/semantic-publishing">SEMANTIC-PUBLISHING</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/semantic-publishing-benchmark">SEMANTIC-PUBLISHING-BENCHMARK</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/sesame">SESAME</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/sigmod">SIGMOD</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/sigmod/pods">SIGMOD/PODS</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/snb">SNB</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/social-network">SOCIAL-NETWORK</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/social-network-benchmark">SOCIAL-NETWORK-BENCHMARK</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/social-networks-benchmark">SOCIAL-NETWORKS-BENCHMARK</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/sparql">SPARQL</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/sparql-1.1">SPARQL-1.1</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/spb">SPB</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/sut">SUT</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/synthetic-data-generator">SYNTHETIC-DATA-GENERATOR</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/test-run">TEST-RUN</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/tpc">TPC</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/tpc-c">TPC-C</a></li>
@@ -1278,7 +1179,6 @@ documentation for this driver is available here: …</p>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/tuc-meeting">TUC-MEETING</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/tutorial">TUTORIAL</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/virtuoso">VIRTUOSO</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/workload">WORKLOAD</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/workshop">WORKSHOP</a></li>
     </ul>
   </div>

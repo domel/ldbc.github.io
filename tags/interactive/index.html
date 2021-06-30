@@ -2,7 +2,7 @@
 
 <html lang="en-us"><head>
   <meta charset="utf-8">
-  <title>Interactive</title>
+  <title>interactive</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -170,14 +170,14 @@
       <div class="col-12">
         
         
-        <h2 class="text-white mb-3">Interactive</h2>
+        <h2 class="text-white mb-3">interactive</h2>
         
         <!-- breadcrumb -->
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb bg-transparent p-0">
             <li class="breadcrumb-item font-weight-semebold"><a class="text-white" href="/">Home</a></li>
         
-            <li class="breadcrumb-item font-weight-semebold active text-primary" aria-current="page">Interactive</li>
+            <li class="breadcrumb-item font-weight-semebold active text-primary" aria-current="page">interactive</li>
         
           </ol>
         </nav>
@@ -823,99 +823,37 @@
             
             
           
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
-          
-            
-            
-            
           
           
+          <!-- blog post -->
+          <article class="col-md-6 mb-4">
+            <div class="project-item mb-5">
+  <div style="padding-bottom: 10px;">
+    
+    <h4><a class="text-dark" href="https://www.ldbcouncil.org/post/snb-interactive-part-3-choke-points-and-initial-run-on-virtuoso/">SNB Interactive Part 3: Choke Points and Initial Run on Virtuoso</a></h4>
+    <h5 class="d-inline-block mr-3">Tags:</h5>
+    SNB
+    , INTERACTIVE
+    
+  </div>
+  <div class="position-relative mb-4 overflow-hidden">
+    
+        <p>In this post we will look at running the <a href="http://ldbcouncil.org/developer/snb">LDBC SNB</a> on <a href="http://virtuoso.openlinksw.com/">Virtuoso</a>.</p>
+<p>First, let&rsquo;s recap what the benchmark is about:</p>
+<ol>
+<li>fairly frequent short updates, with no update contention worth
+mentioning</li>
+<li>short random lookups</li>
+<li>medium complex queries centered around a person&rsquo;s social environment</li>
+</ol>
+<p>The updates exist so as to invalidate strategies that rely too heavily
+on precomputation. The short lookups exist for the sake of realism;
+after all, an online …</p>
+    
+  </div>
+</div>
+
+          </article>
           
           <!-- blog post -->
           <article class="col-md-6 mb-4">
@@ -924,11 +862,9 @@
     
     <h4><a class="text-dark" href="https://www.ldbcouncil.org/post/snb-interactive-part-2-modeling-choices/">SNB Interactive Part 2:  Modeling Choices</a></h4>
     <h5 class="d-inline-block mr-3">Tags:</h5>
-    SOCIAL NETWORK BENCHMARK
-    , SNB
-    , INTERACTIVE
-    , WORKLOAD
+    SNB
     , VIRTUOSO
+    , INTERACTIVE
     
   </div>
   <div class="position-relative mb-4 overflow-hidden">
@@ -939,6 +875,115 @@ because there is no standard property graph data model, and because the
 contestants support a broad mix of programming models, ranging from
 in-process APIs to declarative query.</p>
 <p>In the case of <a href="http://dbpedia.org/resource/Virtuoso_Universal_Server">Virtuoso</a>, we have played with <a href="http://dbpedia.org/resource/SQL">SQL</a> and <a href="http://dbpedia.org/resource/SPARQL">SPARQL</a> implementations. For a fixed schema and well known workload, SQL will always win. The reason for this is that …</p>
+    
+  </div>
+</div>
+
+          </article>
+          
+          <!-- blog post -->
+          <article class="col-md-6 mb-4">
+            <div class="project-item mb-5">
+  <div style="padding-bottom: 10px;">
+    
+    <h4><a class="text-dark" href="https://www.ldbcouncil.org/post/snb-interactive-part-1-what-is-snb-interactive-really-about/">SNB Interactive Part 1: What Is SNB Interactive Really About?</a></h4>
+    <h5 class="d-inline-block mr-3">Tags:</h5>
+    SNB
+    , VIRTUOSO
+    , INTERACTIVE
+    
+  </div>
+  <div class="position-relative mb-4 overflow-hidden">
+    
+        <p>This post is the first in a series of blogs analyzing the LDBC Social
+Network Benchmark Interactive workload. This is written from the dual
+perspective of participating in the benchmark design and of building the
+OpenLink Virtuoso implementation of same.</p>
+<p>With two implementations of SNB interactive at four different scales, we
+can take a first look at what the benchmark is really about.  The
+hallmark of a benchmark implementation is that its …</p>
+    
+  </div>
+</div>
+
+          </article>
+          
+          <!-- blog post -->
+          <article class="col-md-6 mb-4">
+            <div class="project-item mb-5">
+  <div style="padding-bottom: 10px;">
+    
+    <h4><a class="text-dark" href="https://www.ldbcouncil.org/post/why-do-we-need-an-ldbc-snb-specific-workload-driver/">Why Do We Need an LDBC SNB-Specific Workload Driver?</a></h4>
+    <h5 class="d-inline-block mr-3">Tags:</h5>
+    SNB
+    , DRIVER
+    , INTERACTIVE
+    
+  </div>
+  <div class="position-relative mb-4 overflow-hidden">
+    
+        <p>In a previous <a href="/tags/driver">3-part blog series</a> we touched upon the difficulties of executing the LDBC SNB
+Interactive (SNB) workload, while achieving good performance and
+scalability. What we didn&rsquo;t discuss is why these difficulties were
+unique to SNB, and what aspects of the way we perform workload execution
+are scientific contributions - novel solutions to previously unsolved
+problems. This post will highlight the differences between SNB and more …</p>
+    
+  </div>
+</div>
+
+          </article>
+          
+          <!-- blog post -->
+          <article class="col-md-6 mb-4">
+            <div class="project-item mb-5">
+  <div style="padding-bottom: 10px;">
+    
+    <h4><a class="text-dark" href="https://www.ldbcouncil.org/post/snb-driver-part-2-tracking-dependencies-between-queries/">SNB Driver - Part 2: Tracking Dependencies Between Queries</a></h4>
+    <h5 class="d-inline-block mr-3">Tags:</h5>
+    SNB
+    , DRIVER
+    , INTERACTIVE
+    
+  </div>
+  <div class="position-relative mb-4 overflow-hidden">
+    
+        <p>The <a href="../snb-driver-part-1">SNB Driver part 1</a> post
+introduced, broadly, the challenges faced when developing a workload
+driver for the LDBC SNB benchmark. In this blog we&rsquo;ll drill down deeper
+into the details of what it means to execute &ldquo;dependent queries&rdquo; during
+benchmark execution, and how this is handled in the driver. First of
+all, as many driver-specific terms will be used, below is a listing of
+their definitions. There is no need to read them in …</p>
+    
+  </div>
+</div>
+
+          </article>
+          
+          <!-- blog post -->
+          <article class="col-md-6 mb-4">
+            <div class="project-item mb-5">
+  <div style="padding-bottom: 10px;">
+    
+    <h4><a class="text-dark" href="https://www.ldbcouncil.org/post/snb-driver-part-3-workload-execution-putting-it-all-together/">SNB Driver - Part 3: Workload Execution Putting It All Together</a></h4>
+    <h5 class="d-inline-block mr-3">Tags:</h5>
+    SNB
+    , DRIVER
+    , INTERACTIVE
+    
+  </div>
+  <div class="position-relative mb-4 overflow-hidden">
+    
+        <p>Up until now we have introduced the
+<a href="../snb-driver-part-1">challenges faced when executing the LDBC SNB benchmark</a>, as well as
+explained
+<a href="../snb-driver-part-2-tracking-dependencies-between-queries">how some of these are overcome</a>. With the foundations laid, we can now
+explain precisely how operations are executed.</p>
+<p>Based on the dependencies certain operations have, and on the
+granularity of parallelism we wish to achieve while executing them, we
+assign a Dependency Mode and an Execution Mode to every operation type.
+Using these …</p>
     
   </div>
 </div>
@@ -957,6 +1002,61 @@ in-process APIs to declarative query.</p>
             
             
             
+            
+            <nav aria-label="Page navigation">
+              <ul class="pagination justify-content-center">
+                
+                
+                
+                
+                
+                
+                  
+                  
+                  
+                    
+                  
+                  
+                  
+                    <li class="page-item page-item active ">
+                      <a href="/tags/interactive/" class="page-link hover-ripple">
+                        1
+                      </a>
+                    </li>
+                  
+                
+                  
+                  
+                  
+                    
+                  
+                  
+                  
+                    <li class="page-item">
+                      <a href="/tags/interactive/page/2/" class="page-link hover-ripple">
+                        2
+                      </a>
+                    </li>
+                  
+                
+                
+                
+                <li class="page-item">
+                  <a href="/tags/interactive/page/2/" class="page-link hover-ripple">
+                    »
+                  </a>
+                </li>
+                
+                
+                
+                <li class="page-item">
+                  <a class="page-link hover-ripple" href="/tags/interactive/page/2/">
+                    »»
+                  </a>
+                </li>
+                
+              </ul>
+            </nav>
             
           </div>
           <!-- /pagination -->
@@ -1007,57 +1107,35 @@ in-process APIs to declarative query.</p>
   <div class="bg-white px-4 py-5 box-shadow mb-5">
     <h4 class="mb-4"></h4>
     <ul class="list-inline tag-list">
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/acm">ACM</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/amazon">AMAZON</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/analytics">ANALYTICS</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/apache-flink">APACHE-FLINK</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/aws">AWS</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/benchmark">BENCHMARK</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/benchmarking">BENCHMARKING</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/benchmarks">BENCHMARKS</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/bersys">BERSYS</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/big-data">BIG-DATA</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/business-intelligence">BUSINESS-INTELLIGENCE</a></li>
+      <li class="list-inline-item"><a class="hover-ripple" href="/tags/bi">BI</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/cfp">CFP</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/data-generator">DATA-GENERATOR</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/database">DATABASE</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/datagen">DATAGEN</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/dataset-api">DATASET-API</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/design">DESIGN</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/developer">DEVELOPER</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/driver">DRIVER</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/ec2">EC2</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/events">EVENTS</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/flink">FLINK</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/grades">GRADES</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/graph">GRAPH</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/graphalytics">GRAPHALYTICS</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/guide">GUIDE</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/how-to">HOW-TO</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/industry">INDUSTRY</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/instance">INSTANCE</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/instance-matching">INSTANCE-MATCHING</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/interactive">INTERACTIVE</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/interactive-workload">INTERACTIVE-WORKLOAD</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/ldbc">LDBC</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/ldbc-datagen">LDBC-DATAGEN</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/matching">MATCHING</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/rdf">RDF</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/rdf-benchmark">RDF-BENCHMARK</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/semantic-publishing">SEMANTIC-PUBLISHING</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/semantic-publishing-benchmark">SEMANTIC-PUBLISHING-BENCHMARK</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/sesame">SESAME</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/sigmod">SIGMOD</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/sigmod/pods">SIGMOD/PODS</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/snb">SNB</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/social-network">SOCIAL-NETWORK</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/social-network-benchmark">SOCIAL-NETWORK-BENCHMARK</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/social-networks-benchmark">SOCIAL-NETWORKS-BENCHMARK</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/sparql">SPARQL</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/sparql-1.1">SPARQL-1.1</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/spb">SPB</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/sut">SUT</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/synthetic-data-generator">SYNTHETIC-DATA-GENERATOR</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/test-run">TEST-RUN</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/tpc">TPC</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/tpc-c">TPC-C</a></li>
@@ -1065,7 +1143,6 @@ in-process APIs to declarative query.</p>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/tuc-meeting">TUC-MEETING</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/tutorial">TUTORIAL</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/virtuoso">VIRTUOSO</a></li>
-      <li class="list-inline-item"><a class="hover-ripple" href="/tags/workload">WORKLOAD</a></li>
       <li class="list-inline-item"><a class="hover-ripple" href="/tags/workshop">WORKSHOP</a></li>
     </ul>
   </div>

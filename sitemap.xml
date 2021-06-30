@@ -14,7 +14,7 @@
   
   <url>
     <loc>https://www.ldbcouncil.org/</loc>
-    <lastmod>2021-06-30T10:32:06+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:50+00:00</lastmod>
   </url>
   
   <url>
@@ -33,7 +33,7 @@
   </url>
   
   <url>
-    <loc>https://www.ldbcouncil.org/tags/ldbc-datagen/</loc>
+    <loc>https://www.ldbcouncil.org/tags/datagen/</loc>
     <lastmod>2020-06-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -54,32 +54,32 @@
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-journalscorrabs-2010-12243/</loc>
-    <lastmod>2021-06-30T10:32:03+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:46+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/</loc>
-    <lastmod>2021-06-30T10:32:06+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confsigmod-waudby-sps-20/</loc>
-    <lastmod>2021-06-30T10:32:06+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:49+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-journalscorrabs-2011-15028/</loc>
-    <lastmod>2021-06-30T10:32:03+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:46+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-journalscorrabs-2001-02299/</loc>
-    <lastmod>2021-06-30T10:32:03+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:46+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/tpctc-acid/</loc>
-    <lastmod>2021-06-30T10:32:06+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:50+00:00</lastmod>
   </url>
   
   <url>
@@ -94,12 +94,12 @@
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confgrades-szarnyas-pampkeb-18/</loc>
-    <lastmod>2021-06-30T10:32:04+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:47+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confsigmod-angles-abbfglpps-18/</loc>
-    <lastmod>2021-06-30T10:32:05+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:48+00:00</lastmod>
   </url>
   
   <url>
@@ -114,21 +114,21 @@
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confgrades-leo-b-17/</loc>
-    <lastmod>2021-06-30T10:32:04+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:47+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confgrades-ngai-hhi-17/</loc>
-    <lastmod>2021-06-30T10:32:04+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:47+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confgrades-prat-perez-gskdb-17/</loc>
-    <lastmod>2021-06-30T10:32:04+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.ldbcouncil.org/tags/benchmarking/</loc>
+    <loc>https://www.ldbcouncil.org/tags/benchmark/</loc>
     <lastmod>2016-09-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -154,27 +154,12 @@
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confsemweb-kotsev-mpefk-16/</loc>
-    <lastmod>2021-06-30T10:32:05+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:48+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-journalspvldb-iosup-hnhpmccsat-16/</loc>
-    <lastmod>2021-06-30T10:32:04+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ldbcouncil.org/tags/apache-flink/</loc>
-    <lastmod>2015-11-16T14:47:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ldbcouncil.org/tags/datagen/</loc>
-    <lastmod>2015-11-16T14:47:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ldbcouncil.org/tags/dataset-api/</loc>
-    <lastmod>2015-11-16T14:47:00+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:46+00:00</lastmod>
   </url>
   
   <url>
@@ -193,22 +178,12 @@
   </url>
   
   <url>
-    <loc>https://www.ldbcouncil.org/tags/benchmarks/</loc>
-    <lastmod>2015-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.ldbcouncil.org/post/elements-of-instance-matching-benchmarks-a-short-overview/</loc>
     <lastmod>2015-06-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.ldbcouncil.org/tags/instance/</loc>
-    <lastmod>2015-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ldbcouncil.org/tags/matching/</loc>
+    <loc>https://www.ldbcouncil.org/tags/instance-matching/</loc>
     <lastmod>2015-06-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -218,23 +193,13 @@
   </url>
   
   <url>
-    <loc>https://www.ldbcouncil.org/tags/developer/</loc>
+    <loc>https://www.ldbcouncil.org/tags/interactive/</loc>
     <lastmod>2015-06-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/post/snb-interactive-part-3-choke-points-and-initial-run-on-virtuoso/</loc>
     <lastmod>2015-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ldbcouncil.org/tags/data-generator/</loc>
-    <lastmod>2015-05-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ldbcouncil.org/tags/events/</loc>
-    <lastmod>2015-05-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -253,17 +218,12 @@
   </url>
   
   <url>
-    <loc>https://www.ldbcouncil.org/tags/interactive/</loc>
-    <lastmod>2015-05-26T00:00:00+00:00</lastmod>
+    <loc>https://www.ldbcouncil.org/tags/workshop/</loc>
+    <lastmod>2015-05-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/post/snb-interactive-part-2-modeling-choices/</loc>
-    <lastmod>2015-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ldbcouncil.org/tags/social-network-benchmark/</loc>
     <lastmod>2015-05-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -273,32 +233,12 @@
   </url>
   
   <url>
-    <loc>https://www.ldbcouncil.org/tags/workload/</loc>
-    <lastmod>2015-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ldbcouncil.org/tags/acm/</loc>
-    <lastmod>2015-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ldbcouncil.org/tags/interactive-workload/</loc>
-    <lastmod>2015-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.ldbcouncil.org/post/ldbc-participates-in-the-36th-edition-of-the-acm-sigmod-pods-conference/</loc>
     <lastmod>2015-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/post/snb-interactive-part-1-what-is-snb-interactive-really-about/</loc>
-    <lastmod>2015-05-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ldbcouncil.org/tags/social-networks-benchmark/</loc>
     <lastmod>2015-05-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -343,6 +283,11 @@
   </url>
   
   <url>
+    <loc>https://www.ldbcouncil.org/tags/developer/</loc>
+    <lastmod>2015-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.ldbcouncil.org/post/owl-empowered-sparql-query-optimization/</loc>
     <lastmod>2015-02-18T00:00:00+00:00</lastmod>
   </url>
@@ -368,22 +313,12 @@
   </url>
   
   <url>
-    <loc>https://www.ldbcouncil.org/tags/how-to/</loc>
-    <lastmod>2015-01-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.ldbcouncil.org/tags/rdf/</loc>
     <lastmod>2015-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/post/running-the-semantic-publishing-benchmark-on-sesame-a-step-by-step-guide/</loc>
-    <lastmod>2015-01-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ldbcouncil.org/tags/semantic-publishing-benchmark/</loc>
     <lastmod>2015-01-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -399,32 +334,22 @@
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confwww-pham-peb-15/</loc>
-    <lastmod>2021-06-30T10:32:06+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-journalsws-loizou-ag-15/</loc>
-    <lastmod>2021-06-30T10:32:04+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:46+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confsigmod-erling-alcgppb-15/</loc>
-    <lastmod>2021-06-30T10:32:05+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:49+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confsigmod-guisado-gamez-p-14/</loc>
-    <lastmod>2021-06-30T10:32:05+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ldbcouncil.org/tags/benchmark/</loc>
-    <lastmod>2014-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ldbcouncil.org/tags/instance-matching/</loc>
-    <lastmod>2014-12-30T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:49+00:00</lastmod>
   </url>
   
   <url>
@@ -433,7 +358,7 @@
   </url>
   
   <url>
-    <loc>https://www.ldbcouncil.org/tags/business-intelligence/</loc>
+    <loc>https://www.ldbcouncil.org/tags/bi/</loc>
     <lastmod>2014-12-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -473,18 +398,8 @@
   </url>
   
   <url>
-    <loc>https://www.ldbcouncil.org/tags/sut/</loc>
-    <lastmod>2014-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.ldbcouncil.org/tags/tpc-c/</loc>
     <lastmod>2014-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ldbcouncil.org/tags/ldbc/</loc>
-    <lastmod>2014-11-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -508,23 +423,8 @@
   </url>
   
   <url>
-    <loc>https://www.ldbcouncil.org/tags/semantic-publishing/</loc>
+    <loc>https://www.ldbcouncil.org/tags/sparql/</loc>
     <lastmod>2014-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ldbcouncil.org/tags/sparql-1.1/</loc>
-    <lastmod>2014-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ldbcouncil.org/tags/synthetic-data-generator/</loc>
-    <lastmod>2014-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ldbcouncil.org/tags/big-data/</loc>
-    <lastmod>2014-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -539,6 +439,11 @@
   
   <url>
     <loc>https://www.ldbcouncil.org/tags/design/</loc>
+    <lastmod>2014-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ldbcouncil.org/tags/ldbc/</loc>
     <lastmod>2014-10-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -568,6 +473,11 @@
   </url>
   
   <url>
+    <loc>https://www.ldbcouncil.org/tags/benchmarking/</loc>
+    <lastmod>2014-10-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.ldbcouncil.org/tags/bersys/</loc>
     <lastmod>2014-10-09T00:00:00+00:00</lastmod>
   </url>
@@ -584,11 +494,6 @@
   
   <url>
     <loc>https://www.ldbcouncil.org/post/getting-started-with-snb/</loc>
-    <lastmod>2014-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ldbcouncil.org/tags/graph/</loc>
     <lastmod>2014-10-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -613,11 +518,6 @@
   </url>
   
   <url>
-    <loc>https://www.ldbcouncil.org/tags/sparql/</loc>
-    <lastmod>2014-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.ldbcouncil.org/post/the-day-of-graph-analytics/</loc>
     <lastmod>2014-10-09T00:00:00+00:00</lastmod>
   </url>
@@ -625,16 +525,6 @@
   <url>
     <loc>https://www.ldbcouncil.org/tags/tpc/</loc>
     <lastmod>2014-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ldbcouncil.org/tags/workshop/</loc>
-    <lastmod>2014-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ldbcouncil.org/tags/rdf-benchmark/</loc>
-    <lastmod>2014-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -649,62 +539,62 @@
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-journalsercim-angles-pb-14/</loc>
-    <lastmod>2021-06-30T10:32:04+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:46+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-bookscrclinked-14-boncz-ep-14/</loc>
-    <lastmod>2021-06-30T10:32:04+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:46+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confedbt-gubichev-014/</loc>
-    <lastmod>2021-06-30T10:32:04+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:47+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confsigmod-gubichev-t-14/</loc>
-    <lastmod>2021-06-30T10:32:05+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:49+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confwww-prat-perez-dl-14/</loc>
-    <lastmod>2021-06-30T10:32:06+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confsigmod-prat-d-14/</loc>
-    <lastmod>2021-06-30T10:32:05+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:49+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-conficde-gubichev-ab-14/</loc>
-    <lastmod>2021-06-30T10:32:05+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:47+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confrweb-larriba-pey-md-14/</loc>
-    <lastmod>2021-06-30T10:32:05+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:48+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-journalsercim-pham-b-14/</loc>
-    <lastmod>2021-06-30T10:32:04+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:46+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-conftpctc-gubichev-b-14/</loc>
-    <lastmod>2021-06-30T10:32:06+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-journalssigmod-angles-blf-0-enmkt-14/</loc>
-    <lastmod>2021-06-30T10:32:04+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:46+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confsigmod-martinez-bazan-d-14/</loc>
-    <lastmod>2021-06-30T10:32:05+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:49+00:00</lastmod>
   </url>
   
   <url>
@@ -719,47 +609,47 @@
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confamw-angles-br-13/</loc>
-    <lastmod>2021-06-30T10:32:04+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:47+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confsigmod-angles-pdl-13/</loc>
-    <lastmod>2021-06-30T10:32:05+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:48+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confsigmod-ma-wqyxz-13/</loc>
-    <lastmod>2021-06-30T10:32:05+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:49+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-journalscorrabs-1301-5121/</loc>
-    <lastmod>2021-06-30T10:32:03+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:46+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-conficde-pham-13/</loc>
-    <lastmod>2021-06-30T10:32:05+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:48+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confsigmod-gubichev-bs-13/</loc>
-    <lastmod>2021-06-30T10:32:05+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:49+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-journalsdbsk-boncz-fgl-013/</loc>
-    <lastmod>2021-06-30T10:32:04+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:46+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confsigmod-cattuto-qpa-13/</loc>
-    <lastmod>2021-06-30T10:32:05+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:49+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-conftpctc-boncz-ne-13/</loc>
-    <lastmod>2021-06-30T10:32:06+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:49+00:00</lastmod>
   </url>
   
   <url>
@@ -769,27 +659,27 @@
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confcikm-gubichev-n-12/</loc>
-    <lastmod>2021-06-30T10:32:04+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:47+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confedbt-tsialiamanis-sfcb-12/</loc>
-    <lastmod>2021-06-30T10:32:04+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:47+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-confsemweb-phuoc-dpbef-12/</loc>
-    <lastmod>2021-06-30T10:32:05+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:48+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-conftpctc-pham-be-12/</loc>
-    <lastmod>2021-06-30T10:32:06+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ldbcouncil.org/publication/dblp-journalsdebu-erling-12/</loc>
-    <lastmod>2021-06-30T10:32:04+00:00</lastmod>
+    <lastmod>2021-06-30T13:40:46+00:00</lastmod>
   </url>
   
   <url>
@@ -870,10 +760,6 @@
   
   <url>
     <loc>https://www.ldbcouncil.org/gql-community/pgswg/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.ldbcouncil.org/tags/sigmod/pods/</loc>
   </url>
   
 </urlset>
