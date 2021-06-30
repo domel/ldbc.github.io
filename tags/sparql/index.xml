@@ -6904,8 +6904,8 @@ update&lt;/em&gt;&lt;/li&gt;
 (UPC) &lt;a href=&#34;attachments/5538064/5506375.pdf&#34;&gt;pdf&lt;/a&gt;,
 &lt;a href=&#34;https://www.youtube.com/watch?v=4yREJQ3yDr0&#34;&gt;video&lt;/a&gt;
 &lt;em&gt;Status update on the LDBC Social  Network Benchmark (SNB) task
-forc&lt;/em&gt;e.&lt;/li&gt;
-&lt;li&gt;[:50 Alexandru Iosup (TU Delft)
+force&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;10:50 Alexandru Iosup (TU Delft)
 &lt;a href=&#34;attachments/5538064/5506363.ppt&#34;&gt;ppt&lt;/a&gt;,
 &lt;a href=&#34;https://www.youtube.com/watch?v=ulT-RFwKpOE&#34;&gt;video&lt;/a&gt;
 &lt;em&gt;Towards Benchmarking Graph-Processing
@@ -6925,7 +6925,6 @@ protein data analysis.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;12:10 Davy Suvee (Janssen Pharmaceutica / Johnson &amp;amp; Johnson)
-&lt;a href=&#34;attachments/5538064/5506403.crdownload&#34;&gt;pdf&lt;/a&gt;,
 &lt;a href=&#34;https://www.youtube.com/watch?v=XN3LRJUfJIU&#34;&gt;video&lt;/a&gt;:
 &lt;em&gt;Euretos
 Brain -  Experiences on using a graph database to analyse data
@@ -7032,8 +7031,8 @@ booking.com quote, breakfast inclusive):&lt;/p&gt;
 &lt;h6 id=&#34;travel&#34;&gt;Travel&lt;/h6&gt;
 &lt;p&gt;&lt;strong&gt;Arriving &amp;amp; departing:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Amsterdam has a well-functioning and nearby airport called Schiphol
-(AMS &lt;a href=&#34;http://www.schiphol.com%29/&#34;&gt;www.schiphol.nl)&lt;/a&gt;that
-serves all main European Carriers and also very many low-fare
+(AMS &lt;a href=&#34;http://www.schiphol.com%29/&#34;&gt;www.schiphol.nl&lt;/a&gt;) that
+serves all main European carriers and also very many low-fare
 carriers.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.iamsterdam.com/en/visiting/touristinformation/gettingaround/arrival-and-departure/arrival-by-plane&#34;&gt;http://www.iamsterdam.com/en/visiting/touristinformation/gettingaround/arrival-and-departure/arrival-by-plane&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Trains&lt;/strong&gt; (~5 per hour) are the most convenient means of transport
@@ -7049,13 +7048,14 @@ station - any of the metros will do).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Taxi&lt;/strong&gt; is an alternative, though expensive. The price from Schiphol
 will be around EUR45 to the CWI or another point in the city center
 (depending on traffic, the ride is 20-30 minutes).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Public transportation&lt;/strong&gt; (tram,bus,metro) tickets for a single ride and
+&lt;p&gt;&lt;strong&gt;Public transportation&lt;/strong&gt; (tram, bus, metro) tickets for a single ride and
 1-day (24 hour) passes can be purchased from the driver/conductor on
 trams and busss (cash only) and from vending machines in the metro
 stations.&lt;/p&gt;
 &lt;p&gt;Details about the metro, trams and buses, including the &lt;strong&gt;electronic
 ticket system&lt;/strong&gt; (&amp;quot;OV-chipcard&amp;quot;) can be found here:&lt;/p&gt;
-&lt;p&gt;[&lt;a href=&#34;http://www.iamsterdam.com/en/visiting/touristinformation/gettingaround/publictransport&#34;&gt;http://www.iamsterdam.com/en/visiting/touristinformation/gettingaround/publictransport&lt;/a&gt;  &lt;strong&gt;Only the &amp;quot;disposable&amp;quot; cards are
+&lt;p&gt;&lt;a href=&#34;http://www.iamsterdam.com/en/visiting/touristinformation/gettingaround/publictransport&#34;&gt;http://www.iamsterdam.com/en/visiting/touristinformation/gettingaround/publictransport&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Only the &amp;quot;disposable&amp;quot; cards are
 interesting for you as visitor.&lt;/strong&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Multi-day (up to 7-days/168 hours) passes can only be purchased from
@@ -7085,8 +7085,8 @@ meeting. Then, you&#39;ll receive a visitor&#39;s pass that allows you to
 enter our building.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Social Dinner&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The social dinner will take place at 7 pm on April 3 in Restaurant Boom
-([&lt;a href=&#34;http://www.boometenendrinken.nl/&#34;&gt;boometenendrinken.nl&lt;/a&gt;),
-Linneausstraat 63, Amsterdam.]&lt;/p&gt;
+(&lt;a href=&#34;http://www.boometenendrinken.nl/&#34;&gt;boometenendrinken.nl&lt;/a&gt;),
+Linneausstraat 63, Amsterdam.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Travel costs&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;There is some small budget available that can be used to assist some
 attendees that are otherwise unable to fund their trip. Please contact
@@ -7154,10 +7154,7 @@ LDBC CWI 2014-04-03.pptx&lt;/a&gt;
 LDBC Heritage &amp;amp; Location.pptx&lt;/a&gt;
 (application/vnd.openxmlformats-officedocument.presentationml.presentation)&lt;br&gt;
 &lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;{width=&amp;ldquo;8&amp;rdquo; height=&amp;ldquo;8&amp;rdquo;} &lt;a href=&#34;attachments/5538064/5506381.pdf&#34;&gt;LDBC meeting
-amsterdam.pdf&lt;/a&gt; (application/pdf)&lt;br&gt;
-&lt;img src=&#34;images/icons/bullet_blue.gif&#34; alt=&#34;&#34;&gt;
-&lt;a href=&#34;attachments/5538064/5506403.crdownload&#34;&gt;LDBC_Euretos.pdf.crdownload&lt;/a&gt;
-(application/octet-stream)\&lt;/p&gt;
+amsterdam.pdf&lt;/a&gt; (application/pdf)\&lt;/p&gt;
 </description>
     </item>
     
@@ -7657,13 +7654,13 @@ the Bus 690, which stops at Boltzmannstraße.&lt;/li&gt;
 Then change to U-bahn U6 line towards Garching-Forschungszentrum,
 exit at the last station. Take the south exit to MI-Building and
 LRZ.&lt;/li&gt;
-&lt;li&gt;Taxi: fare is ca,30-40 euros.&lt;/li&gt;
+&lt;li&gt;Taxi: fare is ca. 30-40 euros.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;For cases 1 and 2, before the trip get the One-day Munich Airport ticket
 and validate it. It will cover all public transportation for that day.&lt;/p&gt;
 &lt;h5 id=&#34;getting-to-the-tum-campus-from-garching-u-bahn&#34;&gt;Getting to the TUM Campus from Garching: U-Bahn&lt;/h5&gt;
 &lt;p&gt;The city of Garching is located on the U6 line, one stop before the
-Garching-Forschungszentrum**.** In order to get from Garching to
+Garching-Forschungszentrum. In order to get from Garching to
 Garching-Forschungszentrum with the U-bahn, a special one-way ticket
 called Kurzstrecke (1.30 euros) can be purchased.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Finding LRZ@TUM&lt;/strong&gt;&lt;/p&gt;
