@@ -202,7 +202,7 @@ before ride.
     Then change to U-bahn U6 line towards Garching-Forschungszentrum,
     exit at the last station. Take the south exit to MI-Building and
     LRZ.
-3.  Taxi: fare is ca,30-40 euros.
+3.  Taxi: fare is ca. 30-40 euros.
 
 For cases 1 and 2, before the trip get the One-day Munich Airport ticket
 and validate it. It will cover all public transportation for that day.
@@ -210,7 +210,7 @@ and validate it. It will cover all public transportation for that day.
 ##### Getting to the TUM Campus from Garching: U-Bahn
 
 The city of Garching is located on the U6 line, one stop before the
-Garching-Forschungszentrum**.** In order to get from Garching to
+Garching-Forschungszentrum. In order to get from Garching to
 Garching-Forschungszentrum with the U-bahn, a special one-way ticket
 called Kurzstrecke (1.30 euros) can be purchased.
 

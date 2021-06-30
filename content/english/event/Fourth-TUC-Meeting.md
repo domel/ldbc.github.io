@@ -50,8 +50,8 @@ interested, please contact: ldbc AT ac DOT upc DOT edu
     (UPC) [pdf](attachments/5538064/5506375.pdf),
     [video](https://www.youtube.com/watch?v=4yREJQ3yDr0)
     *Status update on the LDBC Social  Network Benchmark (SNB) task
-    forc*e.
--   [:50 Alexandru Iosup (TU Delft)
+    force*.
+-   10:50 Alexandru Iosup (TU Delft)
     [ppt](attachments/5538064/5506363.ppt),
     [video](https://www.youtube.com/watch?v=ulT-RFwKpOE)
     *Towards Benchmarking Graph-Processing
@@ -69,7 +69,6 @@ interested, please contact: ldbc AT ac DOT upc DOT edu
     protein data analysis. 
 
 -   12:10 Davy Suvee (Janssen Pharmaceutica / Johnson & Johnson)
-    [pdf](attachments/5538064/5506403.crdownload),
     [video](https://www.youtube.com/watch?v=XN3LRJUfJIU):
     *Euretos
     Brain -  Experiences on using a graph database to analyse data
@@ -183,8 +182,8 @@ booking.com quote, breakfast inclusive):
 **Arriving & departing:**
 
 Amsterdam has a well-functioning and nearby airport called Schiphol
-(AMS [www.schiphol.nl)](http://www.schiphol.com%29/)that
-serves all main European Carriers and also very many low-fare
+(AMS [www.schiphol.nl](http://www.schiphol.com%29/)) that
+serves all main European carriers and also very many low-fare
 carriers.  
 
 <http://www.iamsterdam.com/en/visiting/touristinformation/gettingaround/arrival-and-departure/arrival-by-plane>
@@ -205,7 +204,7 @@ station - any of the metros will do).
 will be around EUR45 to the CWI or another point in the city center
 (depending on traffic, the ride is 20-30 minutes).
 
-**Public transportation** (tram,bus,metro) tickets for a single ride and
+**Public transportation** (tram, bus, metro) tickets for a single ride and
 1-day (24 hour) passes can be purchased from the driver/conductor on
 trams and busss (cash only) and from vending machines in the metro
 stations. 
@@ -213,7 +212,9 @@ stations.
 Details about the metro, trams and buses, including the **electronic
 ticket system** (\"OV-chipcard\") can be found here:
 
-[<http://www.iamsterdam.com/en/visiting/touristinformation/gettingaround/publictransport>  **Only the \"disposable\" cards are
+<http://www.iamsterdam.com/en/visiting/touristinformation/gettingaround/publictransport>
+
+**Only the \"disposable\" cards are
 interesting for you as visitor.**
 
 <div>
@@ -253,8 +254,8 @@ enter our building.
 **Social Dinner** 
 
 The social dinner will take place at 7 pm on April 3 in Restaurant Boom
-([[boometenendrinken.nl](http://www.boometenendrinken.nl/)),
-Linneausstraat 63, Amsterdam.]
+([boometenendrinken.nl](http://www.boometenendrinken.nl/)),
+Linneausstraat 63, Amsterdam.
 
 **Travel costs**
 
@@ -327,6 +328,3 @@ LDBC Heritage & Location.pptx](attachments/5538064/5506380.pptx)
 (application/vnd.openxmlformats-officedocument.presentationml.presentation)\
 ![](images/icons/bullet_blue.gif){width="8" height="8"} [LDBC meeting
 amsterdam.pdf](attachments/5538064/5506381.pdf) (application/pdf)\
-![](images/icons/bullet_blue.gif)
-[LDBC_Euretos.pdf.crdownload](attachments/5538064/5506403.crdownload)
-(application/octet-stream)\
