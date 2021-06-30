@@ -1,9 +1,9 @@
 ---
-type: developer-community
+type: generic
 title: Developer Community
 ---
 
-_This page is only a placeholder, contents will be added later._
+This is just a page stub.
 
 ### Licensing
 

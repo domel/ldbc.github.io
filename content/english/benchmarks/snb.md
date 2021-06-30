@@ -4,6 +4,7 @@ aliases: [
     "/benchmark-snb/",
     "/developer/snb"
 ]
+type: generic
 ---
 
 The Social Network Benchmark consists in fact of three distinct

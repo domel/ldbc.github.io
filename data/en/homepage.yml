@@ -9,7 +9,7 @@ slider:
       button:
         enable : true
         label : "Read More"
-        link : "developer"
+        link : "/introduction"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
   
     - title : "Community engagement"
@@ -19,7 +19,7 @@ slider:
       button:
         enable : true
         label : "Read More"
-        link : "public"
+        link : "/gql-community/overview"
         animation : "zoomIn"
 
     - title : "Benchmarks"
@@ -29,7 +29,7 @@ slider:
       button:
         enable : true
         label : "Read More"
-        link : "benchmarks"
+        link : "/benchmarks/overview"
         animation : "zoomIn"
 
     - title : "Industry"
@@ -39,7 +39,7 @@ slider:
       button:
         enable : true
         label : "Read More"
-        link : "industry"
+        link : "/becoming-a-member/"
         animation : "zoomIn"
 
 # ################################# blog ################################################

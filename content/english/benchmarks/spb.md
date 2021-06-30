@@ -4,6 +4,7 @@ aliases: [
     "/benchmark-spb/",
     "/developer/spb"
 ]
+type: generic
 ---
 
 The Semantic Publishing Benchmark (SPB) is an LDBC benchmark for testing the performance of RDF engines inspired by the Media/Publishing industry. In particular, LDBC worked with British Broadcasting Corporation [BBC](http://www.bbc.co.uk/blogs/internet/posts/Linked-Data-Connecting-together-the-BBCs-Online-Content) to define this benchmark, for which BBC donated workloads, [ontologies](https://github.com/ldbc/ldbc_spb_bm_2.0/tree/master/datasets_and_queries/ontologies) and data. The publishing industry is an area where significant adoption of RDF is taking place.

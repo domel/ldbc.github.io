@@ -1,6 +1,6 @@
 ---
+type: generic 
 title: Becoming a Member
-type: becoming-a-member 
 ---
 
 ### Benefits

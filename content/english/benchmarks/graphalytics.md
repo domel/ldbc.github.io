@@ -4,6 +4,7 @@ aliases: [
     "/benchmark-graphalytics/",
     "/ldbc-graphalytics-0"
 ]
+type: generic
 ---
 
 The Graphalytics benchmark is an industrial-grade benchmark for **graph

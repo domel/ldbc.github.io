@@ -95,24 +95,29 @@ name = "Benchmarks"
 hasChildren = true
     [[menu.main]]
     parent = "benchmarks"
+    name = "Overview of LDBC Benchmarks"
+    url = "benchmarks/overview"
+    weight = 2    
+    [[menu.main]]
+    parent = "benchmarks"
     name = "Graphalytics Benchmark"
     url = "benchmarks/graphalytics"
-    weight = 1
+    weight = 3
     [[menu.main]]
     parent = "benchmarks"
     name = "Semantic Publishing Benchmark"
     url = "benchmarks/spb"
-    weight = 2
+    weight = 5
     [[menu.main]]
     parent = "benchmarks"
     name = "Social Network Benchmark"
     url = "benchmarks/snb"
-    weight = 3
+    weight = 7
     [[menu.main]]
     parent = "benchmarks"
     name = "Developer Community"
     url = "developer-community"
-    weight = 4
+    weight = 9
 
 [[menu.main]]
 weight = 9
@@ -121,19 +126,24 @@ name = "GQL&NonBreakingSpace;Community"
 hasChildren = true
     [[menu.main]]
     parent = "gql-community"
+    name = "Overview"
+    url = "gql-community/overview"
+    weight = 1
+    [[menu.main]]
+    parent = "gql-community"
     name = "Property Graph Schema Working Group"
     url = "gql-community/pgswg"
-    weight = 1
+    weight = 3
     [[menu.main]]
     parent = "gql-community"
     name = "Existing Languages Working Group"
     url = "gql-community/elwg"
-    weight = 2
+    weight = 5
     [[menu.main]]
     parent = "gql-community"
     name = "Formal Semantics Working Group"
     url = "gql-community/fswg"
-    weight = 3
+    weight = 7
 
 ## footer menu
 [[menu.footer]]
