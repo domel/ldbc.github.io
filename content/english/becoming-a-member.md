@@ -11,12 +11,20 @@ The benefits of [LDBC membership](/organizational-members) are:
 * Right to membership of LDBC task forces. Currently, there are task forces on the Semantic Publishing Benchmark, the Social Network Benchmark Interactive, BI and the Graphalytics workloads, as well as the Graph Query Language task force.
 * Access to research resources at academic partners. This includes the ability to look into research agenda's provide feedback and establish working relationships with students, as well as arrange targeted internships with MSc and PhD students provided by these partners.
 
-##### Access [fillable membership form here](/docs/LDBC_Membership_Application_Renewal_Form_2021_incorporating_LDBC_Membership_Agreement.2021-01-14.editable.pdf)
+#### 2021 annual membership dues
 
+* Individual Associate member​:​ no subscription fee
+* Individual Board member​ ​(standard rate): € 150
+* Individual Board member​ (reduced rate for students, etc.): € 10
+* Non-commercial institution​: € 1000
+* Commercial company​: € 2000
+* Sponsor company/institution: € 8000
 
-##### 2021 one-year membership dues
+### Forms
 
-* Individual Member: EUR 150 (reduced rate: EUR 10)
-* Non-Profit Organization Member: EUR 1000
-* Company Member: EUR 2000
-* Sponsor Company Member: EUR 8000
+Please fill out the form applicable to your employment status and contribution, and email it to the `info@ldbcouncil.org` address.
+
+* [Membership form](/docs/LDBC.Membership.Application.and.Renewal.Form.2021-01-14) (both for individuals and organizations)
+* [Individual contributor license agreement (CLA)](/docs/LDBC.Individual.Contributor.License.Agreement.Form-2020-10-23.pdf)
+* [Organization contributor license agreement (CLA)](/docs/LDBC.Organization.Contributor.License.Agreement.Form-2020-10-23.pdf)
+
