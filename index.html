@@ -61,8 +61,11 @@
 
         <div class="collapse navbar-collapse text-center" id="navigation">
           <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="/">Home</a>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="/">Home</a>
+              <div class="dropdown-menu" >
+                <a class="dropdown-item" href="/introduction">Introduction</a>
+              </div>
             </li>
             
             
@@ -72,6 +75,8 @@
                 Benchmarks
               </a>
               <div class="dropdown-menu" >
+                
+                <a class="dropdown-item" href="/benchmarks/overview">Overview of LDBC Benchmarks</a>
                 
                 <a class="dropdown-item" href="/benchmarks/graphalytics">Graphalytics Benchmark</a>
                 
@@ -89,11 +94,31 @@
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
                 aria-expanded="false">
+                GQL&NonBreakingSpace;Community
+              </a>
+              <div class="dropdown-menu" >
+                
+                <a class="dropdown-item" href="/gql-community/overview">Overview</a>
+                
+                <a class="dropdown-item" href="/gql-community/pgswg">Property Graph Schema Working Group</a>
+                
+                <a class="dropdown-item" href="/gql-community/elwg">Existing Languages Working Group</a>
+                
+                <a class="dropdown-item" href="/gql-community/fswg">Formal Semantics Working Group</a>
+                
+              </div>
+            </li>
+            
+            
+            
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+                aria-expanded="false">
                 Membership
               </a>
               <div class="dropdown-menu" >
                 
-                <a class="dropdown-item" href="/current-members">Current Members</a>
+                <a class="dropdown-item" href="/organizational-members">Organizational Members</a>
                 
                 <a class="dropdown-item" href="/becoming-a-member">Becoming a Member</a>
                 
@@ -103,13 +128,13 @@
             
             
             <li class="nav-item">
-              <a class="nav-link" href="/event">Events</a>
+              <a class="nav-link" href="/post">Posts</a>
             </li>
             
             
             
             <li class="nav-item">
-              <a class="nav-link" href="/post">Posts</a>
+              <a class="nav-link" href="/event">Events</a>
             </li>
             
             
@@ -151,7 +176,7 @@
             <h4 class="mb-0 letter-spacing" style="color:#fff">On this website, you can find information on benchmark specifications and audited results, on how the LDBC organization works, and benchmarking resources.</h4>
             <p class="mb-5"></p>
             
-            <a href="https://www.ldbcouncil.org/developer" class="btn btn-primary-outline" data-duration-in=".3"
+            <a href="https://www.ldbcouncil.org/introduction" class="btn btn-primary-outline" data-duration-in=".3"
               data-animation-in="zoomIn" data-delay-in=".4">Read More</a>
             
           </div>
@@ -168,7 +193,7 @@
             <h4 class="mb-0 letter-spacing" style="color:#fff">LDBC brings industry and users together for developing benchmarks whereby the state-of-the-art and advances in graph database technologies can be assessed and directed.</h4>
             <p class="mb-5"></p>
             
-            <a href="https://www.ldbcouncil.org/public" class="btn btn-primary-outline" data-duration-in=".3"
+            <a href="https://www.ldbcouncil.org/gql-community/overview" class="btn btn-primary-outline" data-duration-in=".3"
               data-animation-in="zoomIn" data-delay-in=".4">Read More</a>
             
           </div>
@@ -185,7 +210,7 @@
             <h4 class="mb-0 letter-spacing" style="color:#fff">LDBC&rsquo;s benchmarks include the Social Network Benchmark suite, the Semantic Publishing Benchmark, and Graphalytics.</h4>
             <p class="mb-5"></p>
             
-            <a href="https://www.ldbcouncil.org/benchmarks" class="btn btn-primary-outline" data-duration-in=".3"
+            <a href="https://www.ldbcouncil.org/benchmarks/overview" class="btn btn-primary-outline" data-duration-in=".3"
               data-animation-in="zoomIn" data-delay-in=".4">Read More</a>
             
           </div>
@@ -202,7 +227,7 @@
             <h4 class="mb-0 letter-spacing" style="color:#fff">On these pages, we provide information on the LDBC organization and its members, inclusive information on how to become a member.</h4>
             <p class="mb-5"></p>
             
-            <a href="https://www.ldbcouncil.org/industry" class="btn btn-primary-outline" data-duration-in=".3"
+            <a href="https://www.ldbcouncil.org/becoming-a-member/" class="btn btn-primary-outline" data-duration-in=".3"
               data-animation-in="zoomIn" data-delay-in=".4">Read More</a>
             
           </div>
