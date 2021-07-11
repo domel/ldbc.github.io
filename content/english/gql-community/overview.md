@@ -1,7 +1,7 @@
 ---
 type: generic
 title: LDBC Graph Query Working Groups
-tag: gql
+wgtags: [gql]
 ---
 
 This is just a page stub.
