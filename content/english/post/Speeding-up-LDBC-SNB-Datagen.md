@@ -367,7 +367,7 @@ feedback!
     Generator](https://research.vu.nl/en/publications/s3g2-a-scalable-structure-correlated-social-graph-generator) \
 [4] [The LDBC Social Network
     Benchmark](https://arxiv.org/abs/2001.02299) \
-[5] [LDBC](http://www.ldbcouncil.org/) - [LDBC GitHub
+[5] [LDBC](https://ldbcouncil.org/) - [LDBC GitHub
     organization](https://github.com/ldbc) 
 
 
