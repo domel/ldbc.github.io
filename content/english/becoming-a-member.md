@@ -24,7 +24,7 @@ The benefits of [LDBC membership](/organizational-members) are:
 
 Please fill out the form applicable to your employment status and contribution, and email it to the `info@ldbcouncil.org` address.
 
-* [Membership form](/docs/LDBC.Membership.Application.and.Renewal.Form.2021-01-14) (both for individuals and organizations)
+* [Membership form](/docs/LDBC.Membership.Application.and.Renewal.Form.2021-01-14.pdf) (both for individuals and organizations)
 * [Individual contributor license agreement (CLA)](/docs/LDBC.Individual.Contributor.License.Agreement.Form-2020-10-23.pdf)
 * [Organization contributor license agreement (CLA)](/docs/LDBC.Organization.Contributor.License.Agreement.Form-2020-10-23.pdf)
 
