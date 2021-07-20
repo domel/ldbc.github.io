@@ -67,15 +67,16 @@ described below.
 Documents and repositories:
 
 * [Benchmark specification](https://arxiv.org/pdf/2011.15028.pdf). The source code is stored in the [`ldbc_graphalytics_docs`](https://github.com/ldbc/ldbc_graphalytics_docs) repository
+* [VLDB paper](http://www.vldb.org/pvldb/vol9/p1317-iosup.pdf)
 * [`ldbc_graphalytics`](https://github.com/ldbc/ldbc_graphalytics): Generic driver
 * [`ldbc_graphalytics_platforms_reference`](https://github.com/ldbc/ldbc_graphalytics_platforms_reference): Reference implementation
 
 ## Data sets
 
-The data sets are currently available in a NextCloud directory.
+The data sets are currently available in a NextCloud directory. The data sets are compressed using [`zstd`](https://github.com/facebook/zstd).
 
 | data set | #nodes | #edges | scale | link | size |
-|-|-:|-:|-|-|-:|
+|-|-|-|-|-|-|
 | cit-Patents | 3,774,768 | 16,518,947 | XS | [`cit-Patents.tar.zst`](https://surfdrive.surf.nl/files/index.php/s/mhTyNV2wk5HNAf7/download) | 119.1 MB |
 | com-friendster | 65,608,366 | 1,806,067,135 | XL | [`com-friendster.tar.zst`](https://surfdrive.surf.nl/files/index.php/s/z8PSwZwBma7etRg/download) | 6.7 GB |
 | datagen-7_5-fb | 633,432 | 34,185,747 | S | [`datagen-7_5-fb.tar.zst`](https://surfdrive.surf.nl/files/index.php/s/ypGcsxzrBeh2YGb/download) | 162.3 MB |
