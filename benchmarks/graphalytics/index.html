@@ -166,14 +166,14 @@
       <div class="col-12">
         
         
-        <h2 class="text-white mb-3">LDBC Graphalytics Benchmark (LDBC-Graphalytics)</h2>
+        <h2 class="text-white mb-3">LDBC Graphalytics Benchmark (LDBC Graphalytics)</h2>
         
         <!-- breadcrumb -->
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb bg-transparent p-0">
             <li class="breadcrumb-item font-weight-semebold"><a class="text-white" href="/">Home</a></li>
         
-            <li class="breadcrumb-item font-weight-semebold active text-primary" aria-current="page">LDBC Graphalytics Benchmark (LDBC-Graphalytics)</li>
+            <li class="breadcrumb-item font-weight-semebold active text-primary" aria-current="page">LDBC Graphalytics Benchmark (LDBC Graphalytics)</li>
         
           </ol>
         </nav>
@@ -241,7 +241,376 @@ comparison of the state-of-the-art system performance of both
 community-driven and industrial-driven platforms. To get started, the
 details of the Graphalyics documentation and its software components are
 described below.</p>
-
+<p>Documents and repositories:</p>
+<ul>
+<li><a href="https://arxiv.org/pdf/2011.15028.pdf">Benchmark specification</a>. The source code is stored in the <a href="https://github.com/ldbc/ldbc_graphalytics_docs"><code>ldbc_graphalytics_docs</code></a> repository</li>
+<li><a href="https://github.com/ldbc/ldbc_graphalytics"><code>ldbc_graphalytics</code></a>: Generic driver</li>
+<li><a href="https://github.com/ldbc/ldbc_graphalytics_platforms_reference"><code>ldbc_graphalytics_platforms_reference</code></a>: Reference implementation</li>
+</ul>
+<h2 id="data-sets">Data sets</h2>
+<p>The data sets are currently available in a NextCloud directory.</p>
+<table>
+<thead>
+<tr>
+<th>data set</th>
+<th style="text-align:right">#nodes</th>
+<th style="text-align:right">#edges</th>
+<th>scale</th>
+<th>link</th>
+<th style="text-align:right">size</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>cit-Patents</td>
+<td style="text-align:right">3,774,768</td>
+<td style="text-align:right">16,518,947</td>
+<td>XS</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/mhTyNV2wk5HNAf7/download"><code>cit-Patents.tar.zst</code></a></td>
+<td style="text-align:right">119.1 MB</td>
+</tr>
+<tr>
+<td>com-friendster</td>
+<td style="text-align:right">65,608,366</td>
+<td style="text-align:right">1,806,067,135</td>
+<td>XL</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/z8PSwZwBma7etRg/download"><code>com-friendster.tar.zst</code></a></td>
+<td style="text-align:right">6.7 GB</td>
+</tr>
+<tr>
+<td>datagen-7_5-fb</td>
+<td style="text-align:right">633,432</td>
+<td style="text-align:right">34,185,747</td>
+<td>S</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/ypGcsxzrBeh2YGb/download"><code>datagen-7_5-fb.tar.zst</code></a></td>
+<td style="text-align:right">162.3 MB</td>
+</tr>
+<tr>
+<td>datagen-7_6-fb</td>
+<td style="text-align:right">754,147</td>
+<td style="text-align:right">42,162,988</td>
+<td>S</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/pxl7rDvzDQJFhfc/download"><code>datagen-7_6-fb.tar.zst</code></a></td>
+<td style="text-align:right">200.0 MB</td>
+</tr>
+<tr>
+<td>datagen-7_7-zf</td>
+<td style="text-align:right">13,180,508</td>
+<td style="text-align:right">32,791,267</td>
+<td>S</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/sstTvqgcyhWVVPn/download"><code>datagen-7_7-zf.tar.zst</code></a></td>
+<td style="text-align:right">434.5 MB</td>
+</tr>
+<tr>
+<td>datagen-7_8-zf</td>
+<td style="text-align:right">16,521,886</td>
+<td style="text-align:right">41,025,255</td>
+<td>S</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/QPSagck1SZTbIA1/download"><code>datagen-7_8-zf.tar.zst</code></a></td>
+<td style="text-align:right">544.3 MB</td>
+</tr>
+<tr>
+<td>datagen-7_9-fb</td>
+<td style="text-align:right">1,387,587</td>
+<td style="text-align:right">85,670,523</td>
+<td>S</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/btdN4uMsW20YJmV/download"><code>datagen-7_9-fb.tar.zst</code></a></td>
+<td style="text-align:right">401.2 MB</td>
+</tr>
+<tr>
+<td>datagen-8_0-fb</td>
+<td style="text-align:right">1,706,561</td>
+<td style="text-align:right">107,507,376</td>
+<td>M</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/lPIRs3QIlrACz86/download"><code>datagen-8_0-fb.tar.zst</code></a></td>
+<td style="text-align:right">502.5 MB</td>
+</tr>
+<tr>
+<td>datagen-8_1-fb</td>
+<td style="text-align:right">2,072,117</td>
+<td style="text-align:right">134,267,822</td>
+<td>M</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/RB5vU9WUtzA00Nz/download"><code>datagen-8_1-fb.tar.zst</code></a></td>
+<td style="text-align:right">625.4 MB</td>
+</tr>
+<tr>
+<td>datagen-8_2-zf</td>
+<td style="text-align:right">43,734,497</td>
+<td style="text-align:right">106,440,188</td>
+<td>M</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/BdQESW3JPg2uMJH/download"><code>datagen-8_2-zf.tar.zst</code></a></td>
+<td style="text-align:right">1.4 GB</td>
+</tr>
+<tr>
+<td>datagen-8_3-zf</td>
+<td style="text-align:right">53,525,014</td>
+<td style="text-align:right">130,579,909</td>
+<td>M</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/35KImcT5RbnZZFb/download"><code>datagen-8_3-zf.tar.zst</code></a></td>
+<td style="text-align:right">1.7 GB</td>
+</tr>
+<tr>
+<td>datagen-8_4-fb</td>
+<td style="text-align:right">3,809,084</td>
+<td style="text-align:right">269,479,177</td>
+<td>M</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/2xB1K9hVe3JSTdH/download"><code>datagen-8_4-fb.tar.zst</code></a></td>
+<td style="text-align:right">1.2 GB</td>
+</tr>
+<tr>
+<td>datagen-8_5-fb</td>
+<td style="text-align:right">4,599,739</td>
+<td style="text-align:right">332,026,902</td>
+<td>L</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/2d8wUj9HGIzime3/download"><code>datagen-8_5-fb.tar.zst</code></a></td>
+<td style="text-align:right">1.5 GB</td>
+</tr>
+<tr>
+<td>datagen-8_6-fb</td>
+<td style="text-align:right">5,667,674</td>
+<td style="text-align:right">421,988,619</td>
+<td>L</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/yyJoaazDGKmLc0k/download"><code>datagen-8_6-fb.tar.zst</code></a></td>
+<td style="text-align:right">1.9 GB</td>
+</tr>
+<tr>
+<td>datagen-8_7-zf</td>
+<td style="text-align:right">145,050,709</td>
+<td style="text-align:right">340,157,363</td>
+<td>L</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/jik4NN4CDnUDmAG/download"><code>datagen-8_7-zf.tar.zst</code></a></td>
+<td style="text-align:right">4.6 GB</td>
+</tr>
+<tr>
+<td>datagen-8_8-zf</td>
+<td style="text-align:right">168,308,893</td>
+<td style="text-align:right">413,354,288</td>
+<td>L</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/Qmi35tpKSjovS5d/download"><code>datagen-8_8-zf.tar.zst</code></a></td>
+<td style="text-align:right">5.3 GB</td>
+</tr>
+<tr>
+<td>datagen-8_9-fb</td>
+<td style="text-align:right">10,572,901</td>
+<td style="text-align:right">848,681,908</td>
+<td>L</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/A8dCtfeqNgSyAOF/download"><code>datagen-8_9-fb.tar.zst</code></a></td>
+<td style="text-align:right">3.7 GB</td>
+</tr>
+<tr>
+<td>datagen-9_0-fb</td>
+<td style="text-align:right">12,857,671</td>
+<td style="text-align:right">1,049,527,225</td>
+<td>XL</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/RFkNmmIOewT3YSd/download"><code>datagen-9_0-fb.tar.zst</code></a></td>
+<td style="text-align:right">4.6 GB</td>
+</tr>
+<tr>
+<td>datagen-9_1-fb</td>
+<td style="text-align:right">16,087,483</td>
+<td style="text-align:right">1,342,158,397</td>
+<td>XL</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/7vJ0i7Ydj67loEL/download"><code>datagen-9_1-fb.tar.zst</code></a></td>
+<td style="text-align:right">5.8 GB</td>
+</tr>
+<tr>
+<td>datagen-9_2-zf</td>
+<td style="text-align:right">434,943,376</td>
+<td style="text-align:right">1,042,340,732</td>
+<td>XL</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/cT4SZT8frlaIkLI/download"><code>datagen-9_2-zf.tar.zst</code></a></td>
+<td style="text-align:right">13.7 GB</td>
+</tr>
+<tr>
+<td>datagen-9_3-zf</td>
+<td style="text-align:right">555,270,053</td>
+<td style="text-align:right">1,309,998,551</td>
+<td>XL</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/DE67JXHTN3jxM7O/download"><code>datagen-9_3-zf.tar.zst</code></a></td>
+<td style="text-align:right">17.4 GB</td>
+</tr>
+<tr>
+<td>datagen-9_4-fb</td>
+<td style="text-align:right">29,310,565</td>
+<td style="text-align:right">2,588,948,669</td>
+<td>XL</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/epHG26pswdJG4kQ/download"><code>datagen-9_4-fb.tar.zst</code></a></td>
+<td style="text-align:right">10.9 GB</td>
+</tr>
+<tr>
+<td>datagen-sf3k-fb</td>
+<td style="text-align:right">33,484,375</td>
+<td style="text-align:right">2,912,009,743</td>
+<td>XL</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/5l6bQq9a6GjZBRq/download"><code>datagen-sf3k-fb.tar.zst</code></a></td>
+<td style="text-align:right">12.9 GB</td>
+</tr>
+<tr>
+<td>datagen-sf10k-fb</td>
+<td style="text-align:right">100,218,750</td>
+<td style="text-align:right">9,404,822,538</td>
+<td>2XL</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/mQpAeUD4HIdh88R/download"><code>datagen-sf10k-fb.tar.zst.000</code></a></td>
+<td style="text-align:right">32.0 GB</td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align:right"></td>
+<td style="text-align:right"></td>
+<td></td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/bLthhT3tQytnlM0/download"><code>datagen-sf10k-fb.tar.zst.001</code></a></td>
+<td style="text-align:right">27.4 GB</td>
+</tr>
+<tr>
+<td>dota-league</td>
+<td style="text-align:right">61,170</td>
+<td style="text-align:right">50,870,313</td>
+<td>S</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/oyOewICGppmn0Jq/download"><code>dota-league.tar.zst</code></a></td>
+<td style="text-align:right">114.3 MB</td>
+</tr>
+<tr>
+<td>example-directed</td>
+<td style="text-align:right">10</td>
+<td style="text-align:right">17</td>
+<td>-</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/7hGIIZ6nzxgi0dU/download"><code>example-directed.tar.zst</code></a></td>
+<td style="text-align:right">1.0 KB</td>
+</tr>
+<tr>
+<td>example-undirected</td>
+<td style="text-align:right">9</td>
+<td style="text-align:right">12</td>
+<td>-</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/enKFbXmUBP2rxgB/download"><code>example-undirected.tar.zst</code></a></td>
+<td style="text-align:right">1.0 KB</td>
+</tr>
+<tr>
+<td>graph500-22</td>
+<td style="text-align:right">2,396,657</td>
+<td style="text-align:right">64,155,735</td>
+<td>S</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/0ix5lmNLsUsbx5W/download"><code>graph500-22.tar.zst</code></a></td>
+<td style="text-align:right">202.4 MB</td>
+</tr>
+<tr>
+<td>graph500-23</td>
+<td style="text-align:right">4,610,222</td>
+<td style="text-align:right">129,333,677</td>
+<td>M</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/IIDfjd1ALbWQKhD/download"><code>graph500-23.tar.zst</code></a></td>
+<td style="text-align:right">410.6 MB</td>
+</tr>
+<tr>
+<td>graph500-24</td>
+<td style="text-align:right">8,870,942</td>
+<td style="text-align:right">260,379,520</td>
+<td>M</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/FmhO7Xwtd2VYHb9/download"><code>graph500-24.tar.zst</code></a></td>
+<td style="text-align:right">847.7 MB</td>
+</tr>
+<tr>
+<td>graph500-25</td>
+<td style="text-align:right">17,062,472</td>
+<td style="text-align:right">523,602,831</td>
+<td>L</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/gDwvrZLQXHr9IN7/download"><code>graph500-25.tar.zst</code></a></td>
+<td style="text-align:right">1.7 GB</td>
+</tr>
+<tr>
+<td>graph500-26</td>
+<td style="text-align:right">32,804,978</td>
+<td style="text-align:right">1,051,922,853</td>
+<td>XL</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/GE7kIyBL0PULiRK/download"><code>graph500-26.tar.zst</code></a></td>
+<td style="text-align:right">3.4 GB</td>
+</tr>
+<tr>
+<td>graph500-27</td>
+<td style="text-align:right">63,081,040</td>
+<td style="text-align:right">2,111,642,032</td>
+<td>XL</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/l1FRzpAZ2uIddKq/download"><code>graph500-27.tar.zst</code></a></td>
+<td style="text-align:right">7.2 GB</td>
+</tr>
+<tr>
+<td>graph500-28</td>
+<td style="text-align:right">121,242,388</td>
+<td style="text-align:right">4,236,163,958</td>
+<td>2XL</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/n45KOpNrWZVon04/download"><code>graph500-28.tar.zst</code></a></td>
+<td style="text-align:right">14.5 GB</td>
+</tr>
+<tr>
+<td>graph500-29</td>
+<td style="text-align:right">232,999,630</td>
+<td style="text-align:right">8,493,569,115</td>
+<td>2XL</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/VSXkomtgPGwZMW4/download"><code>graph500-29.tar.zst</code></a></td>
+<td style="text-align:right">29.7 GB</td>
+</tr>
+<tr>
+<td>graph500-30</td>
+<td style="text-align:right">447,797,986</td>
+<td style="text-align:right">17,022,117,362</td>
+<td>3XL</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/07HY4YvhsFp3awr/download"><code>graph500-30.tar.zst.000</code></a></td>
+<td style="text-align:right">32.0 GB</td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align:right"></td>
+<td style="text-align:right"></td>
+<td></td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/QMy60s36HBYXliD/download"><code>graph500-30.tar.zst.001</code></a></td>
+<td style="text-align:right">32.0 GB</td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align:right"></td>
+<td style="text-align:right"></td>
+<td></td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/K0SsxPKogKZu86P/download"><code>graph500-30.tar.zst.002</code></a></td>
+<td style="text-align:right">32.0 GB</td>
+</tr>
+<tr>
+<td></td>
+<td style="text-align:right"></td>
+<td style="text-align:right"></td>
+<td></td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/E5ZgpdUyDxVMP9O/download"><code>graph500-30.tar.zst.003</code></a></td>
+<td style="text-align:right">10.5 GB</td>
+</tr>
+<tr>
+<td>kgs</td>
+<td style="text-align:right">832,247</td>
+<td style="text-align:right">17,891,698</td>
+<td>XS</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/L59W21l2jUzAOGf/download"><code>kgs.tar.zst</code></a></td>
+<td style="text-align:right">65.7 MB</td>
+</tr>
+<tr>
+<td>twitter_mpi</td>
+<td style="text-align:right">52,579,678</td>
+<td style="text-align:right">1,963,263,508</td>
+<td>XL</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/keuUstVmhPAIW3A/download"><code>twitter_mpi.tar.zst</code></a></td>
+<td style="text-align:right">5.7 GB</td>
+</tr>
+<tr>
+<td>wiki-Talk</td>
+<td style="text-align:right">2,394,385</td>
+<td style="text-align:right">5,021,410</td>
+<td>2XS</td>
+<td><a href="https://surfdrive.surf.nl/files/index.php/s/c5dT1fwzXaNHT8j/download"><code>wiki-Talk.tar.zst</code></a></td>
+<td style="text-align:right">34.9 MB</td>
+</tr>
+</tbody>
+</table>
+<p>The files the <code>datagen-sf10k-fb</code> and <code>graph500-30</code> data sets are larger than 32 GB, therefore, they are split in to chunks. To concatenate and decompress these files, run:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">cat datagen-sf10k-fb.tar.zst.* | tar -tv -I unzstd
+cat graph500-30.tar.zst.* | tar -tv -I unzstd
+</code></pre></div>
         </div>
       </div>
       
