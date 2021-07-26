@@ -194,12 +194,12 @@
         <div class="content">
           <p>The Graphalytics benchmark is an industrial-grade benchmark for <strong>graph
 analysis platforms</strong> such as Giraph. It consists of six core
-algorithms, standard datasets, synthetic dataset generators,
+algorithms, standard data sets, synthetic data set generators,
 and reference outputs, enabling the objective comparison of graph
 analysis platforms.</p>
 <p>The design of the benchmark process takes into account that
 graph-processing is impeded by three dimensions of
-diversity: <strong>platform</strong>,  <strong>algorithms</strong> and <strong>dataset</strong>.</p>
+diversity: <strong>platform</strong>,  <strong>algorithms</strong> and <strong>data set</strong>.</p>
 <p>The benchmark harness consists of a core component, which is extendable
 by a driver for each different platform implementation. The choice of
 the six algorithms:</p>
@@ -212,11 +212,11 @@ the six algorithms:</p>
 <li>single-source shortest paths</li>
 </ol>
 <p>was carefully motivated, using the LDBC TUC and extensive literature
-surveys to ensure good coverage of scenarios. The standard datasets
-include both real and synthetic datasets, which are classified into
+surveys to ensure good coverage of scenarios. The standard data sets
+include both real and synthetic data sets, which are classified into
 intuitive “T-shirt” sizes (e.g., <strong>S, M, L, XL</strong>).</p>
 <p>Each experiment set in Graphalytics consists of <strong>multiple platform
-runs</strong> (a platform executes an algorithm on a dataset), and diverse set
+runs</strong> (a platform executes an algorithm on a data set), and diverse set
 of experiments are carried out to evaluate different performance
 characteristics of a system-under-test.</p>
 <p>All completed benchmarks must go through a strict <strong>validation process</strong>
@@ -229,7 +229,7 @@ graph analytics.</p>
 facilitates a plugin-architecture, which allows external <strong>software
 tools</strong> to be added to the benchmark harness. For instance, it is
 possible to also use SNB <strong>Datagen</strong> (the data generator of the LDBC
-Social Network Benchmark), an advanced synthetic dataset generator to
+Social Network Benchmark), an advanced synthetic data set generator to
 create synthetic graphs for custom test scenarios, or to use
 <strong>Granula</strong>, a fine-grained performance evaluation tool to obtain
 enriched performance results.</p>
@@ -249,7 +249,7 @@ described below.</p>
 <li><a href="https://github.com/ldbc/ldbc_graphalytics_platforms_reference"><code>ldbc_graphalytics_platforms_reference</code></a>: Reference implementation</li>
 </ul>
 <h2 id="data-sets">Data sets</h2>
-<p>The data sets are currently available in a NextCloud directory. The data sets are compressed using <a href="https://github.com/facebook/zstd"><code>zstd</code></a>.</p>
+<p>The data sets are currently available in a NextCloud directory. The data sets are compressed using <a href="https://github.com/facebook/zstd"><code>zstd</code></a>. The total size of the compressed archives is 326GB. Decompressed, it&rsquo;s approximately 1.1TB.</p>
 <table>
 <thead>
 <tr>
@@ -611,7 +611,8 @@ described below.</p>
 <p>The files the <code>datagen-sf10k-fb</code> and <code>graph500-30</code> data sets are larger than 32 GB, therefore, they are split in to chunks. To concatenate and decompress these files, run:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">cat datagen-sf10k-fb.tar.zst.* | tar -tv -I unzstd
 cat graph500-30.tar.zst.* | tar -tv -I unzstd
-</code></pre></div>
+</code></pre></div><p><a href="/scripts/download-graphalytics-data-sets.sh"><code>.sh</code> script to download the data sets</a></p>
+
         </div>
       </div>
       
