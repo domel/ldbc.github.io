@@ -37,7 +37,7 @@ The BI part is like TPC-H, except for adding the following challenges:
 * Joins of derived tables with group by,  e.g. comparing popularity of
 items on consecutive time periods.
 
-* Transitive dimensions - A geographical or tag hierarchy cab ve seen as
+* Transitive dimensions - A geographical or tag hierarchy can be seen as
 a dimension table.  To get the star schema plan with the selective hash
 join, the count of the transitive traversal of the hierarchy (hash build
 side) must be correctly guessed.
@@ -84,11 +84,11 @@ things (persons, posts) will get real coordinates from their  vicinity
 and diverse geo analytics will become possible. This is of some
 significant interest to Geoknow, another FP7 where OpenLink is
 participating. 
- 
+
 Doing the BI mix and even optimizing the interactive part involves some
 redoing of the present support for transitivity in Virtuoso.  The
 partitioned group by with some custom aggregates is the right tool for
-the job, with all parallelization, scale-out ettc ready.  You see, TPC-H
+the job, with all parallelization, scale-out, etc ready.  You see, TPC-H
 is very useful also in places one does not immediately associate with
 it. 
  
@@ -102,11 +102,11 @@ and using transactions for serializable update of the border. This is
 possible but will not compete with a memory based framework and not
 enough of the optimization potential, e.g. message combining, is visible
 to the engine in this formulation.  So, now we will get this right, as
-suggested. 
- 
+suggested.
+
 So, the transitive derived table construct can have pluggable
 aggregations, e.g. remembering a path, a minimum length or such),
-reduction like a scalar valued aggregate (min/max), different grouping
+reduction like a scalar-valued aggregate (min/max), different grouping
 sets like in a group by with cube or grouping sets, some group-by like
 reduction for message combining and so forth.  If there is a gather
 phase that is not just the result of the scatter of the previous step,
@@ -133,7 +133,7 @@ will be made is a different matter.
 With BSP in the database engine, a reference implementation of many
 standard algorithms is readily feasible and performant enough to do
 reasonable sizing for the workload and to have a metric.  This could be
-edges ir vertices per unit of time, across a mix of algorithms, for
+edges or vertices per unit of time, across a mix of algorithms, for
 example.  Some experimentation will be needed.  The algorithms
 themselves may be had from the Green-Marl sample programs or other
 implementations.  Among others, Oracle would presumably agree that this
