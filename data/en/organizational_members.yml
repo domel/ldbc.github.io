@@ -9,7 +9,7 @@ members:
       logo: "images/members/antgroup.png"
       link: "https://www.antgroup.com/en"
     - name: "Oracle Labs"
-      logo: "images/members/oracle-labs.jpg"
+      logo: "images/members/oracle-labs.png"
       link: "https://www.oracle.com/"
     - name: "Pometry"
       logo: "images/members/pometry.png"
