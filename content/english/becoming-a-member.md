@@ -28,3 +28,7 @@ Please fill out the form applicable to your employment status and contribution, 
 * [Individual contributor license agreement (CLA)](/docs/LDBC.Individual.Contributor.License.Agreement.Form-2020-10-23.pdf)
 * [Organization contributor license agreement (CLA)](/docs/LDBC.Organization.Contributor.License.Agreement.Form-2020-10-23.pdf)
 
+### Related documents
+
+* [Articles of association](/docs/LDBC.Articles.of.Association.ADOPTED.2021-01-14.pdf)
+* [Byelaws](/docs/LDBC.Byelaws.1.3.ADOPTED.2021-01-14.pdf)
