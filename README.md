@@ -16,7 +16,7 @@ To generate the HTML files locally in the `public/` directory, run:
 hugo
 ```
 
-For detailed build instructions, please consult the [GitHub Actions workflow configuration](.github/workflows/gh-pages.yml).
+For detailed build instructions, please consult the [GitHub Actions workflow configuration](.github/workflows/gh-pages.yml) which deploys the site to <https://ldbcouncil.org/> (an alias for <https://ldbc.github.io/>).
 
 ## Publications
 
