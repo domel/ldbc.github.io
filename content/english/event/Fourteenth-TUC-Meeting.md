@@ -19,7 +19,7 @@ tags: [TUC Meeting]
 
 LDBC is hosting a one-day hybrid workshop, co-located with [VLDB 2021](https://vldb.org/2021/) on **August 16 (Monday) between 16:00–20:00 CEST**.
 
-The physical part of the workshop will be held in room Akvariet 2 of the [Tivoli Hotel](https://www.tivolihotel.com/), Copenhagen, while the virtual part will be hosted on Zoom (stay tuned for the link).
+The physical part of the workshop will be held in room Akvariet 2 of the [Tivoli Hotel](https://www.tivolihotel.com/) (Copenhagen), while the virtual part will be hosted on Zoom (stay tuned for the link).
 
 Our programme consists of talks that provide an overview of LDBC's recent efforts. Moreover, we have invited industry practitioners and academic researchers to present their latest results.
 
