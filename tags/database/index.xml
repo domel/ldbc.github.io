@@ -11,15 +11,19 @@
     <item>
       <title>Fourteenth TUC Meeting</title>
       <link>https://ldbcouncil.org/event/fourteenth-tuc-meeting/</link>
-      <pubDate>Sat, 26 Jun 2021 13:23:50 -0400</pubDate>
+      <pubDate>Mon, 16 Aug 2021 16:00:00 +0200</pubDate>
       
       <guid>https://ldbcouncil.org/event/fourteenth-tuc-meeting/</guid>
-      <description>&lt;h3 id=&#34;16001725-cest-ldbc-updates-benchmarks-query-languages&#34;&gt;[16:00–17:25 CEST] LDBC updates, benchmarks, query languages&lt;/h3&gt;
+      <description>&lt;p&gt;LDBC is hosting a one-day hybrid workshop, co-located with &lt;a href=&#34;https://vldb.org/2021/&#34;&gt;VLDB 2021&lt;/a&gt; on &lt;strong&gt;August 16 (Monday) between 16:00–20:00 CEST&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The physical part of the workshop will be held in room Akvariet 2 of the &lt;a href=&#34;https://www.tivolihotel.com/&#34;&gt;Tivoli Hotel&lt;/a&gt; (Copenhagen), while the virtual part will be hosted on Zoom (stay tuned for the link).&lt;/p&gt;
+&lt;p&gt;Our programme consists of talks that provide an overview of LDBC&amp;rsquo;s recent efforts. Moreover, we have invited industry practitioners and academic researchers to present their latest results.&lt;/p&gt;
+&lt;p&gt;Most talks are scheduled to be 10 minutes with a short Q&amp;amp;A session. We are going to have three sessions. Their preliminary schedules are shown below.&lt;/p&gt;
+&lt;h4 id=&#34;16001725-cest-ldbc-updates-benchmarks-query-languages&#34;&gt;[16:00–17:25 CEST] LDBC updates, benchmarks, query languages&lt;/h4&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;start&lt;/th&gt;
-&lt;th&gt;speaker&lt;/th&gt;
+&lt;th&gt;speaker(s)&lt;/th&gt;
 &lt;th&gt;title&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
@@ -37,12 +41,12 @@
 &lt;tr&gt;
 &lt;td&gt;16:12&lt;/td&gt;
 &lt;td&gt;Mingxi Wu (TigerGraph)&lt;/td&gt;
-&lt;td&gt;SNB benchmark results with TigerGraph&lt;/td&gt;
+&lt;td&gt;LDBC Social Network Benchmark results with TigerGraph&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;16:24&lt;/td&gt;
 &lt;td&gt;Xiaowei Zhu (Ant Group)&lt;/td&gt;
-&lt;td&gt;Financial Benchmark overview&lt;/td&gt;
+&lt;td&gt;Financial Benchmark proposal&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;16:36&lt;/td&gt;
@@ -67,7 +71,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;em&gt;coffee break (10 minutes)&lt;/em&gt;&lt;/p&gt;
-&lt;h3 id=&#34;17351845-cest-systems-and-data-structures&#34;&gt;[17:35–18:45 CEST] Systems and data structures&lt;/h3&gt;
+&lt;h4 id=&#34;17351845-cest-systems-and-data-structures&#34;&gt;[17:35–18:45 CEST] Systems and data structures&lt;/h4&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -100,17 +104,17 @@
 &lt;tr&gt;
 &lt;td&gt;18:23&lt;/td&gt;
 &lt;td&gt;Semyon Grigorev (Saint Petersburg University)&lt;/td&gt;
-&lt;td&gt;Context-free path querying: obstacles on the way to adoption&lt;/td&gt;
+&lt;td&gt;Context-free path querying: Obstacles on the way to adoption&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;18:35&lt;/td&gt;
 &lt;td&gt;Per Fuchs (Technical University of Munich)&lt;/td&gt;
-&lt;td&gt;Sortledton: a universal, transactional graph data structure&lt;/td&gt;
+&lt;td&gt;Sortledton: A universal, transactional graph data structure&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;em&gt;coffee break (10 minutes)&lt;/em&gt;&lt;/p&gt;
-&lt;h3 id=&#34;1855-2000-cest-high-level-approaches-and-benchmarks&#34;&gt;[18:55-20:00 CEST] High-level approaches and benchmarks&lt;/h3&gt;
+&lt;h4 id=&#34;1855-2000-cest-high-level-approaches-and-benchmarks&#34;&gt;[18:55-20:00 CEST] High-level approaches and benchmarks&lt;/h4&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
