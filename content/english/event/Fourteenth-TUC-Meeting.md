@@ -27,14 +27,14 @@ Most talks are scheduled to be 10 minutes with a short Q&A session. We are going
 
 #### [16:00–17:25 CEST] LDBC updates, benchmarks, query languages
 
-| start | speaker(s) | title |
+| start | speaker | title |
 |-------|---------|-------|
 | 16:00 | Peter Boncz (CWI) | State of the union
 | 16:05 | Gábor Szárnyas (CWI) | Overview of LDBC benchmarks
 | 16:12 | Mingxi Wu (TigerGraph) | LDBC Social Network Benchmark results with TigerGraph
 | 16:24 | Xiaowei Zhu (Ant Group) | Financial Benchmark proposal
 | 16:36 | Petra Selmer (Neo4j) | Status report from the Existing Languages Working Group (ELWG)
-| 16:48 | Juan Sequeda (data.world), Jan Hidders (Birkbeck) | Status report from the Property Graph Schema Working Group (PGSWG)
+| 16:48 | Jan Hidders (Birkbeck) | Status report from the Property Graph Schema Working Group (PGSWG)
 | 17:00 | Keith Hare (JCC Consulting) | Database Language Standards Structure and Process, SQL/PGQ
 | 17:12 | Stefan Plantikow (GQL Editor) | Report on the GQL standard
 
