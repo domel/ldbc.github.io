@@ -17,7 +17,7 @@ members:
     - name: "TigerGraph"
       logo: "images/members/tigergraph.png"
       link: "https://www.tigergraph.com"
-  companies_title: "Companies (in alphabetical order):"
+  companies_title: "Companies:"
   # The template automatically does the alphabetical ordering based on the name of the company
   companies:
     - name: "ArangoDB"
