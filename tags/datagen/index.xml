@@ -23,7 +23,7 @@
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;start&lt;/th&gt;
-&lt;th&gt;speaker(s)&lt;/th&gt;
+&lt;th&gt;speaker&lt;/th&gt;
 &lt;th&gt;title&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
@@ -55,7 +55,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;16:48&lt;/td&gt;
-&lt;td&gt;Juan Sequeda (data.world), Jan Hidders (Birkbeck)&lt;/td&gt;
+&lt;td&gt;Jan Hidders (Birkbeck)&lt;/td&gt;
 &lt;td&gt;Status report from the Property Graph Schema Working Group (PGSWG)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
