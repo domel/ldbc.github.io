@@ -18,7 +18,7 @@ tags: [TUC Meeting]
 ---
 
 
-LDBC is pleased to announce its Twelfth Technical User Community (TUC) meeting.
+LDBC is pleased to announce its Thirteenth Technical User Community (TUC) meeting.
 
 LDBC Technical User Community meetings serve to (1) learn about progress in the LDBC task forces on graph benchmarks and graph standards, (2) to give feedback on these, and (3) hear about user experiences with graph data management technologies or (4) learn about new graph technologies from researchers or industry – LDBC counts Oracle, IBM, Intel, Neo4j, TigerGraph and Huawei among its members.
 
