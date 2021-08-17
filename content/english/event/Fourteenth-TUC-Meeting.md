@@ -27,14 +27,14 @@ Talks were scheduled to be 10 minutes with a short Q&A session. We had three ses
 
 | start | speaker | title |
 |-------|---------|-------|
-| 16:00 | Peter Boncz (CWI) | State of the union
-| 16:05 | Gábor Szárnyas (CWI) | Overview of LDBC benchmarks
-| 16:12 | Mingxi Wu (TigerGraph) | LDBC Social Network Benchmark results with TigerGraph
-| 16:24 | Xiaowei Zhu (Ant Group) | Financial Benchmark proposal
-| 16:36 | Petra Selmer (Neo4j) | Status report from the Existing Languages Working Group (ELWG)
-| 16:48 | Jan Hidders (Birkbeck) | Status report from the Property Graph Schema Working Group (PGSWG)
-| 17:00 | Keith Hare (JCC Consulting) | Database Language Standards Structure and Process, SQL/PGQ
-| 17:12 | Stefan Plantikow (GQL Editor) | Report on the GQL standard
+| 16:00 | Peter Boncz (CWI) | State of the union – [slides](attachments/peter-boncz-state-of-the-union.pdf) |
+| 16:05 | Gábor Szárnyas (CWI) | Overview of LDBC benchmarks – [slides](attachments/gabor-szarnyas-ldbc-benchmarks.pdf) |
+| 16:12 | Mingxi Wu (TigerGraph) | LDBC Social Network Benchmark results with TigerGraph – [slides](attachments/mingxi-wu-tigergraph-snb-preliminary-results.pdf) |
+| 16:24 | Xiaowei Zhu (Ant Group) | Financial Benchmark proposal – [slides](attachments/xiaowei-zhu-financial-benchmark.pdf) |
+| 16:36 | Petra Selmer (Neo4j) | Status report from the Existing Languages Working Group (ELWG) – [slides](attachments/petra-selmer-elwg.pdf) |
+| 16:48 | Jan Hidders (Birkbeck) | Status report from the Property Graph Schema Working Group (PGSWG) – [slides](attachments/jan-hidders-pgswg.pdf) |
+| 17:00 | Keith Hare (JCC Consulting) | Database Language Standards Structure and Process, SQL/PGQ – [slides](attachments/.pdf) |
+| 17:12 | Stefan Plantikow (GQL Editor) | Report on the GQL standard – [slides](attachments/stefan-plantikow-gql.pdf) |
 
 _coffee break (10 minutes)_
 
@@ -42,12 +42,12 @@ _coffee break (10 minutes)_
 
 | start | speaker | title |
 |-------|---------|-------|
-| 17:35 | Vasileios Trigonakis (Oracle Labs) | PGX.D aDFS: An Almost Depth-First-Search Distributed Graph-Querying System |
-| 17:47 | Matthias Hauck (SAP) | JSON, Spatial, Graph – Multi-model Workloads with SAP HANA Cloud |
-| 17:59 | Nikolay Yakovets (Eindhoven University of Technology) | AvantGraph |
-| 18:11 | Semih Salihoglu (University of Waterloo) | GRainDB: Making RDBMSs Efficient on Graph Workloads Through Predefined Joins |
-| 18:23 | Semyon Grigorev (Saint Petersburg University) | Context-free path querying: Obstacles on the way to adoption |
-| 18:35 | Per Fuchs (Technical University of Munich) | Sortledton: A universal, transactional graph data structure |
+| 17:35 | Vasileios Trigonakis (Oracle Labs) | PGX.D aDFS: An Almost Depth-First-Search Distributed Graph-Querying System  – [slides](attachments/.pdf) |
+| 17:47 | Matthias Hauck (SAP) | JSON, Spatial, Graph – Multi-model Workloads with SAP HANA Cloud  – [slides](attachments/.pdf) |
+| 17:59 | Nikolay Yakovets (Eindhoven University of Technology) | AvantGraph  – [slides](attachments/.pdf) |
+| 18:11 | Semih Salihoglu (University of Waterloo) | GRainDB: Making RDBMSs Efficient on Graph Workloads Through Predefined Joins  – [slides](attachments/semih-salihoglu-graindb.pdf) |
+| 18:23 | Semyon Grigorev (Saint Petersburg University) | Context-free path querying: Obstacles on the way to adoption  – [slides](attachments/semyon-grigorev-cfpq.pdf) |
+| 18:35 | Per Fuchs (Technical University of Munich) | Sortledton: A universal, transactional graph data structure  – [slides](attachments/per-fuchs-sortledton.pdf) |
 
 _coffee break (10 minutes)_
 
@@ -55,8 +55,8 @@ _coffee break (10 minutes)_
 
 | start | speaker | title |
 |-------|---------|-------|
-| 18:55 | Angelos-Christos Anadiotis (Ecole Polytechnique and Institut Polytechnique de Paris) | Empowering Investigative Journalism with Graph-based Heterogeneous Data Management |
-| 19:07 | Vasia Kalavri (Boston University) | Learning to partition unbounded graph streams |
-| 19:19 | Muhammad Attahir Jibril (TU Ilmenau) | Towards a Hybrid OLTP-OLAP Graph Benchmark |
-| 19:31 | Riccardo Tommasini (University of Tartu) | An outlook on Benchmarks for Graph Stream Processing |
-| 19:43 | Mohamed Ragab (University of Tartu) | Benchranking: Towards prescriptive analysis of big graph processing: the case of SparkSQL |
+| 18:55 | Angelos-Christos Anadiotis (Ecole Polytechnique and Institut Polytechnique de Paris) | Empowering Investigative Journalism with Graph-based Heterogeneous Data Management – [slides](attachments/angelos-christos-anadiotis-investigative-journalism-graph-data-management.pdf) |
+| 19:07 | Vasia Kalavri (Boston University) | Learning to partition unbounded graph streams – [slides](attachments/.pdf) |
+| 19:19 | Muhammad Attahir Jibril (TU Ilmenau) | Towards a Hybrid OLTP-OLAP Graph Benchmark – [slides](attachments/.pdf) |
+| 19:31 | Riccardo Tommasini (University of Tartu) | An outlook on Benchmarks for Graph Stream Processing – [slides](attachments/riccardo-tommasini-graph-stream-processing-benchmarks.pdf) |
+| 19:43 | Mohamed Ragab (University of Tartu) | Benchranking: Towards prescriptive analysis of big graph processing: the case of SparkSQL – [slides](attachments/.pdf) |
