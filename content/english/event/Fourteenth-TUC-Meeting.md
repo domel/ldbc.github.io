@@ -43,8 +43,8 @@ _coffee break (10 minutes)_
 | start | speaker | title |
 |-------|---------|-------|
 | 17:35 | Vasileios Trigonakis (Oracle Labs) | PGX.D aDFS: An Almost Depth-First-Search Distributed Graph-Querying System  – [slides](attachments/vasileios-trigonakis-pgxd-adfs.pdf) |
-| 17:47 | Matthias Hauck (SAP) | JSON, Spatial, Graph – Multi-model Workloads with SAP HANA Cloud  – [slides](attachments/.pdf) |
-| 17:59 | Nikolay Yakovets (Eindhoven University of Technology) | AvantGraph  – [slides](attachments/.pdf) |
+| 17:47 | Matthias Hauck (SAP) | JSON, Spatial, Graph – Multi-model Workloads with SAP HANA Cloud  – [slides](attachments/matthias-hauck-json-spatial-graph-sap-hana-cloud.pdf) |
+| 17:59 | Nikolay Yakovets (Eindhoven University of Technology) | AvantGraph  – [slides](attachments/nikolay-yakovets-avantgraph.pdf) |
 | 18:11 | Semih Salihoglu (University of Waterloo) | GRainDB: Making RDBMSs Efficient on Graph Workloads Through Predefined Joins  – [slides](attachments/semih-salihoglu-graindb.pdf) |
 | 18:23 | Semyon Grigorev (Saint Petersburg University) | Context-free path querying: Obstacles on the way to adoption  – [slides](attachments/semyon-grigorev-cfpq.pdf) |
 | 18:35 | Per Fuchs (Technical University of Munich) | Sortledton: A universal, transactional graph data structure  – [slides](attachments/per-fuchs-sortledton.pdf) |
