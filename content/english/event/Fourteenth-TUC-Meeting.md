@@ -17,16 +17,11 @@ tags: [TUC Meeting]
 # image: "event/fourteenth-tuc-meeting/featured.png"
 ---
 
-LDBC is hosting a one-day hybrid workshop, co-located with [VLDB 2021](https://vldb.org/2021/) on **August 16 (Monday) between 16:00–20:00 CEST**.
+LDBC was hosting a one-day hybrid workshop, co-located with [VLDB 2021](https://vldb.org/2021/) on **August 16 (Monday) between 16:00–20:00 CEST**.
 
-The physical part of the workshop will be held in room Akvariet 2 of the [Tivoli Hotel](https://www.tivolihotel.com/) (Copenhagen), while the virtual part will be hosted on Zoom.
+The physical part of the workshop was held in room Akvariet 2 of the [Tivoli Hotel](https://www.tivolihotel.com/) (Copenhagen), while the virtual part was hosted on Zoom. Our programme consisted of talks that provide an overview of LDBC's recent efforts. Moreover, we have invited industry practitioners and academic researchers to present their latest results.
 
-* Zoom link: <https://us02web.zoom.us/j/89039091641>
-* Passcode: `ldbcouncil`
-
-Our programme consists of talks that provide an overview of LDBC's recent efforts. Moreover, we have invited industry practitioners and academic researchers to present their latest results.
-
-Most talks are scheduled to be 10 minutes with a short Q&A session. We are going to have three sessions. Their preliminary schedules are shown below. 
+Talks were scheduled to be 10 minutes with a short Q&A session. We had three sessions. Their schedules are shown below.
 
 #### [16:00–17:25 CEST] LDBC updates, benchmarks, query languages
 
