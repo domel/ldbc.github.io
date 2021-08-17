@@ -42,7 +42,7 @@ _coffee break (10 minutes)_
 
 | start | speaker | title |
 |-------|---------|-------|
-| 17:35 | Vasileios Trigonakis (Oracle Labs) | PGX.D aDFS: An Almost Depth-First-Search Distributed Graph-Querying System  – [slides](attachments/.pdf) |
+| 17:35 | Vasileios Trigonakis (Oracle Labs) | PGX.D aDFS: An Almost Depth-First-Search Distributed Graph-Querying System  – [slides](attachments/vasileios-trigonakis-pgxd-adfs.pdf) |
 | 17:47 | Matthias Hauck (SAP) | JSON, Spatial, Graph – Multi-model Workloads with SAP HANA Cloud  – [slides](attachments/.pdf) |
 | 17:59 | Nikolay Yakovets (Eindhoven University of Technology) | AvantGraph  – [slides](attachments/.pdf) |
 | 18:11 | Semih Salihoglu (University of Waterloo) | GRainDB: Making RDBMSs Efficient on Graph Workloads Through Predefined Joins  – [slides](attachments/semih-salihoglu-graindb.pdf) |
@@ -57,6 +57,6 @@ _coffee break (10 minutes)_
 |-------|---------|-------|
 | 18:55 | Angelos-Christos Anadiotis (Ecole Polytechnique and Institut Polytechnique de Paris) | Empowering Investigative Journalism with Graph-based Heterogeneous Data Management – [slides](attachments/angelos-christos-anadiotis-investigative-journalism-graph-data-management.pdf) |
 | 19:07 | Vasia Kalavri (Boston University) | Learning to partition unbounded graph streams – [slides](attachments/.pdf) |
-| 19:19 | Muhammad Attahir Jibril (TU Ilmenau) | Towards a Hybrid OLTP-OLAP Graph Benchmark – [slides](attachments/.pdf) |
+| 19:19 | Muhammad Attahir Jibril (TU Ilmenau) | Towards a Hybrid OLTP-OLAP Graph Benchmark – [slides](attachments/muhammad-attahir-jibril-hybrid-oltp-olap-benchmark.pdf) |
 | 19:31 | Riccardo Tommasini (University of Tartu) | An outlook on Benchmarks for Graph Stream Processing – [slides](attachments/riccardo-tommasini-graph-stream-processing-benchmarks.pdf) |
-| 19:43 | Mohamed Ragab (University of Tartu) | Benchranking: Towards prescriptive analysis of big graph processing: the case of SparkSQL – [slides](attachments/.pdf) |
+| 19:43 | Mohamed Ragab (University of Tartu) | Benchranking: Towards prescriptive analysis of big graph processing: the case of SparkSQL – [slides](attachments/mohamed-ragab-benchranking.pdf) |
