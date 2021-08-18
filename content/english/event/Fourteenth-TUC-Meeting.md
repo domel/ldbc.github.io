@@ -33,7 +33,7 @@ Talks were scheduled to be 10 minutes with a short Q&A session. We had three ses
 | 16:24 | Xiaowei Zhu (Ant Group) | Financial Benchmark proposal – [slides](attachments/xiaowei-zhu-financial-benchmark.pdf) |
 | 16:36 | Petra Selmer (Neo4j) | Status report from the Existing Languages Working Group (ELWG) – [slides](attachments/petra-selmer-elwg.pdf) |
 | 16:48 | Jan Hidders (Birkbeck) | Status report from the Property Graph Schema Working Group (PGSWG) – [slides](attachments/jan-hidders-pgswg.pdf) |
-| 17:00 | Keith Hare (JCC Consulting) | Database Language Standards Structure and Process, SQL/PGQ – [slides](attachments/.pdf) |
+| 17:00 | Keith Hare (JCC Consulting) | Database Language Standards Structure and Process, SQL/PGQ – [slides](attachments/keith-hare-database-language-standards-structure-and-process-sql-pgq.pdf) |
 | 17:12 | Stefan Plantikow (GQL Editor) | Report on the GQL standard – [slides](attachments/stefan-plantikow-gql.pdf) |
 
 _coffee break (10 minutes)_
@@ -56,7 +56,7 @@ _coffee break (10 minutes)_
 | start | speaker | title |
 |-------|---------|-------|
 | 18:55 | Angelos-Christos Anadiotis (Ecole Polytechnique and Institut Polytechnique de Paris) | Empowering Investigative Journalism with Graph-based Heterogeneous Data Management – [slides](attachments/angelos-christos-anadiotis-investigative-journalism-graph-data-management.pdf) |
-| 19:07 | Vasia Kalavri (Boston University) | Learning to partition unbounded graph streams – [slides](attachments/.pdf) |
+| 19:07 | Vasia Kalavri (Boston University) | Learning to partition unbounded graph streams – [slides](attachments/vasia-kalavri-learning-to-partition-unbounded-graph-streams.pdf) |
 | 19:19 | Muhammad Attahir Jibril (TU Ilmenau) | Towards a Hybrid OLTP-OLAP Graph Benchmark – [slides](attachments/muhammad-attahir-jibril-hybrid-oltp-olap-benchmark.pdf) |
 | 19:31 | Riccardo Tommasini (University of Tartu) | An outlook on Benchmarks for Graph Stream Processing – [slides](attachments/riccardo-tommasini-graph-stream-processing-benchmarks.pdf) |
 | 19:43 | Mohamed Ragab (University of Tartu) | Benchranking: Towards prescriptive analysis of big graph processing: the case of SparkSQL – [slides](attachments/mohamed-ragab-benchranking.pdf) |
