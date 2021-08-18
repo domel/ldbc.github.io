@@ -32,9 +32,9 @@ Results for Scale Factors SF1 (64M), SF3 (256M), and SF5 (1G) triples are shown 
 
 | **Scale Factor** |**Interactive (Q/s)** |**Updates (ops/sec)** | **Analytical** | **Cost** | **Software** | **Hardware** | **Test Sponsor** | **Date** | **Full Disclosure Report**
 |--|--|--|--|--|--|--|--|--|--
-| 1 | 100.85 | 10.19  |	n.a. |	€37,504 |GraphDB EE6.2 | Xeon1650v3 6-core 3.5Ghz 96GB RAM | [ONTOTEXT AD](http://www.ontotext.com/) | 2015/04/26 | [Full Disclosure Report](LDBC_SPB20_20150426_SF1_GraphDB-EE-6.2b.pdf)
+| 1 | 100.85 | 10.19  |	n.a. |	€37,504 |GraphDB EE 6.2 | Xeon1650v3 6-core 3.5Ghz 96GB RAM | [ONTOTEXT AD](http://www.ontotext.com/) | 2015/04/26 | [Full Disclosure Report](LDBC_SPB20_20150426_SF1_GraphDB-EE-6.2b.pdf)
 | 1 | 142.7588 |10.6725 |n.a |€35,323  |GraphDB SE 6.3 alpha |CPU Intel Xeon E5-1650 v3 3.5Ghz,15MB L3 cache, s2011 |[ONTOTEXT AD](http://www.ontotext.com/) |2015/06/10  | [Full Disclosure Report](LDBC-SPB-64M-GraphDB-10062015.pdf)
-| 3 | 29.90 | 9.50 | n.a. | €37,504 | GraphDB EE6.2 | Xeon1650v3 6-core 3.5Ghz 96GB RAM | [ONTOTEXT AD](http://www.ontotext.com/) | 2015/04/26 | [Full Disclosure Report](LDBC_SPB20_20150426_SF3_GraphDB-EE-6.2b.pdf)
+| 3 | 29.90 | 9.50 | n.a. | €37,504 | GraphDB EE 6.2 | Xeon1650v3 6-core 3.5Ghz 96GB RAM | [ONTOTEXT AD](http://www.ontotext.com/) | 2015/04/26 | [Full Disclosure Report](LDBC_SPB20_20150426_SF3_GraphDB-EE-6.2b.pdf)
 | 3 | 54.6364 | 9.4967 | n.a | €35,323 |GraphDB SE 6.3 alpha |CPU Intel Xeon E5-1650 v3 3.5Ghz,15MB L3 cache, s2011 |[ONTOTEXT AD](http://www.ontotext.com/) |2015/06/10  | [Full Disclosure Report](LDBC-SPB-256M-GraphDB-10062015.pdf)
 |1 |149.0385 |156.8325 |n.a. |$20,213 (€17,801 rate of 21/06/2015) |Virtuoso Opensource Version 7.50.3213 |Intel Xeon E5-2630, 6x 2.30GHz, Sockel 2011, boxed, 192 GB RAM |[OpenLink Software](http://www.openlinksw.com/) |2015/06/09 | [Full Disclosure Report](LDBC-SPB-64M-Virtuoso-09062015.pdf) 
 |3 | 80.6158 | 92.7072 | n.a. | $20,213 (€17,801 rate of 21/06/2015) |Virtuoso Opensource Version 7.50.3213 |Intel Xeon E5-2630, 6x 2.30GHz, Sockel 2011, boxed, 192 GB RAM |[OpenLink Software](http://www.openlinksw.com/) |2015/06/09 | [Full Disclosure Report](LDBC-SPB-256M-Virtuoso-09062015.pdf)
