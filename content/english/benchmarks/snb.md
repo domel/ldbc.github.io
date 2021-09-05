@@ -22,8 +22,7 @@ times.
 
 ##### TuGraph
 
-TuGraph was audited in July 2020. TuGraph is owned by [Ant
-Group](https://www.antgroup.com/en) now.
+TuGraph was audited in July 2020. TuGraph is owned by the [Ant Group](https://www.antgroup.com/en) now.
 
 
 | **SF** | **Throughput (ops/sec)** | **Cost** | **Software** | **Hardware** | **Test Sponsor** | **Date** | **Full Disclosure Report** |
