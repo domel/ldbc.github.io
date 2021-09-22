@@ -11,7 +11,7 @@ The benefits of [LDBC membership](/organizational-members) are:
 * Right to membership of LDBC task forces. Currently, there are task forces on the Semantic Publishing Benchmark, the Social Network Benchmark Interactive, BI and the Graphalytics workloads, as well as the Graph Query Language task force.
 * Access to research resources at academic partners. This includes the ability to look into research agenda's provide feedback and establish working relationships with students, as well as arrange targeted internships with MSc and PhD students provided by these partners.
 
-#### 2021 annual membership dues
+#### 2021 annual membership fees
 
 * Individual Associate member​:​ no subscription fee
 * Individual Board member​ ​(standard rate): € 150
