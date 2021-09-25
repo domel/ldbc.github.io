@@ -5,4 +5,4 @@ title: Formal Semantics Working Group (FSWG)
 filter_tags: [gql, fswg]
 ---
 
-This is just a page stub.
+**Group leaders:** Leonid Libkin (ENS Paris, University of Edinburgh), Paolo Guagliardo (University of Edinburgh)

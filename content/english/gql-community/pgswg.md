@@ -5,4 +5,4 @@ title: Property Graph Schema Working Group (PGSWG)
 filter_tags: [gql, pgswg]
 ---
 
-This is just a page stub.
+**Group leaders:** Jan Hidders (Birkbeck, University of London), Juan Sequeda (data.world)

@@ -5,4 +5,4 @@ title: Existing Languages Working Group (ELWG)
 filter_tags: [gql, elwg]
 ---
 
-This is just a page stub.
+**Group leader:** Petra Selmer (Neo4j)
