@@ -34,7 +34,7 @@ Break
 
 11:10 - 11:25 Venelin Kotsev (ONTO) Semantic Publishing Benchmark:Short
 Presentation of SPB and  Status,\
-<!-- TODO -->
+
 Feedback & Roadmap for SPB & OWLIM
 ([Presentation](attachments/5996808/6979839.pdf))
 
