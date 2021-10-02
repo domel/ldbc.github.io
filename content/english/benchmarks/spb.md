@@ -24,7 +24,7 @@ operations that retrieve content according to various criteria. The
 benchmark also tests conformance for various rules inside
 the OWL2-RL rule-set.
 
-The [SPB specification](https://github.com/ldbc/ldbc_spb_bm_2.0/blob/master/doc/LDBC_SPB_v2.0.docx?raw=true) contains the description of the benchmark and the data generator and all information about its software components can be found on the [SPB developer page](http://ldbcouncil.org/developer/spb).
+The [SPB specification](ldbc-spb-v2.0-specification.pdf) contains the description of the benchmark and the data generator and all information about its software components can be found on the [SPB developer page](http://ldbcouncil.org/developer/spb).
 
 #### Semantic Publishing Benchmark (SPB) Audited Results
 
