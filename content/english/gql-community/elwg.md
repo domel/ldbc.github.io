@@ -5,4 +5,14 @@ title: Existing Languages Working Group (ELWG)
 filter_tags: [gql, elwg]
 ---
 
-**Group leader:** Petra Selmer (Neo4j)
+* **Group leader:** Petra Selmer (Neo4j)
+* **Focus:** Surveying existing graph query languages
+
+#### Group members
+
+* Angela Bonifati (Lyon 1 University)
+* Frank Celler (ArangoDB)
+* Victor Lee (TigerGraph)
+* Harsh Thakkar (Consultant OSTHUS GmBH)
+* Jeffrey Lovitz (RedisGraph)
+* Renzo Angles (Universidad de Talca)
