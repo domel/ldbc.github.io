@@ -3,27 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ldbcouncil.org/</loc>
-    <lastmod>2021-11-05T16:49:25+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/ldbc-tr-tr-2021-01/</loc>
-    <lastmod>2021-11-05T16:49:25+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/</loc>
-    <lastmod>2021-11-05T16:49:25+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ldbcouncil.org/event/</loc>
     <lastmod>2021-08-16T16:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://ldbcouncil.org/event/fourteenth-tuc-meeting/</loc>
+    <lastmod>2021-08-16T16:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ldbcouncil.org/</loc>
     <lastmod>2021-08-16T16:00:00+02:00</lastmod>
   </url>
   
@@ -63,31 +53,6 @@
   </url>
   
   <url>
-    <loc>https://ldbcouncil.org/publication/dblp-journalscorrabs-2010-12243/</loc>
-    <lastmod>2021-11-05T16:49:21+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confsigmod-waudby-sps-20/</loc>
-    <lastmod>2021-11-05T16:49:24+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-journalscorrabs-2011-15028/</loc>
-    <lastmod>2021-11-05T16:49:21+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-journalscorrabs-2001-02299/</loc>
-    <lastmod>2021-11-05T16:49:21+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-conftpctc-waudby-skmbs-20/</loc>
-    <lastmod>2021-11-05T16:49:25+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ldbcouncil.org/event/twelfth-tuc-meeting/</loc>
     <lastmod>2019-07-05T08:30:00+01:00</lastmod>
   </url>
@@ -98,16 +63,6 @@
   </url>
   
   <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confgrades-szarnyas-pampkeb-18/</loc>
-    <lastmod>2021-11-05T16:49:23+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confsigmod-angles-abbfglpps-18/</loc>
-    <lastmod>2021-11-05T16:49:23+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ldbcouncil.org/event/tenth-tuc-meeting/</loc>
     <lastmod>2017-09-01T10:30:00+01:00</lastmod>
   </url>
@@ -115,21 +70,6 @@
   <url>
     <loc>https://ldbcouncil.org/event/ninth-tuc-meeting/</loc>
     <lastmod>2017-02-09T15:07:18-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confgrades-leo-b-17/</loc>
-    <lastmod>2021-11-05T16:49:23+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confgrades-ngai-hhi-17/</loc>
-    <lastmod>2021-11-05T16:49:23+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confgrades-prat-perez-gskdb-17/</loc>
-    <lastmod>2021-11-05T16:49:23+00:00</lastmod>
   </url>
   
   <url>
@@ -155,16 +95,6 @@
   <url>
     <loc>https://ldbcouncil.org/event/eigth-tuc-meeting/</loc>
     <lastmod>2016-06-22T14:45:20-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confsemweb-kotsev-mpefk-16/</loc>
-    <lastmod>2021-11-05T16:49:23+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-journalspvldb-iosup-hnhpmccsat-16/</loc>
-    <lastmod>2021-11-05T16:49:22+00:00</lastmod>
   </url>
   
   <url>
@@ -335,26 +265,6 @@
   <url>
     <loc>https://ldbcouncil.org/tags/tutorial/</loc>
     <lastmod>2015-01-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confwww-pham-peb-15/</loc>
-    <lastmod>2021-11-05T16:49:25+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-journalsws-loizou-ag-15/</loc>
-    <lastmod>2021-11-05T16:49:22+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confsigmod-erling-alcgppb-15/</loc>
-    <lastmod>2021-11-05T16:49:24+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confsigmod-guisado-gamez-p-14/</loc>
-    <lastmod>2021-11-05T16:49:24+00:00</lastmod>
   </url>
   
   <url>
@@ -543,66 +453,6 @@
   </url>
   
   <url>
-    <loc>https://ldbcouncil.org/publication/dblp-journalsercim-angles-pb-14/</loc>
-    <lastmod>2021-11-05T16:49:22+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-bookscrclinked-14-boncz-ep-14/</loc>
-    <lastmod>2021-11-05T16:49:22+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confedbt-gubichev-014/</loc>
-    <lastmod>2021-11-05T16:49:22+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confsigmod-gubichev-t-14/</loc>
-    <lastmod>2021-11-05T16:49:24+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confwww-prat-perez-dl-14/</loc>
-    <lastmod>2021-11-05T16:49:25+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confsigmod-prat-d-14/</loc>
-    <lastmod>2021-11-05T16:49:24+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-conficde-gubichev-ab-14/</loc>
-    <lastmod>2021-11-05T16:49:23+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confrweb-larriba-pey-md-14/</loc>
-    <lastmod>2021-11-05T16:49:23+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-journalsercim-pham-b-14/</loc>
-    <lastmod>2021-11-05T16:49:22+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-conftpctc-gubichev-b-14/</loc>
-    <lastmod>2021-11-05T16:49:24+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-journalssigmod-angles-blf-0-enmkt-14/</loc>
-    <lastmod>2021-11-05T16:49:22+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confsigmod-martinez-bazan-d-14/</loc>
-    <lastmod>2021-11-05T16:49:24+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ldbcouncil.org/event/third-tuc-meeting/</loc>
     <lastmod>2013-11-19T08:00:00+00:00</lastmod>
   </url>
@@ -613,78 +463,8 @@
   </url>
   
   <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confamw-angles-br-13/</loc>
-    <lastmod>2021-11-05T16:49:22+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confsigmod-angles-pdl-13/</loc>
-    <lastmod>2021-11-05T16:49:23+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confsigmod-ma-wqyxz-13/</loc>
-    <lastmod>2021-11-05T16:49:24+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-journalscorrabs-1301-5121/</loc>
-    <lastmod>2021-11-05T16:49:21+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-conficde-pham-13/</loc>
-    <lastmod>2021-11-05T16:49:23+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confsigmod-gubichev-bs-13/</loc>
-    <lastmod>2021-11-05T16:49:24+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-journalsdbsk-boncz-fgl-013/</loc>
-    <lastmod>2021-11-05T16:49:22+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confsigmod-cattuto-qpa-13/</loc>
-    <lastmod>2021-11-05T16:49:24+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-conftpctc-boncz-ne-13/</loc>
-    <lastmod>2021-11-05T16:49:24+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ldbcouncil.org/event/first-tuc-meeting/</loc>
     <lastmod>2012-11-19T09:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confcikm-gubichev-n-12/</loc>
-    <lastmod>2021-11-05T16:49:22+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confedbt-tsialiamanis-sfcb-12/</loc>
-    <lastmod>2021-11-05T16:49:22+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-confsemweb-phuoc-dpbef-12/</loc>
-    <lastmod>2021-11-05T16:49:23+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-conftpctc-pham-be-12/</loc>
-    <lastmod>2021-11-05T16:49:25+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ldbcouncil.org/publication/dblp-journalsdebu-erling-12/</loc>
-    <lastmod>2021-11-05T16:49:22+00:00</lastmod>
   </url>
   
   <url>
