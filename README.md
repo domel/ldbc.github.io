@@ -20,7 +20,12 @@ For detailed build instructions, please consult the [GitHub Actions workflow con
 
 ## Publications
 
-Publications are generated using the [`hugo-academic-cli`](https://github.com/wowchemy/hugo-academic-cli) Python package. Follow the instructions used in the GitHub Actions configuration.
+Publications are generated using the [`hugo-academic-cli`](https://github.com/wowchemy/hugo-academic-cli) Python package:
+
+```
+scripts/install-dependencies.sh
+scripts/generate-publication-entries.sh
+```
 
 ## Posts
 

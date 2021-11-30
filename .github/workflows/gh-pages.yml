@@ -23,8 +23,8 @@ jobs:
 
       - name: Build bib
         run: |
-          pip3 install -U academic==0.7.0
-          find ./bibs/ -iname "*bib" -exec ~/.local/bin/academic import --overwrite --publication-dir=english/publication --verbose --bibtex {} \;
+          scripts/install-dependencies.sh
+          scripts/generate-publication-entries.sh
 
       - name: Build
         run: hugo
