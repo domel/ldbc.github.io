@@ -2,7 +2,7 @@
 
 <html lang="en-us"><head>
   <meta charset="utf-8">
-  <title>LDBC Social Network Benchmark (LDBC SNB)</title>
+  <title>LDBC Social Network Benchmark version 0.2.2 audited results</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -166,14 +166,14 @@
       <div class="col-12">
         
         
-        <h2 class="text-white mb-3">LDBC Social Network Benchmark (LDBC-SNB)</h2>
+        <h2 class="text-white mb-3">LDBC Social Network Benchmark version 0.2.2 audited results</h2>
         
         <!-- breadcrumb -->
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb bg-transparent p-0">
             <li class="breadcrumb-item font-weight-semebold"><a class="text-white" href="/">Home</a></li>
         
-            <li class="breadcrumb-item font-weight-semebold active text-primary" aria-current="page">LDBC Social Network Benchmark (LDBC-SNB)</li>
+            <li class="breadcrumb-item font-weight-semebold active text-primary" aria-current="page">LDBC Social Network Benchmark version 0.2.2 audited results</li>
         
           </ol>
         </nav>
@@ -192,20 +192,7 @@
     <div class="row">
       <div class="col-lg-12">
         <div class="content">
-          <p>The Social Network Benchmark suite defines graph workloads targeting database management systems.
-The benchmark suite consists of two distinct benchmarks on a common dataset, since there are <strong>two different workloads</strong>.
-Each workload produces a single metric for performance at the given
-scale and a price/performance metric at the scale.  The full
-disclosure further breaks down the composition of the metric into its
-constituent parts, e.g. single query execution
-times.</p>
-<ul>
-<li><strong>The Social Network Benchmark's Interactive workload</strong> is focusing on transactional graph processing with complex read queries that access the neighbourhood of a given node in the graph and update operations that continuously insert new data in the graph.</li>
-<li><strong>The Social Network Benchmark's Business Intelligence workload</strong> is focusing on aggregation- and join-heavy complex queries touching a large portion of the graph with microbatches of insert/delete operations. This workload is not yet finalized.</li>
-</ul>
-<h4 id="social-network-benchmark-interactive-version-032httpsarxivorgpdf200102299pdf-audited-results">Social Network Benchmark Interactive (<a href="https://arxiv.org/pdf/2001.02299.pdf">version 0.3.2</a>) audited results</h4>
-<h5 id="tugraph">TuGraph</h5>
-<p>TuGraph was audited in July 2020. TuGraph is owned by the <a href="https://www.antgroup.com/en">Ant Group</a> now.</p>
+          <h2 id="social-network-benchmark-interactive-version-022httpsgithubcomldbcldbc_snb_docsblob8d325657069b444dd79fe21c770ecc9d88cc2c53ldbc_snb_v022pdf-audited-results">Social Network Benchmark Interactive (<a href="https://github.com/ldbc/ldbc_snb_docs/blob/8d325657069b444dd79fe21c770ecc9d88cc2c53/LDBC_SNB_v0.2.2.pdf">version 0.2.2</a>) audited results</h2>
 <table>
 <thead>
 <tr>
@@ -221,45 +208,67 @@ times.</p>
 </thead>
 <tbody>
 <tr>
+<td>10</td>
+<td>101.20</td>
+<td>€30,427</td>
+<td>Sparksee 5.1.1</td>
+<td>2*Xeon 2630v3 8-core 2.4GHz, 256GB RAM</td>
+<td><a href="http://www.sparsity-technologies.com">Sparsity Technologies SA</a></td>
+<td>2015/04/27</td>
+<td><a href="LDBC_SNB_I_20150427_SF10_sparksee.pdf">Full Disclosure Report</a></td>
+</tr>
+<tr>
 <td>30</td>
-<td>5,436.47</td>
-<td>$280,650</td>
-<td><a href="https://fma-ai.cn/">TuGraph 1.10</a></td>
-<td>AWS r5d.12xlarge instance, 48*Intel Xeon Platinum 8175M @ 2.5GHz, 374GB RAM</td>
-<td><a href="https://fma-ai.cn/">FMA</a></td>
-<td>2020/07/26</td>
-<td><a href="LDBC_SNB_I_20200726_SF30-100-300_tugraph.pdf">Full Disclosure Report</a></td>
+<td>1,287.17</td>
+<td>€20,212</td>
+<td>Virtuoso 07.50.3213 <a href="https://github.com/v7fasttrack/virtuoso-opensource">v7fasttrack</a></td>
+<td>2*Xeon2630 6-core 2.4GHz, 192GB RAM</td>
+<td><a href="http://www.openlinksw.com">OpenLink Software</a></td>
+<td>2015/04/27</td>
+<td><a href="LDBC_SNB_I_20150427_SF30_virtuoso.pdf">Full Disclosure Report</a></td>
+</tr>
+<tr>
+<td>30</td>
+<td>86.50</td>
+<td>€30,427</td>
+<td>Sparksee 5.1.1</td>
+<td>2*Xeon 2630v3 8-core 2.4GHz, 256GB RAM</td>
+<td><a href="http://www.sparsity-technologies.com">Sparsity Technologies SA</a></td>
+<td>2015/04/27</td>
+<td><a href="LDBC_SNB_I_20150427_SF30_sparksee.pdf">Full Disclosure Report</a></td>
 </tr>
 <tr>
 <td>100</td>
-<td>5,010.77</td>
-<td>$280,650</td>
-<td><a href="https://fma-ai.cn/">TuGraph 1.10</a></td>
-<td>AWS r5d.12xlarge instance, 48*Intel Xeon Platinum 8175M @ 2.5GHz, 374GB RAM</td>
-<td><a href="https://fma-ai.cn/">FMA</a></td>
-<td>2020/07/26</td>
-<td><a href="LDBC_SNB_I_20200726_SF30-100-300_tugraph.pdf">Full Disclosure Report</a></td>
+<td>1,200.00</td>
+<td>€20,212</td>
+<td>Virtuoso 07.50.3213 <a href="https://github.com/v7fasttrack/virtuoso-opensource">v7fasttrack</a></td>
+<td>2*Xeon2630 6-core 2.4GHz, 192GB RAM</td>
+<td><a href="http://www.openlinksw.com">OpenLink Software</a></td>
+<td>2015/04/27</td>
+<td><a href="LDBC_SNB_I_20150427_SF100_virtuoso.pdf">Full Disclosure Report</a></td>
+</tr>
+<tr>
+<td>100</td>
+<td>81.70</td>
+<td>€37,927</td>
+<td>Sparksee 5.1.1</td>
+<td>2*Xeon 2630v3 8-core 2.4GHz, 256GB RAM</td>
+<td><a href="http://www.sparsity-technologies.com">Sparsity Technologies SA</a></td>
+<td>2015/04/27</td>
+<td><a href="LDBC_SNB_I_20150427_SF100_sparksee.pdf">Full Disclosure Report</a></td>
 </tr>
 <tr>
 <td>300</td>
-<td>4,855.52</td>
-<td>$280,650</td>
-<td><a href="https://fma-ai.cn/">TuGraph 1.10</a></td>
-<td>AWS r5d.12xlarge instance, 48*Intel Xeon Platinum 8175M @ 2.5GHz, 374GB RAM</td>
-<td><a href="https://fma-ai.cn/">FMA</a></td>
-<td>2020/07/26</td>
-<td><a href="LDBC_SNB_I_20200726_SF30-100-300_tugraph.pdf">Full Disclosure Report</a></td>
+<td>635</td>
+<td>€20,212</td>
+<td>Virtuoso 07.50.3213 <a href="https://github.com/v7fasttrack/virtuoso-opensource">v7fasttrack</a></td>
+<td>2*Xeon2630 6-core 2.4GHz, 192GB RAM</td>
+<td><a href="http://www.openlinksw.com">OpenLink Software</a></td>
+<td>2015/04/27</td>
+<td><a href="LDBC_SNB_I_20150427_SF300_virtuoso.pdf">Full Disclosure Report</a></td>
 </tr>
 </tbody>
 </table>
-<p>Supplementary material for the TuGraph audits:</p>
-<ul>
-<li><a href="LDBC_SNB_I_20200726_SF30-100-300_tugraph-executive_summary.pdf">Executive summary</a></li>
-<li><a href="LDBC_SNB_I_20200726_SF30-100-300_tugraph-signatures.pdf">Signatures</a></li>
-<li><a href="https://drive.google.com/file/d/198UrkL7_vduOm5MTneVniiYBG8U2a8x9/view?usp=sharing">Attachments</a></li>
-</ul>
-<h4 id="legacy-audited-results">Legacy audited results</h4>
-<p><a href="/benchmarks/snb/audited-results-v0.2.2">Social Network Benchmark Interactive, version 0.2.2</a></p>
 
         </div>
       </div>
