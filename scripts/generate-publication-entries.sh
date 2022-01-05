@@ -9,7 +9,7 @@ cd ..
 # hack: use the 'subtitle' field to pass the Internet Archive URL through the academic CLI script
 sed -i.bkp 's/ia_url/subtitle/' ./bibs/*.bib
 find ./bibs/ -iname "*bib" \
-    -exec ~/.local/bin/academic import \
+    -exec academic import \
         --overwrite \
         --publication-dir=content/english/publication \
         --verbose \
