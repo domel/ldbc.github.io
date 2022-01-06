@@ -2,6 +2,17 @@
 
 [![](https://github.com/ldbc/ldbc.github.io/workflows/github%20pages/badge.svg)](https://github.com/ldbc/ldbc.github.io/actions)
 
+## Cloning the repository
+
+To clone the repository with submodules, run:
+
+```bash
+git clone --recurse-submodules git@github.com:ldbc/ldbc.github.io.git
+git submodule foreach --recursive git checkout master
+```
+
+## Building the site
+
 The website is built using the [Hugo](https://gohugo.io/) site generator. Hugo can be [installed using popular package managers](https://gohugo.io/getting-started/installing/) (`brew`, `apt`, `dnf`, `scoop`, `chocolatey`, etc.).
 
 To render the website at <http://localhost:1313>, run:
