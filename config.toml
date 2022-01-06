@@ -169,6 +169,7 @@ logo_footer = "images/ldbc.png"
 hide_title = false
 # Order is important here due to dependencies
 custom_js = ["js/isotope.pkgd.min.js", "js/wowchemy.js"]
+custom_css = ["css/custom-style.css"]
 # Top header
 top_header = false
 # Meta data
