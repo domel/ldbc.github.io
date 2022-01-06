@@ -1,3 +1,4 @@
 [submodule "themes/bexer-hugo"]
 	path = themes/bexer-hugo
 	url = git@github.com:ldbc/bexer-hugo.git
+	branch = master
