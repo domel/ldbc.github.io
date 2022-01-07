@@ -22,6 +22,8 @@ The benefits of [LDBC membership](/organizational-members) are:
 
 ### Forms
 
+For the latest information on becoming an LDBC member, see the [LDBC Membership – Joining and Renewing 2022](/docs/LDBC.Membership.-.Joining.and.Renewing.2022.pdf) document.
+
 Please fill out the form applicable to your employment status and contribution, and email it to the `info@ldbcouncil.org` address.
 
 * [Membership form](/docs/LDBC.Membership.Application.and.Renewal.Form.2021-01-14.pdf) (both for individuals and organizations)
