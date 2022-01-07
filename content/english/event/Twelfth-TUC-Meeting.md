@@ -98,7 +98,7 @@ break of SIGMOD/PODS 2019 (**room: Mendes da Silva kamer**):
 
 -   [12:00-12:25 Vasileios Trigonakis (Oracle): Evaluating a new
     distributed graph query engine with LDBC: Experiences and
-    limitations](/attachments/106233859/111706118.pdf)
+    limitations](attachments/106233859/111706118.pdf)
 
 -   [12:25-12:45 Ahmed Musaafir (VU Amsterdam): LDBC Graphalytics](attachments/106233859/111706130.pdf)
 
@@ -128,9 +128,11 @@ break of SIGMOD/PODS 2019 (**room: Mendes da Silva kamer**):
     graph-pattern matching on in-memory graphs in Spark](attachments/106233859/111968258.pdf)
 
 -   [16:50-17:10 Semih Salihoglu (University of Waterloo): Optimizing
-    subgraph queries with a mix of tradition and modernity](/attachments/106233859/111706116.pptx)
+    subgraph queries with a mix of tradition and modernity](attachments/106233859/111706116.pptx)
+
 -   [17:10-17:30 Roi Lipman (RedisGraph): Evaluating Cypher queries and
     procedures as algebraic operations within RedisGraph](attachments/106233859/111706128.pdf)
+
 -   [17:30-17:50 Alexandru Uta (VU Amsterdam): Low-latency Spark queries
     on updatable data](attachments/106233859/111706133.pdf)
 
