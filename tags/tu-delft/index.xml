@@ -762,7 +762,7 @@ Progress report and roadmap&lt;/a&gt;&lt;/p&gt;
 LDBC queries in a dataflow system&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://ldbcouncil.org/attachments/106233859/111706118.pdf&#34;&gt;12:00-12:25 Vasileios Trigonakis (Oracle): Evaluating a new
+&lt;p&gt;&lt;a href=&#34;attachments/106233859/111706118.pdf&#34;&gt;12:00-12:25 Vasileios Trigonakis (Oracle): Evaluating a new
 distributed graph query engine with LDBC: Experiences and
 limitations&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
@@ -801,7 +801,7 @@ semantics of graph query language.&lt;/a&gt;&lt;/p&gt;
 graph-pattern matching on in-memory graphs in Spark&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://ldbcouncil.org/attachments/106233859/111706116.pptx&#34;&gt;16:50-17:10 Semih Salihoglu (University of Waterloo): Optimizing
+&lt;p&gt;&lt;a href=&#34;attachments/106233859/111706116.pptx&#34;&gt;16:50-17:10 Semih Salihoglu (University of Waterloo): Optimizing
 subgraph queries with a mix of tradition and modernity&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
