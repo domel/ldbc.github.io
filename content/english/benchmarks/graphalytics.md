@@ -124,8 +124,8 @@ The data sets are currently available in a NextCloud directory. The data sets ar
 The files the `datagen-sf10k-fb` and `graph500-30` data sets are larger than 32 GB, therefore, they are split in to chunks. To concatenate and decompress these files, run:
 
 ```bash
-cat datagen-sf10k-fb.tar.zst.* | tar -tv -I unzstd
-cat graph500-30.tar.zst.* | tar -tv -I unzstd
+cat datagen-sf10k-fb.tar.zst.* | tar -tv --use-compress-program=unzstd
+cat graph500-30.tar.zst.* | tar -tv --use-compress-program=unzstd
 ```
 
 [`.sh` script to download the data sets](/scripts/download-graphalytics-data-sets.sh)
