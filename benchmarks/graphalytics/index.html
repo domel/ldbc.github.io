@@ -612,8 +612,8 @@ described below.</p>
 </tbody>
 </table>
 <p>The files the <code>datagen-sf10k-fb</code> and <code>graph500-30</code> data sets are larger than 32 GB, therefore, they are split in to chunks. To concatenate and decompress these files, run:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">cat datagen-sf10k-fb.tar.zst.* | tar -tv -I unzstd
-cat graph500-30.tar.zst.* | tar -tv -I unzstd
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">cat datagen-sf10k-fb.tar.zst.* | tar -tv --use-compress-program<span style="color:#f92672">=</span>unzstd
+cat graph500-30.tar.zst.* | tar -tv --use-compress-program<span style="color:#f92672">=</span>unzstd
 </code></pre></div><p><a href="/scripts/download-graphalytics-data-sets.sh"><code>.sh</code> script to download the data sets</a></p>
 
         </div>
