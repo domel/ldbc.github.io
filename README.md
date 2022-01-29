@@ -40,7 +40,7 @@ scripts/generate-publication-entries.sh
 
 ## Posts
 
-Create a new markdown file with the title as the filename under _content/english/post_ to create a new post. You can use the skeleton in  below to help you fill out post metadata (also include the closing and opening `---` character sequence):
+Create a new markdown file with the title as the filename under `content/english/post` to create a new post. You can use the skeleton in  below to help you fill out post metadata (also include the closing and opening `---` character sequence):
 ```
 ---
 type: post
@@ -57,11 +57,11 @@ image: "post/{{ .Name }}/featured.png"
 ---
 ```
 
-Alternatively, clone the site, get the theme submodule under _themes_, and use the CLI `hugo` tool to conveniently generate the skeleton for a post:
+Alternatively, clone the site, get the theme submodule under `themes`, and use the CLI `hugo` tool to conveniently generate the skeleton for a post:
 ```
 hugo new post/my-post.md
 ```
-This command will create the _my-post.md_ under _content/english/post_ with an initial template.
+This command will create the `my-post.md` under `content/english/post` with an initial template.
 
 To add any attachment to a post, create a folder **with lowercase name** that matches the name of the post, and all resources in that folder can be referenced from markdown using a relative URL.
 
@@ -91,11 +91,11 @@ image: "event/{{ .Name }}/featured.png"
 ---
 ```
 
-Alternatively, clone the site, get the theme submodule under _themes_, and use the CLI `hugo` tool to conveniently generate the skeleton for an event:
+Alternatively, clone the site, get the theme submodule under `themes`, and use the CLI `hugo` tool to conveniently generate the skeleton for an event:
 ```
 hugo new event/Meeting-Event.md
 ```
-This command will create the Meeting-Event.md_ file under _content/english/event_ with an initial template.
+This command will create the `Meeting-Event.md` file under `content/english/event` with an initial template.
 
 
 ## Serving the page locally
@@ -104,7 +104,7 @@ This command will create the Meeting-Event.md_ file under _content/english/event
 hugo server
 ```
 
-Note that you will need to clone the theme submodule in the _themes_ folder to get the site 100% up and running.
+Note that you will need to clone the theme submodule in the `themes` folder to get the site 100% up and running (see [Cloning the repository](#cloning-the-repository)).
 
 ## Add aliases to support old URLs
 
