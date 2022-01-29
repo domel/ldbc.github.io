@@ -226,7 +226,7 @@ home = "Home"
 # footer content
 footer_content = "LDBC came out of an EU FP7 project and is now a non-profit organization sustained by its members. Contact us at info AT ldbcouncil DOT org."
 # copyright
-copyright = "&copy; Copyright LDBC 2021"
+copyright = "&copy; Copyright LDBC 2022"
 
 [taxonomies]
 # category = "categories"
