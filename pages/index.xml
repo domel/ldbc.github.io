@@ -646,7 +646,7 @@ system would experience when serving a real social network.&lt;/p&gt;
 Steer, Jack Waudby and other LDBC contributors. Thanks for your help and
 feedback!&lt;/p&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] &lt;a href=&#34;http://ldbcouncil.org/sites/default/files/datagen-deletions-grades-nda-2020.pdf&#34;&gt;Supporting Dynamic Graphs and Temporal Entity Deletions
+&lt;p&gt;[1] &lt;a href=&#34;https://ldbcouncil.org/sites/default/files/datagen-deletions-grades-nda-2020.pdf&#34;&gt;Supporting Dynamic Graphs and Temporal Entity Deletions
 in the LDBC Social Network Benchmark&amp;rsquo;s Data
 Generator&lt;/a&gt;&lt;br&gt;
 [2] &lt;a href=&#34;https://www.youtube.com/watch?v=ZQOLuCOOpSI&#34;&gt;9th TUC Meeting &amp;ndash; LDBC SNB Datagen Update &amp;ndash; Arnau
@@ -1612,15 +1612,15 @@ and reference outputs, enabling the objective comparison of graph
 analysis platforms.  It has strong industry support from Oracle, Intel,
 Huawei and IBM, and was tested and optimized on the best industrial and
 open-source systems.&lt;/p&gt;
-&lt;p&gt;Tim Hegeman of &lt;a href=&#34;http://www.tudelft.nl&#34;&gt;TU Delft&lt;/a&gt; is today presenting the
+&lt;p&gt;Tim Hegeman of &lt;a href=&#34;https://www.tudelft.nl&#34;&gt;TU Delft&lt;/a&gt; is today presenting the
 technical paper describing LDBC Graphalytics at the important
-&lt;a href=&#34;http://www.vldb.org/conference.html&#34;&gt;VLDB&lt;/a&gt; (Very Large DataBases)
+&lt;a href=&#34;https://www.vldb.org/conference.html&#34;&gt;VLDB&lt;/a&gt; (Very Large DataBases)
 conference in New Delhi, where his talk also marks the release by LDBC
 of Graphalytics as a benchmark draft. Practitioners are invited to read
 the PVLDB paper, download the software and try running it.&lt;/p&gt;
 &lt;p&gt;LDBC is eager to use any feedback for its future adoption of LDBC
 Graphalytics.&lt;/p&gt;
-&lt;p&gt;Learn more: &lt;a href=&#34;http://ldbcouncil.org/ldbc-graphalytics&#34;&gt;http://ldbcouncil.org/ldbc-graphalytics&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Learn more: [/ldbc-graphalytics](LDBC Graphalytics)&lt;/p&gt;
 &lt;p&gt;GitHub: &lt;a href=&#34;https://github.com/tudelft-atlarge/graphalytics&#34;&gt;https://github.com/tudelft-atlarge/graphalytics&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -2442,7 +2442,7 @@ ESWC, 2011.&lt;/p&gt;
       <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>https://ldbcouncil.org/post/snb-interactive-part-3-choke-points-and-initial-run-on-virtuoso/</guid>
-      <description>&lt;p&gt;In this post we will look at running the &lt;a href=&#34;http://ldbcouncil.org/developer/snb&#34;&gt;LDBC SNB&lt;/a&gt; on &lt;a href=&#34;http://virtuoso.openlinksw.com/&#34;&gt;Virtuoso&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;In this post we will look at running the &lt;a href=&#34;https://ldbcouncil.org/developer/snb&#34;&gt;LDBC SNB&lt;/a&gt; on &lt;a href=&#34;https://virtuoso.openlinksw.com/&#34;&gt;Virtuoso&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;First, let&amp;rsquo;s recap what the benchmark is about:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;fairly frequent short updates, with no update contention worth
@@ -2881,7 +2881,7 @@ graph DB community.&lt;/p&gt;
       <pubDate>Tue, 26 May 2015 00:00:00 +0000</pubDate>
       
       <guid>https://ldbcouncil.org/post/snb-interactive-part-2-modeling-choices/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://ldbcouncil.org/benchmarks/snb&#34;&gt;​SNB Interactive&lt;/a&gt; is the wild
+      <description>&lt;p&gt;&lt;a href=&#34;https://ldbcouncil.org/benchmarks/snb&#34;&gt;​SNB Interactive&lt;/a&gt; is the wild
 frontier, with very few rules. This is necessary, among other reasons,
 because there is no standard property graph data model, and because the
 contestants support a broad mix of programming models, ranging from
@@ -2955,7 +2955,7 @@ Averbuch (Neo Technology), Josep Larriba-Pey (Sparsity Technologies,
 Hassan Chafi (Oracle Labs), Andrey Gubichev (TU Munich), Arnau Prat
 (Universitat Politècnica de Catalunya), Minh-Duc Pham (VU University
 Amsterdam) and Peter Boncz (CWI).&lt;/p&gt;
-&lt;p&gt;You can read more about the &lt;a href=&#34;http://ldbcouncil.org/benchmarks/snb&#34;&gt;Social Network Benchmark here&lt;/a&gt; and collaborate if you&amp;rsquo;re interested!&lt;/p&gt;
+&lt;p&gt;You can read more about the &lt;a href=&#34;https://ldbcouncil.org/benchmarks/snb&#34;&gt;Social Network Benchmark here&lt;/a&gt; and collaborate if you&amp;rsquo;re interested!&lt;/p&gt;
 &lt;p&gt;The other presentation will be at the GRADES workshop within the SIGMOD
 program regarding &lt;em&gt;Graphalytics: A Big Data Benchmark for
 Graph-Processing platforms&lt;/em&gt; by Mihai Capotă, Tim Hegeman, Alexandru
@@ -3845,7 +3845,7 @@ to guess whether &amp;ldquo;Hilton&amp;rdquo; in the second sentence of this pos
 a hotel from the chain founded by her grandfather or that I had the
 chance to meet Paris Hilton in person on the street in San Francisco.&lt;/p&gt;
 &lt;p&gt;Today there are plenty of tools (such as the
-&lt;a href=&#34;http://www.ontotext.com/semantic-solutions/media-publishing/&#34;&gt;Ontotext Media and Publishing&lt;/a&gt; platform and
+&lt;a href=&#34;https://www.ontotext.com/semantic-solutions/media-publishing/&#34;&gt;Ontotext Media and Publishing&lt;/a&gt; platform and
 &lt;a href=&#34;https://github.com/dbpedia-spotlight/dbpedia-spotlight/wiki&#34;&gt;DBPedia Spotlight&lt;/a&gt;) and services (such as Thomson Reuter’s
 &lt;a href=&#34;http://www.opencalais.com/&#34;&gt;OpenCalais&lt;/a&gt; and Ontotext’s
 &lt;a href=&#34;http://s4.ontotext.com&#34;&gt;S4&lt;/a&gt;) that offer automatic semantic annotation.
@@ -4857,24 +4857,22 @@ check their performance implications.&lt;/p&gt;
       <pubDate>Wed, 17 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>https://ldbcouncil.org/post/sizing-aws-instances-for-the-semantic-publishing-benchmark/</guid>
-      <description>&lt;p&gt;LDBC&amp;rsquo;s &lt;a href=&#34;http://ldbcouncil.org/developer/spb&#34;&gt;Semantic Publishing Benchmark&lt;/a&gt; (SPB) measures the performance of an RDF database in a load
+      <description>&lt;p&gt;LDBC&amp;rsquo;s &lt;a href=&#34;https://ldbcouncil.org/developer/spb&#34;&gt;Semantic Publishing Benchmark&lt;/a&gt; (SPB) measures the performance of an RDF database in a load
 typical for metadata-based content publishing, such as the famous
 &lt;a href=&#34;http://www.bbc.co.uk/blogs/legacy/bbcinternet/2010/07/bbc_world_cup_2010_dynamic_sem.html&#34;&gt;BBC Dynamic Semantic Publishing&lt;/a&gt; scenario. Such load combines tens of
 updates per second (e.g. adding metadata about new articles) with even
 higher volume of read requests (SPARQL queries collecting recent content
 and data to generate web page on a specific subject, e.g. Frank
-Lampard). As we
-&lt;a href=&#34;http://ldbcouncil.org/blog/using-ldbc-spb-find-owlim-performance-issues%5Bwrote&#34;&gt;http://ldbcouncil.org/blog/using-ldbc-spb-find-owlim-performance-issues[wrote&lt;/a&gt;
-earlier], SPB was already successfully used to help developers to
+Lampard). As we &lt;a href=&#34;https://ldbcouncil.org/post/using-ldbc-spb-to-find-owlim-performance-issues&#34;&gt;wrote earlier&lt;/a&gt;, SPB was already successfully used to help developers to
 identify performance issues and to introduce optimizations in SPARQL
 engines such as GraphDB and Virtuoso. Now we are at the point to
 experiment with different sizes of the benchmark and different hardware
 configurations.&lt;/p&gt;
 &lt;p&gt;Lately we tested different Amazon Web Services
-&lt;a href=&#34;http://aws.amazon.com/&#34;&gt;AWS&lt;/a&gt;) instance types for running SPB basic
+(&lt;a href=&#34;https://aws.amazon.com/&#34;&gt;AWS&lt;/a&gt;) instance types for running SPB basic
 interactive query mix in parallel with the standard editorial updates –
 precisely the type of workload that
-&lt;a href=&#34;ttp://www.ontotext.com/products/ontotext-graphdb/&#34;&gt;GraphDB&lt;/a&gt; experiences
+&lt;a href=&#34;https://www.ontotext.com/products/ontotext-graphdb/&#34;&gt;GraphDB&lt;/a&gt; experiences
 in the backend of BBC Sport website. We discovered and report below a
 number of practical guidelines about the optimal instance types and
 configurations. We have proven that SPB 50M workloads can be executed
@@ -5479,11 +5477,11 @@ the driver to deal with these challenges.&lt;/p&gt;
       <pubDate>Tue, 18 Nov 2014 00:00:00 +0000</pubDate>
       
       <guid>https://ldbcouncil.org/post/making-semantic-publishing-execution-rules/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://ldbcouncil.org/&#34;&gt;LDBC&lt;/a&gt; &lt;a href=&#34;https://ldbcouncil.org/benchmarks/spb&#34;&gt;SPB (Semantic Publishing Benchmark)&lt;/a&gt; is based on the BBC linked data
+      <description>&lt;p&gt;&lt;a href=&#34;https://ldbcouncil.org/&#34;&gt;LDBC&lt;/a&gt; &lt;a href=&#34;https://ldbcouncil.org/benchmarks/spb&#34;&gt;SPB (Semantic Publishing Benchmark)&lt;/a&gt; is based on the BBC linked data
 platform use case. Thus the data modelling and transaction mix reflects
 the BBC&amp;rsquo;s actual utilization of RDF. But a benchmark is not only a
 condensation of current best practices. The BBC linked data platform is
-an &lt;a href=&#34;http://www.ontotext.com/products/ontotext-graphdb-owlim/&#34;&gt;Ontotext Graph DB&lt;/a&gt; deployment. Graph DB was formerly known as Owlim.&lt;/p&gt;
+an &lt;a href=&#34;https://www.ontotext.com/products/ontotext-graphdb-owlim/&#34;&gt;Ontotext Graph DB&lt;/a&gt; deployment. Graph DB was formerly known as Owlim.&lt;/p&gt;
 &lt;p&gt;So, in SPB we wanted to address substantially more complex queries than
 the lookups that the BBC linked data platform primarily serves. Diverse
 dataset summaries, timelines and faceted search qualified by keywords
@@ -6111,7 +6109,7 @@ is a noncommercial, neutral, entity which releases all its benchmark
 specifications, software, as well as many materials created during the
 design, to the **public **in open source (GPL3).  LDBC has spent a lot
 of time engaging interested parties (mainly through
-its &lt;a href=&#34;http://ldbcouncil.org/tags/tuc-meeting/&#34;&gt;Technical User Community gatherings&lt;/a&gt;) as well as lining up additional organizations as
+its &lt;a href=&#34;https://ldbcouncil.org/tags/tuc-meeting/&#34;&gt;Technical User Community gatherings&lt;/a&gt;) as well as lining up additional organizations as
 members of the Linked Data Benchmark Council. There is, in other words,
 a strong non-technical, human factor in getting benchmarks accepted.&lt;/p&gt;
 &lt;p&gt;The need for &lt;em&gt;understandability&lt;/em&gt; for me means that a database benchmark
@@ -6245,13 +6243,13 @@ yet unknown innovations.&lt;/p&gt;
 &lt;p&gt;LDBC has just published two benchmarks as Public Drafts, which
 essentially means that you are cordially invited to download and try out
 the RDF-focused Semantic Publishing Benchmark
-(&lt;a href=&#34;http://ldbcouncil.org/developer/spb&#34;&gt;SPB) &lt;/a&gt;and the more graph-focused
-Social Network Benchmark (&lt;a href=&#34;http://ldbcouncil.org/developer/snb&#34;&gt;SNB&lt;/a&gt;),
+(&lt;a href=&#34;https://ldbcouncil.org/developer/spb&#34;&gt;SPB) &lt;/a&gt; and the more graph-focused
+Social Network Benchmark (&lt;a href=&#34;https://ldbcouncil.org/developer/snb&#34;&gt;SNB&lt;/a&gt;),
 and &lt;a href=&#34;https://groups.google.com/forum/#!forum/ldbcouncil&#34;&gt;tell us what you think&lt;/a&gt;. Stay tuned for the coming detailed blog posts about these
 benchmarks, which will explain the graph and RDF processing choke-points
 that they test.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;(for more posts from Peter Boncz, see
-also &lt;a href=&#34;http://databasearchitects.blogspot.com&#34;&gt;Database Architects&lt;/a&gt;, a blog
+also &lt;a href=&#34;https://databasearchitects.blogspot.com&#34;&gt;Database Architects&lt;/a&gt;, a blog
 about data management challenges and techniques written by people who
 design and implement database systems)&lt;/em&gt;&lt;/p&gt;
 </description>
@@ -6265,7 +6263,7 @@ design and implement database systems)&lt;/em&gt;&lt;/p&gt;
       <guid>https://ldbcouncil.org/post/new-website-online-ldbc-benchmarks-reach-public-draft/</guid>
       <description>&lt;p&gt;The Linked Data Benchmark Council  (LDBC) is reaching a milestone today, June 23 2014, in announcing that two of the benchmarks that it has been developing since 1.5 years have now reached the status of Public Draft. This concerns the Semantic Publishing Benchmark (SPB) and the interactive workload of the Social Network Benchmark (SNB). In case of LDBC, the release is staged: now the benchmark software just runs read-only queries. This will be expanded in a few weeks with a mix of read- and insert-queries. Also, query validation will be added later. Watch this blog for the announcements to come, as this will be a matter of weeks to add.&lt;/p&gt;
 &lt;p&gt;The Public Draft stage means that the initial software (data generator, query driver) work and an initial technical specification and documentation has been written. In other words, there is a testable version of the benchmark available for anyone who is interested. Public Draft status does not mean that the benchmark has been adopted yet, it rather means that LDBC has come closer to adopting them, but is now soliciting feedback from the users. The benchmarks will remain in this stage at least until October 6. On that date, LDBC is organizing its fifth &lt;a href=&#34;https://ldbcouncil.org/event/fifth-tuc-meeting&#34;&gt;Technical User Community meeting&lt;/a&gt;. One of the themes for that meeting is collecting user feedback on the Public Drafts; which input will be used to either further evolve the benchmarks, or adopt them.&lt;/p&gt;
-&lt;p&gt;You can also see that we created a this new website and a new logo. This website is different from &lt;a href=&#34;http://ldbc.eu&#34;&gt;http://ldbc.eu&lt;/a&gt; that describes the EU project which kick-starts LDBC. The ldbcouncil.org is a website maintained by the Linked Data Benchmark Council legal entity, which will live on after the EU project stops (in less than a year). The Linked Data Benchmark Council is an independent, impartial, member-sustained organization dedicated to the creation of RDF and graph data management benchmarks and benchmark practices.&lt;/p&gt;
+&lt;p&gt;You can also see that we created a this new website and a new logo. This website is different from &lt;code&gt;http://ldbc.eu&lt;/code&gt; that describes the EU project which kick-starts LDBC. The ldbcouncil.org is a website maintained by the Linked Data Benchmark Council legal entity, which will live on after the EU project stops (in less than a year). The Linked Data Benchmark Council is an independent, impartial, member-sustained organization dedicated to the creation of RDF and graph data management benchmarks and benchmark practices.&lt;/p&gt;
 &lt;p&gt;In the next weeks, you will see many contributors in LDBC post items on this blog. Some of these blog entries will be very technical, others not, but all aim to explain what LDBC is doing for RDF and graph benchmarking, and why.&lt;/p&gt;
 </description>
     </item>
@@ -6342,7 +6340,7 @@ design and implement database systems)&lt;/em&gt;&lt;/p&gt;
       <description>&lt;p&gt;In a previous blog post titled &amp;ldquo;&lt;a href=&#34;../is-snb-like-facebooks-linkbench/&#34;&gt;Is SNB like Facebook&amp;rsquo;s LinkBench?&lt;/a&gt;&amp;rdquo;, Peter Boncz discusses the design philosophy that shapes SNB and how it compares to other existing benchmarks such as LinkBench. In this post, I will briefly introduce the essential parts forming SNB, which are DATAGEN, the LDBC execution driver and the workloads.&lt;/p&gt;
 &lt;h3 id=&#34;datagen&#34;&gt;DATAGEN&lt;/h3&gt;
 &lt;p&gt;DATAGEN is the data generator used by all the workloads of SNB.
-&lt;a href=&#34;http://ldbcouncil.org/blog/datagen-data-generation-social-network-benchmark&#34;&gt;Here&lt;/a&gt;
+&lt;a href=&#34;https://ldbcouncil.org/post/datagen-data-generation-for-the-social-network-benchmark/&#34;&gt;Here&lt;/a&gt;
 we introduced the design goals that drive the development of DATAGEN,
 which can be summarized as: &lt;em&gt;Realism, Scalability, Determinism and
 Usability.&lt;/em&gt;&lt;/p&gt;
@@ -6940,7 +6938,7 @@ matter comes up.&lt;/p&gt;
       
       <guid>https://ldbcouncil.org/post/using-ldbc-spb-to-find-owlim-performance-issues/</guid>
       <description>&lt;p&gt;During the past six months we (the OWLIM Team at Ontotext) have
-integrated the LDBC &lt;a href=&#34;http://ldbcouncil.org/developer/spb&#34;&gt;Semantic Publishing Benchmark&lt;/a&gt; (LDBC-SPB) as a part of our development and
+integrated the LDBC &lt;a href=&#34;https://ldbcouncil.org/developer/spb&#34;&gt;Semantic Publishing Benchmark&lt;/a&gt; (LDBC-SPB) as a part of our development and
 release process.&lt;/p&gt;
 &lt;p&gt;First thing we’ve started using the LDBC-SPB for is to monitor the
 performance of our RDF Store when a new release is about to come out.&lt;/p&gt;

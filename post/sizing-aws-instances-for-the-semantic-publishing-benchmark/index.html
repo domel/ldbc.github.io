@@ -204,24 +204,22 @@
           
         </div>
         <div class="content">
-          <p>LDBC&rsquo;s <a href="http://ldbcouncil.org/developer/spb">Semantic Publishing Benchmark</a> (SPB) measures the performance of an RDF database in a load
+          <p>LDBC&rsquo;s <a href="/developer/spb">Semantic Publishing Benchmark</a> (SPB) measures the performance of an RDF database in a load
 typical for metadata-based content publishing, such as the famous
 <a href="http://www.bbc.co.uk/blogs/legacy/bbcinternet/2010/07/bbc_world_cup_2010_dynamic_sem.html">BBC Dynamic Semantic Publishing</a> scenario. Such load combines tens of
 updates per second (e.g. adding metadata about new articles) with even
 higher volume of read requests (SPARQL queries collecting recent content
 and data to generate web page on a specific subject, e.g. Frank
-Lampard). As we
-<a href="http://ldbcouncil.org/blog/using-ldbc-spb-find-owlim-performance-issues%5Bwrote">http://ldbcouncil.org/blog/using-ldbc-spb-find-owlim-performance-issues[wrote</a>
-earlier], SPB was already successfully used to help developers to
+Lampard). As we <a href="/post/using-ldbc-spb-to-find-owlim-performance-issues">wrote earlier</a>, SPB was already successfully used to help developers to
 identify performance issues and to introduce optimizations in SPARQL
 engines such as GraphDB and Virtuoso. Now we are at the point to
 experiment with different sizes of the benchmark and different hardware
 configurations.</p>
 <p>Lately we tested different Amazon Web Services
-<a href="http://aws.amazon.com/">AWS</a>) instance types for running SPB basic
+(<a href="https://aws.amazon.com/">AWS</a>) instance types for running SPB basic
 interactive query mix in parallel with the standard editorial updates –
 precisely the type of workload that
-<a href="ttp://www.ontotext.com/products/ontotext-graphdb/">GraphDB</a> experiences
+<a href="https://www.ontotext.com/products/ontotext-graphdb/">GraphDB</a> experiences
 in the backend of BBC Sport website. We discovered and report below a
 number of practical guidelines about the optimal instance types and
 configurations. We have proven that SPB 50M workloads can be executed
