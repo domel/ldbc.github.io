@@ -13,7 +13,7 @@ tags: [snb, virtuoso, interactive]
 # image: "post/snb-interactive-part-2-modeling-choices/featured.png" 
 ---
 
-[​SNB Interactive](http://ldbcouncil.org/benchmarks/snb) is the wild
+[​SNB Interactive](/benchmarks/snb) is the wild
 frontier, with very few rules. This is necessary, among other reasons,
 because there is no standard property graph data model, and because the
 contestants support a broad mix of programming models, ranging from

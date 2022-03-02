@@ -13,25 +13,23 @@ tags: [spb, amazon, ec2, aws, rdf]
 ---
 
 
-LDBC's [Semantic Publishing Benchmark](http://ldbcouncil.org/developer/spb) (SPB) measures the performance of an RDF database in a load
+LDBC's [Semantic Publishing Benchmark](/developer/spb) (SPB) measures the performance of an RDF database in a load
 typical for metadata-based content publishing, such as the famous
 [BBC Dynamic Semantic Publishing](http://www.bbc.co.uk/blogs/legacy/bbcinternet/2010/07/bbc_world_cup_2010_dynamic_sem.html) scenario. Such load combines tens of
 updates per second (e.g. adding metadata about new articles) with even
 higher volume of read requests (SPARQL queries collecting recent content
 and data to generate web page on a specific subject, e.g. Frank
-Lampard). As we
-http://ldbcouncil.org/blog/using-ldbc-spb-find-owlim-performance-issues[wrote
-earlier], SPB was already successfully used to help developers to
+Lampard). As we [wrote earlier](/post/using-ldbc-spb-to-find-owlim-performance-issues), SPB was already successfully used to help developers to
 identify performance issues and to introduce optimizations in SPARQL
 engines such as GraphDB and Virtuoso. Now we are at the point to
 experiment with different sizes of the benchmark and different hardware
 configurations.
 
 Lately we tested different Amazon Web Services
-[AWS](http://aws.amazon.com/)) instance types for running SPB basic
+([AWS](https://aws.amazon.com/)) instance types for running SPB basic
 interactive query mix in parallel with the standard editorial updates –
 precisely the type of workload that
-[GraphDB](ttp://www.ontotext.com/products/ontotext-graphdb/) experiences
+[GraphDB](https://www.ontotext.com/products/ontotext-graphdb/) experiences
 in the backend of BBC Sport website. We discovered and report below a
 number of practical guidelines about the optimal instance types and
 configurations. We have proven that SPB 50M workloads can be executed

@@ -13,11 +13,11 @@ tags: [spb, test run]
 ---
 
 
-[LDBC](http://ldbcouncil.org/) [SPB (Semantic Publishing Benchmark)](/benchmarks/spb) is based on the BBC linked data
+[LDBC](https://ldbcouncil.org/) [SPB (Semantic Publishing Benchmark)](/benchmarks/spb) is based on the BBC linked data
 platform use case. Thus the data modelling and transaction mix reflects
 the BBC's actual utilization of RDF. But a benchmark is not only a
 condensation of current best practices. The BBC linked data platform is
-an [Ontotext Graph DB](http://www.ontotext.com/products/ontotext-graphdb-owlim/) deployment. Graph DB was formerly known as Owlim.
+an [Ontotext Graph DB](https://www.ontotext.com/products/ontotext-graphdb-owlim/) deployment. Graph DB was formerly known as Owlim.
 
 So, in SPB we wanted to address substantially more complex queries than
 the lookups that the BBC linked data platform primarily serves. Diverse

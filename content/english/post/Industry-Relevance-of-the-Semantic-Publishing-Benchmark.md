@@ -104,7 +104,7 @@ a hotel from the chain founded by her grandfather or that I had the
 chance to meet Paris Hilton in person on the street in San Francisco.
 
 Today there are plenty of tools (such as the
-[Ontotext Media and Publishing](http://www.ontotext.com/semantic-solutions/media-publishing/) platform and
+[Ontotext Media and Publishing](https://www.ontotext.com/semantic-solutions/media-publishing/) platform and
 [DBPedia Spotlight](https://github.com/dbpedia-spotlight/dbpedia-spotlight/wiki)) and services (such as Thomson Reuter’s
 [OpenCalais](http://www.opencalais.com/) and Ontotext’s
 [S4](http://s4.ontotext.com)) that offer automatic semantic annotation.

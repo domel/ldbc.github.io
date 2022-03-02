@@ -51,7 +51,7 @@ is a noncommercial, neutral, entity which releases all its benchmark
 specifications, software, as well as many materials created during the
 design, to the **public **in open source (GPL3).  LDBC has spent a lot
 of time engaging interested parties (mainly through
-its [Technical User Community gatherings](http://ldbcouncil.org/tags/tuc-meeting/)) as well as lining up additional organizations as
+its [Technical User Community gatherings](/tags/tuc-meeting/)) as well as lining up additional organizations as
 members of the Linked Data Benchmark Council. There is, in other words,
 a strong non-technical, human factor in getting benchmarks accepted.
 
@@ -193,13 +193,13 @@ yet unknown innovations.
 LDBC has just published two benchmarks as Public Drafts, which
 essentially means that you are cordially invited to download and try out
 the RDF-focused Semantic Publishing Benchmark
-([SPB) ](http://ldbcouncil.org/developer/spb)and the more graph-focused
-Social Network Benchmark ([SNB](http://ldbcouncil.org/developer/snb)), 
+([SPB) ](/developer/spb) and the more graph-focused
+Social Network Benchmark ([SNB](/developer/snb)), 
 and [tell us what you think](https://groups.google.com/forum/#!forum/ldbcouncil). Stay tuned for the coming detailed blog posts about these
 benchmarks, which will explain the graph and RDF processing choke-points
 that they test.
 
 _(for more posts from Peter Boncz, see
-also [Database Architects](http://databasearchitects.blogspot.com), a blog
+also [Database Architects](https://databasearchitects.blogspot.com), a blog
 about data management challenges and techniques written by people who
 design and implement database systems)_

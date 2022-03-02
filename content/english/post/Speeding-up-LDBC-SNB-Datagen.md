@@ -359,7 +359,7 @@ feedback!
 
 [1] [Supporting Dynamic Graphs and Temporal Entity Deletions
     in the LDBC Social Network Benchmark's Data
-    Generator](http://ldbcouncil.org/sites/default/files/datagen-deletions-grades-nda-2020.pdf) \
+    Generator](https://ldbcouncil.org/sites/default/files/datagen-deletions-grades-nda-2020.pdf) \
 [2] [9th TUC Meeting -- LDBC SNB Datagen Update -- Arnau
     Prat (UPC)](https://www.youtube.com/watch?v=ZQOLuCOOpSI) -
     [slides](http://wiki.ldbcouncil.org/pages/viewpage.action?pageId=59277315&preview=/59277315/75431942/datagen_in_depth.pdf) \

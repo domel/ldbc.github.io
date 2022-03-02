@@ -13,7 +13,7 @@ tags: [ldbc, spb, rdf]
 ---
 
 During the past six months we (the OWLIM Team at Ontotext) have
-integrated the LDBC [Semantic Publishing Benchmark](http://ldbcouncil.org/developer/spb) (LDBC-SPB) as a part of our development and
+integrated the LDBC [Semantic Publishing Benchmark](/developer/spb) (LDBC-SPB) as a part of our development and
 release process.
 
 First thing we’ve started using the LDBC-SPB for is to monitor the

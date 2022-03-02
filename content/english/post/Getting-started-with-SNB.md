@@ -19,7 +19,7 @@ In a previous blog post titled "[Is SNB like Facebook's LinkBench?](../is-snb-li
 ### DATAGEN
 
 DATAGEN is the data generator used by all the workloads of SNB.
-[Here](http://ldbcouncil.org/blog/datagen-data-generation-social-network-benchmark)
+[Here](/post/datagen-data-generation-for-the-social-network-benchmark/)
 we introduced the design goals that drive the development of DATAGEN,
 which can be summarized as: *Realism, Scalability, Determinism and
 Usability.*

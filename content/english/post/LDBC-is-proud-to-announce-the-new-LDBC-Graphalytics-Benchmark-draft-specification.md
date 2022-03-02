@@ -23,9 +23,9 @@ analysis platforms.  It has strong industry support from Oracle, Intel,
 Huawei and IBM, and was tested and optimized on the best industrial and
 open-source systems.
 
-Tim Hegeman of [TU Delft](http://www.tudelft.nl) is today presenting the
+Tim Hegeman of [TU Delft](https://www.tudelft.nl) is today presenting the
 technical paper describing LDBC Graphalytics at the important
-[VLDB](http://www.vldb.org/conference.html) (Very Large DataBases)
+[VLDB](https://www.vldb.org/conference.html) (Very Large DataBases)
 conference in New Delhi, where his talk also marks the release by LDBC
 of Graphalytics as a benchmark draft. Practitioners are invited to read
 the PVLDB paper, download the software and try running it.
@@ -33,6 +33,6 @@ the PVLDB paper, download the software and try running it.
 LDBC is eager to use any feedback for its future adoption of LDBC
 Graphalytics.
 
-Learn more: http://ldbcouncil.org/ldbc-graphalytics
+Learn more: [/ldbc-graphalytics](LDBC Graphalytics)
 
 GitHub: [https://github.com/tudelft-atlarge/graphalytics](https://github.com/tudelft-atlarge/graphalytics)

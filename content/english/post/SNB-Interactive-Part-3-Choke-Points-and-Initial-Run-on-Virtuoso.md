@@ -10,7 +10,7 @@ date: 2015-06-10
 tags: [snb, interactive]
 ---
 
-In this post we will look at running the [LDBC SNB](http://ldbcouncil.org/developer/snb) on [Virtuoso](http://virtuoso.openlinksw.com/).
+In this post we will look at running the [LDBC SNB](/developer/snb) on [Virtuoso](https://virtuoso.openlinksw.com/).
 
 First, let's recap what the benchmark is about:
 

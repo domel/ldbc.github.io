@@ -26,7 +26,7 @@ Hassan Chafi (Oracle Labs), Andrey Gubichev (TU Munich), Arnau Prat
 (Universitat Politècnica de Catalunya), Minh-Duc Pham (VU University
 Amsterdam) and Peter Boncz (CWI).
 
-You can read more about the [Social Network Benchmark here](http://ldbcouncil.org/benchmarks/snb) and collaborate if you're interested!
+You can read more about the [Social Network Benchmark here](/benchmarks/snb) and collaborate if you're interested!
 
 The other presentation will be at the GRADES workshop within the SIGMOD
 program regarding *Graphalytics: A Big Data Benchmark for
