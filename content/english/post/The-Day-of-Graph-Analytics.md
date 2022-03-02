@@ -13,7 +13,7 @@ tags: [analytics, snb]
 ---
 
 _Note: consider this post as a continuation of the
-"[Making it interactive](../making-it-interactive)" post by Orri Erling._ 
+"[Making it interactive](/post/making-it-interactive)" post by Orri Erling._ 
  
 I have now completed
 the [Virtuoso](https://github.com/openlink/virtuoso-opensource) TPC-H work,
