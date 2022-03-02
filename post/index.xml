@@ -6804,7 +6804,7 @@ numThreads:4
       
       <guid>https://ldbcouncil.org/post/the-day-of-graph-analytics/</guid>
       <description>&lt;p&gt;&lt;em&gt;Note: consider this post as a continuation of the
-&amp;ldquo;&lt;a href=&#34;../making-it-interactive&#34;&gt;Making it interactive&lt;/a&gt;&amp;rdquo; post by Orri Erling.&lt;/em&gt;&lt;/p&gt;
+&amp;ldquo;&lt;a href=&#34;https://ldbcouncil.org/post/making-it-interactive&#34;&gt;Making it interactive&lt;/a&gt;&amp;rdquo; post by Orri Erling.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;I have now completed
 the &lt;a href=&#34;https://github.com/openlink/virtuoso-opensource&#34;&gt;Virtuoso&lt;/a&gt; TPC-H work,
 including scale out.  Optimization possibilities extend to infinity but
