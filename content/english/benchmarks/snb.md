@@ -25,7 +25,7 @@ times.
 TuGraph was audited in July 2020. TuGraph is owned by the [Ant Group](https://www.antgroup.com/en) now.
 
 
-| **SF** | **Throughput (ops/sec)** | **Cost** | **Software** | **Hardware** | **Test Sponsor** | **Date** | **SNB version** | **Full Disclosure Report** |
+| **SF** | **Throughput (ops/sec)** | **Cost** | **Software** | **Hardware** | **Test Sponsor** | **Date** | **SNB Version** | **Full Disclosure Report** |
 |--------|--------------------------|----------|--------------|--------------|------------------|----------|-----------------|----------------------------|
 |30 | 5,436.47 |  $280,650 | [TuGraph 1.10](https://fma-ai.cn/) | AWS r5d.12xlarge instance, 48\*Intel Xeon Platinum 8175M @ 2.5GHz, 374GB RAM | [FMA](https://fma-ai.cn/) | 2020/07/26 | [v0.3.2](https://arxiv.org/pdf/2001.02299v1.pdf) | [Full Disclosure Report](LDBC_SNB_I_20200726_SF30-100-300_tugraph.pdf)
 |100 | 5,010.77 | $280,650 | [TuGraph 1.10](https://fma-ai.cn/) | AWS r5d.12xlarge instance, 48\*Intel Xeon Platinum 8175M @ 2.5GHz, 374GB RAM | [FMA](https://fma-ai.cn/) | 2020/07/26 | [v0.3.2](https://arxiv.org/pdf/2001.02299v1.pdf) | [Full Disclosure Report](LDBC_SNB_I_20200726_SF30-100-300_tugraph.pdf)
