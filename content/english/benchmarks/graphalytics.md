@@ -73,7 +73,10 @@ Documents and repositories:
 
 ## Data sets
 
-The data sets are currently available in a NextCloud directory. The data sets are compressed using [`zstd`](https://github.com/facebook/zstd). The total size of the compressed archives is 326GB. Decompressed, it's approximately 1.1TB.
+The data sets are available in the [CWI/SURF data repository](https://repository.surfsara.nl/datasets/cwi/graphalytics).
+
+A mirror of the data sets is also available on the [CWI/SURF NextCloud](https://surfdrive.surf.nl/files/index.php/s/R8XkQNhVRLu9HaF).
+The data sets are compressed using [`zstd`](https://github.com/facebook/zstd). The total size of the compressed archives is 326GB. Decompressed, it's approximately 1.1TB.
 
 | data set | #nodes | #edges | scale | link | size |
 |-|-|-|-|-|-|
