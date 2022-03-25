@@ -15,7 +15,7 @@ disclosure further breaks down the composition of the metric into its
 constituent parts, e.g. single query execution
 times.
 
-- **The Social Network Benchmark\'s Interactive workload** is focusing on transactional graph processing with complex read queries that access the neighbourhood of a given node in the graph and update operations that continuously insert new data in the graph. The SNB data sets are available in the [CWI/SURF data repository](https://repository.surfsara.nl/datasets/cwi/snb). This workload is final and open for audits (see below).
+- **The Social Network Benchmark\'s Interactive workload** is focusing on transactional graph processing with complex read queries that access the neighbourhood of a given node in the graph and update operations that continuously insert new data in the graph. The SNB data sets are available in the [CWI/SURF data repository](https://hdl.handle.net/11112/e6e00558-a2c3-9214-473e-04a16de09bf8). This workload is final and open for audits (see below).
 - **The Social Network Benchmark\'s Business Intelligence workload** is focusing on aggregation- and join-heavy complex queries touching a large portion of the graph with microbatches of insert/delete operations. This workload is not yet finalized, hence getting audited results is not possible.
 
 The [LDBC Social Network Benchmark specification](https://arxiv.org/abs/2001.02299) (including the latest and earlier versions) can be found on arXiv.

@@ -73,7 +73,7 @@ Documents and repositories:
 
 ## Data sets
 
-The data sets are available in the [CWI/SURF data repository](https://repository.surfsara.nl/datasets/cwi/graphalytics).
+The data sets are available in the [CWI/SURF data repository](https://hdl.handle.net/11112/7ec6a51e-6fdb-bf8d-4507-456ccadc9291).
 
 A mirror of the data sets is also available on the [CWI/SURF NextCloud](https://surfdrive.surf.nl/files/index.php/s/R8XkQNhVRLu9HaF).
 The data sets are compressed using [`zstd`](https://github.com/facebook/zstd). The total size of the compressed archives is 326GB. Decompressed, it's approximately 1.1TB.
