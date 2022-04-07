@@ -3,7 +3,7 @@
 members:
   enable: true
   title: "LDBC Members"
-  sponsors_title: "Sponsor Companies:"
+  sponsors_title: "Sponsor Companies"
   sponsors:
     - name: "Ant Group"
       logo: "images/members/antgroup.png"
@@ -17,7 +17,7 @@ members:
     - name: "TigerGraph"
       logo: "images/members/tigergraph.png"
       link: "https://www.tigergraph.com"
-  companies_title: "Companies:"
+  companies_title: "Companies"
   # The template automatically does the alphabetical ordering based on the name of the company
   companies:
     - name: "ArangoDB"
@@ -56,7 +56,7 @@ members:
     - name: "Ultipa"
       logo: "images/members/ultipa.png"
       link: "https://www.ultipa.com/"
-  nonprofits_title: "Non-Profit Organizations:"
+  nonprofits_title: "Non-Profit Organizations"
   nonprofits:
     - name: "Birkbeck, University of London"
       logo: "images/members/birkbeck.jpg"
@@ -70,7 +70,7 @@ members:
     - name: "University of Edinburgh"
       logo: "images/members/uedinburgh.png"
       link: "https://www.ed.ac.uk/"
-  steering_title: "Steering Committee:"
+  steering_title: "Steering Committee"
   steering_contact: "Contact: info AT ldbcouncil DOT org"
   steering_committee_members:
     - name: "Prof. Dr. Peter Boncz (chair)"
