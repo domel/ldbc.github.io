@@ -19,7 +19,7 @@ The [SPB specification](ldbc-spb-v2.0-specification.pdf) contains the descriptio
 
 Results for Scale Factors SF1 (64M), SF3 (256M), and SF5 (1G) triples are shown below.
 
-| **Scale Factor** | **#Triples** **Interactive (Q/s)** | **Updates (ops/sec)** | **Analytical** | **Cost** | **Software** | **Hardware** | **Test Sponsor** | **Date** | **Full Disclosure Report**
+| **Scale Factor** | **#Triples** | **Interactive (Q/s)** | **Updates (ops/sec)** | **Analytical** | **Cost** | **Software** | **Hardware** | **Test Sponsor** | **Date** | **Full Disclosure Report**
 | --| --| --| --| --| --| --| --| --| --| --
 | 1 | 64M | 100.85 | 10.19 | n.a. | €37,504 | GraphDB EE 6.2 | Xeon1650v3 6-core 3.5Ghz 96GB RAM | [ONTOTEXT AD](https://www.ontotext.com/) | 2015/04/26 | [Full Disclosure Report](LDBC_SPB20_20150426_SF1_GraphDB-EE-6.2b.pdf)
 | 1 | 64M | 142.7588 | 10.6725 | n.a | €35,323 | GraphDB SE 6.3 alpha | CPU Intel Xeon E5-1650 v3 3.5Ghz,15MB L3 cache, s2011 | [ONTOTEXT AD](https://www.ontotext.com/) | 2015/06/10 | [Full Disclosure Report](LDBC-SPB-64M-GraphDB-10062015.pdf)
