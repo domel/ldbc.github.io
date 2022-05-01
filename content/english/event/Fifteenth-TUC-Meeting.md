@@ -17,6 +17,6 @@ tags: [TUC Meeting]
 # image: "event/fourteenth-tuc-meeting/featured.png"
 ---
 
-LDBC is hosting a one-day hybrid workshop, co-located with [SIGMOD 2022](https://2022.sigmod.org/venue.shtml) on **June 17 (Friday)**. The tentative time range is 10:00–15:00 EST.
+LDBC is hosting a **two-day** hybrid workshop, co-located with [SIGMOD 2022](https://2022.sigmod.org/venue.shtml) on **June 17-18 (Friday-Saturday)**.
 
 If you are interested in giving a talk, please reach out to info at ldbcouncil.org
