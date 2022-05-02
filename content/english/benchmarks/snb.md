@@ -22,23 +22,31 @@ The [LDBC Social Network Benchmark specification](https://arxiv.org/abs/2001.022
 
 #### Social Network Benchmark Interactive audited results
 
-##### TuGraph
-
-TuGraph was audited in July 2020. TuGraph is owned by the [Ant Group](https://www.antgroup.com/en) now.
-
-
 | **SF** | **Throughput (ops/sec)** | **Cost** | **Software** | **Hardware** | **Test Sponsor** | **Date** | **SNB Version** | **Full Disclosure Report** |
 |--------|--------------------------|----------|--------------|--------------|------------------|----------|-----------------|----------------------------|
+| 30  | 9,285.86 | $263,282 | [Galaxybase 3.3.0](https://galaxybase.com/) | AWS r5d.12xlarge instance, 48\*Intel Xeon Platinum 8175M @ 2.5GHz, 374GB RAM | [CreateLink](https://www.galaxybase.com/) | 2022/05/16 | [v0.3.3](https://arxiv.org/pdf/2001.02299v2.pdf) | [Full Disclosure Report](LDBC_SNB_I_20220516_SF30-100-300_galaxybase.pdf) |
+| 100 | 8,501.21 | $263,282 | [Galaxybase 3.3.0](https://galaxybase.com/) | AWS r5d.12xlarge instance, 48\*Intel Xeon Platinum 8175M @ 2.5GHz, 374GB RAM | [CreateLink](https://www.galaxybase.com/) | 2022/05/16 | [v0.3.3](https://arxiv.org/pdf/2001.02299v2.pdf) | [Full Disclosure Report](LDBC_SNB_I_20220516_SF30-100-300_galaxybase.pdf) |
+| 300 | 8,370.52 | $263,282 | [Galaxybase 3.3.0](https://galaxybase.com/) | AWS r5d.12xlarge instance, 48\*Intel Xeon Platinum 8175M @ 2.5GHz, 374GB RAM | [CreateLink](https://www.galaxybase.com/) | 2022/05/16 | [v0.3.3](https://arxiv.org/pdf/2001.02299v2.pdf) | [Full Disclosure Report](LDBC_SNB_I_20220516_SF30-100-300_galaxybase.pdf) |
 | 30  | 5,436.47 | $280,650 | [TuGraph 1.10](https://fma-ai.cn/) | AWS r5d.12xlarge instance, 48\*Intel Xeon Platinum 8175M @ 2.5GHz, 374GB RAM | [FMA](https://fma-ai.cn/) | 2020/07/26 | [v0.3.2](https://arxiv.org/pdf/2001.02299v1.pdf) | [Full Disclosure Report](LDBC_SNB_I_20200726_SF30-100-300_tugraph.pdf) |
 | 100 | 5,010.77 | $280,650 | [TuGraph 1.10](https://fma-ai.cn/) | AWS r5d.12xlarge instance, 48\*Intel Xeon Platinum 8175M @ 2.5GHz, 374GB RAM | [FMA](https://fma-ai.cn/) | 2020/07/26 | [v0.3.2](https://arxiv.org/pdf/2001.02299v1.pdf) | [Full Disclosure Report](LDBC_SNB_I_20200726_SF30-100-300_tugraph.pdf) |
 | 300 | 4,855.52 | $280,650 | [TuGraph 1.10](https://fma-ai.cn/) | AWS r5d.12xlarge instance, 48\*Intel Xeon Platinum 8175M @ 2.5GHz, 374GB RAM | [FMA](https://fma-ai.cn/) | 2020/07/26 | [v0.3.2](https://arxiv.org/pdf/2001.02299v1.pdf) | [Full Disclosure Report](LDBC_SNB_I_20200726_SF30-100-300_tugraph.pdf) |
 
+
+#### Supplementary materials
+
+Supplementary material for the Galaxybase audits:
+
+-  [Executive summary](LDBC_SNB_I_20220516_SF30-100-300_galaxybase-executive_summary.pdf)
+-  [Signatures](LDBC_SNB_I_20220516_SF30-100-300_galaxybase-signatures.pdf)
+-  [Attachments](XX)
 
 Supplementary material for the TuGraph audits:
 
 -  [Executive summary](LDBC_SNB_I_20200726_SF30-100-300_tugraph-executive_summary.pdf)
 -  [Signatures](LDBC_SNB_I_20200726_SF30-100-300_tugraph-signatures.pdf)
 -  [Attachments](https://drive.google.com/file/d/198UrkL7_vduOm5MTneVniiYBG8U2a8x9/view?usp=sharing)
+
+TuGraph was audited in July 2020. TuGraph is owned by the [Ant Group](https://www.antgroup.com/en) now.
 
 #### Legacy audited results
 
