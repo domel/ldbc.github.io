@@ -11,7 +11,7 @@ author: Gábor Szárnyas
 publishDate: 2022-04-05T00:00:00+01:00
 date: 2022-06-17T10:00:00-05:00
 # events that are single-day events, remove date_end
-date_end: 2022-06-17T15:00:00-05:00
+date_end: 2022-06-18T15:00:00-05:00
 tags: [TUC Meeting]
 # please make sure to remove image parameter if unused
 # image: "event/fourteenth-tuc-meeting/featured.png"
