@@ -58,6 +58,6 @@ We will have a social event on Friday night (details TBA).
 | 12:50 | 13:05  | Oszkár Semeráth, Kristóf Marussy (TU Budapest)           | TBA                                                                          |
 | 13:10 | 13:40  | _coffee break_                                           |                                                                              |
 | 13:45 | 14:00  | TBA (RelationalAI)                                       | Graph Normal Form (tentative)                                                |
-| 14:05 | 14:20  | TBA                                                      |                                                                              |
+| 14:05 | 14:20  | TBA ()                                                   | TBA                                                                          |
 | 14:25 | 14:40  | Domagoj Vrgoč (PUC Chile)                                | Evaluating path queries in MillenniumDB                                      |
-| 14:45 | 15:00  | TBA                                                      |                                                                              |
+| 14:45 | 15:00  | TBA ()                                                   | TBA                                                                          |
