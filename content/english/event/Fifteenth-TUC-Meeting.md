@@ -54,7 +54,7 @@ We will have a social event on Friday night (details TBA).
 | 11:20 | 11:50  | _coffee break_                                           |                                                                              |
 | 11:50 | 12:05  | Benjamin Steer (Pometry)                                 | TBA                                                                          |
 | 12:10 | 12:25  | Arvind Shyamsundar (Microsoft)                           | Graph capabilities in Microsoft SQL Server and Azure SQL Database            |
-| 12:30 | 12:45  |                                                          |                                                                              |
+| 12:30 | 12:45  | George Fletcher (TU Eindhoven)                           | PG-Keys (LDBC Property Graph Schema Working Group)                           |
 | 12:50 | 13:05  | Oszkár Semeráth, Kristóf Marussy (BME)                   | TBA                                                                          |
 | 13:10 | 13:40  | _coffee break_                                           |                                                                              |
 | 13:45 | 14:00  | TBA (RelationalAI)                                       | Graph Normal Form (tentative)                                                |
