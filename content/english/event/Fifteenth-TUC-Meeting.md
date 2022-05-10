@@ -24,7 +24,7 @@ The tenative program is the following. **All times are in EDT.**
 
 We will have a social event on Friday night (details TBA).
 
-#### Friday
+#### Friday ([room 204B](https://2022.sigmod.org/program.shtml))
 
 | start | finish | speaker                                                  | title                                                                        |
 |-------|--------|----------------------------------------------------------|------------------------------------------------------------------------------|
