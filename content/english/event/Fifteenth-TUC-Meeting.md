@@ -40,7 +40,7 @@ We will have a social event on Friday night (details TBA).
 | 13:00 | 13:30  | _coffee break_                                           |                                                                              |
 | 13:30 | 13:45  | Altan Birler (TU Munich)                                 | Experiences with LDBC SNB BI for optimizing the Umbra DBMS                   |
 | 13:50 | 14:05  | Daniël ten Wolde (CWI)                                   | Implementing SQL/PGQ in DuckDB                                               |
-| 14:10 | 14:25  | Wim Martens                                              | Path Representations                                                         |
+| 14:10 | 14:25  | Wim Martens (University of Bayreuth)                     | Path Representations                                                         |
 | 14:30 | 14:45  | Matteo Lissandrini (Aalborg University)                  | Understanding graph data representations in triplestores                     |
 
 #### Saturday
@@ -55,9 +55,9 @@ We will have a social event on Friday night (details TBA).
 | 11:50 | 12:05  | Benjamin Steer (Pometry)                                 | TBA                                                                          |
 | 12:10 | 12:25  | Arvind Shyamsundar (Microsoft)                           | Graph capabilities in Microsoft SQL Server and Azure SQL Database            |
 | 12:30 | 12:45  | George Fletcher (TU Eindhoven)                           | PG-Keys (LDBC Property Graph Schema Working Group)                           |
-| 12:50 | 13:05  | Oszkár Semeráth, Kristóf Marussy (BME)                   | TBA                                                                          |
+| 12:50 | 13:05  | Oszkár Semeráth, Kristóf Marussy (TU Budapest)           | TBA                                                                          |
 | 13:10 | 13:40  | _coffee break_                                           |                                                                              |
 | 13:45 | 14:00  | TBA (RelationalAI)                                       | Graph Normal Form (tentative)                                                |
-| 14:05 | 14:20  |                                                          |                                                                              |
+| 14:05 | 14:20  | TBA                                                      |                                                                              |
 | 14:25 | 14:40  | Domagoj Vrgoč (PUC Chile)                                | Evaluating path queries in MillenniumDB                                      |
-| 14:45 | 15:00  |                                                          |                                                                              |
+| 14:45 | 15:00  | TBA                                                      |                                                                              |
