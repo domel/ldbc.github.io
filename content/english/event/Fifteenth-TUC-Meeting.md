@@ -58,7 +58,7 @@ We will have a social event on Friday night (details TBA).
 | 12:30 | 12:45  | George Fletcher (TU Eindhoven)                           | PG-Keys (LDBC Property Graph Schema Working Group)                            |
 | 12:50 | 13:05  | Oszkár Semeráth, Kristóf Marussy (TU Budapest)           | Generation techniques for consistent, realistic, diverse, and scalable graphs |
 | 13:10 | 13:40  | _coffee break_                                           |                                                                               |
-| 13:45 | 14:00  | TBA (RelationalAI)                                       | Graph Normal Form (tentative)                                                 |
+| 13:45 | 14:00  | Molham Aref (RelationalAI)                               | Graph Normal Form                                                             |
 | 14:05 | 14:20  | TBA ()                                                   | TBA                                                                           |
 | 14:25 | 14:40  | Domagoj Vrgoč (PUC Chile)                                | Evaluating path queries in MillenniumDB                                       |
 | 14:45 | 15:00  | TBA ()                                                   | TBA                                                                           |
