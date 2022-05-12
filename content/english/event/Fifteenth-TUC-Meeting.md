@@ -40,8 +40,9 @@ We will have a social event on Friday night (details TBA).
 | 13:00 | 13:30  | _coffee break_                                           |                                                                              |
 | 13:30 | 13:45  | Altan Birler (TU Munich)                                 | Experiences with LDBC SNB BI for optimizing the Umbra DBMS                   |
 | 13:50 | 14:05  | Daniël ten Wolde (CWI)                                   | Implementing SQL/PGQ in DuckDB                                               |
-| 14:10 | 14:25  | Wim Martens (University of Bayreuth)                     | Path representations                                                         |
+| 14:50 | 15:05  | Angela Bonifati (Lyon 1 University)                      | TBA                                                                          |
 | 14:30 | 14:45  | Matteo Lissandrini (Aalborg University)                  | Understanding graph data representations in triplestores                     |
+| 14:50 | 15:05  | Wim Martens (University of Bayreuth)                     | Path representations                                                         |
 
 #### Saturday
 
