@@ -61,4 +61,4 @@ We will have a social event on Friday night (details TBA).
 | 13:45 | 14:00  | Molham Aref (RelationalAI)                               | Graph Normal Form                                                             |
 | 11:50 | 12:05  | Naomi Arnold (Queen Mary University of London)           | Investigating the Alt-Right Network Gab with Temporal Interaction Graphs      |
 | 14:25 | 14:40  | Domagoj Vrgoč (PUC Chile)                                | Evaluating path queries in MillenniumDB                                       |
-| 14:05 | 14:20  | Evren Sirin (Stardog)                                    | Stardog's experience with LDBC                                                |
+| 14:05 | 14:20  | Pavel Klinov, Evren Sirin (Stardog)                      | Stardog's experience with LDBC                                                |
