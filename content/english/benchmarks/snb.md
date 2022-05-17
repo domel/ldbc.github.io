@@ -34,13 +34,13 @@ The [LDBC Social Network Benchmark specification](https://arxiv.org/abs/2001.022
 
 #### Supplementary materials
 
-Supplementary material for the Galaxybase audits:
+Supplementary material for the **Galaxybase audits**:
 
 -  [Executive summary](LDBC_SNB_I_20220516_SF30-100-300_galaxybase-executive_summary.pdf)
 -  [Signatures](LDBC_SNB_I_20220516_SF30-100-300_galaxybase-signatures.pdf)
--  [Attachments](XX)
+-  [Attachments](https://drive.google.com/file/d/1tUxtWJAP1r8tRYtJevo436QBir4NZ5iA/view?usp=sharing)
 
-Supplementary material for the TuGraph audits:
+Supplementary material for the **TuGraph audits**:
 
 -  [Executive summary](LDBC_SNB_I_20200726_SF30-100-300_tugraph-executive_summary.pdf)
 -  [Signatures](LDBC_SNB_I_20200726_SF30-100-300_tugraph-signatures.pdf)
