@@ -152,7 +152,7 @@ hasChildren = true
 
 ## footer menu
 [[menu.footer]]
-name = "LDBC Byelaws Document"
+name = "Byelaws of the LDBC"
 url = "docs/LDBC.Byelaws.1.3.ADOPTED.2021-01-14.pdf"
 weight = 1
 
