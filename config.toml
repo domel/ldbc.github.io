@@ -115,7 +115,7 @@ hasChildren = true
     weight = 6
     [[menu.main]]
     parent = "benchmarks"
-    name = "FinBench"
+    name = "Financial Benchmark"
     url = "benchmarks/finbench"
     weight = 7
     [[menu.main]]
