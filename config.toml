@@ -112,6 +112,11 @@ hasChildren = true
     parent = "benchmarks"
     name = "Social Network Benchmark"
     url = "benchmarks/snb"
+    weight = 6
+    [[menu.main]]
+    parent = "benchmarks"
+    name = "FinBench"
+    url = "benchmarks/finbench"
     weight = 7
     [[menu.main]]
     parent = "benchmarks"
