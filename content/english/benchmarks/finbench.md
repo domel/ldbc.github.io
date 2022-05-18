@@ -7,4 +7,4 @@ aliases: [
 type: generic
 ---
 
-LDBC FinBench placeholder
+LDBC FinBench (to be announced)
