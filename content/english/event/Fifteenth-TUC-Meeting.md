@@ -40,7 +40,7 @@ We will have a social event on Friday night (details TBA).
 | 12:20 | 13:20  | _lunch (on your own)_                                    |                                                                                       |
 | 13:20 | 13:35  | Altan Birler (TU Munich)                                 | Experiences with LDBC SNB BI for optimizing the Umbra DBMS                            |
 | 13:40 | 13:55  | David Püroja (CWI)                                       | LDBC Social Network Benchmark: Interactive workload v2.0                              |
-| 14:00 | 14:15  | Angela Bonifati (Lyon 1 University)                      | TBA                                                                                   |
+| 14:00 | 14:15  | Angela Bonifati (Lyon 1 University)                      | The Quest for Schemas in Graph Databases                                              |
 | 14:20 | 14:35  | Matteo Lissandrini (Aalborg University)                  | Understanding graph data representations in triplestores                              |
 | 14:40 | 14:55  | Wim Martens (University of Bayreuth)                     | Path representations                                                                  |
 
