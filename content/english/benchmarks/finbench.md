@@ -7,4 +7,6 @@ aliases: [
 type: generic
 ---
 
-LDBC FinBench (to be announced)
+* [Introduction presentation](/benchmarks/finbench/ldbc-finbench-introduction.pdf)
+* [Project announcement](/benchmarks/finbench/ldbc-finbench-announcement.pdf)
+* [Work charter](/benchmarks/finbench/ldbc-finbench-work-charter.pdf)
