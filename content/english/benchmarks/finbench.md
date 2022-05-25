@@ -7,6 +7,8 @@ aliases: [
 type: generic
 ---
 
+The Financial Benchmark (FinBench) project aims to define a graph database benchmark targeting financial scenarios such as anti-fraud and risk control. The FinBench is scheduled to be released in the end of 2022.
+
 * [Introduction presentation](/benchmarks/finbench/ldbc-finbench-introduction.pdf)
 * [Project announcement](/benchmarks/finbench/ldbc-finbench-announcement.pdf)
 * [Work charter](/benchmarks/finbench/ldbc-finbench-work-charter.pdf)
