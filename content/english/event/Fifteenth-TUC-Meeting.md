@@ -44,7 +44,7 @@ We will have a social event on Friday night (details TBA).
 | 14:20 | 14:35  | Matteo Lissandrini (Aalborg University)                  | Understanding graph data representations in triplestores                              |
 | 14:40 | 14:55  | Wim Martens (University of Bayreuth)                     | Path representations                                                                  |
 
-#### Saturday (room TBA)
+#### Saturday (room 401-402, 4th floor)
 
 | start | finish | speaker                                                  | title                                                                                 |
 |-------|--------|----------------------------------------------------------|---------------------------------------------------------------------------------------|
