@@ -41,24 +41,10 @@ characteristics of a system-under-test.
 All completed benchmarks must go through a strict **validation process**
 to ensure the integrity of the performance results.
 
-The Graphalytics benchmarking process is made future-proof, through a
-**renewal process** that takes place regularly to ensure that the
-benchmark process meets the state-of-the-art development in the field of
-graph analytics.
-
-To enhance the depth of the benchmark process, Graphalytics also
-facilitates a plugin-architecture, which allows external **software
-tools** to be added to the benchmark harness. For instance, it is
-possible to also use SNB **Datagen** (the data generator of the LDBC
-Social Network Benchmark), an advanced synthetic data set generator to
-create synthetic graphs for custom test scenarios, or to use
-**Granula**, a fine-grained performance evaluation tool to obtain
-enriched performance results.
-
 The development of Graphalytics is supported by many active vendors in
 the field of large-scale graph analytics. Currently, Graphalytics
 already facilitates benchmark for a large number of graph analytics
-platforms, such as Giraph, GraphX, GraphMat, OpenG, and PGXD, allowing
+platforms, such as GraphBLAS, Giraph, GraphX, and PGX.D, allowing
 comparison of the state-of-the-art system performance of both
 community-driven and industrial-driven platforms. To get started, the
 details of the Graphalyics documentation and its software components are
