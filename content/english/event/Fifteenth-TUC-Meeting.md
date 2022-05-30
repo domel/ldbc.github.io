@@ -26,23 +26,23 @@ We will have a social event on Friday night (details TBA).
 
 #### Friday ([room 204B](https://2022.sigmod.org/program.shtml))
 
-| start | finish | speaker                                                  | title                                                                                 |
-|-------|--------|----------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 9:20  | 9:30   | Peter Boncz (CWI)                                        | State of the union                                                                    |
-| 9:30  | 9:45   | Alastair Green (Birkbeck)                                | LDBC's fair use policies                                                              |
-| 9:50  | 10:05  | Gábor Szárnyas (CWI), Jack Waudby (Newcastle University) | LDBC Social Network Benchmark: Business Intelligence workload v1.0                    |
-| 10:10 | 10:25  | Shipeng Qi (Ant Group)                                   | LDBC Financial Benchmark task force                                                   |
-| 10:30 | 11:00  | _coffee break_                                           |                                                                                       |
-| 11:00 | 11:15  | Chen Zhang (CreateLink)                                  | New LDBC SNB benchmark record by Galaxybase: more than 6 times faster and 70% higher throughput |
-| 11:20 | 11:35  | James Clarkson (Neo4j)                                   | LDBC benchmarks: Promoting good science and industrial consumption                    |
-| 11:40 | 11:55  | Oskar van Rest (Oracle)                                  | Creating and querying property graphs in Oracle, on-premise and in the cloud          |
-| 12:00 | 12:15  | Mingxi Wu (TigerGraph)                                   | Conquering LDBC-SNB BI at SF-10k                                                      |
-| 12:20 | 13:20  | _lunch (on your own)_                                    |                                                                                       |
-| 13:20 | 13:35  | Altan Birler (TU Munich)                                 | Experiences with LDBC SNB BI for optimizing the Umbra DBMS                            |
-| 13:40 | 13:55  | David Püroja (CWI)                                       | LDBC Social Network Benchmark: Interactive workload v2.0                              |
-| 14:00 | 14:15  | Angela Bonifati (Lyon 1 University)                      | The quest for schemas in graph databases                                              |
-| 14:20 | 14:35  | Matteo Lissandrini (Aalborg University)                  | Understanding graph data representations in triplestores                              |
-| 14:40 | 14:55  | Wim Martens (University of Bayreuth)                     | Path representations                                                                  |
+| start | finish | speaker                                                       | title                                                                                           |
+|-------|--------|---------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| 9:20  | 9:30   | Peter Boncz (LDBC/CWI)                                        | State of the union                                                                              |
+| 9:30  | 9:45   | Alastair Green (LDBC/Birkbeck)                                | LDBC's fair use policies                                                                        |
+| 9:50  | 10:05  | Gábor Szárnyas (LDBC/CWI), Jack Waudby (Newcastle University) | LDBC Social Network Benchmark: Business Intelligence workload v1.0                              |
+| 10:10 | 10:25  | Shipeng Qi (Ant Group)                                        | LDBC Financial Benchmark task force                                                             |
+| 10:30 | 11:00  | _coffee break_                                                |                                                                                                 |
+| 11:00 | 11:15  | Chen Zhang (CreateLink)                                       | New LDBC SNB benchmark record by Galaxybase: more than 6 times faster and 70% higher throughput |
+| 11:20 | 11:35  | James Clarkson (Neo4j)                                        | LDBC benchmarks: Promoting good science and industrial consumption                              |
+| 11:40 | 11:55  | Oskar van Rest (Oracle)                                       | Creating and querying property graphs in Oracle, on-premise and in the cloud                    |
+| 12:00 | 12:15  | Mingxi Wu (TigerGraph)                                        | Conquering LDBC-SNB BI at SF-10k                                                                |
+| 12:20 | 13:20  | _lunch (on your own)_                                         |                                                                                                 |
+| 13:20 | 13:35  | Altan Birler (TU Munich)                                      | Experiences with LDBC SNB BI for optimizing the Umbra DBMS                                      |
+| 13:40 | 13:55  | David Püroja (CWI)                                            | LDBC Social Network Benchmark: Interactive workload v2.0                                        |
+| 14:00 | 14:15  | Angela Bonifati (Lyon 1 University)                           | The quest for schemas in graph databases                                                        |
+| 14:20 | 14:35  | Matteo Lissandrini (Aalborg University)                       | Understanding graph data representations in triplestores                                        |
+| 14:40 | 14:55  | Wim Martens (University of Bayreuth)                          | Path representations                                                                            |
 
 #### Saturday (room 401-402, 4th floor)
 
