@@ -38,7 +38,7 @@ We will have a social event on Friday night (details TBA).
 | 11:40 | 11:55  | Oskar van Rest (Oracle)                                       | Creating and querying property graphs in Oracle, on-premise and in the cloud                    |
 | 12:00 | 12:15  | Mingxi Wu (TigerGraph)                                        | Conquering LDBC-SNB BI at SF-10k                                                                |
 | 12:20 | 13:20  | _lunch (on your own)_                                         |                                                                                                 |
-| 13:20 | 13:35  | Altan Birler (TU Munich)                                      | Experiences with LDBC SNB BI for optimizing the Umbra DBMS                                      |
+| 13:20 | 13:35  | Altan Birler (TU Munich)                                      | Relational databases can handle graphs too! Experiences with optimizing the Umbra RDBMS for LDBC SNB BI |
 | 13:40 | 13:55  | David Püroja (CWI)                                            | LDBC Social Network Benchmark: Interactive workload v2.0                                        |
 | 14:00 | 14:15  | Angela Bonifati (Lyon 1 University)                           | The quest for schemas in graph databases                                                        |
 | 14:20 | 14:35  | Matteo Lissandrini (Aalborg University)                       | Understanding graph data representations in triplestores                                        |
