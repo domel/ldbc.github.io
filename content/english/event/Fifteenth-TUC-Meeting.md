@@ -17,6 +17,8 @@ tags: [TUC Meeting]
 # image: "event/fourteenth-tuc-meeting/featured.png"
 ---
 
+**Organizers:** Gábor Szárnyas, Jack Waudby, Peter Boncz, Alastair Green
+
 LDBC is hosting a **two-day** hybrid workshop, co-located with [SIGMOD 2022](https://2022.sigmod.org/venue.shtml) on **June 17-18 (Friday-Saturday)**.
 
 The program consists of 10-15 minute talks followed by a Q&A session. The talks will be recorded and made available online.
