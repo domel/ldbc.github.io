@@ -36,7 +36,7 @@ We will have a social event on Friday night (details TBA).
 | 11:00 | 11:15  | Chen Zhang (CreateLink)                                       | New LDBC SNB benchmark record by Galaxybase: more than 6 times faster and 70% higher throughput |
 | 11:20 | 11:35  | James Clarkson (Neo4j)                                        | LDBC benchmarks: Promoting good science and industrial consumption                              |
 | 11:40 | 11:55  | Oskar van Rest (Oracle)                                       | Creating and querying property graphs in Oracle, on-premise and in the cloud                    |
-| 12:00 | 12:15  | Mingxi Wu (TigerGraph)                                        | Conquering LDBC-SNB BI at SF-10k                                                                |
+| 12:00 | 12:15  | Mingxi Wu (TigerGraph)                                        | Conquering LDBC SNB BI at SF-10k                                                                |
 | 12:20 | 13:20  | _lunch (on your own)_                                         |                                                                                                 |
 | 13:20 | 13:35  | Altan Birler (TU Munich)                                      | Relational databases can handle graphs too! Experiences with optimizing the Umbra RDBMS for LDBC SNB BI |
 | 13:40 | 13:55  | David Püroja (CWI)                                            | LDBC Social Network Benchmark: Interactive workload v2.0                                        |
