@@ -67,9 +67,6 @@ members:
     - name: "Forth"
       logo: "images/members/forth.png"
       link: "https://www.forth.gr/"
-    - name: "University of Edinburgh"
-      logo: "images/members/uedinburgh.png"
-      link: "https://www.ed.ac.uk/"
   steering_title: "Steering Committee"
   steering_contact: "Contact: info AT ldbcouncil DOT org"
   steering_committee_members:
