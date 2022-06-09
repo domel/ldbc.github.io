@@ -35,7 +35,7 @@ members:
     - name: "JCC Consulting Inc."
       logo: "images/members/jcc.png"
       link: "http://www.jcc.com"
-    - name: "Katana graph"
+    - name: "Katana Graph"
       logo: "images/members/katana-graph.jpg"
       link: "https://katanagraph.com/"
     - name: "Memgraph"
