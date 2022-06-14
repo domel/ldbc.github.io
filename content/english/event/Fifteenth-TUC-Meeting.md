@@ -33,7 +33,7 @@ We will have a social event on Friday night (details TBA).
 | 9:20  | 9:30   | Peter Boncz (LDBC/CWI)                                        | State of the union                                                                              |
 | 9:30  | 9:45   | Alastair Green (LDBC/Birkbeck)                                | LDBC's fair use policies                                                                        |
 | 9:50  | 10:05  | Gábor Szárnyas (LDBC/CWI), Jack Waudby (Newcastle University) | LDBC Social Network Benchmark: Business Intelligence workload v1.0                              |
-| 10:10 | 10:25  | Shipeng Qi (Ant Group)                                        | LDBC Financial Benchmark task force                                                             |
+| 10:10 | 10:25  | Heng Lin (Ant Group)                                          | LDBC Financial Benchmark task force                                                             |
 | 10:30 | 11:00  | _coffee break_                                                |                                                                                                 |
 | 11:00 | 11:15  | Chen Zhang (CreateLink)                                       | New LDBC SNB benchmark record by Galaxybase: more than 6 times faster and 70% higher throughput |
 | 11:20 | 11:35  | James Clarkson (Neo4j)                                        | LDBC benchmarks: Promoting good science and industrial consumption                              |
