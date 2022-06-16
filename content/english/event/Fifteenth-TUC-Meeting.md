@@ -58,7 +58,7 @@ We will have a social event on Friday at 17:30 at [El Vez](https://elvezrestaura
 | 11:00	| 11:15  | Alastair Green (LDBC/WG3)                                | Technical manifesto for GQL 2.0                                                       |
 | 11:20	| 11:35  | George Fletcher (TU Eindhoven)                           | PG-Keys (LDBC Property Graph Schema Working Group)                                    |
 | 11:40	| 11:55  | Arvind Shyamsundar (Microsoft)                           | Graph capabilities in Microsoft SQL Server and Azure SQL Database                     |
-| 12:00	| 13:30  | _lunch_                                                  |                                                                                       |
+| 12:00	| 13:30  | _lunch (on your own)_                                    |                                                                                       |
 | 13:30	| 13:45  | Daniël ten Wolde (CWI)                                   | Implementing SQL/PGQ in DuckDB                                                        |
 | 13:50	| 14:05  | Oszkár Semeráth, Kristóf Marussy (TU Budapest)           | Generation techniques for consistent, realistic, diverse, and scalable graphs         |
 | 14:10	| 14:25  | Molham Aref (RelationalAI)                               | Graph Normal Form                                                                     |
