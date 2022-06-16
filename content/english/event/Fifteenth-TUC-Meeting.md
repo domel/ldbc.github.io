@@ -24,7 +24,7 @@ LDBC is hosting a **two-day** hybrid workshop, co-located with [SIGMOD 2022](htt
 The program consists of 10-15 minute talks followed by a Q&A session. The talks will be recorded and made available online.
 The tenative program is the following. **All times are in EDT.**
 
-We will have a social event on Friday night (details TBA).
+We will have a social event on Friday at 17:30 at [El Vez](https://elvezrestaurant.com/) ([Google Maps](https://g.page/ElVezPhilly)).
 
 #### Friday ([room 204B](https://2022.sigmod.org/program.shtml))
 
