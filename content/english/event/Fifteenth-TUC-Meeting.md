@@ -26,7 +26,7 @@ The tenative program is the following. **All times are in EDT.**
 
 We will have a social event on Friday at 17:30 at [El Vez](https://elvezrestaurant.com/) ([Google Maps](https://g.page/ElVezPhilly)).
 
-#### Friday ([Pennsylvania Convention Center, room 204B](https://2022.sigmod.org/program.shtml))
+#### Friday ([Pennsylvania Convention Center](https://www.paconvention.com/), [room 204B](https://2022.sigmod.org/program.shtml))
 
 | start | finish | speaker                                                       | title |
 |-------|--------|---------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
@@ -48,7 +48,7 @@ We will have a social event on Friday at 17:30 at [El Vez](https://elvezrestaura
 | 15:00 | 15:20  | Audrey Cheng	(UC Berkeley)                                    | TAOBench: An end-to-end benchmark for social network workload – [slides](attachments/) |
 
 
-#### Saturday (Philadelphia Marriott Downtown, room 401-402, 4th floor)
+#### Saturday ([Philadelphia Marriott Downtown](), room 401-402, 4th floor)
 
 | start | finish | speaker                                                  | title |
 |-------|--------|----------------------------------------------------------|---------------------------------------------------------------------------------------|
