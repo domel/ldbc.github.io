@@ -35,7 +35,7 @@ We will have a social event on Friday at 17:30 at [El Vez](https://elvezrestaura
 | 9:50  | 10:05  | Gábor Szárnyas (LDBC/CWI), Jack Waudby (Newcastle University) | LDBC Social Network Benchmark: Business Intelligence workload v1.0                              |
 | 10:10 | 10:25  | Heng Lin (Ant Group)                                          | LDBC Financial Benchmark task force                                                             |
 | 10:30 | 11:00  | _coffee break_                                                |                                                                                                 |
-| 11:00 | 11:15  | Chen Zhang (CreateLink)                                       | New LDBC SNB benchmark record by Galaxybase: more than 6 times faster and 70% higher throughput |
+| 11:00 | 11:15  | Chen Zhang (CreateLink)                                       | New LDBC SNB benchmark record by Galaxybase: More than 6 times faster and 70% higher throughput |
 | 11:20 | 11:35  | James Clarkson (Neo4j)                                        | LDBC benchmarks: Promoting good science and industrial consumption                              |
 | 11:40 | 11:55  | Oskar van Rest (Oracle)                                       | Creating and querying property graphs in Oracle, on-premise and in the cloud                    |
 | 12:00 | 12:15  | Mingxi Wu (TigerGraph)                                        | Conquering LDBC SNB BI at SF-10k                                                                |
@@ -45,7 +45,7 @@ We will have a social event on Friday at 17:30 at [El Vez](https://elvezrestaura
 | 14:00 | 14:15  | Angela Bonifati (Lyon 1 University)                           | The quest for schemas in graph databases                                                        |
 | 14:20 | 14:35  | Matteo Lissandrini (Aalborg University)                       | Understanding graph data representations in triplestores                                        |
 | 14:40 | 14:55  | Wim Martens (University of Bayreuth)                          | Path representations                                                                            |
-| 15:00 | 15:20  | Audrey Cheng	(UC Berkeley)                                    | TAOBench: An End-to-End Benchmark for Social Network Workload                                   |
+| 15:00 | 15:20  | Audrey Cheng	(UC Berkeley)                                    | TAOBench: An end-to-end Benchmark for social network workload                                   |
 
 
 #### Saturday (Philadelphia Marriott Downtown, room 401-402, 4th floor)
